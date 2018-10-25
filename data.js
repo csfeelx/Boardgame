@@ -36,10 +36,55 @@ var data = [
                 },
                 {
                         cat: "1b",
-                        name: "Exploring the Rainforest",
+                        name: "The Natives",
                         en: "As you explore the dense jungle, you are suddenly confronted by several natives. At first glance, they appear to be warriors of an Aztec city-state: perhaps even the one you seek. But how could they have survived undiscovered for this long? Even with Alejandro's notes, you are barely able to translate what the warriors say, only that they call you \"intruder\" and implore you to leave the jungle at once. You try to explain that you are searching for the \"Eztli,\" which causes them to murmur and debate among themselves. Finally, one of them speaks to you in rudimentary Spanish. 'Ichtaca will know what to do with you, intruder.\" He blows on a decorated clay ocarina, producing a shrill note that echoes throughout the jungle. The warriors depart as suddenly as they arrived.",
                         ko: "밀도가 높은 정글을 탐험하면서 갑자기 여러 원주민이 직면하게됩니다. 언뜻 보면, 그들은 아즈텍 도시 국가의 전사 인 것처럼 보입니다. 아마도 당신이 찾는 사람조차도. 그러나 어떻게이 사람들은 오래 동안 발견되지 않은 채 살아남을 수 있었 을까? Alejandro의 노트를 사용하더라도 전사자의 말을 간신히 번역 할 수 있습니다. 단지 \"침입자\"라고 말하면서 곧바로 밀림을 떠나라고 당부합니다. 당신은 \"Eztli\"를 찾고 있다는 설명을하려고합니다. Eztli는 그들 사이에 불평과 논쟁을 불러 일으 킵니다. 마침내, 그들 중 하나가 초보적인 스페인어로 당신에게 이야기합니다. \"Ichtaca는 침입자, 당신과 무엇을 해야할지 알 것입니다.\" 그는 장식 된 진흙 오카리나를 불고 정글 전체에 울려 퍼지는 신나는 음표를냅니다. 전사들은 그들이 도착했을 때 갑자기 떠난다."
+                },
+                {
+                        cat: "2a",
+                        name: "Huntress of the Eztli",
+                        en: "\"I don't trust them,\" Alejandro says as soon as the natives are out of earshot. \"They mean to kill us, not aid us. If you think this 'Ichtaca' is going to help us find the ruins, be my guest. But I refuse to follow where she leads.\" You can feel the discomfort and confusion in Alejandro's voice. You can attempt to speak with Ichtaca, or you can take Alejandro's advice and fight your way to the ruins you seek.",
+                        ko: "\"나는 그들을 신뢰하지 않는다.\"알레한드로는 원주민들이 들리지 않는대로 말합니다. \"우리를 도우려는 것이 아니라, 우리를 죽일 작정이다.이 'Ichtaca'가 폐허를 발견하는 데 도움이된다고 생각한다면 내 손님이 되겠지만 그녀가 인도하는 곳을 따라 가기를 거부한다\"고 말했다. 알레한드로의 목소리에 불편 함과 혼란을 느낄 수 있습니다. Ichtaca와 대화를 시도하거나 Alejandro의 조언을 듣고 원하는 폐허로가는 길을 찾을 수 있습니다."
+                },
+                {
+                        cat: "2b",
+                        name: "Ichtaca's Response",
+                        en: "\"Interesting. You are not simply here to shed blood,\" Ichtaca says with a spark of wonder in her voice, and you are stunned to hear her speaking in perfect English.\n\n\"Fools!\" Ichtaca shouts to you with a pained voice. \"You do not understand the forces you are meddling with. If you truly wish to die, you will find the temple over the river to the south.\"",
+                        ko: "Ichtaca는 그녀의 목소리에 놀라운 경이로움을 말합니다. 그녀는 완벽한 영어로 말하는 것을 듣고 기절합니다.\n\n\"바보들!\" Ichtaca는 고통스러운 음성으로 너에게 소리 쳐. \"당신은 당신이 간섭하고있는 힘을 이해하지 못합니다. 당신이 진정으로 죽기를 원한다면, 남쪽의 강 너머에 성전을 발견 할 것입니다.\""
+                },
+                {
+                        cat: "3a(SftR)",
+                        name: "Search for the Ruins",
+                        en: "\"If I cannot dissuade you, so be it. Follow me, and I will lead you to the place you seek. But heed my warning: Disturb the ruins at your own risk. They have remained hidden for a reason.\" Alejandro warily keeps a safe distance from Ichtaca as she shows you the way.",
+                                ko: "\"내가 너를 단념시킬 수 없다면 나도 따라 오너라. 네가 찾는 곳으로 끌고 갈 것이다. 그러나 내 경고에주의하라. 네 자신의 위험을 무릅 쓰고 폐허를 방해하라.\" 알레한드로는 Ichtaca로부터 안전한 거리를 유지합니다. 그녀는 당신에게 길을 보여줍니다."
+                },
+                {
+                        cat: "3b(SftR)",
+                        name: "Discovery of a Lifetime",
+                        en: "What you have found is beyond your wildest expectations. Despite their supposed age, the ruins appear preserved in time. Several aspects of the architecture are strangely futuristic. You set out to investigate at once.",
+                        ko: "당신이 발견 한 것은 당신의 가장 큰 기대 이상입니다. 그들의 가정 된 나이에도 불구하고, 폐허는 시간 안에 보존되어 나타난다. 아키텍처의 여러 측면은 이상하게 미래 지향적입니다. 즉시 조사하기 시작했습니다."
+                },
+                {
+                        cat: "3a(TGR)",
+                        name: "The Guarded Ruins",
+                        en: "Ichtaca swiftly retreats, and Alejandro places a hand on your shoulder. \"Thank you for taking my advice,\" he says, relieved. \"Now that she's gone, I'll take point from now on. I know the river she speaks of. Come, follow me!\"",
+                                ko: "Ichtaca는 신속하게 퇴각하고 Alejandro는 어깨에 손을 댄다. \"내 충고를 가져 주셔서 감사합니다.\"그가 안심했다. \"이제 그녀가 갔다. 나는 지금부터 그 지점을 취할 것이고, 그녀가 말하는 강을 알고있다. 나를 따라와!\""
+                },
+                {
+                        cat: "3b(TGR)",
+                        name: "Discovery of a Lifetime",
+                        en: "What you have found is beyond your wildest expectations. Despite their supposed age, the ruins appear preserved in time. Several aspects of the architecture are strangely futuristic. You set out to investigate at once.",
+                        ko: "당신이 발견 한 것은 당신의 가장 큰 기대 이상입니다. 그들의 가정 된 나이에도 불구하고, 폐허는 시간 안에 보존되어 나타난다. 아키텍처의 여러 측면은 이상하게 미래 지향적입니다. 즉시 조사하기 시작했습니다."
                 },
                 ]
         }
 ];
+
+/*
+{
+                        cat: "",
+                        name: "",
+                        en: "",
+                        ko: ""
+                },
+*/
