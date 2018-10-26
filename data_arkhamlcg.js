@@ -1,4 +1,4 @@
-var data = [
+var data_arkhamlcg = [
         {
                 scenario_name: "The Untamed Wilds",
                 agenda: [
@@ -81,17 +81,17 @@ var data = [
                         {
                                 name: "? Expedition Camp",
                                 en: "The camp is abuzz with both excitement and dread. Some members of the expedition are setting up additional canvas tents for supplies, while others are huddled around an incomplete map of the northern edge of the rainforest.",
-                                ko: "그 캠프는 흥분과 두려움으로 가득 차 있다. 이 탐험의 일부 사람들은 공급을 위해 캔버스 텐트를 추가로 설치하고 있고, 다른 사람들은 열대 우림의 북쪽 끝자락에 대한 불완전한 지도 주변에 웅크리고 있다."
+                                ko: "캠프는 흥분 반, 두려움 반으로 떠들썩했다. 원정대의 몇몇은 보급품 지원을 위해 더 많은 텐트를 세우고 있었고, 몇몇은 열대 우림의 북쪽 끝자락이 그려진 불완전한 지도에 모여 있었다."
                         },
                         {
                                 name: "Expedition Camp",
                                 en: "The expedition has staked its claim on the jungle, and the jungle doesn't seem too happy about it.",
-                                ko: "그 탐험은 정글에 그 주장을 굽히지 않았고, 정글은 그것에 대해 그다지 행복해 보이지 않는다."
+                                ko: "원정대는 밀림에 대한 도전을 멈추지 않는다. 밀림은 이를 반기지 않는 눈치이다."
                         },
                         {
                                 name: "Ruins of Eztli",
                                 en: "Serpent statues carved from limestone surround the central temple, glaring at you ominously from afar.",
-                                ko: "석회암으로 조각된 뱀상들이 중앙 사원을 둘러싸고 멀리서부터 불길하게 당신을 노려보고 있다."
+                                ko: "중앙 사원을 둘러싼 뱀 형상의 석회암 조각상들이 멀리서부터 불길하게 당신을 노려보고 있다."
                         },
                 ]
         }

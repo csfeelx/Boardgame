@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0 user-scalable=0">
     <title>The Forgotten Age</title>
     <script src="./jquery-3.3.1.min.js"></script>
-    <script src="./data.js"></script>
+    <script src="./data_arkhamlcg.js"></script>
     <script>
         // 변수
         var winDialog; // 팝업윈도우
@@ -22,9 +22,9 @@
 
             // 배치
             var winButton = $(document).find("#winButton")[0];
-            for (var ii = 0 ; ii < data.length ; ii++) {
+            for (var ii = 0 ; ii < data_arkhamlcg.length ; ii++) {
                 // 시나리오
-                var scenario_data = data[ii];
+                var scenario_data = data_arkhamlcg[ii];
                 var scenario_div = winButton.appendChild(document.createElement("div"));
                 var scenario_label = scenario_div.appendChild(document.createElement("div"));
                 scenario_label.textContent = "#" + (ii + 1) + " " + scenario_data.scenario_name;
@@ -75,7 +75,7 @@
 
         function openDialog(btn, what, scenario, no) {
             // 준비
-            var data_current = data[scenario][what][no];
+            var data_current = data_arkhamlcg[scenario][what][no];
 
             // 정보 입력
             winDialog.name.textContent = data_current.name;
