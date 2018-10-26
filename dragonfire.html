@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0 user-scalable=0">
+    <title>The Forgotten Age</title>
+    <script src="./jquery-3.3.1.min.js"></script>
+    <script src="./data.js"></script>
+    <script>
+        // 변수
+        var winDialog; // 팝업윈도우
+
+        // onload
+        window.onload = function () {
+            // 준비
+            winDialog = $(document).find("#winDialog")[0];
+            winDialog.name = $(winDialog).find("#name")[0];
+            winDialog.en = $(winDialog).find("#en")[0];
+            winDialog.ko = $(winDialog).find("#ko")[0];
+            winDialog.onclick = function () { $(winDialog).css("display", "none"); }
+
+            // 배치
+            var winButton = $(document).find("#winButton")[0];
+            for (var ii = 0 ; ii < data.length ; ii++) {
+                // 시나리오
+                var scenario_data = data[ii];
+                var scenario_div = winButton.appendChild(document.createElement("div"));
+                var scenario_label = scenario_div.appendChild(document.createElement("div"));
+                scenario_label.textContent = "#" + (ii + 1) + " " + scenario_data.scenario_name;
+
+                // 아젠다
+                var agenda_data = scenario_data.agenda;
+                var agenda_div = scenario_div.appendChild(document.createElement("div"));
+                for (var jj = 0 ; jj < agenda_data.length ; jj++) {
+                    var agenda_current = agenda_data[jj];
+                    var agenda_button = agenda_div.appendChild(document.createElement("button"));
+                    agenda_button.stage = scenario_div;
+                    agenda_button.what = "agenda";
+                    agenda_button.scenario = ii;
+                    agenda_button.no = jj;
+                    agenda_button.textContent = "Agenda " + agenda_current.cat;
+                    agenda_button.onclick = function (ev) { openDialog(ev.target, ev.target.what, ev.target.scenario, ev.target.no); }
+                }
+
+                // 액트
+                var act_data = scenario_data.act;
+                var act_div = scenario_div.appendChild(document.createElement("div"));
+                for (var jj = 0 ; jj < act_data.length ; jj++) {
+                    var act_current = act_data[jj];
+                    var act_button = act_div.appendChild(document.createElement("button"));
+                    act_button.stage = scenario_div;
+                    act_button.what = "act";
+                    act_button.scenario = ii;
+                    act_button.no = jj;
+                    act_button.textContent = "Act " + act_current.cat;
+                    act_button.onclick = function (ev) { openDialog(ev.target, ev.target.what, ev.target.scenario, ev.target.no); }
+                }
+
+                // 장소
+                var location_data = scenario_data.location;
+                var location_div = scenario_div.appendChild(document.createElement("div"));
+                for (var jj = 0 ; jj < location_data.length ; jj++) {
+                    var location_current = location_data[jj];
+                    var location_button = location_div.appendChild(document.createElement("button"));
+                    location_button.stage = scenario_div;
+                    location_button.what = "location";
+                    location_button.scenario = ii;
+                    location_button.no = jj;
+                    location_button.textContent = location_current.name;
+                    location_button.onclick = function (ev) { openDialog(ev.target, ev.target.what, ev.target.scenario, ev.target.no); }
+                }
+            }
+        }
+
+        function openDialog(btn, what, scenario, no) {
+            // 준비
+            var data_current = data[scenario][what][no];
+
+            // 정보 입력
+            winDialog.name.textContent = data_current.name;
+            winDialog.en.textContent = data_current.en;
+            winDialog.ko.textContent = data_current.ko;
+
+            // 붙이고 가시
+            $(btn.stage).after(winDialog);
+            $(winDialog).css("display", "inline-block");
+        }
+    </script>
+</head>
+
+<body>
+    <div id="winDialog" style="display: none; padding: 10px">
+        <div id="border" style="outline: solid 1px black; padding: 10px">
+            <div id="name"></div>
+            <div id="en" style="padding: 10px 0px 10px 10px"></div>
+            <div id="ko" style="padding: 10px 0px 10px 10px"></div>
+        </div>
+    </div>
+    <div id="winButton"></div>
+</body>
+</html>
