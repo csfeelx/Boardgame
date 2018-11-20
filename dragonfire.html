@@ -53,6 +53,9 @@
             winDialog.en.innerHTML = data_current.en;
             winDialog.ko.innerHTML = data_current.ko;
 
+            // 없으면 불가시
+            if (data_current.en == "") { $(winDialog.en).css("display", "none"); }
+
             // 붙이고 가시
             $(btn).after(winDialog);
             $(winDialog).css("display", "inline-block");
