@@ -64,6 +64,18 @@
 			if (show_origin == true) { $(winDialog.en).css("display", "inline-block"); }
 			else { $(winDialog.en).css("display", "none"); }
         }
+
+        function onClickCheckBox() {
+            // 조건검사
+            if ($(winDialog).css("display") == "none") { return; }
+
+            // 설정 체크
+            var show_origin = chkboxOrign.checked;
+
+            // 원문 가시/불가시
+            if (show_origin == true) { $(winDialog.en).css("display", "inline-block"); }
+            else { $(winDialog.en).css("display", "none"); }
+        }
     </script>
 </head>
 
@@ -76,7 +88,7 @@
             <button style="width:100%" onclick="$(winDialog).css('display', 'none');">close</button>
         </div>
     </div>
-	<input id="chkboxOrigin" type="checkbox">원문보기</input>
+	<input id="chkboxOrigin" type="checkbox" onclick="onClickCheckBox()">원문보기</input>
     <div id="winButton"></div>
 </body>
 </html>
