@@ -6,12 +6,12 @@ var data_dragonfire = [
         },
         {
                 name: "# THE PORTCULLIS IS BREACHED",
-                en: "",
+                en: "Enemies swarm the fortifications, with infiltrators slipping over the walls. Can you eliminate those that have gained the yard before the portcullis is breached?",
                 ko: "적들이 벽을 넘어오며 요새를 난도질하고 있다. 당신은 요새 관문이 파괴되기 전에 이들을 물리치고 요새를 지켜낼 수 있는가?"
         },
         {
                 name: "# THE WASTES OF ANCIENT EMPIRE",
-                en: "",
+                en: "Monsters and the bones of ancient empires litter the Dessarin Valley. And somewhere in these wild lands, Lord Tellum's son, heir to Tellum's Hold near Waterdeep, is in dire straits...",
                 ko: "몬스터와 고대의 뼈들이 데사린 계곡을 어지럽히고 있다. 그리고 이 황야의 어딘가 텔럼즈 홀드의 상속자인 텔럼경의 아들이 곤경에 처해있다."
         },
         {
@@ -26,7 +26,7 @@ var data_dragonfire = [
         },
         {
                 name: "# BODYGUARDS",
-                en: "",
+                en: "You've rescued Lord Tellum's son from the back country of the Dessarin Valley. Now you must escort him to Daggerford, or Tellum's Holding may be sundered. You'll easily put up with the strange outburts of an eccentric noble for the regard of his father, as well as Duchess Daggerford.",
                 ko: "당신 일행은 데사린 계곡의 깊은 곳에서 텔럼경의 아들을 구출했다. 이제 일행은 그를 호위하여 대거포드로 무사히 데려가야한다. 그렇게 하지 못하면 텔럼즈 홀드의 영지는 분열될 것이다. 당신은 아마도 이 괴짜 귀족의 기묘한 행동들을 쉽게 참아낼 수 있을 것이다. 그의 아버지, 그리고 대거포드의 여공작을 생각한다면 말이다."
         },
 	{
@@ -41,7 +41,7 @@ var data_dragonfire = [
         },
         {
                 name: "# UNHOLY PRESENCE",
-                en: "",
+                en: "A vampire has taken up residence in Daggerford, and an unholy collection of undead is playing the streets! You thought Lord Tellum's son safe, but not yet!",
                 ko: "뱀파이어가 대거포드의 거주지를 점령했고, 부정한 언데드들이 거리를 활보하고 있다. 당신 일행은 이 곳에 도착하면 텔럼경의 아들이 안전해지리라 생각했으나, 아직은 아니었다."
         },
 	{
@@ -79,6 +79,11 @@ var data_dragonfire = [
 	        en: "With the planar portal destroyed, the underground maze falls eerily silent. Every step brings new echoes, hinting at the depths of the surrounding tunnels and rooms. What few slaadi spawn were left seem to have fled for their lives, but their defilement of the Ambergul catacombs remain.<br/><br/>In all rooms. Save one.<br/><br/>In the dust of decades, it is easy to see where creatures have passed before you. And in one small side corridor, what becomes clear is that many spent time clawing at the floor, the walls, and ceiling, but none were able to proceed. Even you can feel some resistance offered by whatever wards still guard the entrance, though they let you pass.<br/><br/>\“Altar of the Everlasting.\” All of you can read the inscription on the arch leading into the room. And beneath that: \“For the Glory and Reward of the Amberguls.\"<br/><br/>A simple alcove holds the actual altar. A stone bench sits in the middle of the room for the weary to rest. But it is the shelf on one wall which holds the true prize.<br/><br/>A shining blade. Not much larger than a shortsword, with brilliant, square-cut diamonds set in its golden hilt, and a silvered edge still sharp enough to cut. Not a speck of dust or cobweb clings to it, as it glows softly in the dark without the aid of torchlight or candle.<br/><br/>If there was a relic to recover here. This is it.",
 	        ko: "차원 관문이 파괴되자, 지하 미궁은 침묵에 빠져든다. 당신 일행의 발걸음마다 주변의 방과 터널의 깊이를 짐작하게 하는 메아리가 되돌아왔다. 살기 위해 도망친 몇몇의 슬라디 놈들만이 남아있지만, 앰버글 지하묘지는 여전히 위험한 곳이다.<br/><br/>모든 방에서. 하나를 구하라.<br/><br/>부패의 먼지속에, 당신 앞을 지나간 생물체의 흔적을 쉽게 찾을 수 있었다. 그리고 누군가 바닥과 벽, 그리고 천장을 기며 많은 시간을 보낸 흔적이 발견했지만, 그 누구도 지나가지 못했음이 분명한 통로 하나를 발견했다. 당신 역시 입구를 지키고 있는 방어막에 의한 저항을 받았지만, 당신은 그것을 통과할 수 있었다.<br/><br/>\"영원의 제단.\" 일행 모두가 입구에 있는 아치에 새겨진 글을 읽을 수 있었다. 그리고 그 아래에는 다음과 같은 글이 있었다. \"앰버글 가문의 영광과 보상을 위해.\"<br/><br/>단순히 벽을 파, 그 안에 마련해 둔 제단이 있었다. 방의 한 가운데에는 지친자들이 앉아 쉴 수 있게 마련해 둔 돌 벤치가 있었다. 그리고 한 쪽 벽의 벽장에 당신이 찾던 보물이 있었다.<br/><br/>숏쇼드 보다 약간 크고, 금으로 된 칼자루에 잘 가공된 찬란한 다이아몬드가 끼워진, 그리고 은빛 칼날은 여전히 날카로워보이는 빛나는 칼. 먼지 얼룩이나 거미줄 조차 붙어있지 않은 그것은, 횃불이나 초 없이도 어둠 속에서 부드럽게 빛나고 있었다.<br/><br/>이 곳에서 찾아야 할 유물이 있다면, 바로 이것이다."
 	},
+        {
+                name: "# SLAADI PLAGUE",
+                en: "You closed the portal, but many slipped through! The unimaginable chaos plane unleashes a plague of slaadi as they plunder and transfigure any creatures into their own monstrous forms. Can you survive and save the Sword Coast from this ancient evil or will other fiendish machinations be your undoing?",
+                ko: ""
+        },
 	{
 	        name: "SLAADI PLAGUE: PROLOGUE",
 	        en: "As you exit the catacombs, Randi, your former guide, waits for you. Sitting atop the remnants of an ancient wall. He reclines on the cold stone, comfortable and smiling, as if sunning himself. Except the sun has long set, and the waxing fang of the moon barely paints the estate's cemetery in an ashen gray.<br/><br/>Plus the unfortunate fact that you saw Randi die in the catacombs below.<br/><br/>\"You will never make it.\” One heel bumps back against the stone, over and over, as if marking time.<br/><br/>\“The portal had already done its work before you ever left Daggerford. Slaadi, released into the countryside. By now they've gestated dozens of phage offspring.\"<br/><br/>Rolling off the wall, he lands on all fours. His features run soft, like melting wax. Stretching into a new shape. Bewhiskered and sly. Hands turn into backward-facing claw-tipped paws. His armor flowing into luxuriant, well-appointed robes.<br/><br/>Nadir, the rakshasa, rises and smiles toothily.<br/><br/>\"You could save yourselves a great deal of trouble. Trade me the Ambergul blade. I'll reward each of you a treasure right now, and you can be on your way. Lord Lavien offered you a similar deal. But for far less.\"",
