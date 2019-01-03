@@ -73,6 +73,11 @@
                 // 정돈 작업
 
                 {
+                        name: "",
+                        en: "",
+                        ko: ""
+                },
+                {
                         name: "$1.14 (Story Event 1)",
                         en: "Several hours after the beginning of the feast, the hall is hushed as the heroes are called to its center. Count Dalv rises from the throne and speaks. \"A spell called you back to the Talon Coast. A spell, yes – yet yours are the honor and the glory that spell began, born of your own will and actions. On behalf of Twin Wyrms, I give you thanks, heroes, and offer you this gift.\” As the count finishes, he waves his hand to show a finely woven tapestry depicting the heroes as the Saviors of the City. At the same time, a fiery red-haired woman jumps from the balcony towards Dalv. She screams, \"The Shadows never forgive and always exact revenge!\” In mid-air, the woman draws a small item from her hair and throws it at the Count. As the artifact touches the nobleman, it explodes in a ball of magical light, breaking the chain that fastens the pendant around the Count's neck. With uncanny dexterity, the woman lands on the ground, rolls past the heroes, and vanishes into the crowd. The crowd freezes in horror as the Count begins to change! Hundreds of eyes gaze in awe as Dalv's hair changes from raven black to purest silver, his tanned flesh turns pale as a corpse, his teeth become fangs, and his eyes burst into an unnatural blue light! Chaos grips the feast, and the cleric Marcus yells to the heroes, “Stop him! That being is the shell of the Ancient Evil! Now that the artifact is broken, his concealment has failed and I can divine the truth!” The heroes draw their weapons and charge the creature standing in the place of Count Dalv!",
                         ko: "잔치가 시작된 지 몇 시간 후, 영웅들이 그 중심부로 불려지면서 홀은 조용해졌다. 달브 백작은 왕좌에서 일어나 말한다. \"탈론 해안으로 돌아온 주문 말이야. 마법은, 그렇다, 하지만 여러분의 마법은 여러분의 의지와 행동에서 탄생한, 철자가 시작된 영예와 영광이다. 트윈 와임스를 대신해 영웅들에게 감사의 뜻을 전하고 이 선물을 주겠다고 말했다.\" 카운트가 끝나자, 그는 손을 흔들어 영웅들이 도시의 구세주임을 묘사한 정교하게 짜여진 태피스트리를 보여준다. 동시에, 불타는 빨간 머리의 여자가 발코니에서 달브쪽으로 뛰어든다. 그녀는 \"그림자는 절대 용서하지 않고 언제나 정확한 복수를 한다!\"라고 비명을 지른다. 공중에서 여자는 머리에서 작은 물건을 꺼내 백작에게 던진다. 그 공예품이 귀족과 접촉할 때, 그것은 마법 같은 빛의 공으로 폭발하고, 백작의 목에 있는 펜던트를 고정시키는 사슬을 깨트린다. 그 여자는 묘한 솜씨로 땅에 내려앉아 영웅들을 지나쳐 군중 속으로 사라진다. 백작이 변하기 시작하면 군중은 공포로 얼어버린다! 수백 명의 사람들이 달프의 머리가 황량한 검정에서 가장 순수한 은색으로 바뀌고, 그의 그을린 살이 시신처럼 창백해지고, 이빨이 송곳니가 되고, 그의 눈은 부자연스러운 푸른 빛으로 폭발하면서 경외심을 가지고 쳐다보고 있다. 혼돈이 잔치를 움켜잡고, 마르쿠스가 영웅들에게 소리쳤다. \"그 사람 멈춰! 그것은 고대 악마의 껍질이다! 이제 유물이 깨졌으니, 그의 은닉은 실패했고, 나는 진실을 신봉할 수 있다.\" 영웅들은 그들의 무기를 꺼내서 달브 백작 대신 서 있는 생명체를 충전한다!"
@@ -182,8 +187,73 @@
                         en: "\“I have only been with the gang a few days. I used to live in Lone Pine, but I decided to move on. Well, one of my customers, a man who died three days earlier, mind you, tried to kill me... Dead for three days and there he was, sword in hand! It's a true story - and not a pretty one, I might add. Death walks the streets of Lone Pine. Keep away from there! But yes, about here and now... this place only has one law: if you are the strongest, you command. And I am not nearly the strongest. When I saw you fighting your way through the ambuscade, I understood I had to move on again...\"",
                         ko: "나는 그 갱들과 며칠밖에 함께 있지 않았다. 나는 예전에 Lone Fine에 살았지만, 앞으로 나아가기로 결심했다. 음, 내 고객 중 한 명이 3일 전에 죽은 남자야, 알았어, 날 죽이려고 했어... 3일 동안 죽었는데, 손에 칼을 들고 있었어! 그것은 사실이야. 예쁜 것이 아니라, 내가 덧붙일 수 있을 것 같아. Lone Pine의 거리는 죽음이다. 거기서 떨어져! 하지만 그래, 지금 여기서... 이곳은 오직 하나의 법만을 가지고 있다. 당신이 가장 강하다면 명령하라. 그리고 나는 거의 힘이 세지 않다. 네가 앰버시드를 뚫고 가는 걸 봤을 때, 난 다시 나아가야 한다는 걸 알았어...\""
                 },
+                {
+                        name: "$2.14 (Waypoint 3)",
+                        en: "\“You have been fighting Cave Raiders. They were just a small band of forsaken, but in the last few weeks it seems every cutthroat around here wanted a place among them. Something is drawing them, you see? Quite strange. Perhaps it's due to their leader's charisma. Altair, that's his name. His voice is so enthralling, so convincing, he even has a bevy of gorgeous women in this dung bole. Of course, he was not here today, but he won't be happy to learn you killed bis orc lieutenant, Bone Crusher. When you entered the area, scouts signaled your presence. Altair failed to leave precise orders about travelers – they are quite uncommon around here. Something must have happened. It looked like the raiders wanted you dead. Your gear, maybe. You looked like easy picking, perhaps. I dunno.\” \"But, hell, they forced me to attack when the ambush began, and I am not the killer type. I want to live, and I am a survivor. Plus, I know when I have no chance in a fight and, guys, I would have had no chance against you. So... here I am.\”",
+                        ko: "당신은 동굴탐험자들과 싸워왔다. 그들은 그냥 잊혀진 작은 무리였지만, 지난 몇 주 동안 이 동네의 모든 사람들이 그들 사이에 자리를 원하는 것 같다. 뭔가가 그들을 그리고 있어, 보이지? 정말 이상하다. 아마도 그것은 그들의 리더의 카리스마 때문일 것이다. 알테어, 그게 그의 이름이야. 그의 목소리는 정말 매혹적이라 확신에 차서 그는 심지어 이 똥덩어리에 멋진 여자들을 많이 가지고 있다. 물론, 그는 오늘 여기 있지 않았지만, 그는 네가 Bone Crusher라는 비오 또는 중위를 죽였다는 것을 알면 행복하지 않을 거야. 당신이 그 지역에 들어갔을 때, 정찰대가 당신의 존재를 알렸다. 알테어는 여행자들에 대한 정확한 주문을 남기지 못했다. 그들은 이 근처에서는 꽤 흔치 않다. 무슨 일이 있었던 것이 분명하다 침입자들이 네가 죽기를 바랐던 것 같아 네 장비일 수도 있어 아마도, 너는 쉽게 따는 것처럼 보였다. 모르겠어. \" \"하지만, 그들은 매복이 시작되었을 때 나를 공격하도록 강요했고, 나는 살인자가 아니다. 나는 살고 싶고, 나는 생존자다. 게다가, 내가 싸울 기회가 없었을 때, 너희들을 이길 기회가 없었을 거야. 그래서... 여기 있어\”"
+                },
+                {
+                        name: "$2.15 (Waypoint 3)",
+                        en: "\"If you allow me to accompany you... I will lead you on the shortest path out of bere toward the south. Plus, I have this vial of... something, I do not know... but, I have it nearby and I can give it to you. I do not know what kind of magical concoction it may be – I would be extra cautious in drinking it. Yes, the previous owner, well... he is gone, now. Gone, you understand. You, sort of... killed him. But I remember, he didn't want to drink from that vial. Listen, I have no reason to stick with you. I do not want any share or to be in your party. I just want to get out of here alive, but I will help you escape from the raiders' domain, and I know I have a better chance to live if I stay close to you. So... deal?\”",
+                        ko: "\"만약 내가 당신과 동행하도록 허락한다면... 나는 너를 사별에서 남쪽으로 가는 가장 짧은 길로 인도할 것이다. 게다가, 나한테는... 나도 몰라... 하지만 난 근처에 있고 너에게 줄 수 있어. 나는 그것이 어떤 종류의 마법의 혼합물이 될 지 모른다. – 나는 그것을 마시는데 특별히 신중할 것이다. 네, 전 주인님, 음... 그는 지금 떠났다. 사라졌어, 이해해. 너, 뭐랄까... 죽였어 하지만 기억나는 건, 그는 그 술집에서 술을 마시고 싶어하지 않았다는 거야. 이봐, 내가 널 따라갈 이유가 없어. 나는 너의 일행이 되고싶지도 않다. 난 그냥 여기서 살아서 나가고 싶어, 하지만 침입자들의 영역을 벗어나도록 도와줄 거야. 그리고 내가 너와 함께 있으면 더 좋은 기회가 있다는 걸 알아. 그래서.. 거래?\”"
+                },
+                {
+                        name: "$2.16 (Waypoint 3)",
+                        en: "\“Deal!\" Malak disappears into the foliage, reappearing a bit later with a finely crafted vial containing a glowing liquid. \“This is for you, but now it is time to go. My cave buddies will rally soon, and I am not the farewell type. You know, all those tears and the like... If you want to get out of here quickly, you just have to ford the southern stream (Story Event 3). So? Come on, lead the way! I will be rear guard!\” Malak then retreats, camouflaging among the bushes.",
+                        ko: "\"딜!\" 말락은 나뭇잎 속으로 사라지며, 나중에 빛이 나는 액체가 들어 있는 정교하게 만들어진 항아리와 함께 다시 나타난다. \"이것은 너를 위한 것이지만, 이제 가야 할 시간이야. 나의 동굴 친구들은 곧 모일 것이다. 그리고 나는 고별의 타입이 아니다. 그 모든 눈물과... 여기서 빨리 나가려면 남하천을 버려야 한다. 그래서? 어서, 앞장 서! 뒤통수!\" 말락이 물러나서 덤불 사이로 위장한다."
+                },
+                {
+                        name: "$2.17 (Waypoint 3)",
+                        en: "A quick lunge takes Malak's life. As the body falls on the ground, Marcus whispers, \“In these lands, evil prospers and the good fall in battle. But not today! Yet we could not trust that man. He could have led us into another ambush or fatally slowed us down. We should move on, perhaps toward the soutis (Story Event 3).\”",
+                        ko: "빠른 광산은 말락의 목숨을 앗아간다. 시체가 땅에 떨어지면, 마르쿠스는 속삭인다. \"이 땅에서는 악이 번성하고 전투에서 좋은 것이 떨어진다. 하지만 오늘은 아니야! 그러나 우리는 그 남자를 믿을 수 없었다. 그가 우리를 또 다른 매복으로 이끌 수도 있고 아니면 치명적으로 속도를 늦출 수도 있었다. 우리는 남쪽으로 나아가야 한다. 아마도 (스토리 이벤트 3)\”"
+                },
+                {
+                        name: "$2.18 (Story Event 3)",
+                        en: "The heroes reach the Southern border and encounter a man with crossed arms, a sword in his scabbard. He immediately approaches and says menacingly, \“You cannot stop the evil from invading these lands. You are but prey crawling toward the center of the web.\” While the man speaks, Marcus scowls and recites a revelation spell. The magic reveals a female winged demon hovering over the man, speaking through his voice! Discovered, the demon continues with a harsh voice, \“You are but weak-minded subcreatures! Our master is coming, and you will perish in flame; you and all your kind!\” With this threat, both the demon and the man escape among the trees. The party draws their weapons as Marcus rallies them. \“The raiders of this land have been enthralled by the demons. If we stop their leader, perhaps the bond will break. If not, we will have to kill all the demons, but there is no choice! They are not defending their lands. They want us dead!\”",
+                        ko: "영웅들은 남쪽 국경에 다다랐고, 그의 칼에 팔짱을 낀 한 남자를 만난다. 그는 즉시 다가가서 위협적으로 말한다. \"악이 이 땅을 침범하는 것을 막을 수는 없다. 너는 단지 웹의 중앙으로 기어가는 먹이에 불과하다.남자가 말하는 동안 마커스는 허풍을 떨며 계시를 낭독한다. 이 마술은 날개 달린 암컷 악마가 그의 목소리를 통해 말을 하면서 그 남자 위를 맴도는 것을 보여준다. 발견되었으니, 악마는 계속해서 거친 목소리로 말한다. \"너는 단지 약하지만 속마음이 약한 서브 크리에이션이야! 우리의 주인이 오니, 너희는 불꽃으로 망할 것이다. 너희와 너희의 모든 종들아,\" 이 위협으로 악마와 남자는 나무들 사이에서 탈출한다. 그 정당은 마르쿠스가 그들을 규합할 때 그들의 무기를 끌어낸다. 이 땅의 침입자들은 악령들에게 사로잡혀 있다. 우리가 그들의 지도자를 멈추면, 아마도 그 유대감은 깨질 것이다. 그렇지 않으면, 우리는 모든 악마를 죽여야 할 것이다. 하지만 어쩔 수 없다! 그들은 그들의 땅을 지키고 있지 않다. 그들은 우리가 죽기를 원해!\”"
+                },
+                {
+                        name: "$2.19 (Story Event 3)",
+                        en: "The wound inflicted against the demon becomes pure white flame and consumes the unholy being in a flash of black lightning, leaving nothing behind but a burned pentagram on the ground. As the demons disappear, the raiders and their leader seem to wake from a dream.",
+                        ko: "마귀에게 가해진 상처는 순수한 백색 불꽃이 되고, 검은 번개가 번쩍이며, 땅 위에 불에 탄 5각형만 남긴다. 악마가 사라지면서 침략자들과 그들의 지도자는 꿈에서 깨어나는 것처럼 보인다."
+                },
+                {
+                        name: "$2.20 (Story Event 3)",
+                        en: "When the demonic bond is destroyed, the man shakes his head and then looks at his wound. He says softly, \“I acknowledge my mind was charmed by that gorgeous and wicked creature. Yet, you have wounded me, Altair the beautiful, leader of the Cave Raiders. I hope you understand there is nothing personal, but I cannot leave you alive. That would be a terrible, terrible example for my men. So, and I am truly sorry for this, you all have to die.\”",
+                        ko: "악마의 결합이 파괴되면, 그 남자는 그의 머리를 흔들고 그의 상처를 본다. 그는 아름답고 사악한 생물이 내 마음을 사로잡은 것을 인정한다. 그러나 당신은 나에게 상처를 입혔다. 아름다운 동굴탐험가들의 우두머리 알테어. 개인적인 건 없다는 걸 이해했으면 좋겠는데, 널 살려둘 순 없어. 그것은 내 부하들에게 끔찍하고 끔찍한 예일 것이다. 그래서 정말 미안하다. 너희 모두 죽어야 한다."
+                },
+                {
+                        name: "$2.21 (Story Event 3)",
+                        en: "When the demonic bond is destroyed, the man shakes his head and then looks at himself. He speaks to the heroes, \“I acknowledge my mind was charmed by that gorgeous and wicked creature. Yet, I also must admit you – whoever you are - did your best not to wound me, Altair the beautiful, leader of the Cave Raiders. Let no one say I am ungrateful. You are free to go. But, I am no longer in your debt. Should our paths cross once more, I am afraid there will be blood. Farewell!\” With these words, Altair and his band melt into the forest.",
+                        ko: "악마의 결합이 파괴되면, 그 남자는 그의 머리를 흔들고 자신을 바라본다. 그는 영웅들에게 말한다. \"나는 내 마음이 그 멋지고 사악한 생물에 매혹되었다는 것을 인정한다. 그러나, 나는 또한, 네가 누구이든지 간에, 나를 다치게 하지 않기 위해 최선을 다했다는 것을 인정해야 한다. 아름다운 동굴탐험가들의 지도자, 알테어. 아무도 내가 배은망덕하다고 말하지 못하게 해라. 가도 좋다. 하지만, 나는 더 이상 너의 빚이 아니다. 우리가 다시 한번 길을 건너면 피가 날까 봐 걱정이다. 잘 지내!\"이러한 말로 알테어와 그의 밴드는 숲 속으로 녹아든다."
+                },
+                {
+                        name: "$2.22 (Story Event 3)",
+                        en: "The battle ends when the raider leader falls. In some way, the man was a catalyst for the demonic magic. When the spell is broken, the raiders run away, disappearing into the forest.",
+                        ko: "습격자 지도자가 쓰러지면 전투는 끝난다. 어떤 면에서, 그 남자는 악마 마술의 촉매제였다. 그 주문이 깨지면, 침입자들은 숲으로 사라지면서 도망간다."
+                },
+                {
+                        name: "$2.23 (Quest Enemy Shadow)",
+                        en: "As impossible as it seems, the hero spots one of those horrible gremlins, with spirited eyes and sharp, wicked claws. The vile, evil creature seems to be very quick and poised to attack!",
+                        ko: "불가능해 보이는 것처럼 보이는 영웅은 눈이 휘둥그레지고 날카롭고 사악한 발톱으로 그 끔찍한 그린라인을 발견한다. 그 흉악하고 사악한 동물은 매우 빠르고 공격할 준비가 된 것처럼 보인다! • O Quest Energy Shadow 영역에 레드 글린을 배치하십시오."
+                },
+                {
+                        name: "$2.24 (Glass Vial)",
+                        en: "Remembering Malak's words, the hero sips a few drops of the magical glowing potion. It takes but a breath before feeling the effects....",
+                        ko: "말락의 말을 기억하면서, 영웅은 마법처럼 빛나는 물약을 몇 방울씩 마신다. 그 효과를 느끼려면 한 숨만 쉬면 된다."
+                },
+                {
+                        name: "$2.25 (Ending)",
+                        en: "At last, the heroes are free to continue on the road to Moonchild, wary and conscious of the unknown dangers that await them on their journey to find the cursed Vampire.",
+                        ko: "마침내, 영웅들은 저주를 받은 뱀파이어를 찾아가는 도중에 기다리고 있는 알려지지 않은 위험들을 경계하고 의식하면서, 문어린이로의 길을 계속 갈 자유가 있다."
+                },
+                {
+                        name: "$2.26 (Ending)",
+                        en: "The night falls. The defeat is terrible, as the heroes are wounded both in body and soul. They gather their possessions and sadly decide to march through Lone Pine instead of crossing back through the forest to reach Moonchild.",
+                        ko: "밤이 깊다. 패전은 끔찍하다. 영웅들은 몸과 영혼 모두 부상당하기 때문이다. 그들은 그들의 재산을 모으고 슬프게도 월차일드까지 가기 위해 숲을 가로질러 가는 대신 론 파인을 통해 행진하기로 결정한다."
+                },
 
-                // 초벌 작업 : ~10
+                // 초벌 작업 : ~13
 
 		{
 		        name: "ACT II - QUEST III : The Darkness' Army : Introduction",
