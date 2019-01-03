@@ -47,7 +47,7 @@
 		{
 		        name: "$1.9 (Waypoint 3)",
 		        en: "A huge fresco of King Rastan seated on this throne, wearing the Jeweled Crown of Twin Wyrms on his troubled brow, overlooks the rise.",
-		        ko: "거대한 벽화에 그려진 보석으로 장식된 왕관을 쓴 근심 가득한 표정의 라스탄 왕은, 당신의 행동을 묵과하고 있다."
+		        ko: "거대한 벽화에 그려진 보석으로 장식된 왕관을 쓴 근심 가득한 표정의 라스탄 왕이 말없이 당신을 바라보고 있다."
 		},
 		{
 		        name: "$1.10 (Waypoint 3)",
@@ -69,6 +69,9 @@
 		        en: "As you try to inconspicuously open the crate, its very sharp edge cuts you slightly, dropping some of your blood inside the box. The drops disappear. avidly absorbed by the dirt inside. The strange dirt smells old, and the magical aura is but the echo of something very powerful once transported inside this crate.",
 		        ko: "당신이 주위의 눈을 피해 상자를 열었을 때, 당신은 상자의 아주 날카로운 모서리에 베이고 말았다. 당신이 흘린 피 몇방울이 상자의 안으로 떨어졌는데, 그것은 안에 있던 먼지에 순식간에 흡수되어 사라졌다. 그 이상한 먼지는 오래된 냄새를 풍기고 있었고, 마법의 오오라는 단지 한때 상자에 담겨있었던 강력한 무언가의 잔향일 뿐이었다."
 		},
+
+                // 정돈 작업
+
                 {
                         name: "$1.14 (Story Event 1)",
                         en: "Several hours after the beginning of the feast, the hall is hushed as the heroes are called to its center. Count Dalv rises from the throne and speaks. \"A spell called you back to the Talon Coast. A spell, yes – yet yours are the honor and the glory that spell began, born of your own will and actions. On behalf of Twin Wyrms, I give you thanks, heroes, and offer you this gift.\” As the count finishes, he waves his hand to show a finely woven tapestry depicting the heroes as the Saviors of the City. At the same time, a fiery red-haired woman jumps from the balcony towards Dalv. She screams, \"The Shadows never forgive and always exact revenge!\” In mid-air, the woman draws a small item from her hair and throws it at the Count. As the artifact touches the nobleman, it explodes in a ball of magical light, breaking the chain that fastens the pendant around the Count's neck. With uncanny dexterity, the woman lands on the ground, rolls past the heroes, and vanishes into the crowd. The crowd freezes in horror as the Count begins to change! Hundreds of eyes gaze in awe as Dalv's hair changes from raven black to purest silver, his tanned flesh turns pale as a corpse, his teeth become fangs, and his eyes burst into an unnatural blue light! Chaos grips the feast, and the cleric Marcus yells to the heroes, “Stop him! That being is the shell of the Ancient Evil! Now that the artifact is broken, his concealment has failed and I can divine the truth!” The heroes draw their weapons and charge the creature standing in the place of Count Dalv!",
@@ -92,7 +95,7 @@
                 {
                         name: "$1.18 (Story Event 3)",
                         en: "With the help of the warrior priests and the militia, the heroes manage to stop the attack of the succubi and undead skeletons. The horror that grips the city, however, will linger for a long time... Upon the revelation of Dalv's true nature, events of the recent past can be seen in a different light. It is now clear the being the Shadow Guild feared was Dalv himself! Pushed both by their thirst for revenge and their desire to finally gain freedom from the sorcery holding their souls, the Immortal Souls prepare themselves to hunt down the vampire count.",
-                        ko: ""
+                        ko: "전사 사제들과 민병대의 도움으로 영웅들은 숙큐비와 죽지 않은 해골의 공격을 가까스로 막는다. 그러나 도시를 지배하는 공포는 오랫동안 지속될 것이다... 달브의 진정한 본성이 밝혀지면서, 최근의 사건들은 다른 시각에서 볼 수 있다. 그림자 길드가 두려워했던 것이 그 자신이 달브였다는 것은 이제 분명하다! 복수를 향한 갈증과 마침내 그들의 영혼을 가진 마법으로부터 자유를 얻고자 하는 그들의 욕구에 눌려, 불멸의 영혼들은 뱀파이어 수를 쫓기 위해 준비한다."
                 },
                 {
                         name: "$1.19 (Ending)",
@@ -114,6 +117,74 @@
 		        en: "The Heroes, along with Marcus, journey to Moonchild; their path will pass through the forest, avoiding nearby Lone Pine. The journey unfolds without incident, yet as they catch a glimpse of dense black smoke rising from southwest, the Heroes sadly acknowledge the terrible fate of Lone Pine. While they have avoided any toruble because of the detour, nobody is actually happy. A problem avoided is rarely a problem solbed. As if to confirm the sentiment, the forest becomes enshrouded in the mountains' dark shadows.",
 		        ko: "전사 사제들과 민병대의 도움으로 영웅들은 숙큐비와 죽지 않은 해골의 공격을 가까스로 막는다. 그러나 도시를 지배하는 공포는 오랫동안 지속될 것이다... 달브의 진정한 본성이 밝혀지면서, 최근의 사건들은 다른 시각에서 볼 수 있다. 그림자 길드가 두려워했던 것이 그 자신이 달브였다는 것은 이제 분명하다! 복수를 향한 갈증과 마침내 그들의 영혼을 가진 마법으로부터 자유를 얻고자 하는 그들의 욕구에 눌려, 불멸의 영혼들은 뱀파이어 수를 쫓기 위해 준비한다."
 		},
+                {
+                        name: "$2.1 (Waypoint 1)",
+                        en: "A wild, enthralling landscape unfolds before the heroes as the rocky mountain slopes meet the tall pines of the forest.",
+                        ko: "바위투성이의 산비탈이 숲의 높은 소나무와 만날 때, 거칠고 매혹적인 풍경이 영웅들 앞에 펼쳐진다."
+                },
+                {
+                        name: "$2.2 (Waypoint 1)",
+                        en: "The mountainside is studded with large and small caverns, some of which look inhabited, judging by the fresh tracks disappearing into the rocky depths.",
+                        ko: "산허리에는 크고 작은 동굴이 박혀 있는데, 그 중 일부는 바위틈으로 사라지는 신선한 선로로 판단해 사람이 사는 것처럼 보인다."
+                },
+                {
+                        name: "$2.3 (Waypoint 1)",
+                        en: "Scots pines pierce the sky like green spears, heralding one of the most luxuriant regions of the Talon coast.",
+                        ko: "스코틀랜드 소나무는 탈론 해안에서 가장 호화로운 지역 중 하나를 알리는 초록색 창처럼 하늘을 뚫는다."
+                },
+                {
+                        name: "$2.4 (Waypoint 1)",
+                        en: "From a distance, what appeared to be a bare patch of ground turns out to be a wild path, which has been heavily trampled by many creatures.",
+                        ko: "멀리서 보면, 맨땅으로 보이는 것은 많은 생물들이 심하게 짓밟은 야생의 길인 것으로 밝혀졌다."
+                },
+                {
+                        name: "$2.5 (Waypoint 1)",
+                        en: "With no hesitation, you decide it is time for you to meet whatever the forest throws at you.",
+                        ko: "주저 없이, 당신은 숲이 당신에게 던지는 어떤 것이든 만날 때라고 결정한다."
+                },
+                {
+                        name: "$2.6 (Waypoint 1)",
+                        en: "As you observe the caves, you catch a glimpse of humanoid shapes and the glimmer of what may be weapons! There is no more time to admire the landscape!",
+                        ko: "당신이 동굴을 관찰하면서, 당신은 휴머노이드 모양과 무기일지도 모르는 희미한 빛을 보게 된다. 경치를 감상할 시간이 더 이상 없다!"
+                },
+                {
+                        name: "$2.7 (Waypoint 1)",
+                        en: "For a moment a shadow falls, cast by a winged figure high in the sky. The hero turns his gaze upward... but the sky looks empty and blue...",
+                        ko: "잠시 하늘 높이 날개가 달린 인물에 의해 그림자가 드리워진다. 영웅은 그의 시선을 위로 향한다... 하지만 하늘은 비어있고 파랗게 보인다..."
+                },
+                {
+                        name: "$2.8 (Story Event 1)",
+                        en: "As the party reaches a small clearing, the surrounding caves come alive with torches and the savage screams of bloodthirsty raiders charging their prey! Marcus, nearly panicked, exclaims, \“Holy gods! It's an ambush! The southern path is the only way to Moonchild!\” But the answer to Marcus' direction is an orcish roar, commanding the raiders to attack.",
+                        ko: "파티가 작은 공터에 다다를 때, 주변의 동굴들은 횃불과 그들의 먹이를 사냥하는 피에 굶주린 침입자들의 잔인한 비명 소리로 살아난다! 마르쿠스는 거의 공포에 질려 외친다. \"신들! 매복이다! 월차일드까지 가는 길은 남쪽의 길뿐이야!\" 그러나 마커스의 지시에 대한 답은 오리시 포효로 침입자들이 공격할 수 있게 하는 것이다."
+                },
+                {
+                        name: "$2.9 (Story Event 2)",
+                        en: "A terrible rumble drowns out any other sound. Several trees fall and block the southern path, creating a sort of wooded cage! To make matters worse, the assailants’ forces seem unending. Marcus, looking at the flow of enemies coming from the caves, advises the group. \“We are trapped here. We must clear our way through the wood barriers as fast as we can! If we are not able to move ahead very soon, we will die!\"",
+                        ko: "끔찍한 소동이 다른 어떤 소리도 들리지 않는다. 몇 그루의 나무들이 넘어져서 남쪽의 길을 막아서 일종의 숲이 있는 새장을 만들었다. 설상가상으로, 가해자들의 힘은 끝이 없는 것처럼 보인다. 동굴에서 적들의 흐름을 보고 있는 마커스는 그 단체에 충고한다. \"우리는 여기에 갇혔다. 우리는 가능한 한 빨리 나무 장벽을 뚫고 나아가야 한다! 만약 우리가 빨리 전진할 수 없다면, 우리는 죽을 거야!\""
+                },
+                {
+                        name: "$2.10 (Waypoint 2)",
+                        en: "The hero finds a hidden altar among the bushes. The altar is sacred to Aneres, Enomis, and Mir, the three gods who have ruled this world since the dawn of time. Even though the stone altar is partially submerged under a small stream and almost completely covered by moss and ivy, the hero can tell it still emits a powerful celestial energy.",
+                        ko: "그 영웅은 덤불 속에서 숨겨진 제단을 발견한다. 이 제단은 아네세, 에노미스, 그리고 이 세계를 통치한 세 신 미르의 성스러운 제단이다. 비록 돌 제단이 작은 개울 아래 부분적으로 잠겨있고 거의 완전히 이끼와 담쟁이덩굴로 덮여있지만, 영웅은 그것이 여전히 강력한 천체의 에너지를 방출한다는 것을 말할 수 있다."
+                },
+                {
+                        name: "$2.11 (Waypoint 3)",
+                        en: "Destroying the last barrier disheartens some bandits, slowing down their assault. Marcus thinks for a moment and says to the heroes, \“These have always been wild lands, but I have never heard of so many forsaken here, or of so violent an attack! Their eyes are bloodshot and they attack in a killing frenzy that is inexplicable. They suffered heavy losses, yet kept attacking... and all for negligible loot! There must be some other reason...\” The cleric's train of thought is interrupted by a whisper from the bushes. \"I am Malak, and I know the reason! Please, spare me, and I will tell you all. I will even guide you to the South, before it's too late... During the night, this place becomes a true nightmare!\” With these words a thin man dressed like a common thief steps out of the bushes, unarmed...",
+                        ko: "마지막 장벽을 파괴하는 것은 일부 도적들을 낙담시키고 그들의 공격을 늦추게 한다. 마커스는 잠시 생각해보고 영웅들에게 말했다. \"이곳은 항상 야생의 땅이었지만, 나는 여기서 그렇게 많은 사람들이 포기했거나 그렇게 폭력적인 공격에 대해 들어본 적이 없다. 그들의 눈은 충혈되었고 설명할 수 없는 살인 광란 속에서 공격한다. 그들은 큰 손실을 입었지만 계속 공격했다. 그리고 이 모든 것들이 사소한 약탈에 대한 것이다. 다른 이유가 있을 거야.\” 목사의 일련의 사상이 덤불에서 속삭임에 의해 방해를 받는다. \"나는 말락이고, 그 이유를 알아! 제발, 날 살려줘, 그러면 내가 다 말해줄게. 너무 늦기 전에 내가 심지어 너를 남쪽으로 인도해 줄게. 밤중에 이곳은 정말 악몽이 된다!\" 보통 도둑처럼 옷을 입은 마른 남자가 덤불에서 나와 무장하지 않고"
+                },
+                {
+                        name: "$2.12 (Waypoint 3)",
+                        en: "The hero decides to listen to the lowlife before determining what to do with him. \"Oh! Now that I can see you in the light, you're not nearly as scary as Bome Crusher, the evil orc. Hehe! Well... I am Malak. That is my name, although I am also known as 'the quick.'I pledge you my knowledge, for a while!\”",
+                        ko: "영웅은 자신을 어떻게 할지 결정하기 전에 하층민에게 귀를 기울이기로 결심한다. \"아! 이제 내가 너를 불빛에서 볼 수 있게 되었으니, 너는 사악한 오크인 보메 크루셔만큼 무섭지 않구나. 헤헤! 음... 나는 말락이다. 그것이 내 이름이다. 나는 '빠른 사람'으로도 알려져 있다.'나는 너에게 잠시 동안 내 지식을 맹세한다.'\”"
+                },
+                {
+                        name: "$2.13 (Waypoint 3)",
+                        en: "\“I have only been with the gang a few days. I used to live in Lone Pine, but I decided to move on. Well, one of my customers, a man who died three days earlier, mind you, tried to kill me... Dead for three days and there he was, sword in hand! It's a true story - and not a pretty one, I might add. Death walks the streets of Lone Pine. Keep away from there! But yes, about here and now... this place only has one law: if you are the strongest, you command. And I am not nearly the strongest. When I saw you fighting your way through the ambuscade, I understood I had to move on again...\"",
+                        ko: "나는 그 갱들과 며칠밖에 함께 있지 않았다. 나는 예전에 Lone Fine에 살았지만, 앞으로 나아가기로 결심했다. 음, 내 고객 중 한 명이 3일 전에 죽은 남자야, 알았어, 날 죽이려고 했어... 3일 동안 죽었는데, 손에 칼을 들고 있었어! 그것은 사실이야. 예쁜 것이 아니라, 내가 덧붙일 수 있을 것 같아. Lone Pine의 거리는 죽음이다. 거기서 떨어져! 하지만 그래, 지금 여기서... 이곳은 오직 하나의 법만을 가지고 있다. 당신이 가장 강하다면 명령하라. 그리고 나는 거의 힘이 세지 않다. 네가 앰버시드를 뚫고 가는 걸 봤을 때, 난 다시 나아가야 한다는 걸 알았어...\""
+                },
+
+                // 초벌 작업 : ~10
+
 		{
 		        name: "ACT II - QUEST III : The Darkness' Army : Introduction",
 		        en: "The Heroes, together with Marcus, head toward Lone Pine, a small town due south of Twin Wyrms, looking for answers. After several hours on the trail, the group encounters the first refugees; desperate people trying to escape toward the city of the Immortal Heroes, hoping for solace and help. When the Heroes question one of the refugees, he tells the tale of his doomed city. \"Go no further, the town is cursed! When the dead rise from their graves, there is no place for the living. Run, you fools!\" As the party approaches the town, more and more refugees flood the road, and the atmosphere becomes tense. In silence, the Heroes reach the gates of the town and are welcomed by screams from the nearby central square!",
