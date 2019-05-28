@@ -69,14 +69,6 @@
 		        en: "As you try to inconspicuously open the crate, its very sharp edge cuts you slightly, dropping some of your blood inside the box. The drops disappear. avidly absorbed by the dirt inside. The strange dirt smells old, and the magical aura is but the echo of something very powerful once transported inside this crate.",
 		        ko: "당신이 주위의 눈을 피해 상자를 열었을 때, 당신은 상자의 아주 날카로운 모서리에 베이고 말았다. 당신이 흘린 피 몇방울이 상자의 안으로 떨어졌는데, 그것은 안에 있던 먼지에 순식간에 흡수되어 사라졌다. 그 이상한 먼지는 오래된 냄새를 풍기고 있었고, 마법의 오오라는 단지 한때 상자에 담겨있었던 강력한 무언가의 잔향일 뿐이었다."
 		},
-
-                // 정돈 작업
-
-                {
-                        name: "",
-                        en: "",
-                        ko: ""
-                },
                 {
                         name: "$1.14 (Story Event 1)",
                         en: "Several hours after the beginning of the feast, the hall is hushed as the heroes are called to its center. Count Dalv rises from the throne and speaks. \"A spell called you back to the Talon Coast. A spell, yes – yet yours are the honor and the glory that spell began, born of your own will and actions. On behalf of Twin Wyrms, I give you thanks, heroes, and offer you this gift.\” As the count finishes, he waves his hand to show a finely woven tapestry depicting the heroes as the Saviors of the City. At the same time, a fiery red-haired woman jumps from the balcony towards Dalv. She screams, \"The Shadows never forgive and always exact revenge!\” In mid-air, the woman draws a small item from her hair and throws it at the Count. As the artifact touches the nobleman, it explodes in a ball of magical light, breaking the chain that fastens the pendant around the Count's neck. With uncanny dexterity, the woman lands on the ground, rolls past the heroes, and vanishes into the crowd. The crowd freezes in horror as the Count begins to change! Hundreds of eyes gaze in awe as Dalv's hair changes from raven black to purest silver, his tanned flesh turns pale as a corpse, his teeth become fangs, and his eyes burst into an unnatural blue light! Chaos grips the feast, and the cleric Marcus yells to the heroes, “Stop him! That being is the shell of the Ancient Evil! Now that the artifact is broken, his concealment has failed and I can divine the truth!” The heroes draw their weapons and charge the creature standing in the place of Count Dalv!",
@@ -117,62 +109,68 @@
                         en: "The undead devour both the bodies and souls of the heroes... A timeless Evil will lay waste to the Talon Coast.",
                         ko: "언데드들은 영웅들의 몸과 영혼을 모두 먹어치운다... 시대를 초월한 악이 탈론 코스트를 폐허로 만들 것이다."
                 },
-                //
 		{
 		        name: "ACT II - QUEST II : In the Forest : Introduction",
-		        en: "The Heroes, along with Marcus, journey to Moonchild; their path will pass through the forest, avoiding nearby Lone Pine. The journey unfolds without incident, yet as they catch a glimpse of dense black smoke rising from southwest, the Heroes sadly acknowledge the terrible fate of Lone Pine. While they have avoided any trouble because of the detour, nobody is actually happy. A problem avoided is rarely a problem solbed. As if to confirm the sentiment, the forest becomes enshrouded in the mountains' dark shadows.",
+		        en: "The Heroes, along with Marcus, journey to Moonchild; their path will pass through the forest, avoiding nearby Lone Pine. The journey unfolds without incident, yet as they catch a glimpse of dense black smoke rising from southwest, the Heroes sadly acknowledge the terrible fate of Lone Pine. While they have avoided any trouble because of the detour, nobody is actually happy. A problem avoided is rarely a problem solved. As if to confirm the sentiment, the forest becomes enshrouded in the mountains' dark shadows.",
 		        ko: "영웅들은 마르쿠스와 함께 문차일드로 향했다. 그들은 론 파인을 피해 숲을 통과하기로 하였다. 여정은 아무런 사고 없이 진행되었지만, 짙은 검은 연기가 남서쪽에서 피어오르는 것이 눈에 들어왔고, 영웅들은 애석하게도 론 파인이 끔찍한 운명을 맞이했다는 것을 알게 되었다. 도시를 우회하여 골칫거리를 피하긴 했지만 좋은 판단은 아니었던 것 같다. 골칫거리를 피한다고 그 것이 아무 문제 없이 사라지는 일은 거의 없다. 이 말을 증명하듯, 숲은 산의 어두운 그림자로 둘러싸이기 시작했다"
 		},
                 {
                         name: "$2.1 (Waypoint 1)",
                         en: "A wild, enthralling landscape unfolds before the heroes as the rocky mountain slopes meet the tall pines of the forest.",
-                        ko: "바위투성이의 산비탈이 숲의 높은 소나무와 맞닿아 있어 영웅들 앞에 황홀한 아생의 풍경이 펼쳐진다."
+                        ko: "영웅들 앞에, 바위투성이의 산비탈이 커다란 소나무 숲과 맞닿아 있는 황홀한 아생의 풍경이 펼쳐진다."
                 },
                 {
                         name: "$2.2 (Waypoint 1)",
                         en: "The mountainside is studded with large and small caverns, some of which look inhabited, judging by the fresh tracks disappearing into the rocky depths.",
-                        ko: "산허리에는 크고 작은 동굴이 박혀 있는데, 그 중 일부는 바위틈으로 사라지는 신선한 선로로 판단해 사람이 사는 것처럼 보인다."
+                        ko: "산비탈에 있는 크고 작은 동굴들이 눈에 띈다. 바위 틈으로 이어져있는 발자국으로 판단해 볼 때, 동굴 중 일부에는 사람이 살고 있는 듯 하다."
                 },
                 {
                         name: "$2.3 (Waypoint 1)",
                         en: "Scots pines pierce the sky like green spears, heralding one of the most luxuriant regions of the Talon coast.",
-                        ko: "스코틀랜드 소나무는 탈론 코스트에서 가장 호화로운 지역 중 하나를 알리는 초록색 창처럼 하늘을 뚫는다."
+                        ko: "탈론 코스트에서 가장 무성한 숲을 이루는 소나무들이 마치 군단의 창열과도 같이 하늘을 찌르고 있다."
                 },
                 {
                         name: "$2.4 (Waypoint 1)",
                         en: "From a distance, what appeared to be a bare patch of ground turns out to be a wild path, which has been heavily trampled by many creatures.",
-                        ko: "멀리서 보면, 맨땅으로 보이는 것은 많은 생물들이 심하게 짓밟은 야생의 길인 것으로 밝혀졌다."
+                        ko: "멀리, 많은 생물체들에 의해 밟혀 다져진 흔적들이 모여 만들어진 짐승길이 있다."
                 },
                 {
                         name: "$2.5 (Waypoint 1)",
                         en: "With no hesitation, you decide it is time for you to meet whatever the forest throws at you.",
-                        ko: "주저 없이, 당신은 숲이 당신에게 던지는 어떤 것이든 만날 때라고 결정한다."
+                        ko: "그 안에 무엇이 있든지 간에, 주저 없이 당신은 숲으로 진입하기로 했다."
                 },
                 {
                         name: "$2.6 (Waypoint 1)",
                         en: "As you observe the caves, you catch a glimpse of humanoid shapes and the glimmer of what may be weapons! There is no more time to admire the landscape!",
-                        ko: "당신이 동굴을 관찰하면서, 당신은 휴머노이드 모양과 무기일지도 모르는 희미한 빛을 보게 된다. 경치를 감상할 시간이 더 이상 없다!"
+                        ko: "당신이 동굴을 관찰하자, 그 곳에는 사람의 형상으로 보이는 것과, 무기의 그것으로 보이는 번뜩임이 있었다! 더 이상 경치에 감탄하고 있을 시간은 없다!"
                 },
                 {
                         name: "$2.7 (Waypoint 1)",
                         en: "For a moment a shadow falls, cast by a winged figure high in the sky. The hero turns his gaze upward... but the sky looks empty and blue...",
-                        ko: "잠시 하늘 높이 날개가 달린 인물에 의해 그림자가 드리워진다. 영웅은 그의 시선을 위로 향한다... 하지만 하늘은 비어있고 파랗게 보인다..."
+                        ko: "잠시 동안 의문스러운 그림자가 드리워졌다, 그것은 하늘 높은 곳을 날고 있는 날개 달린 형체에 의한 것으로 보였다. 영웅들은 고개를 들어 위를 바라보았지만... 그곳에는 텅빈 파란 하늘뿐이었다."
                 },
                 {
                         name: "$2.8 (Story Event 1)",
                         en: "As the party reaches a small clearing, the surrounding caves come alive with torches and the savage screams of bloodthirsty raiders charging their prey! Marcus, nearly panicked, exclaims, \“Holy gods! It's an ambush! The southern path is the only way to Moonchild!\” But the answer to Marcus' direction is an orcish roar, commanding the raiders to attack.",
-                        ko: "파티가 작은 공터에 다다를 때, 주변의 동굴들은 횃불과 그들의 먹이를 사냥하는 피에 굶주린 침입자들의 잔인한 비명 소리로 살아난다! 마르쿠스는 거의 공포에 질려 외친다. \"신들! 매복이다! 월차일드까지 가는 길은 남쪽의 길뿐이야!\" 그러나 마커스의 지시에 대한 답은 오리시 포효로 침입자들이 공격할 수 있게 하는 것이다."
+                        ko: "일행이 작은 공터에 도착했을 때, 주변 곳곳의 동굴에서 횃불의 일렁이는 빛과 함께, 일행을 노리며 달려드는 약탈자들의 피에 굶주리고, 야만스러운 함성 소리가 메아리친다. 마르커스는 거의 패닉에 빠져 말했다. \"맙소사. 신이시여! 기습입니다! 남쪽 길이 문차일드로 향하는 유일한 길입니다.\" 하지만 이에 회답하는 것은 약탈자들의 공격을 지휘하는 오크의 전투 함성이었다."                        
                 },
                 {
                         name: "$2.9 (Story Event 2)",
                         en: "A terrible rumble drowns out any other sound. Several trees fall and block the southern path, creating a sort of wooded cage! To make matters worse, the assailants’ forces seem unending. Marcus, looking at the flow of enemies coming from the caves, advises the group. \“We are trapped here. We must clear our way through the wood barriers as fast as we can! If we are not able to move ahead very soon, we will die!\"",
-                        ko: "끔찍한 소동이 다른 어떤 소리도 들리지 않는다. 몇 그루의 나무들이 넘어져서 남쪽의 길을 막아서 일종의 숲이 있는 새장을 만들었다. 설상가상으로, 가해자들의 힘은 끝이 없는 것처럼 보인다. 동굴에서 적들의 흐름을 보고 있는 마커스는 그 단체에 충고한다. \"우리는 여기에 갇혔다. 우리는 가능한 한 빨리 나무 장벽을 뚫고 나아가야 한다! 만약 우리가 빨리 전진할 수 없다면, 우리는 죽을 거야!\""
+                        ko: "끔찍한 산사태 소리가 다른 소리들을 덮어버렸다. 몇몇 나무들이 쓰러져 마치 가축 우리와 같은 형태로, 남쪽으로 통하는 길을 막아버렸다. 더 나쁜 소식은 공격자들의 기세가 수그러들 기미가 보이지 않는 것이다. 동굴에서 쏟아져 나오는 적들을 보며 마르커스가 말했다. \"우리는 함정에 빠졌군요. 최대한 빠르게 나무들을 치우고 길을 뚫어내야 합니다. 서두르지 않으면 우린 모두 죽게 될 겁니다.\""
                 },
                 {
                         name: "$2.10 (Waypoint 2)",
                         en: "The hero finds a hidden altar among the bushes. The altar is sacred to Aneres, Enomis, and Mir, the three gods who have ruled this world since the dawn of time. Even though the stone altar is partially submerged under a small stream and almost completely covered by moss and ivy, the hero can tell it still emits a powerful celestial energy.",
-                        ko: "그 영웅은 덤불 속에서 숨겨진 제단을 발견한다. 이 제단은 아네세, 에노미스, 그리고 이 세계를 통치한 세 신 미르의 성스러운 제단이다. 비록 돌 제단이 작은 개울 아래 부분적으로 잠겨있고 거의 완전히 이끼와 담쟁이덩굴로 덮여있지만, 영웅은 그것이 여전히 강력한 천체의 에너지를 방출한다는 것을 말할 수 있다."
+                        ko: "영웅은 덤불 속에 숨겨진 제단을 발견했다. 그 제단은 태초부터 이 세상을 다스려온 아네레스, 에노미스 그리고 미르, 3명의 신을 모시는 제단이었다. 비록 그 돌로된 제단은 작은 개울에 반쯤 잠겨, 이끼와 덩굴로 완전히 뒤덮혀 있었지만, 영웅은 그것이 내뿜는 강력하고 신성한 힘을 느낄 수 있었다."
                 },
+
+                {
+                        name: "",
+                        en: "",
+                        ko: ""
+                },
+
                 {
                         name: "$2.11 (Waypoint 3)",
                         en: "Destroying the last barrier disheartens some bandits, slowing down their assault. Marcus thinks for a moment and says to the heroes, \“These have always been wild lands, but I have never heard of so many forsaken here, or of so violent an attack! Their eyes are bloodshot and they attack in a killing frenzy that is inexplicable. They suffered heavy losses, yet kept attacking... and all for negligible loot! There must be some other reason...\” The cleric's train of thought is interrupted by a whisper from the bushes. \"I am Malak, and I know the reason! Please, spare me, and I will tell you all. I will even guide you to the South, before it's too late... During the night, this place becomes a true nightmare!\” With these words a thin man dressed like a common thief steps out of the bushes, unarmed...",
