@@ -117,15 +117,16 @@
                         en: "The undead devour both the bodies and souls of the heroes... A timeless Evil will lay waste to the Talon Coast.",
                         ko: "언데드들은 영웅들의 몸과 영혼을 모두 먹어치운다... 시대를 초월한 악이 탈론 코스트를 폐허로 만들 것이다."
                 },
+                //
 		{
 		        name: "ACT II - QUEST II : In the Forest : Introduction",
-		        en: "The Heroes, along with Marcus, journey to Moonchild; their path will pass through the forest, avoiding nearby Lone Pine. The journey unfolds without incident, yet as they catch a glimpse of dense black smoke rising from southwest, the Heroes sadly acknowledge the terrible fate of Lone Pine. While they have avoided any toruble because of the detour, nobody is actually happy. A problem avoided is rarely a problem solbed. As if to confirm the sentiment, the forest becomes enshrouded in the mountains' dark shadows.",
-		        ko: "영웅들은 마르쿠스와 함께 문어린이에게 간다. 그들의 길은 가까운 론 파인을 피해 숲을 통과할 것이다. 그 여정은 아무런 사고 없이 펼쳐지지만, 그들이 남서쪽에서 불어오는 짙은 검은 연기를 볼 때, 영웅들은 애석하게도 론 파인의 끔찍한 운명을 인정한다. 그들은 우회도로 인해 어떤 불용성도 피했지만, 실제로 아무도 행복하지 않다. 회피하는 문제는 해결되는 일이 거의 없다. 마치 그 정서를 확인하는 것처럼, 숲은 산의 어두운 그림자에 안치된다"
+		        en: "The Heroes, along with Marcus, journey to Moonchild; their path will pass through the forest, avoiding nearby Lone Pine. The journey unfolds without incident, yet as they catch a glimpse of dense black smoke rising from southwest, the Heroes sadly acknowledge the terrible fate of Lone Pine. While they have avoided any trouble because of the detour, nobody is actually happy. A problem avoided is rarely a problem solbed. As if to confirm the sentiment, the forest becomes enshrouded in the mountains' dark shadows.",
+		        ko: "영웅들은 마르쿠스와 함께 문차일드로 향했다. 그들은 론 파인을 피해 숲을 통과하기로 하였다. 여정은 아무런 사고 없이 진행되었지만, 짙은 검은 연기가 남서쪽에서 피어오르는 것이 눈에 들어왔고, 영웅들은 애석하게도 론 파인이 끔찍한 운명을 맞이했다는 것을 알게 되었다. 도시를 우회하여 골칫거리를 피하긴 했지만 좋은 판단은 아니었던 것 같다. 골칫거리를 피한다고 그 것이 아무 문제 없이 사라지는 일은 거의 없다. 이 말을 증명하듯, 숲은 산의 어두운 그림자로 둘러싸이기 시작했다"
 		},
                 {
                         name: "$2.1 (Waypoint 1)",
                         en: "A wild, enthralling landscape unfolds before the heroes as the rocky mountain slopes meet the tall pines of the forest.",
-                        ko: "바위투성이의 산비탈이 숲의 높은 소나무와 만날 때, 거칠고 매혹적인 풍경이 영웅들 앞에 펼쳐진다."
+                        ko: "바위투성이의 산비탈이 숲의 높은 소나무와 맞닿아 있어 영웅들 앞에 황홀한 아생의 풍경이 펼쳐진다."
                 },
                 {
                         name: "$2.2 (Waypoint 1)",
