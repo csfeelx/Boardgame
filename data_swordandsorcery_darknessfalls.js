@@ -2,53 +2,60 @@
         {
                 name: "ACT II - QUEST I : Nothing is as good as it seems : Introduction",
                 en: "The moon shines high, bathing Twin Wyrms in silvery light.<br/><br/>The roads are teeming with life, waiting for the clarion call to begin the festival held in honor of the Immortal Souls.<br/><br/>The crowd cheers as the Heroes march to the Royal Palace, honored guests at the grand banquet held by Count Dalv himself and attended by all the nobility of the kingdom. Although the castle suffered damage in the siege, it seems as mighty as ever during this happy and glorious night; the Heroes enter the hall and, as the doors close behind them, Count Dalv proclaims, \"Let the dance begin!\"",
-                ko: "높게 드리운 달빛이 트윈 웜즈를 은빛으로 물들이고 있다.<br/><br/>거리는 불멸의 영웅들을 찬양하기 위한, 축제의 시작을 기다리는 사람들로 넘쳐났다.<br/><br/>영웅들은 달브 백작이 주최하는, 왕국의 모든 귀족들이 참석한 대연회의 명예로운 손님이었고, 군중들은 이를 위해 궁전으로 행진하는 영웅들에게 환호를 보냈다. 성은 지난번 공격에 의한 피해를 받긴했지만, 이 행복하고 영광스러운 밤 동안에는 그 어느때보다 웅장해보였다. 영웅들이 홀에 입장하고 그 뒤로 문이 닫히자, 달브 백작은 축제의 시작을 선포했다. \"자. 모두 춤을 춥시다!\""
+                ko: "높게 드리운 달빛이 트윔 윔즈를 은빛으로 물들이고 있다.<br/><br/>거리는 불멸의 영혼들을 찬양하기 위한 축제의 시작을 기다리는 사람들로 북적인다.<br/><br/>궁전에는 달브 백작이 친히 주최한 대연회에 참석하기 위해 왕국 전역에서 모인 귀족들이 있었고, 영웅들이 입장하자 찬사를 보낸다. 비록 성은 포위 공격에 의해 피해를 입었지만, 이 행복하고 영광스러운 밤, 그것은 언제나 처럼 굳건해 보인다. 영웅들이 홀에 들어오고, 그들 뒤에서 문이 닫히자, 달브 백작은 선포한다. \"축제를 시작합시다!\""
         },
 		{
 		        name: "$1.1 (Waypoint 1)",
 		        en: "The castle's main hall hosts a crowd of people, many of whom seem interested in the heroes who just walked in...",
-		        ko: "성의 중앙 홀은 사람들로 가득차있다. 그들중 많은 수는 방금 등장한 영웅들에게 흥미가 있어 보인다..."
+		        ko: "성의 중앙 홀은 사람들로 가득차있다. 그들중 많은 수는 방금 이 곳으로 들어온 영웅들에게 흥미가 있어 보인다..."
 		},
 		{
 		        name: "$1.2 (Waypoint 1)",
 		        en: "One of the veteran guards steps in front of you, salutes, and say, \"It has been an honor to fight beside you, Sir. Glory to you, and to my fallen comrades!\" Then, he vigorously shakes your hand and takes his leave, bowing deeply.",
-		        ko: "고참 경비병 하나가 당신 앞으로 다가와, 경례를 한 뒤 말했다. \"당신과 함께 싸울 수 있었던 것은 명예로운 일이었습니다. 쓰러진 동료들과 당신께 영광을!\" 그리고 그는 당신과 힘차게 악수를 나눈 뒤, 깊숙히 허리를 숙이며 작별을 고했다."
+		        ko: "고참 경비병 하나가 당신 앞으로 다가와, 경례를 한 뒤 말한다. \"당신과 함께 싸울 수 있었던 것은 명예로운 일이었습니다. 영웅이시어. 쓰러진 동료들과 당신께 영광을!\" 그리고 그는 당신과 힘차게 악수를 나눈 뒤, 깊숙히 허리를 숙이며 작별을 고한다."
 		},
 		{
 		        name: "$1.3 (Waypoint 1)",
 		        en: "Dancers and jugglers run before you and, in your honor, perform for several minutes!",
-		        ko: "무희들과 광대들이 당신을 찬양하는 의미로, 몇 분동안 당신을 뒤 따르며 재주를 선보였다."
+		        ko: "무희들과 광대들이 당신을 찬양하는 의미로, 잠시동안 당신의 뒤를 따르며 재주를 선보인다."
 		},
 		{
 		        name: "$1.4 (Waypoint 1)",
 		        en: "A charming, long-haired man in noble garments approaches and, after honoring your achievements, offers you a deal: \"My name is Lestat, and I would dare yo make you a... singular offer: 50 Crowns in exchange for a few drops of your immortal blood. It requires a bit of pain, but... it would be nothing compared to your previous trials!\"",
-		        ko: "긴머리의 매력적인, 귀족 남성 하나가 당신에게 다가왔다. 그는 당신의 업적을 찬양하며, 당신에게 제안 하나를 했다. \"제 이름은 레스타트입니다. 무례를 무릅쓰고 당신에게... 특이한 제안 하나를 하고 싶군요. 50 크라운으로 당신이 가진 불멸의 피를 몇 방울 사고 싶습니다. 조금 아플수도 있겠지만... 당신이 이전에 겪었던 전투와 비교하면 아무것도 아닐겁니다!\""
+		        ko: "긴머리의 매력적인, 귀족 차림새를 한 남자 하나가 당신에게 다가온다. 그는 당신의 업적을 찬양한 뒤, 당신에게 제안 하나를 한다. \"제 이름은 레스타트입니다. 무례를 무릅쓰고 당신에게... 특이한 제안 하나를 하고 싶군요. 50 크라운으로 당신이 가진 불멸의 피를 몇 방울 사고 싶습니다. 조금 아플수도 있겠지만... 당신이 이전에 겪었던 전투와 비교하면 아무것도 아닐겁니다!\""
 		},
 		{
 		        name: "$1.5 (Waypoint 1)",
 		        en: "Strangely, many of the guests keep their distance from you - either out of respect or fear...",
-		        ko: "이상하게도, 손님들 중 많은 수가 당신과 거리를 두고 있다. - 존경 또는 공포 때문인 듯 하다."
+		        ko: "기이하게도, 손님들 중 많은 수가 당신과 거리를 두고 있다. - 존경 또는 공포 때문인 듯 하다."
 		},
 		{
 		        name: "$1.6 (Waypoint 1)",
 		        en: "Lestat gives you the crowns and then gashes your wrist with a sharpened thumb ring, draining a few drops of your blood into a glass vial.<br/><br/>You feel a strange sensation; the pain was too intense for such a small puncture... but, before you can say anything, Lestat fades away among the other guests.",
-		        ko: "레스타트는 당신에게 크라운을 건내준 뒤, 엄지 손가락에 끼고 있던 날카로운 반지로 당신의 손목을 찔러, 당신의 피 몇방울을 유리병에 담았다.<br/><br/>당신은 묘한 기분이 들었다. 작은 상처의 크기에 비해 고통이 너무 강렬했던 것이다... 하지만, 이에 대해 묻기도 전에, 레스타트는 다른 손님들 사이로 사라지고 없었다."
+		        ko: "레스타트는 당신에게 크라운을 건내준 뒤, 엄지 손가락에 끼고 있던 날카로운 반지로 당신의 손목을 찔러, 당신의 피 몇방울을 유리병에 담고있다.<br/><br/>당신은 기묘한 감각을 느낀다. 작은 상처의 크기에 비해 고통이 너무 강렬하다... 하지만, 이에 대해 묻기도 전에, 레스타트는 다른 손님들 사이로 사라지고 없다."
 		},
 		{
 		        name: "$1.7 (Waypoint 2)",
 		        en: "Marble staircases form the huge plinth of the King's Throne. A finely carved, gilded seat bears the names of all the past Kings who ruled from this place of power.",
-		        ko: "대리석 계단이 옥좌로 오르는 거대한 주춧돌을 이루고 있다. 훌륭하게 세공된 화려한 의자에는 이 곳을 지배한 선대 군주들의 이름이 새겨져있었다."
+		        ko: "대리석 계단이 옥좌로 오르는 거대한 주춧돌을 이루고 있다. 훌륭하게 세공된 화려한 의자에는 이 권좌에 앉았던 선대 군주들의 이름이 새겨져있다."
 		},
 		{
 		        name: "$1.8 (Waypoint 2)",
 		        en: "You take a closer look and immediately notice the name of King Rastan has been recently carved, while Rygar - the missing son - is absent, almost as if representing the feeble, yet living, hope of his people. The noble pride of Count Dalv seems untarnished by his role as ruler without a crown.",
-		        ko: "자세히 살펴보자 최근에 새겨진 라스탄 왕의 이름이 있는 것을 알 수 있었다. 그의 실종된 아들 라이가의 이름은 목록에 없었는데, 그것은 마치 그의 백성들의 미약한 희망대로 그가 아직 살아있기 원하는 것을 나태내고 있는 듯 했다. 달브 백작은 그가 섭정으로서 절대자가 되었음에도 불구하고 귀족으로서의 긍지를 잊지 않은 듯 했다."
+		        ko: "자세히 살펴보자 당신은 곧바로 라스탄 왕의 이름이 최근에 새겨졌다는 것을 알 수 있다. 실종된 그의 아들인 라이가의 이름은 목록에 없는데, 그것은 마치 그의 백성들의 미약한 희망대로 그가 아직 살아있기 원하는 것을 나타내는 듯 하다. 달브 백작은 그가 섭정으로서 최고 권력자가 되었음에도 불구하고 귀족으로서의 긍지를 잊지 않은 듯 하다."
 		},
 		{
 		        name: "$1.9 (Waypoint 3)",
 		        en: "A huge fresco of King Rastan seated on this throne, wearing the Jeweled Crown of Twin Wyrms on his troubled brow, overlooks the rise.",
-		        ko: "거대한 벽화에 그려진 보석으로 장식된 왕관을 쓴 근심 가득한 표정의 라스탄 왕이 말없이 당신을 바라보고 있다."
+		        ko: "거대한 벽화에 그려진, 보석으로 장식된 왕관을 쓴 근심 가득한 표정의 라스탄 왕이 말없이 당신을 바라본다."
 		},
+
+                {
+                        name: "",
+                        en: "",
+                        ko: ""
+                },
+
 		{
 		        name: "$1.10 (Waypoint 3)",
 		        en: "A sudden glimpse of movement among the shadows reveals a gorgeous lady with fiery red hair. She also becomes aware of your presence and approaches you, stating, \"I certainly cannot say I loved this King, yet I must admit his absence has caused troubles both to this city.... and my affairs. Please, accept this...\" She offers you a goblet full of red wine and suddenly disappears into the crowd.",
@@ -164,17 +171,10 @@
                         en: "The hero finds a hidden altar among the bushes. The altar is sacred to Aneres, Enomis, and Mir, the three gods who have ruled this world since the dawn of time. Even though the stone altar is partially submerged under a small stream and almost completely covered by moss and ivy, the hero can tell it still emits a powerful celestial energy.",
                         ko: "영웅은 덤불 속에 숨겨진 제단을 발견했다. 그 제단은 태초부터 이 세상을 다스려온 아네레스, 에노미스 그리고 미르, 3명의 신을 모시는 제단이었다. 비록 그 돌로된 제단은 작은 개울에 반쯤 잠겨, 이끼와 덩굴로 완전히 뒤덮혀 있었지만, 영웅은 그것이 내뿜는 강력하고 신성한 힘을 느낄 수 있었다."
                 },
-
-                {
-                        name: "",
-                        en: "",
-                        ko: ""
-                },
-
                 {
                         name: "$2.11 (Waypoint 3)",
                         en: "Destroying the last barrier disheartens some bandits, slowing down their assault. Marcus thinks for a moment and says to the heroes, \“These have always been wild lands, but I have never heard of so many forsaken here, or of so violent an attack! Their eyes are bloodshot and they attack in a killing frenzy that is inexplicable. They suffered heavy losses, yet kept attacking... and all for negligible loot! There must be some other reason...\” The cleric's train of thought is interrupted by a whisper from the bushes. \"I am Malak, and I know the reason! Please, spare me, and I will tell you all. I will even guide you to the South, before it's too late... During the night, this place becomes a true nightmare!\” With these words a thin man dressed like a common thief steps out of the bushes, unarmed...",
-                        ko: "마지막 장벽을 파괴하는 것은 일부 도적들을 낙담시키고 그들의 공격을 늦추게 한다. 마커스는 잠시 생각해보고 영웅들에게 말했다. \"이곳은 항상 야생의 땅이었지만, 나는 여기서 그렇게 많은 사람들이 포기했거나 그렇게 폭력적인 공격에 대해 들어본 적이 없다. 그들의 눈은 충혈되었고 설명할 수 없는 살인 광란 속에서 공격한다. 그들은 큰 손실을 입었지만 계속 공격했다. 그리고 이 모든 것들이 사소한 약탈에 대한 것이다. 다른 이유가 있을 거야.\” 목사의 일련의 사상이 덤불에서 속삭임에 의해 방해를 받는다. \"나는 말락이고, 그 이유를 알아! 제발, 날 살려줘, 그러면 내가 다 말해줄게. 너무 늦기 전에 내가 심지어 너를 남쪽으로 인도해 줄게. 밤중에 이곳은 정말 악몽이 된다!\" 보통 도둑처럼 옷을 입은 마른 남자가 덤불에서 나와 무장하지 않고"
+                        ko: "마지막 장애물을 파괴하자, 약탈자들의 사기가 꺽인 듯, 공격의 기세가 약해진다. 마르커스는 잠시 생각에 잠긴 후 영웅들에게 말한다. \"이 곳은 늘 버려진 땅이었고, 이 곳에 이렇게 많은 도적들이 있다는 이야기도, 이런 격렬한 습격이 있었다는 이야기도 들은 적이 없습니다! 게다가 놈들의 눈은 충혈되고 이해할 수 없는 살의로 가득차 있군요. 많은 동료가 죽었음에도 놈들은 공격을 멈추지 않고 있습니다... 단순히 우리가 가진 물건을 약탈하기 위해서 이렇게까지 할리가 없습니다. 분명 무언가 다른 이유가 있을겁니다...\" 마르커스의 꼬리에 꼬리를 무는 생각은 덤불 속에서 들려온 속삭임으로 인해 중단되었다. \"나는 말락이라 하오. 난 그 이유를 알고 있지! 잠시 시간을 준다면 그 모든 것을 이야기 해드리리다. 원한다면 남쪽으로 향하는 길을 안내해 드릴 수도 있지. 서둘러야 하오. 밤이 되면 이 곳은 끔찍한 악몽이 될테니!\" 이 말과 함께 무장도 하지 않은, 평범한 도적의 차림새를 한 마른 남자가 덤불 밖으로 모습을 드러냈다."
                 },
                 {
                         name: "$2.12 (Waypoint 3)",
