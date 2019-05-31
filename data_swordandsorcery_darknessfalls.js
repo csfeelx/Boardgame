@@ -49,38 +49,38 @@
 		        en: "A huge fresco of King Rastan seated on this throne, wearing the Jeweled Crown of Twin Wyrms on his troubled brow, overlooks the rise.",
 		        ko: "거대한 벽화에 그려진, 보석으로 장식된 왕관을 쓴 근심 가득한 표정의 라스탄 왕이 말없이 당신을 바라본다."
 		},
-
+		{
+		        name: "$1.10 (Waypoint 3)",
+		        en: "A sudden glimpse of movement among the shadows reveals a gorgeous lady with fiery red hair. She also becomes aware of your presence and approaches you, stating, \"I certainly cannot say I loved this King, yet I must admit his absence has caused troubles both to this city.... and my affairs. Please, accept this...\" She offers you a goblet full of red wine and suddenly disappears into the crowd.",
+		        ko: "그림자 속에서 갑작스런 인기척과 함께, 불타는 듯한 붉은 머리카락을 가진 아름다운 귀부인이 나타난다. 그녀 또한 당신의 존재를 눈치채고 당신에게 다가와 말한다. \"분명... 내가 왕을 사랑했었다고 말하기는 어렵군요, 하지만 그의 빈자리가 이 도시와... 나에게 큰 문제가 되었다는 것은 인정해야겠어요. 부디, 거절하지 말아주세요.\" 그녀는 당신에게 적포도주가 가득찬 술잔을 건내주고, 홀연히 군중 속으로 사라진다."
+		},
+		{
+		        name: "$1.11 (Waypoint 4)",
+		        en: "The upper hall is decorated with many art objects from the whole kingdom.",
+				ko: "위쪽 홀은 왕국 각지에서 가져온 수 많은 미술품들로 장식되어 있다."
+		},
+		{
+		        name: "$1.11 (Waypoint 4)",
+		        en: "Among the art objects, you notice a strange wooden crate carved with dragon effigies and surrounded by black metal plates at the edges. This wooden artifact emits a faint magical aura, almost impossible to detect.",
+				ko: "미술품들 중에서, 당신은 이상한 나무 상자를 발견한다. 그것은 용을 묘사한 조각이 새겨져있고 모퉁이는 검은 철판으로 둘러쌓여있다. 그 나무로 된 유물은 거의 눈치채지 못할 정도의 미약한 마법의 기운을 내뿜고 있다."
+		},
+		{
+		        name: "$1.12 (Waypoint 4)",
+		        en: "As you try to inconspicuously open the crate, its very sharp edge cuts you slightly, dropping some of your blood inside the box. The drops disappear. avidly absorbed by the dirt inside. The strange dirt smells old, and the magical aura is but the echo of something very powerful once transported inside this crate.",
+		        ko: "당신이 주위의 눈을 피해 상자를 열려할 때, 당신은 상자의 아주 날카로운 모서리에 손을 베인다. 상처에서 흘러나온 몇방울의 피가 상자 안으로 떨어지고, 그것은 안에 있는 먼지 순식간에 흡수되어 사라진다. 그 기이한 먼지는 오래된 냄새를 풍긴다. 그리고 상자에서 느껴지던 마법의 기운은 단지, 한때 상자에 담겨있었던 강력한 무언가의 잔향일 뿐이다."
+		},
                 {
+                        name: "$1.14 (Story Event 1)",
+                        en: "Several hours after the beginning of the feast, the hall is hushed as the heroes are called to its center. Count Dalv rises from the throne and speaks. \"A spell called you back to the Talon Coast. A spell, yes – yet yours are the honor and the glory that spell began, born of your own will and actions. On behalf of Twin Wyrms, I give you thanks, heroes, and offer you this gift.\” As the count finishes, he waves his hand to show a finely woven tapestry depicting the heroes as the Saviors of the City. At the same time, a fiery red-haired woman jumps from the balcony towards Dalv. She screams, \"The Shadows never forgive and always exact revenge!\” In mid-air, the woman draws a small item from her hair and throws it at the Count. As the artifact touches the nobleman, it explodes in a ball of magical light, breaking the chain that fastens the pendant around the Count's neck. With uncanny dexterity, the woman lands on the ground, rolls past the heroes, and vanishes into the crowd. The crowd freezes in horror as the Count begins to change! Hundreds of eyes gaze in awe as Dalv's hair changes from raven black to purest silver, his tanned flesh turns pale as a corpse, his teeth become fangs, and his eyes burst into an unnatural blue light! Chaos grips the feast, and the cleric Marcus yells to the heroes, “Stop him! That being is the shell of the Ancient Evil! Now that the artifact is broken, his concealment has failed and I can divine the truth!” The heroes draw their weapons and charge the creature standing in the place of Count Dalv!",
+						ko:"연회가 시작된 지 몇 시간 후, 영웅들이 홀의 중앙으로 호명되자 주변이 조용해진다. 달브 백작이 왕좌에서 일어나 말한다. \"영웅들을 탈론 코스트로 다시 불러냈던 주문. 그들의 명예와 영광은 이 주문으로 부터 시작되었으나, 그들 자신의 의지와 행동으로 완성되었을지니. 트윈 윔즈의 모두를 대표하여 나는 당신들에게 감사를 표하오. 영웅들이여. 그리고 이 것은 그대들을 위한 우리의 마음의 표시요.\" 백작을 말을 마침과 동시에 손을 흔들어 매우 공들여 짜여진, 도시의 구원자인 영웅들이 그려진 태피스트리를 가져오게 한다.<br>그와 동시에, 불타는 듯한 붉은 머리카락을 가진 여자가 백작을 향해 발코니에서 뛰어내리며 소리친다, \"그림자들(The Shadows)은 원한을 잊는 법이 없고, 언제나 정당한 복수를 한다!\" 공중에서, 그녀는 머리카락속에 숨겨 두었던 작은 물건을 꺼내, 백작에게 던진다. 그 유물이 백작에게 닿자, 그것은 마법의 빛을 내뿜으며, 백작의 목에 걸려있던 목걸이의 사슬을 부순다. 믿을 수 없는 움직임으로, 그 여자는 바닥에 착지하고, 영웅들 앞을 빠르게 지나쳐 군중들 사이로 사라진다.<br>곧 백작의 모습이 변하기 시작하고, 사람들은 공포로 얼어붙는다. 백작의 칠흑같은 검은 머리가 새햐얀 은색으로, 그의 구리빛 피부가 시체의 그것과 같은 창백한 색으로 변하며 그의 이빨들은 송곳니처럼 날카로워지고, 그의 눈에는 인간의 것이라 생각할 수 없는 푸른 빛이 번쩍이는 것을 사람들은 겁에 질려 응시한다.<br>연회는 혼돈에 빠지고, 마르커스가 영웅들에게 소리친다. \"그를 막아야합니다! 저것은 고대의 악의 헌신입니다! 유물이 부수어지고 그의 정체가 드러나, 이제 진실을 볼 수 있게 되었습니다!\" 영웅들은 그들의 무기를 뽑아들고, 한때 달브 백작이었던 괴물을 향해 돌격한다."
+                },
+
+				{
                         name: "",
                         en: "",
                         ko: ""
                 },
 
-		{
-		        name: "$1.10 (Waypoint 3)",
-		        en: "A sudden glimpse of movement among the shadows reveals a gorgeous lady with fiery red hair. She also becomes aware of your presence and approaches you, stating, \"I certainly cannot say I loved this King, yet I must admit his absence has caused troubles both to this city.... and my affairs. Please, accept this...\" She offers you a goblet full of red wine and suddenly disappears into the crowd.",
-		        ko: "그림자 사이에서 인기척을 느낀 당신은 불타는 듯한 붉은 머리를 가진 화려한 외모 귀부인을 발견했다. 그녀 역시 당신의 존재를 눈치채고, 당신에게 다가와 말했다. \"내가 왕을 사랑했다고 확언하긴 어렵군요. 하지만 그의 부재가 이 도시와... 나에게 큰 문제가 되었다는 건 인정해야겠네요. 부디, 거절하지 말아주세요.\" 그녀는 당신에게 적포도주가 가득찬 술잔을 건네준 뒤, 홀연히 사람들 속으로 사라졌다."
-		},
-		{
-		        name: "$1.11 (Waypoint 4)",
-		        en: "The upper hall is decorated with many art objects from the whole kingdom.",
-		        ko: "위쪽 홀은 왕국 각지에서 가져온 수 많은 미술품들로 장식되어 있다."
-		},
-		{
-		        name: "$1.11 (Waypoint 4)",
-		        en: "Among the art objects, you notice a strange wooden crate carved with dragon effigies and surrounded by black metal plates at the edges. This wooden artifact emits a faint magical aura, almost impossible to detect.",
-		        ko: "미술품들 속에서 당신은 이상한 나무 상자 하나를 발견했는데, 그것은 용을 묘사한 그림이 새겨져 있었고, 모퉁이는 검은 철판으로 둘러쌓여 있었다. 그 나무 공예품은 거의 감지하기 불가능할 정도의 미약한 마법의 오오라를 내보내고 있었다."
-		},
-		{
-		        name: "$1.12 (Waypoint 4)",
-		        en: "As you try to inconspicuously open the crate, its very sharp edge cuts you slightly, dropping some of your blood inside the box. The drops disappear. avidly absorbed by the dirt inside. The strange dirt smells old, and the magical aura is but the echo of something very powerful once transported inside this crate.",
-		        ko: "당신이 주위의 눈을 피해 상자를 열었을 때, 당신은 상자의 아주 날카로운 모서리에 베이고 말았다. 당신이 흘린 피 몇방울이 상자의 안으로 떨어졌는데, 그것은 안에 있던 먼지에 순식간에 흡수되어 사라졌다. 그 이상한 먼지는 오래된 냄새를 풍기고 있었고, 마법의 오오라는 단지 한때 상자에 담겨있었던 강력한 무언가의 잔향일 뿐이었다."
-		},
-                {
-                        name: "$1.14 (Story Event 1)",
-                        en: "Several hours after the beginning of the feast, the hall is hushed as the heroes are called to its center. Count Dalv rises from the throne and speaks. \"A spell called you back to the Talon Coast. A spell, yes – yet yours are the honor and the glory that spell began, born of your own will and actions. On behalf of Twin Wyrms, I give you thanks, heroes, and offer you this gift.\” As the count finishes, he waves his hand to show a finely woven tapestry depicting the heroes as the Saviors of the City. At the same time, a fiery red-haired woman jumps from the balcony towards Dalv. She screams, \"The Shadows never forgive and always exact revenge!\” In mid-air, the woman draws a small item from her hair and throws it at the Count. As the artifact touches the nobleman, it explodes in a ball of magical light, breaking the chain that fastens the pendant around the Count's neck. With uncanny dexterity, the woman lands on the ground, rolls past the heroes, and vanishes into the crowd. The crowd freezes in horror as the Count begins to change! Hundreds of eyes gaze in awe as Dalv's hair changes from raven black to purest silver, his tanned flesh turns pale as a corpse, his teeth become fangs, and his eyes burst into an unnatural blue light! Chaos grips the feast, and the cleric Marcus yells to the heroes, “Stop him! That being is the shell of the Ancient Evil! Now that the artifact is broken, his concealment has failed and I can divine the truth!” The heroes draw their weapons and charge the creature standing in the place of Count Dalv!",
-                        ko: "연회가 시작된 지 몇 시간 후, 영웅들이 홀의 중앙으로 불려지면서 주변이 조용해졌다. 달브 백작은 왕좌에서 일어나 말했다. \"당신들을 탈론 코스트으로 다시 불러온 주문. 영웅들의 의지와 행동으로 명예와 영광을 가져오게 한 그 주문에 영광을! 나는 트윈 웜즈를 대신해 영웅들에게 선물과 함께 감사의 뜻을 전하고 싶소.\" 백작은 말을 끝내고 손을 흔들어 영웅들이 도시의 구원자로 그려진 정교한 태피스트리를 가져오게 했다. 그와 동시에, 발코니에서 불타는 듯한 붉은 머리를 지닌 한 여자가 달브 백작에게로 뛰어들었다. 그녀는 소리쳤다. \"그림자는 절대 용서하지 않고 언제나 응당한 복수를 한다!\" 그녀는 공중에서 머리카락에 숨겨 놓았던 작은 물건을 꺼내 백작에게 던졌다. 그 아티팩트가 백작에게 닿자, 그것은 마법 같은 빛의 내뿜으며 폭발했고, 백작의 목에 걸려 있던 펜던트를 고정시키는 사슬을 부수었다. 여자는 기묘한 솜씨로 땅에 내려와 영웅들을 지나쳐 군중 속으로 사라졌다. 그 순간 백작의 모습이 변하기 시작했고 군중은 공포로 얼어버렸다! 수백 명의 사람들이 달브 백작의 머리카락이 칠흑같은 검은 색에서 새하얀 은색으로 바뀌고, 그의 그을린 살이 시신처럼 창백해지며, 이빨이 송곳니가 되고, 그의 눈이 부자연스러운 푸른 빛으로 번쩍이는 것을 겁에 질려 응시했다. 연회는 혼돈의 도가니가 되었고, 성직자 마르커스가 영웅들에게 소리쳤다. \"그를 멈춰주시오! 그는 고대 악의 현신이오! 아티팩트가 부셔지고 그의 정체가 드러나, 이제야 진실을 볼 수 있게 되었소.\" 영웅들은 그들의 무기를 꺼내고 달브 백작이었던 괴물에게 돌격했다!"
-                },
                 {
                         name: "$1.15 (Event 4)",
                         en: "The first rays of the dawning sun streak into the palace from the high gothic windows. One of them caresses the vampire's skin, eliciting a scream of pain from the creature! Terrified by the light, he waves his hand and casts a Charm spell on several palace guards, turning them against the crowd. He wraps himself in his shadowy cloak and dissolves into mist, disappearing toward the palace dungeons. After several attempts, the cleric Marcus manages to open the palace doors, allowing the guests to flee for their lives. Then, he turns toward the heroes. \“We must find the red-haired woman before she leaves the city. She must have more information about Count Dalv!\”",
