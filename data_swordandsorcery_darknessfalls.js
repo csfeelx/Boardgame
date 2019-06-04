@@ -2,77 +2,77 @@
         {
                 name: "ACT II - QUEST I : Nothing is as good as it seems : Introduction",
                 en: "The moon shines high, bathing Twin Wyrms in silvery light.<br/><br/>The roads are teeming with life, waiting for the clarion call to begin the festival held in honor of the Immortal Souls.<br/><br/>The crowd cheers as the Heroes march to the Royal Palace, honored guests at the grand banquet held by Count Dalv himself and attended by all the nobility of the kingdom. Although the castle suffered damage in the siege, it seems as mighty as ever during this happy and glorious night; the Heroes enter the hall and, as the doors close behind them, Count Dalv proclaims, \"Let the dance begin!\"",
-                ko: "높게 드리운 달빛이 트윔 윔즈를 은빛으로 물들이고 있다.<br/><br/>거리는 불멸의 영혼들을 찬양하기 위한 축제의 시작을 기다리는 사람들로 북적인다.<br/><br/>궁전에는 달브 백작이 친히 주최한 대연회에 참석하기 위해 왕국 전역에서 모인 귀족들이 있었고, 영웅들이 입장하자 찬사를 보낸다. 비록 성은 포위 공격에 의해 피해를 입었지만, 이 행복하고 영광스러운 밤, 그것은 언제나 처럼 굳건해 보인다. 영웅들이 홀에 들어오고, 그들 뒤에서 문이 닫히자, 달브 백작은 선포한다. \"축제를 시작합시다!\""
+                ko: "높게 드리운 달빛이 트윔 윔즈를 은빛으로 물들이고 있다. 거리는 불멸의 영혼들을 찬양하기 위한 축제의 시작을 기다리는 사람들로 북적인다. 궁전에는 달브 백작이 친히 주최한 대연회에 참석하기 위해 왕국 전역에서 모인 귀족들이 있었고, 영웅들이 입장하자 찬사를 보낸다. 비록 성은 포위 공격에 의해 피해를 입었지만, 이 행복하고 영광스러운 밤, 그것은 언제나 처럼 굳건해 보인다. 영웅들이 홀에 들어오고, 그들 뒤에서 문이 닫히자, 달브 백작은 선포한다. \"축제를 시작합시다!\""
         },
-		{
-		        name: "$1.1 (Waypoint 1)",
-		        en: "The castle's main hall hosts a crowd of people, many of whom seem interested in the heroes who just walked in...",
-		        ko: "성의 중앙 홀은 사람들로 가득차있다. 그들중 많은 수는 방금 이 곳으로 들어온 영웅들에게 흥미가 있어 보인다..."
-		},
-		{
-		        name: "$1.2 (Waypoint 1)",
-		        en: "One of the veteran guards steps in front of you, salutes, and say, \"It has been an honor to fight beside you, Sir. Glory to you, and to my fallen comrades!\" Then, he vigorously shakes your hand and takes his leave, bowing deeply.",
-		        ko: "고참 경비병 하나가 당신 앞으로 다가와, 경례를 한 뒤 말한다. \"당신과 함께 싸울 수 있었던 것은 명예로운 일이었습니다. 영웅이시어. 쓰러진 동료들과 당신께 영광을!\" 그리고 그는 당신과 힘차게 악수를 나눈 뒤, 깊숙히 허리를 숙이며 작별을 고한다."
-		},
-		{
-		        name: "$1.3 (Waypoint 1)",
-		        en: "Dancers and jugglers run before you and, in your honor, perform for several minutes!",
-		        ko: "무희들과 광대들이 당신을 찬양하는 의미로, 잠시동안 당신의 뒤를 따르며 재주를 선보인다."
-		},
-		{
-		        name: "$1.4 (Waypoint 1)",
-		        en: "A charming, long-haired man in noble garments approaches and, after honoring your achievements, offers you a deal: \"My name is Lestat, and I would dare yo make you a... singular offer: 50 Crowns in exchange for a few drops of your immortal blood. It requires a bit of pain, but... it would be nothing compared to your previous trials!\"",
-		        ko: "긴머리의 매력적인, 귀족 차림새를 한 남자 하나가 당신에게 다가온다. 그는 당신의 업적을 찬양한 뒤, 당신에게 제안 하나를 한다. \"제 이름은 레스타트입니다. 무례를 무릅쓰고 당신에게... 특이한 제안 하나를 하고 싶군요. 50 크라운으로 당신이 가진 불멸의 피를 몇 방울 사고 싶습니다. 조금 아플수도 있겠지만... 당신이 이전에 겪었던 전투와 비교하면 아무것도 아닐겁니다!\""
-		},
-		{
-		        name: "$1.5 (Waypoint 1)",
-		        en: "Strangely, many of the guests keep their distance from you - either out of respect or fear...",
-		        ko: "기이하게도, 손님들 중 많은 수가 당신과 거리를 두고 있다. - 존경 또는 공포 때문인 듯 하다."
-		},
-		{
-		        name: "$1.6 (Waypoint 1)",
-		        en: "Lestat gives you the crowns and then gashes your wrist with a sharpened thumb ring, draining a few drops of your blood into a glass vial.<br/><br/>You feel a strange sensation; the pain was too intense for such a small puncture... but, before you can say anything, Lestat fades away among the other guests.",
-		        ko: "레스타트는 당신에게 크라운을 건내준 뒤, 엄지 손가락에 끼고 있던 날카로운 반지로 당신의 손목을 찔러, 당신의 피 몇방울을 유리병에 담고있다.<br/><br/>당신은 기묘한 감각을 느낀다. 작은 상처의 크기에 비해 고통이 너무 강렬하다... 하지만, 이에 대해 묻기도 전에, 레스타트는 다른 손님들 사이로 사라지고 없다."
-		},
-		{
-		        name: "$1.7 (Waypoint 2)",
-		        en: "Marble staircases form the huge plinth of the King's Throne. A finely carved, gilded seat bears the names of all the past Kings who ruled from this place of power.",
-		        ko: "대리석 계단이 옥좌로 오르는 거대한 주춧돌을 이루고 있다. 훌륭하게 세공된 화려한 의자에는 이 권좌에 앉았던 선대 군주들의 이름이 새겨져있다."
-		},
-		{
-		        name: "$1.8 (Waypoint 2)",
-		        en: "You take a closer look and immediately notice the name of King Rastan has been recently carved, while Rygar - the missing son - is absent, almost as if representing the feeble, yet living, hope of his people. The noble pride of Count Dalv seems untarnished by his role as ruler without a crown.",
-		        ko: "자세히 살펴보자 당신은 곧바로 라스탄 왕의 이름이 최근에 새겨졌다는 것을 알 수 있다. 실종된 그의 아들인 라이가의 이름은 목록에 없는데, 그것은 마치 그의 백성들의 미약한 희망대로 그가 아직 살아있기 원하는 것을 나타내는 듯 하다. 달브 백작은 그가 섭정으로서 최고 권력자가 되었음에도 불구하고 귀족으로서의 긍지를 잊지 않은 듯 하다."
-		},
-		{
-		        name: "$1.9 (Waypoint 3)",
-		        en: "A huge fresco of King Rastan seated on this throne, wearing the Jeweled Crown of Twin Wyrms on his troubled brow, overlooks the rise.",
-		        ko: "거대한 벽화에 그려진, 보석으로 장식된 왕관을 쓴 근심 가득한 표정의 라스탄 왕이 말없이 당신을 바라본다."
-		},
-		{
-		        name: "$1.10 (Waypoint 3)",
-		        en: "A sudden glimpse of movement among the shadows reveals a gorgeous lady with fiery red hair. She also becomes aware of your presence and approaches you, stating, \"I certainly cannot say I loved this King, yet I must admit his absence has caused troubles both to this city.... and my affairs. Please, accept this...\" She offers you a goblet full of red wine and suddenly disappears into the crowd.",
-		        ko: "그림자 속에서 갑작스런 인기척과 함께, 불타는 듯한 붉은 머리카락을 가진 아름다운 귀부인이 나타난다. 그녀 또한 당신의 존재를 눈치채고 당신에게 다가와 말한다. \"분명... 내가 왕을 사랑했었다고 말하기는 어렵군요, 하지만 그의 빈자리가 이 도시와... 나에게 큰 문제가 되었다는 것은 인정해야겠어요. 부디, 거절하지 말아주세요.\" 그녀는 당신에게 적포도주가 가득찬 술잔을 건내주고, 홀연히 군중 속으로 사라진다."
-		},
-		{
-		        name: "$1.11 (Waypoint 4)",
-		        en: "The upper hall is decorated with many art objects from the whole kingdom.",
-				ko: "위쪽 홀은 왕국 각지에서 가져온 수 많은 미술품들로 장식되어 있다."
-		},
-		{
-		        name: "$1.11 (Waypoint 4)",
-		        en: "Among the art objects, you notice a strange wooden crate carved with dragon effigies and surrounded by black metal plates at the edges. This wooden artifact emits a faint magical aura, almost impossible to detect.",
-				ko: "미술품들 중에서, 당신은 이상한 나무 상자를 발견한다. 그것은 용을 묘사한 조각이 새겨져있고 모퉁이는 검은 철판으로 둘러쌓여있다. 그 나무로 된 유물은 거의 눈치채지 못할 정도의 미약한 마법의 기운을 내뿜고 있다."
-		},
-		{
-		        name: "$1.12 (Waypoint 4)",
-		        en: "As you try to inconspicuously open the crate, its very sharp edge cuts you slightly, dropping some of your blood inside the box. The drops disappear. avidly absorbed by the dirt inside. The strange dirt smells old, and the magical aura is but the echo of something very powerful once transported inside this crate.",
-		        ko: "당신이 주위의 눈을 피해 상자를 열려할 때, 당신은 상자의 아주 날카로운 모서리에 손을 베인다. 상처에서 흘러나온 몇방울의 피가 상자 안으로 떨어지고, 그것은 안에 있는 먼지 순식간에 흡수되어 사라진다. 그 기이한 먼지는 오래된 냄새를 풍긴다. 그리고 상자에서 느껴지던 마법의 기운은 단지, 한때 상자에 담겨있었던 강력한 무언가의 잔향일 뿐이다."
-		},
+	{
+		name: "$1.1 (Waypoint 1)",
+		en: "The castle's main hall hosts a crowd of people, many of whom seem interested in the heroes who just walked in...",
+		ko: "성의 중앙 홀은 사람들로 가득차있다. 그들중 많은 수는 방금 이 곳으로 들어온 영웅들에게 흥미가 있어 보인다..."
+	},
+	{
+		name: "$1.2 (Waypoint 1)",
+		en: "One of the veteran guards steps in front of you, salutes, and say, \"It has been an honor to fight beside you, Sir. Glory to you, and to my fallen comrades!\" Then, he vigorously shakes your hand and takes his leave, bowing deeply.",
+		ko: "고참 경비병 하나가 당신 앞으로 다가와, 경례를 한 뒤 말한다. \"당신과 함께 싸울 수 있었던 것은 명예로운 일이었습니다. 영웅이시어. 쓰러진 동료들과 당신께 영광을!\" 그리고 그는 당신과 힘차게 악수를 나눈 뒤, 깊숙히 허리를 숙이며 작별을 고한다."
+	},
+	{
+		name: "$1.3 (Waypoint 1)",
+		en: "Dancers and jugglers run before you and, in your honor, perform for several minutes!",
+		ko: "무희들과 광대들이 당신을 찬양하는 의미로, 잠시동안 당신의 뒤를 따르며 재주를 선보인다."
+	},
+	{
+		name: "$1.4 (Waypoint 1)",
+		en: "A charming, long-haired man in noble garments approaches and, after honoring your achievements, offers you a deal: \"My name is Lestat, and I would dare yo make you a... singular offer: 50 Crowns in exchange for a few drops of your immortal blood. It requires a bit of pain, but... it would be nothing compared to your previous trials!\"",
+		ko: "긴머리의 매력적인, 귀족 차림새를 한 남자 하나가 당신에게 다가온다. 그는 당신의 업적을 찬양한 뒤, 당신에게 제안 하나를 한다. \"제 이름은 레스타트입니다. 무례를 무릅쓰고 당신에게... 특이한 제안 하나를 하고 싶군요. 50 크라운으로 당신이 가진 불멸의 피를 몇 방울 사고 싶습니다. 조금 아플수도 있겠지만... 당신이 이전에 겪었던 전투와 비교하면 아무것도 아닐겁니다!\""
+	},
+	{
+		name: "$1.5 (Waypoint 1)",
+		en: "Strangely, many of the guests keep their distance from you - either out of respect or fear...",
+		ko: "기이하게도, 손님들 중 많은 수가 당신과 거리를 두고 있다. - 존경 또는 공포 때문인 듯 하다."
+	},
+	{
+		name: "$1.6 (Waypoint 1)",
+		en: "Lestat gives you the crowns and then gashes your wrist with a sharpened thumb ring, draining a few drops of your blood into a glass vial. You feel a strange sensation; the pain was too intense for such a small puncture... but, before you can say anything, Lestat fades away among the other guests.",
+		ko: "레스타트는 당신에게 크라운을 건내준 뒤, 엄지 손가락에 끼고 있던 날카로운 반지로 당신의 손목을 찔러, 당신의 피 몇방울을 유리병에 담고있다. 당신은 기묘한 감각을 느낀다. 작은 상처의 크기에 비해 고통이 너무 강렬하다... 하지만, 이에 대해 묻기도 전에, 레스타트는 다른 손님들 사이로 사라지고 없다."
+	},
+	{
+		name: "$1.7 (Waypoint 2)",
+		en: "Marble staircases form the huge plinth of the King's Throne. A finely carved, gilded seat bears the names of all the past Kings who ruled from this place of power.",
+		ko: "대리석 계단이 옥좌로 오르는 거대한 주춧돌을 이루고 있다. 훌륭하게 세공된 화려한 의자에는 이 권좌에 앉았던 선대 군주들의 이름이 새겨져있다."
+	},
+	{
+		name: "$1.8 (Waypoint 2)",
+		en: "You take a closer look and immediately notice the name of King Rastan has been recently carved, while Rygar - the missing son - is absent, almost as if representing the feeble, yet living, hope of his people. The noble pride of Count Dalv seems untarnished by his role as ruler without a crown.",
+		ko: "자세히 살펴보자 당신은 곧바로 라스탄 왕의 이름이 최근에 새겨졌다는 것을 알 수 있다. 실종된 그의 아들인 라이가의 이름은 목록에 없는데, 그것은 마치 그의 백성들의 미약한 희망대로 그가 아직 살아있기 원하는 것을 나타내는 듯 하다. 달브 백작은 그가 섭정으로서 최고 권력자가 되었음에도 불구하고 귀족으로서의 긍지를 잊지 않은 듯 하다."
+	},
+	{
+		name: "$1.9 (Waypoint 3)",
+		en: "A huge fresco of King Rastan seated on this throne, wearing the Jeweled Crown of Twin Wyrms on his troubled brow, overlooks the rise.",
+		ko: "거대한 벽화에 그려진, 보석으로 장식된 왕관을 쓴 근심 가득한 표정의 라스탄 왕이 말없이 당신을 바라본다."
+	},
+	{
+		name: "$1.10 (Waypoint 3)",
+		en: "A sudden glimpse of movement among the shadows reveals a gorgeous lady with fiery red hair. She also becomes aware of your presence and approaches you, stating, \"I certainly cannot say I loved this King, yet I must admit his absence has caused troubles both to this city.... and my affairs. Please, accept this...\" She offers you a goblet full of red wine and suddenly disappears into the crowd.",
+		ko: "그림자 속에서 갑작스런 인기척과 함께, 불타는 듯한 붉은 머리카락을 가진 아름다운 귀부인이 나타난다. 그녀 또한 당신의 존재를 눈치채고 당신에게 다가와 말한다. \"분명... 내가 왕을 사랑했었다고 말하기는 어렵군요, 하지만 그의 빈자리가 이 도시와... 나에게 큰 문제가 되었다는 것은 인정해야겠어요. 부디, 거절하지 말아주세요.\" 그녀는 당신에게 적포도주가 가득찬 술잔을 건내주고, 홀연히 군중 속으로 사라진다."
+	},
+	{
+		name: "$1.11 (Waypoint 4)",
+		en: "The upper hall is decorated with many art objects from the whole kingdom.",
+		ko: "위쪽 홀은 왕국 각지에서 가져온 수 많은 미술품들로 장식되어 있다."
+	},
+	{
+		name: "$1.11 (Waypoint 4)",
+		en: "Among the art objects, you notice a strange wooden crate carved with dragon effigies and surrounded by black metal plates at the edges. This wooden artifact emits a faint magical aura, almost impossible to detect.",
+		ko: "미술품들 중에서, 당신은 이상한 나무 상자를 발견한다. 그것은 용을 묘사한 조각이 새겨져있고 모퉁이는 검은 철판으로 둘러쌓여있다. 그 나무로 된 유물은 거의 눈치채지 못할 정도의 미약한 마법의 기운을 내뿜고 있다."
+	},
+	{
+		name: "$1.12 (Waypoint 4)",
+		en: "As you try to inconspicuously open the crate, its very sharp edge cuts you slightly, dropping some of your blood inside the box. The drops disappear. avidly absorbed by the dirt inside. The strange dirt smells old, and the magical aura is but the echo of something very powerful once transported inside this crate.",
+		ko: "당신이 주위의 눈을 피해 상자를 열려할 때, 당신은 상자의 아주 날카로운 모서리에 손을 베인다. 상처에서 흘러나온 몇방울의 피가 상자 안으로 떨어지고, 그것은 안에 있는 먼지 순식간에 흡수되어 사라진다. 그 기이한 먼지는 오래된 냄새를 풍긴다. 그리고 상자에서 느껴지던 마법의 기운은 단지, 한때 상자에 담겨있었던 강력한 무언가의 잔향일 뿐이다."
+	},
         {
                 name: "$1.14 (Story Event 1)",
                 en: "Several hours after the beginning of the feast, the hall is hushed as the heroes are called to its center. Count Dalv rises from the throne and speaks. \"A spell called you back to the Talon Coast. A spell, yes – yet yours are the honor and the glory that spell began, born of your own will and actions. On behalf of Twin Wyrms, I give you thanks, heroes, and offer you this gift.\” As the count finishes, he waves his hand to show a finely woven tapestry depicting the heroes as the Saviors of the City. At the same time, a fiery red-haired woman jumps from the balcony towards Dalv. She screams, \"The Shadows never forgive and always exact revenge!\” In mid-air, the woman draws a small item from her hair and throws it at the Count. As the artifact touches the nobleman, it explodes in a ball of magical light, breaking the chain that fastens the pendant around the Count's neck. With uncanny dexterity, the woman lands on the ground, rolls past the heroes, and vanishes into the crowd. The crowd freezes in horror as the Count begins to change! Hundreds of eyes gaze in awe as Dalv's hair changes from raven black to purest silver, his tanned flesh turns pale as a corpse, his teeth become fangs, and his eyes burst into an unnatural blue light! Chaos grips the feast, and the cleric Marcus yells to the heroes, “Stop him! That being is the shell of the Ancient Evil! Now that the artifact is broken, his concealment has failed and I can divine the truth!” The heroes draw their weapons and charge the creature standing in the place of Count Dalv!",
-				ko:"연회가 시작된 지 몇 시간 후, 영웅들이 홀의 중앙으로 호명되자 주변이 조용해진다. 달브 백작이 왕좌에서 일어나 말한다. \"영웅들을 탈론 코스트로 다시 불러냈던 주문. 그들의 명예와 영광은 이 주문으로 부터 시작되었으나, 그들 자신의 의지와 행동으로 완성되었을지니. 트윈 윔즈의 모두를 대표하여 나는 당신들에게 감사를 표하오. 영웅들이여. 그리고 이 것은 그대들을 위한 우리의 마음의 표시요.\" 백작을 말을 마침과 동시에 손을 흔들어 매우 공들여 짜여진, 도시의 구원자인 영웅들이 그려진 태피스트리를 가져오게 한다.<br>그와 동시에, 불타는 듯한 붉은 머리카락을 가진 여자가 백작을 향해 발코니에서 뛰어내리며 소리친다, \"그림자들(The Shadows)은 원한을 잊는 법이 없고, 언제나 정당한 복수를 한다!\" 공중에서, 그녀는 머리카락속에 숨겨 두었던 작은 물건을 꺼내, 백작에게 던진다. 그 유물이 백작에게 닿자, 그것은 마법의 빛을 내뿜으며, 백작의 목에 걸려있던 목걸이의 사슬을 부순다. 믿을 수 없는 움직임으로, 그 여자는 바닥에 착지하고, 영웅들 앞을 빠르게 지나쳐 군중들 사이로 사라진다.<br>곧 백작의 모습이 변하기 시작하고, 사람들은 공포로 얼어붙는다. 백작의 칠흑같은 검은 머리가 새햐얀 은색으로, 그의 구리빛 피부가 시체의 그것과 같은 창백한 색으로 변하며 그의 이빨들은 송곳니처럼 날카로워지고, 그의 눈에는 인간의 것이라 생각할 수 없는 푸른 빛이 번쩍이는 것을 사람들은 겁에 질려 응시한다.<br>연회는 혼돈에 빠지고, 마르커스가 영웅들에게 소리친다. \"그를 막아야합니다! 저것은 고대의 악의 헌신입니다! 유물이 부수어지고 그의 정체가 드러나, 이제 진실을 볼 수 있게 되었습니다!\" 영웅들은 그들의 무기를 뽑아들고, 한때 달브 백작이었던 괴물을 향해 돌격한다."
+                ko: "연회가 시작된 지 몇 시간 후, 영웅들이 홀의 중앙으로 호명되자 주변이 조용해진다. 달브 백작이 왕좌에서 일어나 말한다. \"영웅들을 탈론 코스트로 다시 불러냈던 주문. 그들의 명예와 영광은 이 주문으로 부터 시작되었으나, 그들 자신의 의지와 행동으로 완성되었을지니. 트윈 윔즈의 모두를 대표하여 나는 당신들에게 감사를 표하오. 영웅들이여. 그리고 이 것은 그대들을 위한 우리의 마음의 표시요.\" 백작을 말을 마침과 동시에 손을 흔들어 매우 공들여 짜여진, 도시의 구원자인 영웅들이 그려진 태피스트리를 가져오게 한다.<br>그와 동시에, 불타는 듯한 붉은 머리카락을 가진 여자가 백작을 향해 발코니에서 뛰어내리며 소리친다, \"그림자들(The Shadows)은 원한을 잊는 법이 없고, 언제나 정당한 복수를 한다!\" 공중에서, 그녀는 머리카락속에 숨겨 두었던 작은 물건을 꺼내, 백작에게 던진다. 그 유물이 백작에게 닿자, 그것은 마법의 빛을 내뿜으며, 백작의 목에 걸려있던 목걸이의 사슬을 부순다. 믿을 수 없는 움직임으로, 그 여자는 바닥에 착지하고, 영웅들 앞을 빠르게 지나쳐 군중들 사이로 사라진다.<br>곧 백작의 모습이 변하기 시작하고, 사람들은 공포로 얼어붙는다. 백작의 칠흑같은 검은 머리가 새햐얀 은색으로, 그의 구리빛 피부가 시체의 그것과 같은 창백한 색으로 변하며 그의 이빨들은 송곳니처럼 날카로워지고, 그의 눈에는 인간의 것이라 생각할 수 없는 푸른 빛이 번쩍이는 것을 사람들은 겁에 질려 응시한다. 연회는 혼돈에 빠지고, 마르커스가 영웅들에게 소리친다. \"그를 막아야합니다! 저것은 고대의 악의 헌신입니다! 유물이 부수어지고 그의 정체가 드러나, 이제 진실을 볼 수 있게 되었습니다!\" 영웅들은 그들의 무기를 뽑아들고, 한때 달브 백작이었던 괴물을 향해 돌격한다."
         },
         {
                 name: "$1.15 (Event 4)",
@@ -82,7 +82,7 @@
         {
                 name: "$1.16 (Story Event 2)",
                 en: "A screech heralds strange creatures flying in from the south: sensual yet demonic winged women soar above the city, weaving a dark spell. As soon as they stop singing, the charmed guards die along with nearby citizens. Immediately, their corpses rise, animated by warped magic, and begin their attack against the living!",
-				ko: "끔찍한 소리와 함께 남쪽에서 날개 달린 괴물들이 날아온다. 그것은 관능적이지만 악마의 날개를 단 여자들로, 그녀들은 도시의 하늘 위에서 어둠의 주문을 흩뿌린다. 그녀들의 노래가 멈춤과 동시에, 매혹에 걸린 경비병과 그 주변에 있던 시민들은 죽음을 맞이하고, 곧바로 그들의 시체가 일어나, 뒤틀린 마법에 조종당해, 살아있는 것들을 공격하기 시작한다!"
+                ko: "끔찍한 소리와 함께 남쪽에서 날개 달린 괴물들이 날아온다. 그것은 관능적이지만 악마의 날개를 단 여자들로, 그녀들은 도시의 하늘 위에서 어둠의 주문을 흩뿌린다. 그녀들의 노래가 멈춤과 동시에, 매혹에 걸린 경비병과 그 주변에 있던 시민들은 죽음을 맞이하고, 곧바로 그들의 시체가 일어나, 뒤틀린 마법에 조종당해, 살아있는 것들을 공격하기 시작한다!"
         },
         {
                 name: "$1.17 (Event 4)",
@@ -92,74 +92,74 @@
         {
                 name: "$1.18 (Story Event 3)",
                 en: "With the help of the warrior priests and the militia, the heroes manage to stop the attack of the succubi and undead skeletons. The horror that grips the city, however, will linger for a long time... Upon the revelation of Dalv's true nature, events of the recent past can be seen in a different light. It is now clear the being the Shadow Guild feared was Dalv himself! Pushed both by their thirst for revenge and their desire to finally gain freedom from the sorcery holding their souls, the Immortal Souls prepare themselves to hunt down the vampire count.",
-                ko: "전투 사제와 민병들의 도움으로, 영웅들은 간신히 서큐비와 해골들의 공격을 저지하는 것에 성공한다. 하지만, 도시를 사로잡은 공포는 쉽게 사라지지 않을 것이다...<br>백작의 정체가 밝혀짐에 따라, 최근의 모든 사건들이 다르게 보인다. 그림자 길드가 두려워 했던 것은 바로 백작이었음이 분명하다.<br>복수에 대한 갈망과, 그들의 영혼을 붙들고 있는 주문에서의 해방을 바라며, 불멸의 영혼들은 뱀파이어 백작을 쫓을 준비를 한다."
+                ko: "전투 사제와 민병들의 도움으로, 영웅들은 간신히 서큐비와 해골들의 공격을 저지하는 것에 성공한다. 하지만, 도시를 사로잡은 공포는 쉽게 사라지지 않을 것이다...<br>백작의 정체가 밝혀짐에 따라, 최근의 모든 사건들이 다르게 보인다. 그림자 길드가 두려워 했던 것은 바로 백작이었음이 분명하다. 복수에 대한 갈망과, 그들의 영혼을 붙들고 있는 주문에서의 해방을 바라며, 불멸의 영혼들은 뱀파이어 백작을 쫓을 준비를 한다."
         },
         {
                 name: "$1.19 (Ending)",
                 en: "The heroes turn their attention to the red-haired woman, who explains, \"My name is Calypso, and I am a... a friend of Jack Crow. He sends you his greetings and his thanks for protecting his city. This is a gift from him... Now you know your true enemy. Oh, and he also told me to give you this scroll, should you deserve it. Now, I bid you farewell!\” With a sudden flick of her wrist, the woman activates a talisman and disappears in a cloud of black, acrid smoke. Angered, the heroes can only read the scroll: \“Dear friends, I know all too well you cannot help but engage blades with our dark and daunting count - if only I could dominate the spell that binds you! – so, allow me to offer this gift; a piece of advice: seek the Moon Children deep in the South. If they refrain from eating you, you may even become friends. P.S. If I were you, I would avoid the town of Lone Pine. These days, forests seem to be quite safer than cities.\” The heroes look at the map of the Talon Coast, as Marcus observes, \"Perhaps be referred to the city of Moonchild, but I have no clue about any threat of being eaten by its inhabitants... \"Marcus pauses for a breath, then continues, \“We do not know whether we are going to find any clue about Dalv there. But the succubi came from the south, so south is where we should begin.\” And so, the heroes are on the road again.",
-                ko: "영웅들은 붉은 머리 여자에게 관심을 돌렸다. 그녀는 자신을 소개한다. \"내 이름은 칼랍소, 난... 잭 크로우의 친구야. 그가 당신에게 안부를 물으며 도시를 지켜준 것에 대한 감사를 전하라더군. 여기 그의 선물이 있어. 이제 당신은 진정한 적이 누구인지 알게되었지. 아, 그리고 그가 말하길, 당신들에게 자격이 있다면 이 두루마리를 전해주라고도 하더군. 그럼, 이제 작별이야!\"<br>그녀가 탈리스만을 작동시키자, 그녀의 손목에서 빛이 번쩍이더니, 매캐한 검은 연기와 함께 그녀의 모습은 사라진다.<br>영웅들은 화가 나지만, 두루마리를 읽을 수 밖에 없다:<br>\"친구들에게, 나는 너희들이 비록 나를 돕진 않겠지만, 사악하고 위압적인 백작과 싸우게 될 것을 너무나도 잘 알고 있지. - 내가 너희들을 속박하고 있는 그 주문을 조종할 수만 있다면! - 어쨋든 선물로 조언을 하나 해주고 싶군. 남쪽 멀리잇는 문차일드를 찾아봐. 그들이 너희들을 잡아먹지만 않는다면, 친구가 될 수 있을지도 모르지.<br>추신. 나라면 론 파인은 피하겠어. 요즘은 도시보다 차라리 숲길이 안전해 보인다니까.\"<br>영웅들은 마르커스와 함께 탈론 코스트의 지도를 살핀다. \"아마도 문차일드의 도시를 말하는 것 같군요, 하지만 그 지방 사람들이 사람을 잡아 먹는다는 이야기는 들어본 적 없습니다...\" 마르커스는 잠시 말을 멈추고, 호흡을 고른 후 이야기 한다, \"그곳에서 달브 백작에 대한 단서를 찾을 수 있을런지는 모르지만, 서큐비들이 남쪽에서 왔으니, 일단 남쪽으로 탐색을 시작하는 것이 좋겠군요.\"<br>그리하여 영웅들은 그들의 여정을 계속한다."
+                ko: "영웅들은 붉은 머리 여자에게 관심을 돌렸다. 그녀는 자신을 소개한다. \"내 이름은 칼랍소, 난... 잭 크로우의 친구야. 그가 당신에게 안부를 물으며 도시를 지켜준 것에 대한 감사를 전하라더군. 여기 그의 선물이 있어. 이제 당신은 진정한 적이 누구인지 알게되었지. 아, 그리고 그가 말하길, 당신들에게 자격이 있다면 이 두루마리를 전해주라고도 하더군. 그럼, 이제 작별이야!\"그녀가 탈리스만을 작동시키자, 그녀의 손목에서 빛이 번쩍이더니, 매캐한 검은 연기와 함께 그녀의 모습은 사라진다.<br>영웅들은 화가 나지만, 두루마리를 읽을 수 밖에 없다:<br>\"친구들에게, 나는 너희들이 비록 나를 돕진 않겠지만, 사악하고 위압적인 백작과 싸우게 될 것을 너무나도 잘 알고 있지. - 내가 너희들을 속박하고 있는 그 주문을 조종할 수만 있다면! - 어쨋든 선물로 조언을 하나 해주고 싶군. 남쪽 멀리잇는 문 차일드를 찾아봐. 그들이 너희들을 잡아먹지만 않는다면, 친구가 될 수 있을지도 모르지.<br>추신. 나라면 론 파인은 피하겠어. 요즘은 도시보다 차라리 숲길이 안전해 보인다니까.\"<br>영웅들은 마르커스와 함께 탈론 코스트의 지도를 살핀다. \"아마도 문 차일드의 도시를 말하는 것 같군요, 하지만 그 지방 사람들이 사람을 잡아 먹는다는 이야기는 들어본 적 없습니다...\" 마르커스는 잠시 말을 멈추고, 호흡을 고른 후 이야기 한다, \"그곳에서 달브 백작에 대한 단서를 찾을 수 있을런지는 모르지만, 서큐비들이 남쪽에서 왔으니, 일단 남쪽으로 탐색을 시작하는 것이 좋겠군요.\"그리하여 영웅들은 그들의 여정을 계속한다."
+        },
+        {
+                name: "$1.20 (Ending)",
+                en: "Despite their efforts, the heroes cannot find any trace of the fiery-headed woman. After a while, they are forced to admit the woman has left the city. Without further clues, the party turns to Marcus. After a brief talk with other clerics in the Temple, Marcus tells the heroes of a crow arriving this morning from a city called Lone Pine, lying to the south. The bird carried a message: \“Evil has awakened in our city! The dead rise from their graves to kill their former loved ones! You are the heroes of Twin Wyrms, or so the bards sing, so we beg your help. Please, come to our aid!” Marcus adds, “We do not know whether we are going to find any clue about Dalv there. But, the succubi came from the south, so south is where we should begin.\”",
+                ko: "그들의 노력에도 불구하고, 영웅들은 붉은 머리 여자에 대한 어떠한 단서도 찾지 못한다. 잠시 후, 그들은 어쩔 도리 없이 여자가 이미 도시를 떠났다는 사실을 인정한다. 아무런 소득 없이 일행은 마르커스에게로 향한다.<br>마르커스는 사원의 다른 사제들과 짧은 대화를 나눈 뒤, 영웅들에게 오늘 아침 남쪽에 있는 론 파인이라는 도시에서 까마귀가 도착했음을 알린다. 까마귀가 가져온 전갈은 다음과 같다: \"이 도시에 악이 창궐하였습니다! 무덤에서 죽은 자들이 일어나 그들이 사랑했던 이들을 죽이려 합니다! 음유시인들이 노래하길 여러분이 트윈 윔즈의 영웅이라 하더군요. 간절히 청하옵건데 우리 도시를 도우러 와 주세요!\"<br>마르커스가 덧붙인다. \"우리는 달브 백작에 대한 단서를 어디서 찾아야 할지 모르는 상황입니다. 하지만, 그 서큐비들이 남쪽에서 왔으니, 남쪽으로 탐색을 시작하는 것이 좋겠군요\""
+        },
+        {
+                name: "$1.21 (Ending)",
+                en: "The undead devour both the bodies and souls of the heroes... A timeless Evil will lay waste to the Talon Coast.",
+                ko: "언데드들은 영웅들의 몸과 영혼을 모두 먹어치운다... 고대로부터 존재해온 악이 탈론 코스트를 폐허로 만들 것이다."
+        },
+	{
+		name: "ACT II - QUEST II : In the Forest : Introduction",
+		en: "The Heroes, along with Marcus, journey to Moonchild; their path will pass through the forest, avoiding nearby Lone Pine. The journey unfolds without incident, yet as they catch a glimpse of dense black smoke rising from southwest, the Heroes sadly acknowledge the terrible fate of Lone Pine. While they have avoided any trouble because of the detour, nobody is actually happy. A problem avoided is rarely a problem solved. As if to confirm the sentiment, the forest becomes enshrouded in the mountains' dark shadows.",
+		ko: "영웅들은 마르커스와 함께 문 차일드로의 여정을 시작한다. 그들은 론 파인을 피해 숲을 통과하기로 한다. 여행은 아무 사고 없이 진행된다. 하지만 남서쪽에서 피어오르는 짙은 검은 연기를 보고, 영웅들은 슬프게도 론 파인의 끔찍한 운명에 대해 깨닫게 된다.<br>영웅들은 우회로를 통해 문제거리를 피했지만, 좋은 선택이 아니었던 것 같다. 문제를 회피하는 것으로 문제가 해결되는 일은 극히 드물다. 영웅들의 가라앉은 기분을 나타내듯, 숲은 산의 어두운 그림자로 덮히기 시작한다."
+	},
+        {
+                name: "$2.1 (Waypoint 1)",
+                en: "A wild, enthralling landscape unfolds before the heroes as the rocky mountain slopes meet the tall pines of the forest.",
+                ko: "영웅들 앞에, 바위투성이의 산비탈이 커다란 소나무 숲과 맞닿아 있는 황홀한 아생의 풍경이 펼쳐진다."
+        },
+        {
+                name: "$2.2 (Waypoint 1)",
+                en: "The mountainside is studded with large and small caverns, some of which look inhabited, judging by the fresh tracks disappearing into the rocky depths.",
+                ko: "산비탈에 있는 크고 작은 동굴들이 눈에 띈다. 바위 틈으로 이어져있는 발자국으로 판단해 볼 때, 동굴 중 일부에는 누군가 살고 있는 듯 하다."
+        },
+        {
+                name: "$2.3 (Waypoint 1)",
+                en: "Scots pines pierce the sky like green spears, heralding one of the most luxuriant regions of the Talon coast.",
+                ko: "탈론 코스트에서 가장 무성한 숲을 이루는 소나무들이 마치 군대의 창열과도 같이 하늘을 찌르고 있다."
+        },
+        {
+                name: "$2.4 (Waypoint 1)",
+                en: "From a distance, what appeared to be a bare patch of ground turns out to be a wild path, which has been heavily trampled by many creatures.",
+                ko: "저 멀리, 많은 생물체들에 의해 밟혀 다져진 흔적들이 모여 만들어진 짐승길이 보인다."
+        },
+        {
+                name: "$2.5 (Waypoint 1)",
+                en: "With no hesitation, you decide it is time for you to meet whatever the forest throws at you.",
+                ko: "그 안에 무엇이 있든지 간에, 주저 없이 당신은 숲으로 진입하기로 한다."
+        },
+        {
+                name: "$2.6 (Waypoint 1)",
+                en: "As you observe the caves, you catch a glimpse of humanoid shapes and the glimmer of what may be weapons! There is no more time to admire the landscape!",
+                ko: "당신이 동굴을 관찰하자, 얼핏 사람의 형상과, 무기의 번뜩임으로 보이는 빛이 보인다! 더 이상 경치에 감탄하고 있을 시간은 없다!"
+        },
+        {
+                name: "$2.7 (Waypoint 1)",
+                en: "For a moment a shadow falls, cast by a winged figure high in the sky. The hero turns his gaze upward... but the sky looks empty and blue...",
+                ko: "잠시 동안 의문스러운 그림자가 드리워졌다, 그것은 하늘 높은 곳을 날고 있는 날개 달린 형체에 의한 것으로 보인다. 영웅들은 고개를 들어 위를 바라보지만... 그곳에는 텅빈 파란 하늘뿐이다."
         },
 
-				{
-                        name: "",
-                        en: "",
-                        ko: ""
-                },
+{
+        name: "",
+        en: "",
+        ko: ""
+},
 
-                {
-                        name: "$1.20 (Ending)",
-                        en: "Despite their efforts, the heroes cannot find any trace of the fiery-headed woman. After a while, they are forced to admit the woman has left the city. Without further clues, the party turns to Marcus. After a brief talk with other clerics in the Temple, Marcus tells the heroes of a crow arriving this morning from a city called Lone Pine, lying to the south. The bird carried a message: \“Evil has awakened in our city! The dead rise from their graves to kill their former loved ones! You are the heroes of Twin Wyrms, or so the bards sing, so we beg your help. Please, come to our aid!” Marcus adds, “We do not know whether we are going to find any clue about Dalv there. But, the succubi came from the south, so south is where we should begin.\”",
-                        ko: "영웅들의 노력에도 불구하고 그 붉은 머리 여자의 흔적을 찾을 수 없다. 잠시 후, 영웅들은 그 여자가 이미 도시를 떠났다는 것을 인정해야만 했다. 단서를 얻지 못한 채 일행은 마르커스에게로 향했다. 사원에서 다른 성직자들과 짧은 대화를 나눈 마커스는 남쪽에 위치한 론 파인이라는 도시에서 오늘 아침 까마귀가 도착했다고 말했다. 그 새는 다음과 같은 메세지를 전했다. \"악이 우리 도시에서 깨어났습니다! 무덤에서 죽은 자들이 일어나 그들이 사랑했던 이들을 죽이고 있습니다! 당신들이 음유시인들이 이야기하던 트윈 윔즈의 영웅들이 맞다면 제발, 우리를 도우러 와주세요!\" 마르쿠스는 덧붙였다. \"우리가 그곳에서 달브에 대해 어떤 단서를 찾을 수 있을지는 모르겠군요. 그러나 서큐비들이 남쪽에서 왔으니, 우선 남쪽에서 부터 찾아보는게 좋을 것 같군요.\”"
-                },
-                {
-                        name: "$1.21 (Ending)",
-                        en: "The undead devour both the bodies and souls of the heroes... A timeless Evil will lay waste to the Talon Coast.",
-                        ko: "언데드들은 영웅들의 몸과 영혼을 모두 먹어치운다... 시대를 초월한 악이 탈론 코스트를 폐허로 만들 것이다."
-                },
-		{
-		        name: "ACT II - QUEST II : In the Forest : Introduction",
-		        en: "The Heroes, along with Marcus, journey to Moonchild; their path will pass through the forest, avoiding nearby Lone Pine. The journey unfolds without incident, yet as they catch a glimpse of dense black smoke rising from southwest, the Heroes sadly acknowledge the terrible fate of Lone Pine. While they have avoided any trouble because of the detour, nobody is actually happy. A problem avoided is rarely a problem solved. As if to confirm the sentiment, the forest becomes enshrouded in the mountains' dark shadows.",
-		        ko: "영웅들은 마르쿠스와 함께 문차일드로 향했다. 그들은 론 파인을 피해 숲을 통과하기로 하였다. 여정은 아무런 사고 없이 진행되었지만, 짙은 검은 연기가 남서쪽에서 피어오르는 것이 눈에 들어왔고, 영웅들은 애석하게도 론 파인이 끔찍한 운명을 맞이했다는 것을 알게 되었다. 도시를 우회하여 골칫거리를 피하긴 했지만 좋은 판단은 아니었던 것 같다. 골칫거리를 피한다고 그 것이 아무 문제 없이 사라지는 일은 거의 없다. 이 말을 증명하듯, 숲은 산의 어두운 그림자로 둘러싸이기 시작했다"
-		},
-                {
-                        name: "$2.1 (Waypoint 1)",
-                        en: "A wild, enthralling landscape unfolds before the heroes as the rocky mountain slopes meet the tall pines of the forest.",
-                        ko: "영웅들 앞에, 바위투성이의 산비탈이 커다란 소나무 숲과 맞닿아 있는 황홀한 아생의 풍경이 펼쳐진다."
-                },
-                {
-                        name: "$2.2 (Waypoint 1)",
-                        en: "The mountainside is studded with large and small caverns, some of which look inhabited, judging by the fresh tracks disappearing into the rocky depths.",
-                        ko: "산비탈에 있는 크고 작은 동굴들이 눈에 띈다. 바위 틈으로 이어져있는 발자국으로 판단해 볼 때, 동굴 중 일부에는 사람이 살고 있는 듯 하다."
-                },
-                {
-                        name: "$2.3 (Waypoint 1)",
-                        en: "Scots pines pierce the sky like green spears, heralding one of the most luxuriant regions of the Talon coast.",
-                        ko: "탈론 코스트에서 가장 무성한 숲을 이루는 소나무들이 마치 군단의 창열과도 같이 하늘을 찌르고 있다."
-                },
-                {
-                        name: "$2.4 (Waypoint 1)",
-                        en: "From a distance, what appeared to be a bare patch of ground turns out to be a wild path, which has been heavily trampled by many creatures.",
-                        ko: "멀리, 많은 생물체들에 의해 밟혀 다져진 흔적들이 모여 만들어진 짐승길이 있다."
-                },
-                {
-                        name: "$2.5 (Waypoint 1)",
-                        en: "With no hesitation, you decide it is time for you to meet whatever the forest throws at you.",
-                        ko: "그 안에 무엇이 있든지 간에, 주저 없이 당신은 숲으로 진입하기로 했다."
-                },
-                {
-                        name: "$2.6 (Waypoint 1)",
-                        en: "As you observe the caves, you catch a glimpse of humanoid shapes and the glimmer of what may be weapons! There is no more time to admire the landscape!",
-                        ko: "당신이 동굴을 관찰하자, 그 곳에는 사람의 형상으로 보이는 것과, 무기의 그것으로 보이는 번뜩임이 있었다! 더 이상 경치에 감탄하고 있을 시간은 없다!"
-                },
-                {
-                        name: "$2.7 (Waypoint 1)",
-                        en: "For a moment a shadow falls, cast by a winged figure high in the sky. The hero turns his gaze upward... but the sky looks empty and blue...",
-                        ko: "잠시 동안 의문스러운 그림자가 드리워졌다, 그것은 하늘 높은 곳을 날고 있는 날개 달린 형체에 의한 것으로 보였다. 영웅들은 고개를 들어 위를 바라보았지만... 그곳에는 텅빈 파란 하늘뿐이었다."
-                },
                 {
                         name: "$2.8 (Story Event 1)",
                         en: "As the party reaches a small clearing, the surrounding caves come alive with torches and the savage screams of bloodthirsty raiders charging their prey! Marcus, nearly panicked, exclaims, \“Holy gods! It's an ambush! The southern path is the only way to Moonchild!\” But the answer to Marcus' direction is an orcish roar, commanding the raiders to attack.",
-                        ko: "일행이 작은 공터에 도착했을 때, 주변 곳곳의 동굴에서 횃불의 일렁이는 빛과 함께, 일행을 노리며 달려드는 약탈자들의 피에 굶주리고, 야만스러운 함성 소리가 메아리친다. 마르커스는 거의 패닉에 빠져 말했다. \"맙소사. 신이시여! 기습입니다! 남쪽 길이 문차일드로 향하는 유일한 길입니다.\" 하지만 이에 회답하는 것은 약탈자들의 공격을 지휘하는 오크의 전투 함성이었다."                        
+                        ko: "일행이 작은 공터에 도착했을 때, 주변 곳곳의 동굴에서 횃불의 일렁이는 빛과 함께, 일행을 노리며 달려드는 약탈자들의 피에 굶주리고, 야만스러운 함성 소리가 메아리친다. 마르커스는 거의 패닉에 빠져 말했다. \"맙소사. 신이시여! 기습입니다! 남쪽 길이 문 차일드로 향하는 유일한 길입니다.\" 하지만 이에 회답하는 것은 약탈자들의 공격을 지휘하는 오크의 전투 함성이었다."
                 },
                 {
                         name: "$2.9 (Story Event 2)",
