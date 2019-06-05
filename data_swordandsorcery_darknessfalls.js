@@ -149,43 +149,41 @@
                 en: "For a moment a shadow falls, cast by a winged figure high in the sky. The hero turns his gaze upward... but the sky looks empty and blue...",
                 ko: "잠시 동안 의문스러운 그림자가 드리워졌다, 그것은 하늘 높은 곳을 날고 있는 날개 달린 형체에 의한 것으로 보인다. 영웅들은 고개를 들어 위를 바라보지만... 그곳에는 텅빈 파란 하늘뿐이다."
         },
-
+        {
+                name: "$2.8 (Story Event 1)",
+                en: "As the party reaches a small clearing, the surrounding caves come alive with torches and the savage screams of bloodthirsty raiders charging their prey! Marcus, nearly panicked, exclaims, \“Holy gods! It's an ambush! The southern path is the only way to Moonchild!\” But the answer to Marcus' direction is an orcish roar, commanding the raiders to attack.",
+                ko: "일행이 작은 공터에 도착했을 때, 주변 곳곳의 동굴에서 횃불의 일렁이는 빛과 함께, 일행을 노리며 달려드는 약탈자들의 피에 굶주리고, 야만스러운 함성 소리가 메아리친다.<br>마르커스는 거의 패닉에 빠져 외친다. \"맙소사. 신이시여! 기습입니다! 남서쪽 길이 문 차일드로 향하는 유일한 길입니다.\" 하지만 이에 회답하는 것은 약탈자들의 공격을 지휘하는 오크의 전투 함성 뿐이다."
+        },
+        {
+                name: "$2.9 (Story Event 2)",
+                en: "A terrible rumble drowns out any other sound. Several trees fall and block the southern path, creating a sort of wooded cage! To make matters worse, the assailants’ forces seem unending. Marcus, looking at the flow of enemies coming from the caves, advises the group. \“We are trapped here. We must clear our way through the wood barriers as fast as we can! If we are not able to move ahead very soon, we will die!\"",
+                ko: "커다란 소리가 다른 소리들을 덮어버린다. 몇몇 나무들이 쓰러져 마치 가축 우리와 같은 형태가 되어, 남쪽으로 통하는 길을 막아버린다. 더 끔찍한 것은 공격자들의 기세가 수그러들 기미가 보이지 않는 것이다. 동굴에서 쏟아져 나오는 적들을 보며 마르커스가 말한다. \"우리는 함정에 빠졌군요. 최대한 빠르게 나무들을 치우고 길을 뚫어내야 합니다. 서두르지 않으면 우린 모두 죽게 될 겁니다.\""
+        },
+        {
+                name: "$2.10 (Waypoint 2)",
+                en: "The hero finds a hidden altar among the bushes. The altar is sacred to Aneres, Enomis, and Mir, the three gods who have ruled this world since the dawn of time. Even though the stone altar is partially submerged under a small stream and almost completely covered by moss and ivy, the hero can tell it still emits a powerful celestial energy.",
+                ko: "영웅은 덤불 속에 숨겨진 제단을 발견한다. 그 제단은 태초부터 이 세상을 다스려온 아네레스, 에노미스 그리고 미르, 3명의 신에게 봉헌된 제단이다. 비록 그 돌로된 제단은 작은 개울에 반쯤 잠겨, 이끼와 덩굴로 완전히 뒤덮혀 있지만, 영웅은 그것이 내뿜는 강력하고 신성한 힘을 느낄 수 있다."
+        },
+        {
+                name: "$2.11 (Waypoint 3)",
+                en: "Destroying the last barrier disheartens some bandits, slowing down their assault. Marcus thinks for a moment and says to the heroes, \“These have always been wild lands, but I have never heard of so many forsaken here, or of so violent an attack! Their eyes are bloodshot and they attack in a killing frenzy that is inexplicable. They suffered heavy losses, yet kept attacking... and all for negligible loot! There must be some other reason...\” The cleric's train of thought is interrupted by a whisper from the bushes. \"I am Malak, and I know the reason! Please, spare me, and I will tell you all. I will even guide you to the South, before it's too late... During the night, this place becomes a true nightmare!\” With these words a thin man dressed like a common thief steps out of the bushes, unarmed...",
+                ko: "마지막 장애물을 파괴하자, 약탈자들의 사기가 꺽인 듯, 공격의 기세가 약해진다. 마르커스는 잠시 생각에 잠긴 후 영웅들에게 말한다. \"이 곳은 늘 버려진 땅이었지만, 이 곳에 이렇게 많은 도적들이 있다는 이야기도, 이런 격렬한 습격이 있었다는 이야기도 들은 적이 없습니다! 게다가 놈들의 눈은 충혈되고 이해할 수 없는 살의로 가득차 있군요. 많은 동료가 죽었음에도 놈들은 공격을 멈추지 않고 있습니다... 단순히 우리가 가진 물건을 약탈하기 위해서 이렇게까지 할리가 없습니다. 분명 무언가 다른 이유가 있을겁니다...\"<br>마르커스의 꼬리에 꼬리를 무는 생각은 덤불 속에서 들려온 속삭임으로 인해 중단된다. \"나는 말락이라 하오. 난 그 이유를 알고 있지! 잠시 시간을 준다면 그 모든 것을 이야기 해드리리다. 원한다면 남쪽으로 향하는 길을 안내해 드릴 수도 있지. 서둘러야 하오. 밤이 되면 이 곳은 끔찍한 악몽이 될테니!\" 이 말과 함께 무장도 하지 않은, 평범한 도적의 차림새를 한 마른 남자가 덤불 밖으로 모습을 드러냈다."
+        },
+        {
+                name: "$2.12 (Waypoint 3)",
+                en: "The hero decides to listen to the lowlife before determining what to do with him. \"Oh! Now that I can see you in the light, you're not nearly as scary as Bone Crusher, the evil orc. Hehe! Well... I am Malak. That is my name, although I am also known as 'the quick.'I pledge you my knowledge, for a while!\”",
+                ko: "영웅은 그의 처우를 결정하기 전에 그 도적의 말을 들어보기로 한다. \"오! 이제야 제대로 당신들을 볼 수 있게 되었구려. 당신들은 그 사악한 오크, 뼈 파괴자만큼 무섭진 않구만. 헤헤! 음... 난 말락이라오. '재빠른 자' 로 알려져 있기도 하지만, 그게 내 이름이지. 잠시 내가 알고 있는 것을 알려드리리다.\""
+        },
+        {
+                name: "$2.13 (Waypoint 3)",
+                en: "\“I have only been with the gang a few days. I used to live in Lone Pine, but I decided to move on. Well, one of my customers, a man who died three days earlier, mind you, tried to kill me... Dead for three days and there he was, sword in hand! It's a true story - and not a pretty one, I might add. Death walks the streets of Lone Pine. Keep away from there! But yes, about here and now... this place only has one law: if you are the strongest, you command. And I am not nearly the strongest. When I saw you fighting your way through the ambuscade, I understood I had to move on again...\"",
+                ko: "\"내가 놈들과 함께 있었던 것은 며칠 뿐이외다. 나는 원래 론 파인에 살았지만 거처를 옮겨야만 했어. 그러니까... 내 고객 중 한 명이 있었는데, 그는 3일 전에 죽었지. 그런데 말이야, 그가 날 죽이려 했다오... 3일간 죽어있던 사람이 말야, 그것도 손에 칼을 들고! 거짓말이 아니라오. 그래서 더 끔찍하지. 말하자면, 죽음이 론 파인의 거리를 활보하고 있다오. 그 곳에는 접근하지 않는게 좋을거요.<br>하지만, 여기는... 한가지 법 밖에 없다오. 가장 강한 자가 모두를 다스린다는 법. 그리고 그건 내게는 어림없는 이야기지. 매복을 뚫고 나오는 당신을 봤을 때 난 깨달았다오. 다시 한 번 거처를 옮길 때가 되었다는 것을.\n"
+        },
 {
         name: "",
         en: "",
         ko: ""
 },
-
-                {
-                        name: "$2.8 (Story Event 1)",
-                        en: "As the party reaches a small clearing, the surrounding caves come alive with torches and the savage screams of bloodthirsty raiders charging their prey! Marcus, nearly panicked, exclaims, \“Holy gods! It's an ambush! The southern path is the only way to Moonchild!\” But the answer to Marcus' direction is an orcish roar, commanding the raiders to attack.",
-                        ko: "일행이 작은 공터에 도착했을 때, 주변 곳곳의 동굴에서 횃불의 일렁이는 빛과 함께, 일행을 노리며 달려드는 약탈자들의 피에 굶주리고, 야만스러운 함성 소리가 메아리친다. 마르커스는 거의 패닉에 빠져 말했다. \"맙소사. 신이시여! 기습입니다! 남쪽 길이 문 차일드로 향하는 유일한 길입니다.\" 하지만 이에 회답하는 것은 약탈자들의 공격을 지휘하는 오크의 전투 함성이었다."
-                },
-                {
-                        name: "$2.9 (Story Event 2)",
-                        en: "A terrible rumble drowns out any other sound. Several trees fall and block the southern path, creating a sort of wooded cage! To make matters worse, the assailants’ forces seem unending. Marcus, looking at the flow of enemies coming from the caves, advises the group. \“We are trapped here. We must clear our way through the wood barriers as fast as we can! If we are not able to move ahead very soon, we will die!\"",
-                        ko: "끔찍한 산사태 소리가 다른 소리들을 덮어버렸다. 몇몇 나무들이 쓰러져 마치 가축 우리와 같은 형태로, 남쪽으로 통하는 길을 막아버렸다. 더 나쁜 소식은 공격자들의 기세가 수그러들 기미가 보이지 않는 것이다. 동굴에서 쏟아져 나오는 적들을 보며 마르커스가 말했다. \"우리는 함정에 빠졌군요. 최대한 빠르게 나무들을 치우고 길을 뚫어내야 합니다. 서두르지 않으면 우린 모두 죽게 될 겁니다.\""
-                },
-                {
-                        name: "$2.10 (Waypoint 2)",
-                        en: "The hero finds a hidden altar among the bushes. The altar is sacred to Aneres, Enomis, and Mir, the three gods who have ruled this world since the dawn of time. Even though the stone altar is partially submerged under a small stream and almost completely covered by moss and ivy, the hero can tell it still emits a powerful celestial energy.",
-                        ko: "영웅은 덤불 속에 숨겨진 제단을 발견했다. 그 제단은 태초부터 이 세상을 다스려온 아네레스, 에노미스 그리고 미르, 3명의 신을 모시는 제단이었다. 비록 그 돌로된 제단은 작은 개울에 반쯤 잠겨, 이끼와 덩굴로 완전히 뒤덮혀 있었지만, 영웅은 그것이 내뿜는 강력하고 신성한 힘을 느낄 수 있었다."
-                },
-                {
-                        name: "$2.11 (Waypoint 3)",
-                        en: "Destroying the last barrier disheartens some bandits, slowing down their assault. Marcus thinks for a moment and says to the heroes, \“These have always been wild lands, but I have never heard of so many forsaken here, or of so violent an attack! Their eyes are bloodshot and they attack in a killing frenzy that is inexplicable. They suffered heavy losses, yet kept attacking... and all for negligible loot! There must be some other reason...\” The cleric's train of thought is interrupted by a whisper from the bushes. \"I am Malak, and I know the reason! Please, spare me, and I will tell you all. I will even guide you to the South, before it's too late... During the night, this place becomes a true nightmare!\” With these words a thin man dressed like a common thief steps out of the bushes, unarmed...",
-                        ko: "마지막 장애물을 파괴하자, 약탈자들의 사기가 꺽인 듯, 공격의 기세가 약해진다. 마르커스는 잠시 생각에 잠긴 후 영웅들에게 말한다. \"이 곳은 늘 버려진 땅이었고, 이 곳에 이렇게 많은 도적들이 있다는 이야기도, 이런 격렬한 습격이 있었다는 이야기도 들은 적이 없습니다! 게다가 놈들의 눈은 충혈되고 이해할 수 없는 살의로 가득차 있군요. 많은 동료가 죽었음에도 놈들은 공격을 멈추지 않고 있습니다... 단순히 우리가 가진 물건을 약탈하기 위해서 이렇게까지 할리가 없습니다. 분명 무언가 다른 이유가 있을겁니다...\" 마르커스의 꼬리에 꼬리를 무는 생각은 덤불 속에서 들려온 속삭임으로 인해 중단되었다. \"나는 말락이라 하오. 난 그 이유를 알고 있지! 잠시 시간을 준다면 그 모든 것을 이야기 해드리리다. 원한다면 남쪽으로 향하는 길을 안내해 드릴 수도 있지. 서둘러야 하오. 밤이 되면 이 곳은 끔찍한 악몽이 될테니!\" 이 말과 함께 무장도 하지 않은, 평범한 도적의 차림새를 한 마른 남자가 덤불 밖으로 모습을 드러냈다."
-                },
-                {
-                        name: "$2.12 (Waypoint 3)",
-                        en: "The hero decides to listen to the lowlife before determining what to do with him. \"Oh! Now that I can see you in the light, you're not nearly as scary as Bome Crusher, the evil orc. Hehe! Well... I am Malak. That is my name, although I am also known as 'the quick.'I pledge you my knowledge, for a while!\”",
-                        ko: "영웅은 자신을 어떻게 할지 결정하기 전에 하층민에게 귀를 기울이기로 결심한다. \"아! 이제 내가 너를 불빛에서 볼 수 있게 되었으니, 너는 사악한 오크인 보메 크루셔만큼 무섭지 않구나. 헤헤! 음... 나는 말락이다. 그것이 내 이름이다. 나는 '빠른 사람'으로도 알려져 있다.'나는 너에게 잠시 동안 내 지식을 맹세한다.'\”"
-                },
-                {
-                        name: "$2.13 (Waypoint 3)",
-                        en: "\“I have only been with the gang a few days. I used to live in Lone Pine, but I decided to move on. Well, one of my customers, a man who died three days earlier, mind you, tried to kill me... Dead for three days and there he was, sword in hand! It's a true story - and not a pretty one, I might add. Death walks the streets of Lone Pine. Keep away from there! But yes, about here and now... this place only has one law: if you are the strongest, you command. And I am not nearly the strongest. When I saw you fighting your way through the ambuscade, I understood I had to move on again...\"",
-                        ko: "나는 그 갱들과 며칠밖에 함께 있지 않았다. 나는 예전에 Lone Fine에 살았지만, 앞으로 나아가기로 결심했다. 음, 내 고객 중 한 명이 3일 전에 죽은 남자야, 알았어, 날 죽이려고 했어... 3일 동안 죽었는데, 손에 칼을 들고 있었어! 그것은 사실이야. 예쁜 것이 아니라, 내가 덧붙일 수 있을 것 같아. Lone Pine의 거리는 죽음이다. 거기서 떨어져! 하지만 그래, 지금 여기서... 이곳은 오직 하나의 법만을 가지고 있다. 당신이 가장 강하다면 명령하라. 그리고 나는 거의 힘이 세지 않다. 네가 앰버시드를 뚫고 가는 걸 봤을 때, 난 다시 나아가야 한다는 걸 알았어...\""
-                },
                 {
                         name: "$2.14 (Waypoint 3)",
                         en: "\“You have been fighting Cave Raiders. They were just a small band of forsaken, but in the last few weeks it seems every cutthroat around here wanted a place among them. Something is drawing them, you see? Quite strange. Perhaps it's due to their leader's charisma. Altair, that's his name. His voice is so enthralling, so convincing, he even has a bevy of gorgeous women in this dung bole. Of course, he was not here today, but he won't be happy to learn you killed bis orc lieutenant, Bone Crusher. When you entered the area, scouts signaled your presence. Altair failed to leave precise orders about travelers – they are quite uncommon around here. Something must have happened. It looked like the raiders wanted you dead. Your gear, maybe. You looked like easy picking, perhaps. I dunno.\” \"But, hell, they forced me to attack when the ambush began, and I am not the killer type. I want to live, and I am a survivor. Plus, I know when I have no chance in a fight and, guys, I would have had no chance against you. So... here I am.\”",
