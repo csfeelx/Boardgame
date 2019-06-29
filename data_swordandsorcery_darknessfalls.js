@@ -157,7 +157,7 @@
         {
                 name: "$2.9 (Story Event 2)",
                 en: "A terrible rumble drowns out any other sound. Several trees fall and block the southern path, creating a sort of wooded cage! To make matters worse, the assailants’ forces seem unending. Marcus, looking at the flow of enemies coming from the caves, advises the group. \“We are trapped here. We must clear our way through the wood barriers as fast as we can! If we are not able to move ahead very soon, we will die!\"",
-                ko: "커다란 소리가 다른 소리들을 덮어버린다. 몇몇 나무들이 쓰러져 마치 가축 우리와 같은 형태가 되어, 남쪽으로 통하는 길을 막아버린다. 더 끔찍한 것은 공격자들의 기세가 수그러들 기미가 보이지 않는 것이다. 동굴에서 쏟아져 나오는 적들을 보며 마르커스가 말한다. \"우리는 함정에 빠졌군요. 최대한 빠르게 나무들을 치우고 길을 뚫어내야 합니다. 서두르지 않으면 우린 모두 죽게 될 겁니다.\""
+                ko: "커다란 소리가 다른 소리들을 덮어버린다. 몇몇 나무들이 쓰러져 마치 가축 우리와 같은 형태가 되어, 남쪽으로 통하는 길을 막아버린다. 더 끔찍한 것은 놈들의 기세가 수그러들 기미가 보이지 않는 것이다. 동굴에서 쏟아져 나오는 적들을 보며 마르커스가 말한다. \"우리는 함정에 빠졌군요. 최대한 빠르게 나무들을 치우고 길을 뚫어내야 합니다. 서두르지 않으면 우린 모두 죽게 될 겁니다.\""
         },
         {
                 name: "$2.10 (Waypoint 2)",
@@ -179,11 +179,6 @@
                 en: "\“I have only been with the gang a few days. I used to live in Lone Pine, but I decided to move on. Well, one of my customers, a man who died three days earlier, mind you, tried to kill me... Dead for three days and there he was, sword in hand! It's a true story - and not a pretty one, I might add. Death walks the streets of Lone Pine. Keep away from there! But yes, about here and now... this place only has one law: if you are the strongest, you command. And I am not nearly the strongest. When I saw you fighting your way through the ambuscade, I understood I had to move on again...\"",
                 ko: "\"내가 놈들과 함께 있었던 것은 며칠 뿐이외다. 나는 원래 론 파인에 살았지만 거처를 옮겨야만 했어. 그러니까... 내 고객 중 한 명이 있었는데, 그는 3일 전에 죽었지. 그런데 말이야, 그가 날 죽이려 했다오... 3일간 죽어있던 사람이 말야, 그것도 손에 칼을 들고! 거짓말이 아니라오. 그래서 더 끔찍하지. 말하자면, 죽음이 론 파인의 거리를 활보하고 있다오. 그 곳에는 접근하지 않는게 좋을거요.<br>하지만, 여기는... 한가지 법 밖에 없다오. 가장 강한 자가 모두를 다스린다는 법. 그리고 그건 내게는 어림없는 이야기지. 매복을 뚫고 나오는 당신을 봤을 때 난 깨달았다오. 다시 한 번 거처를 옮길 때가 되었다는 것을.\n"
         },
-{
-        name: "",
-        en: "",
-        ko: ""
-},
                 {
                         name: "$2.14 (Waypoint 3)",
                         en: "\“You have been fighting Cave Raiders. They were just a small band of forsaken, but in the last few weeks it seems every cutthroat around here wanted a place among them. Something is drawing them, you see? Quite strange. Perhaps it's due to their leader's charisma. Altair, that's his name. His voice is so enthralling, so convincing, he even has a bevy of gorgeous women in this dung bole. Of course, he was not here today, but he won't be happy to learn you killed bis orc lieutenant, Bone Crusher. When you entered the area, scouts signaled your presence. Altair failed to leave precise orders about travelers – they are quite uncommon around here. Something must have happened. It looked like the raiders wanted you dead. Your gear, maybe. You looked like easy picking, perhaps. I dunno.\” \"But, hell, they forced me to attack when the ambush began, and I am not the killer type. I want to live, and I am a survivor. Plus, I know when I have no chance in a fight and, guys, I would have had no chance against you. So... here I am.\”",
@@ -202,33 +197,38 @@
                 {
                         name: "$2.17 (Waypoint 3)",
                         en: "A quick lunge takes Malak's life. As the body falls on the ground, Marcus whispers, \“In these lands, evil prospers and the good fall in battle. But not today! Yet we could not trust that man. He could have led us into another ambush or fatally slowed us down. We should move on, perhaps toward the south (Story Event 3).\”",
-                        ko: "재빠른 공격에 말락은 목숨을 잃었다. 그의 시체가 바닥에 쓰러지자, 마르커스가 속삭인다, \"이런 곳에서는 악이 번성하고 선한이들은 전투에서 쓰러지지요. 하지만 오늘은 아닙니다! 우리는 저런 자를 믿어서는 안됩니다. 저자는 우리는 다른 매복으로 이끌거나, 치명적으로 지체 시킬 수도 있었을 것 겁니다. 우리는 움직여야만 합니다. 아마도 남쪽으로 가야겠지요 (Story Event 3).\""
+                        ko: "재빠른 공격에 말락은 잃는다. 그의 시체가 바닥에 쓰러지자, 마르커스가 속삭인다, \"이런 곳에서는 악이 번성하고 선한이들은 전투에서 쓰러지지요. 하지만 오늘은 아닙니다! 우리는 저런 자를 믿어서는 안됩니다. 저자는 우리는 다른 매복으로 이끌거나, 치명적으로 지체 시킬 수도 있었을 것 겁니다. 우리는 움직여야만 합니다. 아마도 남쪽으로 가야겠지요 (Story Event 3).\""
                 },
                 {
                         name: "$2.18 (Story Event 3)",
                         en: "The heroes reach the Southern border and encounter a man with crossed arms, a sword in his scabbard. He immediately approaches and says menacingly, \“You cannot stop the evil from invading these lands. You are but prey crawling toward the center of the web.\” While the man speaks, Marcus scowls and recites a revelation spell. The magic reveals a female winged demon hovering over the man, speaking through his voice! Discovered, the demon continues with a harsh voice, \“You are but weak-minded subcreatures! Our master is coming, and you will perish in flame; you and all your kind!\” With this threat, both the demon and the man escape among the trees. The party draws their weapons as Marcus rallies them. \“The raiders of this land have been enthralled by the demons. If we stop their leader, perhaps the bond will break. If not, we will have to kill all the demons, but there is no choice! They are not defending their lands. They want us dead!\”",
-                        ko: "영웅들은 남쪽 국경에 다다랐고, 그의 칼에 팔짱을 낀 한 남자를 만난다. 그는 즉시 다가가서 위협적으로 말한다. \"악이 이 땅을 침범하는 것을 막을 수는 없다. 너는 단지 웹의 중앙으로 기어가는 먹이에 불과하다.남자가 말하는 동안 마커스는 허풍을 떨며 계시를 낭독한다. 이 마술은 날개 달린 암컷 악마가 그의 목소리를 통해 말을 하면서 그 남자 위를 맴도는 것을 보여준다. 발견되었으니, 악마는 계속해서 거친 목소리로 말한다. \"너는 단지 약하지만 속마음이 약한 서브 크리에이션이야! 우리의 주인이 오니, 너희는 불꽃으로 망할 것이다. 너희와 너희의 모든 종들아,\" 이 위협으로 악마와 남자는 나무들 사이에서 탈출한다. 그 정당은 마르쿠스가 그들을 규합할 때 그들의 무기를 끌어낸다. 이 땅의 침입자들은 악령들에게 사로잡혀 있다. 우리가 그들의 지도자를 멈추면, 아마도 그 유대감은 깨질 것이다. 그렇지 않으면, 우리는 모든 악마를 죽여야 할 것이다. 하지만 어쩔 수 없다! 그들은 그들의 땅을 지키고 있지 않다. 그들은 우리가 죽기를 원해!\”"
+                        ko: "영웅들은 남쪽 변경에 도달했고, 그곳에서 팔짱을 낀 남자 하나를 만난다. 칼 한자루가 그의 칼집에 꽂혀있다. 그는 순식간에 다가와 위협적으로 말한다, \"너희는 이 땅에 다가오는 악을 막을 수 없다, 너희들은 거미줄 위에서 몸부림 치는 벌레에 불과해.\" 그가 말하는 동안 마르커스는 주변을 응시하더니, 숨겨진 것을 드러내는 주문을 영창한다. 그 마법은 남자 위에 떠 있는 날개 달린 여성형 악마의 모습을 드러나게 했다, 그 악마가 그를 통해 이야기하고 있었던 것이다! 정체가 들통난 악마는 냉혹한 목소리로 이야기를 계속한다, \"너희는 나약한 정신을 가진 미물일 뿐이야! 주인님께서 오신다, 너희들은 화염 속에서 재가 될 것이다. 너와 너희 종족 모두!\" 위협의 말을 남기고, 악마와 그 남자는 나무 사이로 도망친다. 일행은 마르커스의 외침과 동시에 무기를 뽑아든다. \"이 땅의 약탈자들은 악마들에게 홀려있었습니다. 두목을 해치우면 놈들에 걸린 주문을 부술 수 있을 겁니다. 그렇지 않으면 우리는 모든 악마들을 죽여야 하겠지요. 우리에게는 선택지가 없군요. 놈들은 우리를 쫓아내려는게 아닙니다. 우리를 죽음을 원하는거지요!\""
                 },
                 {
                         name: "$2.19 (Story Event 3)",
                         en: "The wound inflicted against the demon becomes pure white flame and consumes the unholy being in a flash of black lightning, leaving nothing behind but a burned pentagram on the ground. As the demons disappear, the raiders and their leader seem to wake from a dream.",
-                        ko: "마귀에게 가해진 상처는 순수한 백색 불꽃이 되고, 검은 번개가 번쩍이며, 땅 위에 불에 탄 5각형만 남긴다. 악마가 사라지면서 침략자들과 그들의 지도자는 꿈에서 깨어나는 것처럼 보인다."
+                        ko: "그 악마가 부상을 입자 그 상처는 눈부신 백색의 불꽃이 되고, 검은 번개가 번쩍이며 그 부정한 존재를 삼켜버린다. 그 뒤에 남은 것은 땅위에 그려진 불에 탄 펜타그램 뿐이다. 악마가 사라지자, 무법자들과 그들의 두목은 꿈에서 깨어난 듯 정신을 차린 것 같이 보인다."
                 },
                 {
                         name: "$2.20 (Story Event 3)",
                         en: "When the demonic bond is destroyed, the man shakes his head and then looks at his wound. He says softly, \“I acknowledge my mind was charmed by that gorgeous and wicked creature. Yet, you have wounded me, Altair the beautiful, leader of the Cave Raiders. I hope you understand there is nothing personal, but I cannot leave you alive. That would be a terrible, terrible example for my men. So, and I am truly sorry for this, you all have to die.\”",
-                        ko: "악마의 결합이 파괴되면, 그 남자는 그의 머리를 흔들고 그의 상처를 본다. 그는 아름답고 사악한 생물이 내 마음을 사로잡은 것을 인정한다. 그러나 당신은 나에게 상처를 입혔다. 아름다운 동굴탐험가들의 우두머리 알테어. 개인적인 건 없다는 걸 이해했으면 좋겠는데, 널 살려둘 순 없어. 그것은 내 부하들에게 끔찍하고 끔찍한 예일 것이다. 그래서 정말 미안하다. 너희 모두 죽어야 한다."
+                        ko: "악마의 주문이 사라지자, 남자는 그의 머리를 흔들고 그의 상처를 본다. 그는 부드럽게 이야기 한다. \"내가 그 매혹적이고 사악한 존재에게 홀려있었다는 것은 인정하지. 하지만, 너희는 나를 상처 입혔어, 무리의 우두머리인 나 아름다운 알타이어를 말이야. 사적인 감정은 없다는 것을 알아주었으면 좋겠군, 난 너희를 살려 보내 줄 수 없어, 그건 부하들을 다루는데 있어 매우 좋지 않은 보기가 될거야. 그러니 진심으로 미안하지만, 너희 모두 죽어줘야 겠다.\""
                 },
                 {
                         name: "$2.21 (Story Event 3)",
                         en: "When the demonic bond is destroyed, the man shakes his head and then looks at himself. He speaks to the heroes, \“I acknowledge my mind was charmed by that gorgeous and wicked creature. Yet, I also must admit you – whoever you are - did your best not to wound me, Altair the beautiful, leader of the Cave Raiders. Let no one say I am ungrateful. You are free to go. But, I am no longer in your debt. Should our paths cross once more, I am afraid there will be blood. Farewell!\” With these words, Altair and his band melt into the forest.",
-                        ko: "악마의 결합이 파괴되면, 그 남자는 그의 머리를 흔들고 자신을 바라본다. 그는 영웅들에게 말한다. \"나는 내 마음이 그 멋지고 사악한 생물에 매혹되었다는 것을 인정한다. 그러나, 나는 또한, 네가 누구이든지 간에, 나를 다치게 하지 않기 위해 최선을 다했다는 것을 인정해야 한다. 아름다운 동굴탐험가들의 지도자, 알테어. 아무도 내가 배은망덕하다고 말하지 못하게 해라. 가도 좋다. 하지만, 나는 더 이상 너의 빚이 아니다. 우리가 다시 한번 길을 건너면 피가 날까 봐 걱정이다. 잘 지내!\"이러한 말로 알테어와 그의 밴드는 숲 속으로 녹아든다."
+                        ko: "악마의 주문이 사라지자, 남자는 그의 머리를 흔들고 자신을 살펴본다. 그는 영웅들에게 말한다. \"내가 그 매혹적이고 사악한 존재에게 홀려있었다는 것을 인정해야겠군. 그리고 너희가 누구이든 간에 나를 상처 입히지 않게 하기 위해 최선을 다 했다는 것도 인정해야겠어. 무리의 우두머리인 나 아름다운 알타이어를 말이야. 배은망덕하다는 소리를 들을 수는 없지. 너희는 가도 좋다. 하지만 더 이상의 빚은 없다는 것을 알아둬, 다시 한 번 만나게 된다면 그 때는 피가 흐르게 될까 두렵군. 그만 가라!\" 이 말과 함께 알타이어와 그의 무리는 숲 속으로 사라졌다."
                 },
                 {
                         name: "$2.22 (Story Event 3)",
                         en: "The battle ends when the raider leader falls. In some way, the man was a catalyst for the demonic magic. When the spell is broken, the raiders run away, disappearing into the forest.",
-                        ko: "습격자 지도자가 쓰러지면 전투는 끝난다. 어떤 면에서, 그 남자는 악마 마술의 촉매제였다. 그 주문이 깨지면, 침입자들은 숲으로 사라지면서 도망간다."
+                        ko: "약탈자들의 두목이 쓰러지자 전투는 끝이 난다, 어찌보면 그 남자는 악마의 마법에 필요한 촉매인듯 하다. 주문이 사라지자, 약탈자들은 도망쳐, 숲 속으로 사라진다."
                 },
+								{
+        name: "",
+        en: "",
+        ko: ""
+},
                 {
                         name: "$2.23 (Quest Enemy Shadow)",
                         en: "As impossible as it seems, the hero spots one of those horrible gremlins, with spirited eyes and sharp, wicked claws. The vile, evil creature seems to be very quick and poised to attack!",
