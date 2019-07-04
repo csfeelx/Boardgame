@@ -380,13 +380,145 @@
                         ko: "패배는 끔찍하고 영웅들은 몸과 영혼에 상처를 입는다. 그들은 그들의 소유물을 모으고 슬프게도 문차일드에게 닿기 위해 론 파인까지 다시 건너가는 대신에 숲을 통과하기로 결정한다."
                 },
 
-                // 초벌 작업 : ~19
+                {
+                        name: "ACT II - QUEST IV : Moonchild : Introduction",
+                        en: "At last the Heroes reach the gates of Moonchild. Spectral clouds cover the moon's silver sickle in the sky, and the walls are manned by torch-bearing guards. One of them gets sight of the Heroes and yells, \"Stangers! You are welcome, but know that this city is expecting an undead siege anytime now, coming from the South. Entering Moonchild means tempting your own fate!\" The gates open, and Marcus introduces the Heroes, asking to speak to the mayou. Yet the guard, visivly upset, answers, \"The town hall will not open until tomorrow morning. You can talk to Inspector Crane, near to the walls of the next block. He is examining the scene of yet anothr heinous crime...\" <b>See Paragraph $4.1.</b>",
+                        ko: "마침내 영웅들은 문차일드의 문 앞에 다다른다. 스펙트럼 구름은 하늘의 달의 은 낫을 덮고, 벽은 횃불을 든 경비병들이 유인한다. 그들 중 한 명이 영웅들을 보고 소리를 지른다. \"상인! 천만에요, 하지만 이 도시는 남쪽에서 오는, 지금 당장이라도 전멸하지 않는 포위 공격을 기대하고 있다는 걸 알아라. 문차일드에 들어가는 것은 자신의 운명을 유혹하는 것을 의미한다!\" 성문이 열리고 마커스가 마유에게 말을 부탁하며 히어로즈를 소개한다. 그러나 경비원은 눈에 띄게 화가 난 듯 대답한다. \"마을 회관은 내일 아침이 되어서야 문을 열 것이다. 크레인 경감과 대화할 수 있어 다음 블록의 벽 근처야 그는 아직도 악랄한 범죄의 현장을 조사하고 있다...\" <b>4.1. </b>를 참조하라."
+                },
+                {
+                        name: "$4.1 (Introduction)",
+                        en: "The party finds Investigator Crane crouched over a woman's mangled corpse. As one of the guards introduces the heroes, Crane snaps some orders and rises to welcome them. \"Hail, good sirs. Your fame and reputation precede you, thus I think I know enough about you and your vampire Count mission... No surprise there. You, on the other hand, know nothing about me. Crane... My name is Ichabod Crane. First of all, you should know these homicides started just after the undead army was sighted.\" He points at the body laying at his feet, or what remains of it, and adds, \"They have only two things in common - the timing, from dusk to dawn, and the efficient brutality of the deep slashes on the victims, inflicted by razor-sharp implements. No one is safe in this city anymore.\" After a dramatic pause, he continues, \"Usually I do not like strangers intruding upon my investigations, but I am short on men so, since I know your deeds, perhaps you can help us. Should you accept, at least one of you must go to the Town Hall (Waypoint 1) as soon as possible: I am sure the mayor will grant you a commensurate reward. Well, whenever you are comfortable starting investigating, you can do it on my behalf. May the gods be with you.\" The adventure begins!",
+                        ko: "그 일당은 조사관 크레인이 여자의 으스러진 시체 위에 웅크리고 있는 것을 발견한다. 경비원 중 한 명이 영웅들을 소개할 때, 크레인은 몇 가지 명령을 받고 그들을 환영하기 위해 일어선다. 당신의 명성과 명성은 당신보다 앞서 있으니, 나는 당신과 당신의 흡혈귀 백작 미션에 대해 충분히 알고 있다고 생각한다... 놀랄 일이 없는. 반면에 넌 나에 대해 아무것도 몰라. 크레인... 내 이름은 Ichabod Crane이다. 우선 언데드 군대가 목격된 직후부터 이런 살인이 시작됐음을 알아야 한다.\"그는 자신의 발 앞에 놓여 있는 시체, 또는 남은 것을 가리키며, \"그들은 두 가지 공통점이 있다. 즉, 황혼에서 새벽까지, 그리고 면도날처럼 날카로운 도구들로 인해 희생자들에게 가해진 깊은 슬래시의 효율적인 잔인성. 이 도시에서는 아무도 더 이상 안전하지 않다.\" 극적인 중단 후, 그는 계속해서 \"보통 나는 내 조사를 방해하는 낯선 사람들을 좋아하지 않지만, 나는 남자들이 부족하기 때문에, 나는 당신의 행동을 알고 있기 때문에, 아마도 당신은 우리를 도울 수 있을 것이다. 수락할 경우, 적어도 한 명은 가능한 한 빨리 시청(Waypoint 1)으로 가야 한다. 나는 시장이 당신에게 그에 상응하는 보상을 해줄 것이라고 확신한다. 글쎄, 네가 조사를 시작하는 게 편할 때마다, 날 대신해서 할 수 있어. 신들이 너와 함께하길.\" 모험이 시작된다!"
+                },
+                {
+                        name: "$4.2 (Waypoint 1)",
+                        en: "The town hall is the main building in the city and was built centuries ago by the now extinct House Wyrgen. Every beam and brick in the building still bear the mark of the wolf, the symbol of Wyrgen. The central area of the building is marked by a large circle on the floor, enclosing a huge picture of a wolf's head surrounded by the lunar phases. A short man in elegant clothes, slightly limping on his right leg, interrupts the heroes' exploration. He speaks with a haughty manner. \"My name is Igor, and these are very busy days. If you wish to speak to the mayor, you must wait. I will not change my schedule for some wanderers.\"",
+                        ko: "타운홀은 도시의 주요 건물이며 수세기 전에 현재 멸종된 하우스 와이르겐에 의해 지어졌다. 건물 안의 모든 빔과 벽돌에는 아직도 와이르겐의 상징인 늑대의 흔적이 남아 있다. 건물의 중심부에는 방바닥에 커다란 원이 그려져 있으며, 달 상으로 둘러싸인 늑대의 거대한 머리 그림이 둘러져 있다. 우아한 옷을 입은 키 작은 남자가 오른쪽 다리를 약간 절뚝거리며 영웅들의 탐구를 방해한다. 그는 거만한 태도로 말한다. \"내 이름은 이고, 요즘 아주 바쁜 나날들이야. 시장과 통화하려면 기다려야 한다. 나는 몇몇 방랑자들을 위해 내 일정을 바꾸지 않을 것이다.\""
+                },
+                {
+                        name: "$4.3 (Waypoint 4)",
+                        en: "At first, the inside of the Slaughtered Lamb tavern appears quite appalling: dozens of animal skeletons hang from the ceiling, and a huge magical pentagram flanked by two equally large candles dominates the main wall. Yet the place is crowded with people looking for company and amusement in such dire times. The innkeper approaches the heroes while cleaning the traditional stein.",
+                        ko: "처음에는 슬러브 람 주점의 내부는 꽤 끔찍하게 보인다. 수십 개의 동물 뼈대가 천장에 매달려 있고, 똑같이 큰 두 개의 초가 비스듬히 주벽을 지배하고 있는 거대한 마법의 오각형이 주벽을 지배하고 있다. 하지만 이 곳은 이렇게 지독한 시기에 동행을 찾고 있는 사람들로 붐빈다. 여관 주인이 전통적인 기장을 닦으며 영웅들에게 다가간다."
+                },
+                {
+                        name: "$4.4 (Waypoint 1)",
+                        en: "The heroes put away their ego and decide the Talon Coast already offers them abundant enemies; there is no need to make new ones. They patiently wait for their turn.",
+                        ko: "영웅들은 자존심을 버리고 탈론해안은 이미 그들에게 풍부한 적을 제공한다고 결정하는데, 새로운 적을 만들 필요는 없다. 그들은 참을성 있게 차례를 기다린다."
+                },
+                {
+                        name: "$4.5 (Waypoint 4)",
+                        en: "With a half-dismayed, half-proud attitude, the innkeeper speaks to the hero: \"I can only offer you salted meat. We're making preparation for the siege, you know... But, you can have excellent cider with that! Trust me, this apple nectar will make you think you’re at a royal banquet, friend!\"",
+                        ko: "반쯤 흐물흐물한 태도로 여관 주인이 영웅에게 말한다: \"나는 소금에 절인 고기밖에 줄 수 없다. 우린 포위망을 준비하고 있어, 너도 알다시피... 하지만, 여러분은 그것으로 훌륭한 사이다를 가질 수 있답니다! 날 믿어, 이 사과 과즙이 널 궁중 연회에 온 것처럼 생각하게 만들 거야, 친구!\""
+                },
+                {
+                        name: "$4.6 (Waypoint 1)",
+                        en: "Life is too short to wait for the Mayor's bidding. The hero exits the building, possibly returning some time later.",
+                        ko: "시장의 입찰을 기다리기에는 인생이 너무 짧다. 영웅은 건물 밖으로 나가는데, 아마도 얼마 후에 돌아올 것이다."
+                },
+                {
+                        name: "$4.7 (Waypoint 4)",
+                        en: "As in every city on the Coast, there is no better way to get acquainted with news than to sit in the corner of an inn listening to the drunken voices. Among the news about the siege and lovers' quarrels, an old farmer's voice draws the attention of the heroes. The one-eyed old man complains: \"The dark times are again upon us. First, our king falls. Then, the dead walk again. Now, there's a gruesome murderer that eviscerates his victims by night. My only eye has seen what the killer can do. Believe me, good people, I happened to pass by a corpse last night, and it was... yes, it was like crazy Kessler's stories. The old hermit who lives in that rickety ancient house (Waypoint 3). We may call him crazy, but WE are the mad ones! The dark times are again upon us!\" The last words of the old man are drowned by a huge gulp of cider.",
+                        ko: "해안가의 어느 도시나 그렇듯이 여관 구석에 앉아 술취한 목소리를 듣는 것보다 더 좋은 소식은 없다. 포위와 연인들의 말다툼 소식 가운데 늙은 농부의 목소리가 영웅들의 관심을 끈다. 외눈박이 노인은 불평한다: \"어두운 시절이 다시 우리에게 다가왔다. 먼저 우리 왕이 쓰러진다. 그리고 나서, 죽은 사람들은 다시 걷는다. 밤에 희생자들을 쫓아내는 섬뜩한 살인범이 있어 내 유일한 눈은 살인자가 무엇을 할 수 있는지 알아냈다. 날 믿어, 좋은 사람들이여, 어젯밤에 우연히 시체 옆을 지나쳤는데, 그게... 그래, 케슬러의 미친 이야기 같았어 저 지저분한 고택에 살고 있는 늙은 은둔자(Waypoint 3). 우리는 그를 미쳤다고 부를지 모르지만, 우리는 미친 사람들이야! 암흑시대가 다시 다가오고 있어!\" 노인의 마지막 말이 사이다를 엄청나게 한 모금 들이켜서 익사한다."
+                },
+                {
+                        name: "$4.8 (Waypoint 1)",
+                        en: "There will be a day to wait for the bidding of small, well-dressed men of the court... but this is not that day! Looking down on Igor, the heroes again demand an audience with the mayor, and this time their tone leaves no room for replies or objections. Terrified by the heroes' wrath, Igor scrambles to summon the mayor. As he runs away, a small pouch full of coins falls from his vest.",
+                        ko: "궁중의 작고 잘 차려입은 남자들의 입찰을 기다리는 날이 올 것이다... 하지만 오늘은 그런 날이 아니야! 이고르를 내려다보며 영웅들은 다시 시장에게 청중을 요구하는데, 이번에는 그들의 어조가 대꾸나 이의제기를 할 여지를 남기지 않는다. 영웅들의 분노에 놀란 이고르는 시장을 소환하기 위해 허둥댄다. 그가 달아나자 그의 조끼에서 동전이 가득 든 작은 주머니가 떨어진다."
+                },
+                {
+                        name: "$4.9 (Waypoint 4)",
+                        en: "The inn's gambling tables are crowded, either to chase away the shadows of the approaching horror, or just for sheer revelry...",
+                        ko: "다가오는 공포의 그림자를 쫓기 위해서인지, 아니면 순전히 흥청망청 놀기 위해서인지 여관의 노름판이 붐비고 있다."
+                },
+                {
+                        name: "$4.10 (Waypoint 1)",
+                        en: "The mayor introduces himself while the servants bring good mead to the guests. \"I hope Igor was nicer than usual. My name is Victor Fronkensteen and, although I'm happy to meet you, I am ashamed by the state of my city. When the Wyrgen lords ruled, this city was founded on noble ideals, forged by their strong will, and tempered by time. Now... just look at what it has become: a grim city, isolated, and soon to be besieged by the walking dead. Concerning the recent homicides, I cannot help but ask myself whether this new enemy is linked to the undead horde pressing on the Southern walls. The mighty walls of Moonchild... how ironic the whims of the gods. These walls were erected to protect the city and keep away any trouble from the Talon Coast... But now, these very walls that keep the walking dead at bay are keeping this monster inside with us. I spoke to inspector Crane, and I trust in your ability to help vanquish this scourge. In exchange, Moonchild will help you in your hunt of the vampire Count. Good luck.\"",
+                        ko: "하인들이 손님들에게 좋은 미드를 가져다 주는 동안 시장은 자신을 소개한다. \"Igor가 평소보다 더 친절했으면 좋겠어. 내 이름은 빅터 프론켄스틴이고, 널 만나서 기쁘긴 하지만, 내 도시의 상태에 부끄럽다. 와이르겐 영주들이 통치할 때, 이 도시는 그들의 강한 의지에 의해 형성되고, 시간에 따라 담금질된 고귀한 이상을 바탕으로 세워졌다. 이제... 어떻게 되었는지 보십시오. 암울한 도시, 고립된 도시, 그리고 곧 걸어가는 죽은 자들에게 포위될 겁니다. 최근의 살인사건과 관련하여, 나는 이 새로운 적이 남쪽 벽을 누르고 있는 언데드 호드와 연결되어 있는지 자문하지 않을 수 없다. 문차일드의 거대한 벽들... 신들의 변덕이 얼마나 아이러니한가. 이 벽들은 도시를 보호하고 탈론 해안으로부터 어떠한 문제도 피하기 위해 세워졌다... 하지만 지금, 걸어다니는 죽은 사람들을 막아주는 바로 이 벽들이 이 괴물을 우리 안에 가두어 놓고 있다. 크레인 검사관과 얘기했는데 자네가 이 재앙을 물리치는 데 도움이 될 거라 믿네 그 대신 문차일드가 뱀파이어 백작 사냥에 도움을 줄 거야 행운을 빌어요\""
+                },
+                {
+                        name: "$4.11 (Waypoint 4)",
+                        en: "The inn, its air full of smoke and the smell of food, seems to offer nothing else to the hero.",
+                        ko: "연기로 가득 찬 공기와 음식 냄새로 가득 찬 여관은 영웅에게 다른 것은 아무것도 제공하지 않는 것 같다."
+                },
+                {
+                        name: "$4.12 (Day)",
+                        en: "A new day dawns over the city of Moonchild. Fears and creatures of the night fade with the sun, while the streets come to life again, teeming with new, potential victims (Shadows) of the bloodthirsty killer. Time for the heroes to hunt!",
+                        ko: "문차일드의 도시 상공에 새로운 날이 밝다. 공포와 밤의 생물들은 태양과 함께 사라지고, 거리는 다시 살아나고, 피에 굶주린 살인자의 새롭고 잠재적인 희생자들(그림자)로 가득 차 있다. 영웅들이 사냥할 시간이다!"
+                },
 
-		{
-		        name: "ACT II - QUEST IV : Moonchild : Introduction",
-		        en: "At last the Heroes reach the gates of Moonchild. Spectral clouds cover the moon's silver sickle in the sky, and the walls are manned by torch-bearing guards. One of them gets sight of the Heroes and yells, \"Stangers! You are welcome, but know that this city is expecting an undead siege anytime now, coming from the South. Entering Moonchild means tempting your own fate!\" The gates open, and Marcus introduces the Heroes, asking to speak to the mayou. Yet the guard, visivly upset, answers, \"The town hall will not open until tomorrow morning. You can talk to Inspector Crane, near to the walls of the next block. He is examining the scene of yet anothr heinous crime...\" <b>See Paragraph $4.1.</b>",
-		        ko: "마침내 영웅들은 문차일드의 문 앞에 다다른다. 스펙트럼 구름은 하늘의 달의 은 낫을 덮고, 벽은 횃불을 든 경비병들이 유인한다. 그들 중 한 명이 영웅들을 보고 소리를 지른다. \"상인! 천만에요, 하지만 이 도시는 남쪽에서 오는, 지금 당장이라도 전멸하지 않는 포위 공격을 기대하고 있다는 걸 알아라. 문차일드에 들어가는 것은 자신의 운명을 유혹하는 것을 의미한다!\" 성문이 열리고 마커스가 마유에게 말을 부탁하며 히어로즈를 소개한다. 그러나 경비원은 눈에 띄게 화가 난 듯 대답한다. \"마을 회관은 내일 아침이 되어서야 문을 열 것이다. 크레인 경감과 대화할 수 있어 다음 블록의 벽 근처야 그는 아직도 악랄한 범죄의 현장을 조사하고 있다...\" <b>4.1. </b>를 참조하라."
-		},
+                // 초벌 작업 : ~22
+
+                {
+                        name: "",
+                        en: "",
+                        ko: ""
+                },
+                {
+                        name: "",
+                        en: "",
+                        ko: ""
+                },
+                {
+                        name: "",
+                        en: "",
+                        ko: ""
+                },
+                {
+                        name: "",
+                        en: "",
+                        ko: ""
+                },
+                {
+                        name: "",
+                        en: "",
+                        ko: ""
+                },
+                {
+                        name: "",
+                        en: "",
+                        ko: ""
+                },
+                {
+                        name: "",
+                        en: "",
+                        ko: ""
+                },
+                {
+                        name: "",
+                        en: "",
+                        ko: ""
+                },
+                {
+                        name: "",
+                        en: "",
+                        ko: ""
+                },
+                {
+                        name: "",
+                        en: "",
+                        ko: ""
+                },
+                {
+                        name: "",
+                        en: "",
+                        ko: ""
+                },
+                {
+                        name: "",
+                        en: "",
+                        ko: ""
+                },
+                {
+                        name: "",
+                        en: "",
+                        ko: ""
+                },
+                {
+                        name: "",
+                        en: "",
+                        ko: ""
+                },
+
 		{
 		        name: "ACT II - QUEST V : Nothing is as bad as it seems : Introduction",
 		        en: "The party journeys to Count Dalv's castle, along the shores of Lake Scythe. With the undead armies engaged in their march toward Moonchild, the Heroes pass by undetected. The small castle, built on top of a sheer cliff on the sea, is silhouetted against the starry sky like an evil, cloaked figure. A thick shoroud of dard clouds surrounds the castle, isolating it from the rest of the world. Marcus stops the party just outside of the shroud and speaks: \"A new day will soon dawn, yet this cloud blocks our greatest ally against the vampire count... the sun! I will not be any help in the castle rooms, but form here - with the help of the gods - I will try to weaken the enshrouding sorcery. Should I succeed, you will have word from me. May the Three bring you victory!\" And so, the Heroes advance toward the door. Only silence comes from inside, because Death makes no noise.",
