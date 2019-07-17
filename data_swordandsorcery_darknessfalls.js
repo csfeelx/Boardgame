@@ -244,41 +244,41 @@
                 en: "The night falls. The defeat is terrible, as the heroes are wounded both in body and soul. They gather their possessions and sadly decide to march through Lone Pine instead of crossing back through the forest to reach Moonchild.",
                 ko: "밤이 깊어진다. 패배는 지독하고, 영웅들은 육신과 영혼에 상처를 입었다. 그들은 낙담하여, 챙길 수 있는 물건들을 챙기고 숲을 가로질러 문차일드로 가는 것을 포기하고 론파인으로 향하기로 한다."
         },
+        {
+                name: "ACT II - QUEST III : The Darkness' Army : Introduction",
+                en: "The Heroes, together with Marcus, head toward Lone Pine, a small town due south of Twin Wyrms, looking for answers. After several hours on the trail, the group encounters the first refugees; desperate people trying to escape toward the city of the Immortal Heroes, hoping for solace and help. When the Heroes question one of the refugees, he tells the tale of his doomed city. \"Go no further, the town is cursed! When the dead rise from their graves, there is no place for the living. Run, you fools!\" As the party approaches the town, more and more refugees flood the road, and the atmosphere becomes tense. In silence, the Heroes reach the gates of the town and are welcomed by screams from the nearby central square!",
+                ko: "해답을 찾아, 영웅들은 마르커스와 함께 트윈윔즈의 정남쪽에 위치한 작은 마을인 론 파인으로 향한다. 몇 시간의 여정 후, 일행은 피난민들과 마주친다. 그들은 구원과 도움을 찾는 절박한 마음으로, 마을을 탈출해 불멸의 영웅들의 도시로 향하고 있다. 영웅들이 피난민 중 하나에게 질문하자, 그는 저주받은 도시에 대한 이야기를 해준다. \"더 이상 앞으로 가지 마시오. 마을은 저주 받았소! 죽은 자들이 무덤에서 일어나, 산자들이 머물 곳이 없소이다. 어리석은 짓 말고 도망치시오!\" 일행이 마을로 다가가자, 더 많은 피난민들이 도로를 가득채우며, 공기에 긴장감이 가득찬다. 침묵속에서 영웅들이 마을의 관문에 도착하자, 중앙 광장 근처에서 울려퍼지는 비명소리가 그들을 반긴다."
+        },
+        {
+                name: "$3.1 (Story Event 1)",
+                en: "The party reaches the central square only to discover the ruckus comes from the few surviving denizens of the village, who are besieged in the temple by swarms of undead and demons. Marcus wishes to help the unfortunate souls and encourages the heroes to set them free. \"Quick! We must prevent damage to the barricades, lest the undead enter the temple and slaughter the people! Yet we must also take care of those demons... I feel they are connected to the undead hordes. As long as they are on the field, victory lies beyond our grasp!\"",
+                ko: "일행이 중앙 광장에 도착해 발견한 것은, 언데드와 악마 무리에게 포위되어 사원에 갖혀있는 소수의 생존자들이다. 마르커스는 그 불운한 사람들을 돕기를 바라며 영웅들을 독려한다. \"서두릅시다! 우리는 방책이 무너져 사원 안의 주민들이 살육 당하는 일이 없도록, 놈들을 막아야 합니다! 동시에 우리는 저 악마들을 해치울 필요가 있습니다. 놈들이 언데드들을 조종하고 있는 것이 느껴집니다. 놈들을 처치하지 않는 이상 승리는 없을 겁니다!\""
+        },
+        {
+                name: "$3.2 (Story Event 2)",
+                en: "The ferocious attacks of the undead hordes clashing against the barricades shake Marcus' soul. He has never seen such pure hate before. It is a cruel hatred against the living, the same hatred now slowly turning toward the heroes!",
+                ko: "방책을 부수려는 언데드 무리의 사납기 그지 없는 공격에 마르커스는 큰 충격을 받는다. 그는 살아 생전 이와 같은 순수한 증오를 본적이 없었다. 그것은 살아있는 것에 대한 잔혹하기 그지 없는 증오다. 그리고 그것은 이제 천천히 영웅들에게로 향하고 있다!"
+        },
+        {
+                name: "$3.3 (Story Event 2)",
+                en: "The undead breach the barricades and rush into the temple. The screams of the people are soon drowned by blood and death. The heroes barely manage to mount a fighting retreat, powerless to stop the slaughter.",
+                ko: "언데드들이 방책을 부수고 사원 안으로 밀어닥친다. 사람들의 비명소리는 피와 죽음 속에서 잦아든다. 영웅들은 살육을 저지할 만한 힘이 없었고, 치열한 전투를 통해 간신히 퇴로를 확보한다."
+        },
+        {
+                name: "$3.4 (Story Event 2)",
+                en: "The fighting fades and dies. The words of Marcus tell the deeds of the heroes, persuading the people to leave their shelters and remove the barricades to let the heroes into the temple.",
+                ko: "전투가 잦아들다 마침내 끝난다. 마르커스는 영웅들이 적들을 물리쳤음을 알리고, 사람들을 설득하여 그들이 숨어있는 곳에서 나와 방책을 열고 영웅들을 사원안으로 맞이하도록 한다."
+        },
+        {
+                name: "$3.5 (Waypoint 1)",
+                en: "As they enter the temple, the heroes are greeted by wounded and scared citizens, all wanting to thank their saviors. Making his way through the crowd, the Mayor of Lone Pine speaks to the party. \"Greetings, heroes! I am Lord Arthur, Mayor of Lone Pine. On behalf of everyone, I praise you for your heroic deeds. The gods have answered our prayers and sent you from Twin Wyrms to save our town! Pray tell, what is your story?\" After listening to the heroes' tale, Arthur replies, \"I am sure you have questions. I will do my best to answer them.\"",
+                ko: "사원에 들어간 영웅들은 상처입고 겁에 질린 시민들의 환영을 받는다, 그들 모두가 그들의 구원자들에게 감사를 표하고 싶어한다. 군중들 사이로 길을 열며 론 파인의 시장이 다가와 일행들에게 말을 건다. \"그대들을 환영합니다. 영웅들이여! 저는 론 파인의 시장인 아서입니다. 모두를 대표하여, 여러분의 영웅적인 행동에 감사를 표합니다. 신들께서 우리의 기도를 듣고, 마을을 구원하기 위해 당신들을 보내신게 틀림없습니다! 부디 여러분의 이야기를 듣고 싶군요\" 영웅들의 이야기를 들은 후, 아서는 말한다. \"여러분에게 여러가지 궁금한 것이 있겠군요. 최선을 다해 대답해 드리겠습니다.\""
+        },
 {
         name: "",
         en: "",
         ko: ""
 },
-                {
-                        name: "ACT II - QUEST III : The Darkness' Army : Introduction",
-                        en: "The Heroes, together with Marcus, head toward Lone Pine, a small town due south of Twin Wyrms, looking for answers. After several hours on the trail, the group encounters the first refugees; desperate people trying to escape toward the city of the Immortal Heroes, hoping for solace and help. When the Heroes question one of the refugees, he tells the tale of his doomed city. \"Go no further, the town is cursed! When the dead rise from their graves, there is no place for the living. Run, you fools!\" As the party approaches the town, more and more refugees flood the road, and the atmosphere becomes tense. In silence, the Heroes reach the gates of the town and are welcomed by screams from the nearby central square!",
-                        ko: "Heroes는 Marcus와 함께 Twin Wyrms 남쪽의 작은 마을인 Lon Pine을 향해 답을 찾는다. 몇 시간 후, 이 무리는 첫 번째 피난민들과 마주치게 된다; 절망적인 사람들은 위로와 도움을 바라면서 불멸의 영웅들의 도시를 향해 탈출하려고 애쓴다. 영웅들이 난민들 중 한 명을 심문할 때, 그는 그의 불운한 도시에 대한 이야기를 한다. \"더 이상 가지 마, 마을이 저주받았어! 죽은 자가 무덤에서 살아나면 산 자에게 돌아갈 곳이 없다. 뛰어, 이 바보들아!\" 일행이 읍내로 다가갈수록 점점 더 많은 피난민들이 도로를 범람하고, 분위기는 긴장된다. 침묵 속에서, 영웅들은 마을의 문 앞에 다다르고 근처 중앙 광장에서 들려오는 비명소리에 환영을 받는다!"
-                },
-                {
-                        name: "$3.1 (Story Event 1)",
-                        en: "The party reaches the central square only to discover the ruckus comes from the few surviving denizens of the village, who are besieged in the temple by swarms of undead and demons. Marcus wishes to help the unfortunate souls and encourages the heroes to set them free. \"Quick! We must prevent damage to the barricades, lest the undead enter the temple and slaughter the people! Yet we must also take care of those demons... I feel they are connected to the undead hordes. As long as they are on the field, victory lies beyond our grasp!\"",
-                        ko: "그 파티는 중앙 광장에 다다랐지만, 그 소동은 마을의 살아남은 몇 안 되는 주민들로부터 온다는 것을 발견했다. 그들은 수많은 언데드와 악마들에 의해 신전에 포위되었다. 마커스는 불행한 영혼들을 돕고 영웅들에게 그들을 자유롭게 해주길 바란다. \"빨리! 바리케이트의 피해를 막아야 한다. 언데드가 성전에 들어가 백성을 학살하지 못하도록! 하지만 우리는 그 악마들을 돌봐야 해... 나는 그들이 죽은 무리들과 연결되어 있다고 느낀다. 그들이 경기장에 있는 한 승리는 우리의 손아귀에 닿지 않는 곳에 있소!\""
-                },
-                {
-                        name: "$3.2 (Story Event 2)",
-                        en: "The ferocious attacks of the undead hordes clashing against the barricades shake Marcus' soul. He has never seen such pure hate before. It is a cruel hatred against the living, the same hatred now slowly turning toward the heroes!",
-                        ko: "바리케이트에 부딪치는 죽지 않은 무리들의 맹렬한 공격은 마커스의 영혼을 뒤흔든다. 그는 지금까지 이렇게 순수한 증오를 본 적이 없다. 그것은 살아 있는 자에 대한 잔인한 증오, 이제 같은 증오가 서서히 영웅들을 향해 돌아서고 있는 것이다!"
-                },
-                {
-                        name: "$3.3 (Story Event 2)",
-                        en: "The undead breach the barricades and rush into the temple. The screams of the people are soon drowned by blood and death. The heroes barely manage to mount a fighting retreat, powerless to stop the slaughter.",
-                        ko: "언데드가 바리케이트를 부수고 성전으로 돌진한다. 사람들의 비명소리는 곧 피와 죽음에 의해 익사한다. 영웅들은 살육을 저지할 힘이 없는, 간신히 전투 후퇴를 할 수 있었다."
-                },
-                {
-                        name: "$3.4 (Story Event 2)",
-                        en: "The fighting fades and dies. The words of Marcus tell the deeds of the heroes, persuading the people to leave their shelters and remove the barricades to let the heroes into the temple.",
-                        ko: "싸움은 수포로 돌아가고 죽는다. 마커스의 말은 영웅들의 행적을 전하며, 백성들을 설득하여 피난처를 떠나게 하고 바리케이드를 제거하여 영웅들을 신전에 들여보내도록 한다."
-                },
-                {
-                        name: "$3.5 (Waypoint 1)",
-                        en: "As they enter the temple, the heroes are greeted by wounded and scared citizens, all wanting to thank their saviors. Making his way through the crowd, the Mayor of Lone Pine speaks to the party. \"Greetings, heroes! I am Lord Arthur, Mayor of Lone Pine. On behalf of everyone, I praise you for your heroic deeds. The gods have answered our prayers and sent you from Twin Wyrms to save our town! Pray tell, what is your story?\" After listening to the heroes' tale, Arthur replies, \"I am sure you have questions. I will do my best to answer them.\"",
-                        ko: "그들이 성전에 들어서자 영웅들은 부상당하고 겁에 질린 시민들을 맞이하는데, 모두 그들의 구세주들에게 감사하고 싶어한다. 군중 속을 헤치고 나아가는 론 파인 시장이 그 당에 말한다. \"영웅 여러분, 안녕하십니까! 나는 Lon Pine의 시장인 Arthur 경이다. 모두를 대표하여, 나는 너의 영웅적인 행동에 대해 칭찬한다. 신들이 우리의 기도에 응답하고 트윈 와이럼스에서 우리 마을을 구하러 보냈어! 기도해, 네 이야기는 뭐야?\" 영웅들의 이야기를 들은 아서는 \"질문이 있으리라 확신한다. 최선을 다해 답변하겠다고 말했다.\""
-                },
                 {
                         name: "$3.6 (Waypoint 1)",
                         en: "\"It all began a few days ago. A traveler by the name of Ash came into Lone Pine. Although he was a strong man, he was severely wounded. He told us he was coming from Moonchild, and he had been charmed and then attacked by demons on the Southern Road. We scoffed at the story as the fevered delirium of a dying man. In fact, Ash died a little later – but not before talking privately to our cleric. We buried the unfortunate stranger, little remembering his words of warning. Alas, the following night the graveyard became cursed; the dead arose from their graves! First in ones and twos, but then a whole host of shuffling bodies and bleached skeletons arose. A veritable undead army massed on our doorstep, and soon we were forced to bar the roads and seek refuge in this temple. Please, heroes, help us again. Free the graveyard from the curse and we will give you our support and tell the tale of Ash. Perhaps it will help you in your quest. Seek our wise cleric inside the temple (Waypoint 3), and he will give you guidance.\"",
