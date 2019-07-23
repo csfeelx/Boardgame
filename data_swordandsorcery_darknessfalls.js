@@ -279,40 +279,42 @@
                 en: "\"It all began a few days ago. A traveler by the name of Ash came into Lone Pine. Although he was a strong man, he was severely wounded. He told us he was coming from Moonchild, and he had been charmed and then attacked by demons on the Southern Road. We scoffed at the story as the fevered delirium of a dying man. In fact, Ash died a little later – but not before talking privately to our cleric. We buried the unfortunate stranger, little remembering his words of warning. Alas, the following night the graveyard became cursed; the dead arose from their graves! First in ones and twos, but then a whole host of shuffling bodies and bleached skeletons arose. A veritable undead army massed on our doorstep, and soon we were forced to bar the roads and seek refuge in this temple. Please, heroes, help us again. Free the graveyard from the curse and we will give you our support and tell the tale of Ash. Perhaps it will help you in your quest. Seek our wise cleric inside the temple (Waypoint 3), and he will give you guidance.\"",
                 ko: "\"모든 일은 며칠 전에 시작되었습니다. 애쉬라는 이름의 여행자가 이 도시에 도착했지요. 그는 강인한 사람이었지만 심한 상처를 입고 있었습니다. 그는 자신이 문 차일드에서 왔다고 말했습니다. 그리고 남쪽 도로에서 악마들에게 공격을 받았고, 그들의 주문에 당했다고도 말했지요. 우리는 그 이야기를 그가 죽어가며 혼미한 정신으로 떠드는 헛소리 정도로 생각했습니다. 사실, 그는 곧 죽었지요. 하지만 그는 죽기전에 우리의 사제 중 한 명과 개인적인 대화를 나눌 기회가 있었습니다. 우리는 그의 경고를 흘려들은채, 그 불운한 이방인의 시체를 매장했습니다. 아아. 그 날 밤 묘지에 저주가 내려왔습니다. 죽은 자들이 무덤에서 일어난 것 입니다! 하나, 그리고 둘... 곧 묘지에 매장되었던 모든 이들이 비틀거리는 시체 또는 뼈만 남은 해골의 모습으로 무덤에서 깨어났습니다. 불사의 군대가 거주지를 덮쳤고, 우리는 도로를 봉쇄하고 이 사원으로 대피했습니다. 영웅들이시여, 다시 한 번 도움을 간청합니다. 묘지를 저주로 부터 해방시켜 주시기 바랍니다. 그렇게만 된다면 우리는 최선을 다해 여러분을 돕고, 애쉬에 대한 정보도 빠짐없이 전달해 드리겠습니다. 사원 안에 사제 한 분이 계십니다. 그 분을 만나보십시오. 아마도 그의 현명함이 여러분 임무 완수에 도움이 될 것입니다.\""
         },
+        {
+                name: "$3.7 (Waypoint 1)",
+                en: "Heeding the heroes' request, the Mayor quickly answers, although clearly annoyed. \"I deem it fair. In these times of pain and madness, no good deeds are done for free, even by legendary heroes. Look for Sheila, our alchemist (Waypoint 2), inside the temple. Tell her I sent you. I am sure she will understand.\"",
+                ko: "영웅들의 요청에, 시장은 짜증이 난 것이 분명해 보이지만 재빨리 대답한다. \"옳은 말씀입니다. 요즘 같은 광기와 고통의 시기에는, 아무리 전설적인 영웅들에 의한 것이라고 해도 대가 없는 선행은 없겠지요. 연금술사인 시일라를 찾아가십시오(Waypoint 2). 그녀는 사원 안 쪽에 있습니다. 그녀에게 제가 보내서 왔다는 말을 하면, 분명 알아들을 겁니다.\""
+        },
+        {
+                name: "$3.8 (Waypoint 1)",
+                en: "The Mayor leaves the heroes with a final warning. \"Good luck, and be careful. At nighttime these creatures become stronger, and I fear you may be overwhelmed!\"",
+                ko: "시장은 영웅들에게 마지막 경고를 남기고 떠난다. \"행운을 빕니다. 부디 조심하십시오. 밤이 되면 이 생물들은 더욱 강해지지요. 전 여러분이 놈들에게 압도 당하지 않을까 두렵습니다.\""
+        },
+        {
+                name: "$3.9 (Waypoint 2)",
+                en: "The party meets a young woman with a fierce gaze working at her alchemical station. As the heroes approach, she greets them. \"Greetings, strangers. My name is Sheila, and if you ever need potions, you will not find a better place to buy them.\"",
+                ko: "일행은 그녀의 화학 실험실에서 자신의 일에 몰두해있는 젊은 여자를 만난다. 영웅들이 다가가자, 그녀는 그들을 맞이한다. \"어서오세요. 여행자분들. 제 이름은 시일라입니다, 물약이 필요하신거라면 제대로 찾아오신거예요.\""
+        },
+        {
+                name: "$3.10 (Waypoint 2)",
+                en: "\"Oh, so you’re mercenaries, are you? I may be bad, but you are by far worse. Here is your... prize! Will there be anything else?\"",
+                ko: "\"오, 보아하니 당신들은 용병이군요, 그렇죠? 내가 못되게 구는건 맞지만, 당신들은 그런 대우를 받아 마땅해요. 여기 보상이예요! 더 필요한거 있나요?\""
+        },
+        {
+                name: "$3.11 (Waypoint 2)",
+                en: "\"My alchemical wisdom is at your service, my lords.\"",
+                ko: "\"제 연금술이 여러분께 도움이 되길 바랍니다, 영웅들이시여.\""
+        },
+
 {
         name: "",
         en: "",
         ko: ""
 },
-                {
-                        name: "$3.7 (Waypoint 1)",
-                        en: "Heeding the heroes' request, the Mayor quickly answers, although clearly annoyed. \"I deem it fair. In these times of pain and madness, no good deeds are done for free, even by legendary heroes. Look for Sheila, our alchemist (Waypoint 2), inside the temple. Tell her I sent you. I am sure she will understand.\"",
-                        ko: "영웅들의 요청에 따라 시장은 분명히 짜증이 났지만 재빨리 대답한다. \"나는 공평하다고 생각한다. 고통과 광기의 이 시기에는, 전설적인 영웅들에 의해서도, 어떠한 선행도 공짜로 행해지지 않는다. 신전 안에서 우리의 연금술사 쉴라를 찾아라. 내가 보냈다고 전해줘 나는 그녀가 이해할 것이라고 확신한다.\""
-                },
-                {
-                        name: "$3.8 (Waypoint 1)",
-                        en: "The Mayor leaves the heroes with a final warning. \"Good luck, and be careful. At nighttime these creatures become stronger, and I fear you may be overwhelmed!\"",
-                        ko: "시장은 영웅들에게 마지막 경고를 남기고 떠난다. \"행운을 빌고, 조심해라. 밤이 되면 이 생물들은 더 강해지는데, 나는 네가 압도당할까 봐 두려워!\""
-                },
-                {
-                        name: "$3.9 (Waypoint 2)",
-                        en: "The party meets a young woman with a fierce gaze working at her alchemical station. As the heroes approach, she greets them. \"Greetings, strangers. My name is Sheila, and if you ever need potions, you will not find a better place to buy them.\"",
-                        ko: "일행은 그녀의 알화학과에서 일하는 사나운 시선으로 젊은 여자를 만난다. 영웅들이 다가오자 그녀는 그들을 맞이한다. \"안녕하십니까, 이방인 여러분. 내 이름은 쉴라야. 만약 네가 약물을 필요로 한다면, 너는 그것들을 살 더 좋은 장소를 찾을 수 없을 거야.\""
-                },
-                {
-                        name: "$3.10 (Waypoint 2)",
-                        en: "\"Oh, so you’re mercenaries, are you? I may be bad, but you are by far worse. Here is your... prize! Will there be anything else?\"",
-                        ko: "\"아, 그럼 용병이지? 내가 나쁜지는 몰라도 넌 훨씬 더 나빠. 여기 네... 상! 다른건 없니?\""
-                },
-                {
-                        name: "$3.11 (Waypoint 2)",
-                        en: "\"My alchemical wisdom is at your service, my lords.\"",
-                        ko: "\"나의 화학적인 지혜는 당신의 몫입니다, 영주님.\""
-                },
+
                 {
                         name: "$3.12 (Waypoint 3)",
                         en: "A wise cleric is busy healing wounded townsfolk. As the party approaches, the healer assigns some chores to an aide, and then greets the heroes. \"I have been told of the Mayor's promise, and I will be happy to tell the whole story of Ash the Traveler' when you return from your quest in the Graveyard (Story Event 3, 5A map tile). My heart is heavy with grief as I ask you to destroy the evil in the crypt, because I may be partly responsible for it. As he lay dying, Ash told me his last wish: to be entombed in the depth of the graveyard together with a book he was carrying – a blank-paged tome he professed was a family heirloom. I believe every man should have his last wish granted, and besides, he pleaded persuasively. Only now, I begin to see that by doing as he asked, I may have unwittingly written this dark page of Lone Pine's story... A few days ago, I gathered some guards and tried to reach the crypt to destroy the book and Ash's body, but a wicked spell bars the way. Each fallen guard is now an unholy creature defending the tomb. As if that isn't evil enough, our misfortune is luring every cutthroat and bandit around. Our plight is becoming more and more desperate, and you may be the only ones who can succeed.\" \"We are both servants of the gods. Please pray with me for help; you deserve it.\"",
-                        ko: "현명한 성직자가 부상당한 마을 사람들을 치료하느라 바쁘다. 일행이 다가오자 힐러리는 보좌관에게 약간의 허드렛일을 맡기고 나서 영웅들에게 인사를 한다. \"시장님의 약속을 들었고, 그레이브야드(Story Event 3, 5A map 타일)에서의 탐색을 마치고 돌아오면 기꺼이 여행자 애쉬의 전말을 들려주겠다. 내가 부분적으로 책임을 질지도 모르기 때문에, 지하실에 있는 악을 없애 달라고 부탁할 때, 내 마음은 슬픔으로 가득 차 있다. 그가 죽어가면서 애쉬는 나에게 마지막 소원을 말했다: 그가 들고 있던 책과 함께 묘지 깊은 곳에 갇히기를- 그가 가정적인 가보라고 말한 빈 페이지 토메. 나는 모든 사람이 마지막 소원을 들어주어야 한다고 믿고, 게다가 설득력 있게 애원했다. 이제서야, 나는 그가 부탁한 대로 함으로써 내가 자신도 모르게 이 론 파인 이야기의 어두운 페이지를 작성했을지도 모른다는 것을 깨닫기 시작한다... 며칠 전에 경비병 몇 명을 모아 지하실에 도착하여 책과 애쉬의 시체를 부수려 했지만, 악랄한 주문이 길을 가로막는다. 죽은 각 경비대원들은 이제 무덤을 지키는 불경스러운 존재다. 마치 그것이 충분히 악하지 않은 것처럼, 우리의 불행은 모든 악당들을 유혹하고 있다. 우리의 곤경은 점점 더 절박해지고 있으며, 당신만이 성공할 수 있을 것이다.\"우리 둘 다 신들의 종이다. 나와 함께 도와 달라고 기도해 줘. 넌 그럴 자격이 있어.\""
+                        ko: "사제는 다친 주민들을 치료하느라 바쁘다. 일행이 다가가자, 그 치유사는 조수에게 몇 가지 지시를 내린 뒤, 영웅들을 맞이한다. \"시장이 여러분께 한 약속에 대해 들었습니다. 여러분께서 공동 묘지를 정화하는 일을 마치고 돌아오신다면, 기쁘게 여행자 애쉬에 대한 모든 이야기를 해 드리지요(Story Event 3, 5A map tile). | 내가 부분적으로 책임을 질지도 모르기 때문에, 지하실에 있는 악을 없애 달라고 부탁할 때, 내 마음은 슬픔으로 가득 차 있다. 그가 죽어가면서 애쉬는 나에게 마지막 소원을 말했다: 그가 들고 있던 책과 함께 묘지 깊은 곳에 갇히기를- 그가 가정적인 가보라고 말한 빈 페이지 토메. 나는 모든 사람이 마지막 소원을 들어주어야 한다고 믿고, 게다가 설득력 있게 애원했다. 이제서야, 나는 그가 부탁한 대로 함으로써 내가 자신도 모르게 이 론 파인 이야기의 어두운 페이지를 작성했을지도 모른다는 것을 깨닫기 시작한다... 며칠 전에 경비병 몇 명을 모아 지하실에 도착하여 책과 애쉬의 시체를 부수려 했지만, 악랄한 주문이 길을 가로막는다. 죽은 각 경비대원들은 이제 무덤을 지키는 불경스러운 존재다. 마치 그것이 충분히 악하지 않은 것처럼, 우리의 불행은 모든 악당들을 유혹하고 있다. 우리의 곤경은 점점 더 절박해지고 있으며, 당신만이 성공할 수 있을 것이다.\"우리 둘 다 신들의 종이다. 나와 함께 도와 달라고 기도해 줘. 넌 그럴 자격이 있어.\""
                 },
                 {
                         name: "$3.13 (Waypoint 4)",
