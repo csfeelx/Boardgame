@@ -232,7 +232,7 @@
         {
                 name: "$2.24 (Glass Vial)",
                 en: "Remembering Malak's words, the hero sips a few drops of the magical glowing potion. It takes but a breath before feeling the effects....",
-                ko: "말락의 말을 기억하며, 영웅들은 빛나는 마법의 약을 몇 방울 마신다. 숨 한 번 내쉴 사이에, 효과가 나타난다."
+                ko: "말락의 말을 기억하며, 영웅들은 빛나는 마법의 물약을 몇 방울 마신다. 숨 한 번 내쉴 사이에, 효과가 나타난다."
         },
         {
                 name: "$2.25 (Ending)",
@@ -304,73 +304,71 @@
                 en: "\"My alchemical wisdom is at your service, my lords.\"",
                 ko: "\"제 연금술이 여러분께 도움이 되길 바랍니다, 영웅들이시여.\""
         },
-
+        {
+                name: "$3.12 (Waypoint 3)",
+                en: "A wise cleric is busy healing wounded townsfolk. As the party approaches, the healer assigns some chores to an aide, and then greets the heroes. \"I have been told of the Mayor's promise, and I will be happy to tell the whole story of Ash the Traveler' when you return from your quest in the Graveyard (Story Event 3, 5A map tile). My heart is heavy with grief as I ask you to destroy the evil in the crypt, because I may be partly responsible for it. As he lay dying, Ash told me his last wish: to be entombed in the depth of the graveyard together with a book he was carrying – a blank-paged tome he professed was a family heirloom. I believe every man should have his last wish granted, and besides, he pleaded persuasively. Only now, I begin to see that by doing as he asked, I may have unwittingly written this dark page of Lone Pine's story... A few days ago, I gathered some guards and tried to reach the crypt to destroy the book and Ash's body, but a wicked spell bars the way. Each fallen guard is now an unholy creature defending the tomb. As if that isn't evil enough, our misfortune is luring every cutthroat and bandit around. Our plight is becoming more and more desperate, and you may be the only ones who can succeed.\" \"We are both servants of the gods. Please pray with me for help; you deserve it.\"",
+                ko: "고위 사제는 다친 주민들을 치료하느라 바쁘다. 일행이 다가가자, 그 치유사는 보좌관에게 몇 가지 지시를 내린 뒤, 영웅들을 맞이한다. \"시장이 여러분께 한 약속에 대해 들었습니다. 여러분께서 공동 묘지를 정화하는 일을 마치고 돌아오신다면, 기쁘게 여행자 애쉬에 대한 모든 이야기를 해 드리지요(Story Event 3, 5A map tile). 여러분께 이런 위험한 일을 맡기게 되어, 제 마음은 비탄으로 가득차 있습니다. 제가 부분적이나마 그 일에 책임이 있을 수 있기 때문이지요. 애쉬는 죽어가면서 다음과 같은 유언을 남겼습니다. 그는 자신을 공동 묘지 깊은 곳에 매장해 주길 바랬지요. 그가 가져온 책과 함께 말입니다. 그 책은 내용이 없는 빈 책이었습니다. 그는 그 책이 가문에 내려온 보물이라고 했지요. 전 누구의 것이든 유언은 존중 받아야 한다고 믿습니다. 그렇지 않더라도, 그의 유언은 간절했지요. 하지만 이제야, 제가 그의 유언을 행한 것 때문에, 저도 모르는 사이에 론 파인의 어두운 운명을 불러오게 되었을지도 모른다는 것을 알게 되었습니다. 며칠 전, 저는 경비병 몇명과 함께 묘지로 들어가, 그 책과 애쉬의 유해를 파괴하고자 했습니다, 하지만 사악한 주문이 그 앞길을 막았지요. 쓰러진 경비병들은 이제 묘지를 지키는 부정한 괴물이 되었습니다. 그것만으로 부족했는지, 주변의 모든 살인자들과 강도들이 이 불운한 사건 때문에 위험에 빠진 주민들을 노리고 모여들고 있습니다. 도시에 닥쳐온 재난은 나날이 절망적이 되고 있습니다, 그리고 이 문제를 해결할 수 있는 사람은 여러분 뿐일지도 모릅니다.\" \"우리는 모두 신의 종이지요. 저와 함께 신께 도움을 빌어 주십시오. 여러분은 그럴 자격이 있습니다.\""
+        },
+        {
+                name: "$3.13 (Waypoint 4)",
+                en: "The party reaches the area in front of the graveyard entrance. Several bodies continue to move around, and everything is covered by a thin layer of a white mist.",
+                ko: "일행은 공동 묘지 입구에 도착한다. 주변은 온통 층을 이룬 흰 안개로 덮혀있고, 몇몇 시체가 배회하고 있다."
+        },
+        {
+                name: "$3.14 (Waypoint 5)",
+                en: "Here lie several of the city guards. At least they have not risen as undead...",
+                ko: "이곳에 몇몇 도시 경비병들의 시체가 있다. 적어도 그들은 언데드로 되살아나진 않았다."
+        },
+        {
+                name: "$3.15 (Story Event 3)",
+                en: "The party reaches the lower floor of the crypt. The darkness engulfing the room is wiped out by two braziers suddenly flashing to life as the first hero steps over the threshold. A large sarcophagus stands in the center of the room, surrounded by a circular area of strange magic runes.",
+                ko: "일행은 묘지의 아래층에 도착한다. 선두에 선 영웅이 문턱을 넘자 갑작스럽게 두개의 화로가 불타오르기 시작하고, 화로에서 나온 빛은 방안을 둘러싼 어둠을 몰아낸다. 방 중앙에는 커다란 석관이 놓여있는데, 기이한 마법의 룬이 석관을 원형으로 둘러싸고 있다."
+        },
+        {
+                name: "$3.16 (Story Event 3)",
+                en: "When the hero lifts the lid of the sarcophagus, poison gas envelops the area! The immortal warrior staggers, but resists the weak effect of the gas. Inside the stone coffin, the body of Ash the Traveler is shrouded in a light blue cape. His hands clutch an ancient tome, but suddenly, a ghostly blue fire engulfs the body, disintegrating everything except the bones and the book. Then, the fiery skeleton rises as the book settles into its ribcage. The creature stretches its arms and swords fly into each hand as it prepares to attack!",
+                ko: "영웅이 석관의 덮개를 열자, 독 안개가 주변에 퍼진다! 하지만 독 안개의 약한 효과는 불멸의 전사들을 비틀거리게 할 뿐이다. 돌로 만들어진 관의 내부에는, 파란색 망토로 감싸인 애쉬의 유해가 있다. 그의 손은 고대의 서적을 꼭 쥐고 있다. 갑작스럽게, 유령처럼 흔들리는 푸른 불꽃이 그의 몸을 뒤덮고, 뼈와 책만을 남기고 모든 것을 태운다. 그리고 책이 해골의 가슴뼈 안에 자리를 잡자, 불 붙은 해골이 살아 움직이기 시작한다. 그 괴물은 팔을 뻗고 공격을 준비했고, 그 양손에 검이 날아든다!"
+        },
+        {
+                name: "$3.17 (Story Event 3)",
+                en: "You look closely at the runes, trying to focus on the floating sigils...",
+                ko: "당신은 가까이 다가가, 공중에 떠 있는 인장에 집중하며 룬을 관찰한다."
+        },
+        {
+                name: "$3.19 (Story Event 3)",
+                en: "For an instant you successfully translate the runes! They form the arcane words \"Klaatu, Barada, Nikto\" before dissolving into strange sigils with a flash of light.",
+                ko: "룬이 섬광과 함께 기이한 인장 속으로 녹아 없어지려하는 찰나의 순간, 당신은 성공적으로 룬을 번역한다! 그것은 비술적인 단어이다. \"Klaatu, Barada, Nikto\""
+        },
+        {
+                name: "$3.20 (Story Event 3)",
+                en: "Scared, the hero falls back to the entrance.",
+                ko: "공포에 질려, 영웅은 입구로 후퇴한다."
+        },
+        {
+                name: "$3.21 (Glass Vial)",
+                en: "Remembering Malak’s words, the hero only sips a few drops of the magical glowing potion, and it takes but a breath before the effects kick in...",
+                ko: "말락의 말을 기억하며, 영웅들은 빛나는 마법의 물약을 몇 방울 마신다. 숨 한 번 내쉴 사이에, 효과가 나타난다."
+        },
+        {
+                name: "$3.22 (Ending)",
+                en: "The ferocious attacks of the heroes smash the skeletal creature into dust, and the tome falls to the ground, inert. At the same time, the necromancy spell fades out, crumbling the bones of the other demons and undead.",
+                ko: "영웅들의 맹렬한 공격으로 해골은 먼지가 되어 바스러지고, 문제의 책은 힘을 잃고 땅으로 떨어진다. 동시에, 죽은 자를 조종하는 주문이 사라지며, 다른 악마와 언데드도 쓰러진다."
+        },
+        {
+                name: "$3.23 (Ending)",
+                en: "With their combined art and knowledge, the heroes manage to dispel the necromantic sorcery bound to the book. Black flames burn every page of the tome, and soon only ashes remain of the once powerful artifact...",
+                ko: "영웅들은 지식과 기술을 총동원하여, 책에 담긴 죽은 자를 조종하는 힘을 제거하려 한다. 검은 불꽃이 책의 모든 페이지를 태우고, 곧 한때 강력한 유물이었던 책의 재만이 남는다."
+        },
+        {
+                name: "$3.24 (Ending)",
+                en: "The book reacts to the touch, activating eldritch wizardry that creates a spectral light around the hero's hand. And so the Tome has chosen a new Master...",
+                ko: "그 책은 손길에 반응하여, 영웅의 손 안에서 유령같은 빛을 내뿜으며 그 으스스한 마력을 발산한다. 그렇게, 책은 새로운 주인을 선택했다."
+        },
 {
         name: "",
         en: "",
         ko: ""
 },
-
-                {
-                        name: "$3.12 (Waypoint 3)",
-                        en: "A wise cleric is busy healing wounded townsfolk. As the party approaches, the healer assigns some chores to an aide, and then greets the heroes. \"I have been told of the Mayor's promise, and I will be happy to tell the whole story of Ash the Traveler' when you return from your quest in the Graveyard (Story Event 3, 5A map tile). My heart is heavy with grief as I ask you to destroy the evil in the crypt, because I may be partly responsible for it. As he lay dying, Ash told me his last wish: to be entombed in the depth of the graveyard together with a book he was carrying – a blank-paged tome he professed was a family heirloom. I believe every man should have his last wish granted, and besides, he pleaded persuasively. Only now, I begin to see that by doing as he asked, I may have unwittingly written this dark page of Lone Pine's story... A few days ago, I gathered some guards and tried to reach the crypt to destroy the book and Ash's body, but a wicked spell bars the way. Each fallen guard is now an unholy creature defending the tomb. As if that isn't evil enough, our misfortune is luring every cutthroat and bandit around. Our plight is becoming more and more desperate, and you may be the only ones who can succeed.\" \"We are both servants of the gods. Please pray with me for help; you deserve it.\"",
-                        ko: "고위 사제는 다친 주민들을 치료하느라 바쁘다. 일행이 다가가자, 그 치유사는 보좌관에게 몇 가지 지시를 내린 뒤, 영웅들을 맞이한다. \"시장이 여러분께 한 약속에 대해 들었습니다. 여러분께서 공동 묘지를 정화하는 일을 마치고 돌아오신다면, 기쁘게 여행자 애쉬에 대한 모든 이야기를 해 드리지요(Story Event 3, 5A map tile). 여러분께서 묘지로 향하는 것을 알게 된, 제 마음은 비탄으로 가득차 있습니다. 제가 부분적이나마 그 일에 책임이 있을 수 있기 때문이지요. 애쉬는 죽어가면서 다음과 같은 유언을 남겼습니다. 그는 자신을 공동 묘지 깊은 곳에 매장해 주길 바랬지요. 그가 가져온 책과 함께 말입니다. 그 책은 내용이 없는 빈 책이었습니다. 그는 그 책이 가문에 내려온 보물이라고 했지요. 전 누구의 것이든 유언은 존중 받아야 한다고 믿습니다. 그렇지 않더라도, 그의 유언은 간절했지요. 하지만 이제야, 제가 그의 유언을 행한 것 때문에, 저도 모르는 사이에 론 파인의 어두운 운명을 불러오게 되었을지도 모른다는 것을 알게 되었습니다. 며칠 전, 저는 경비병 몇명과 함께 묘지로 들어가, 그 책과 애쉬의 유해를 파괴하고자 했습니다, 하지만 사악한 주문이 그 앞길을 막았지요. 쓰러진 경비병들은 이제 묘지를 지키는 부정한 괴물이 되었습니다. 그것만으로 부족했는지, 우리의 불운은 주변의 모든 살인자들과 강도들을 유혹하고 있습니다. 도시에 닥쳐온 재난은 나날이 절망적이 되고 있습니다, 그리고 이 문제를 해결할 수 있는 사람은 여러분 뿐일지도 모릅니다.\" \"우리는 모두 신의 종이지요. 저와 함께 신께 도움을 빌어 주십시오. 여러분은 그럴 자격이 있습니다.\""
-                },
-                {
-                        name: "$3.13 (Waypoint 4)",
-                        en: "The party reaches the area in front of the graveyard entrance. Several bodies continue to move around, and everything is covered by a thin layer of a white mist.",
-                        ko: "일행은 묘지 입구 앞에 다다른다. 여러 개의 몸이 계속 움직이고, 모든 것은 얇은 흰 안개 층으로 덮여 있다."
-                },
-                {
-                        name: "$3.14 (Waypoint 5)",
-                        en: "Here lie several of the city guards. At least they have not risen as undead...",
-                        ko: "여기 몇 명의 시경들이 누워 있다. 적어도 그들은 죽지 않고 살아난 것은 아니다..."
-                },
-                {
-                        name: "$3.15 (Story Event 3)",
-                        en: "The party reaches the lower floor of the crypt. The darkness engulfing the room is wiped out by two braziers suddenly flashing to life as the first hero steps over the threshold. A large sarcophagus stands in the center of the room, surrounded by a circular area of strange magic runes.",
-                        ko: "일행은 지하실 아랫층에 닿는다. 첫 번째 영웅이 문턱을 넘어서자 갑자기 두 개의 화로가 번쩍이며 방을 뒤덮고 있는 어둠이 말끔히 사라진다. 방 중앙에 커다란 석관이 서 있는데, 이상한 마법이 흐르는 원형 영역에 둘러싸여 있다."
-                },
-                {
-                        name: "$3.16 (Story Event 3)",
-                        en: "When the hero lifts the lid of the sarcophagus, poison gas envelops the area! The immortal warrior staggers, but resists the weak effect of the gas. Inside the stone coffin, the body of Ash the Traveler is shrouded in a light blue cape. His hands clutch an ancient tome, but suddenly, a ghostly blue fire engulfs the body, disintegrating everything except the bones and the book. Then, the fiery skeleton rises as the book settles into its ribcage. The creature stretches its arms and swords fly into each hand as it prepares to attack!",
-                        ko: "영웅이 석관의 뚜껑을 들자 독가스가 주변을 감싸고 있다! 불멸의 전사는 기체의 약한 효과에 저항한다. 돌관 안에는 여행자 애쉬의 시신이 연한 푸른 망토로 덮여 있다. 그의 손이 고대의 토미를 움켜쥐고 있지만, 갑자기 유령처럼 푸른 불길이 몸을 삼켜 뼈와 책을 제외한 모든 것을 분해한다. 그러자 그 책이 갈비뼈로 자리를 잡으면서 불타는 몰골이 솟아오른다. 그 생물은 공격을 준비하면서 팔을 뻗고 양손에 검이 날아든다!"
-                },
-                {
-                        name: "$3.17 (Story Event 3)",
-                        en: "You look closely at the runes, trying to focus on the floating sigils...",
-                        ko: "떠다니는 시걸에 집중하려고 하는 런들을 자세히 보고..."
-                },
-                {
-                        name: "$3.19 (Story Event 3)",
-                        en: "For an instant you successfully translate the runes! They form the arcane words \"Klaatu, Barada, Nikto\" before dissolving into strange sigils with a flash of light.",
-                        ko: "한순간 당신은 성공적으로 런을 번역했다. 그들은 희한한 단어 \"클라투, 바라다, 니코\"를 형성한 후 섬광과 함께 이상한 시걸로 녹아든다."
-                },
-                {
-                        name: "$3.20 (Story Event 3)",
-                        en: "Scared, the hero falls back to the entrance.",
-                        ko: "겁을 먹고 영웅은 다시 입구로 떨어진다."
-                },
-                {
-                        name: "$3.21 (Glass Vial)",
-                        en: "Remembering Malak’s words, the hero only sips a few drops of the magical glowing potion, and it takes but a breath before the effects kick in...",
-                        ko: "말락의 말을 기억하며 영웅은 마법의 이글거리는 물약을 몇 방울만 홀짝홀짝 마시고, 효과가 나타나기까지는 한 숨밖에 안 걸린다..."
-                },
-                {
-                        name: "$3.22 (Ending)",
-                        en: "The ferocious attacks of the heroes smash the skeletal creature into dust, and the tome falls to the ground, inert. At the same time, the necromancy spell fades out, crumbling the bones of the other demons and undead.",
-                        ko: "영웅들의 맹렬한 공격은 골격 생물체를 산산조각 내고 토미는 불활성 상태로 땅으로 떨어진다. 동시에 신비의 주문은 희미해져 다른 악마의 뼈를 부수고 죽어간다."
-                },
-                {
-                        name: "$3.23 (Ending)",
-                        en: "With their combined art and knowledge, the heroes manage to dispel the necromantic sorcery bound to the book. Black flames burn every page of the tome, and soon only ashes remain of the once powerful artifact...",
-                        ko: "그들의 예술과 지식이 결합된 영웅들은 책에 묶인 신랄한 주술을 가까스로 떨쳐낸다. 검은 화염이 토미의 모든 페이지를 태우고, 곧 한때 강력한 유물의 재만 남는다..."
-                },
-                {
-                        name: "$3.24 (Ending)",
-                        en: "The book reacts to the touch, activating eldritch wizardry that creates a spectral light around the hero's hand. And so the Tome has chosen a new Master...",
-                        ko: "이 책은 그 손길에 반응하여 영웅의 손 주위에 스펙트럼의 빛을 만들어내는 마법의 힘을 발휘한다. 그래서 토미는 새로운 사부를 선택했어"
-                },
                 {
                         name: "$3.25. 3.25 (Ending)",
                         en: "The party leaves the crypt and reaches the temple without further encounters. When the heroes reach the temple, the people of Lone Pine, greet them with gratitude, and Lord Arthur thunders, \"Your fame is well deserved, adventurers! Come! It is time to praise your deeds... and our fallen!\" Once the feast ends, Lord Arthur turns to the heroes, a shadow on his face. \"I guess it is time for my wise cleric to tell you the tale of Ash the Traveler... as brief as it may be...\"The heroes find the cleric in a small room, lit by a flickering candle. Wetting his lips, the man starts to speak. \"In truth, Ash had very few moments of lucidity. His wounds made him delirious, but every feverish babbling had this part in common - the most charming lady of the Talon Coast arrived in Moonchild, a woman with iridescent eyes and scarlet dress, walking with gigantic wolves larger than any man has ever seen before. No living creature can resist her charm, be it man, woman, or beast. I was charmed, too, and she used me for her dark deeds. These were Ash's words to me, and from my knowledge of the ancient lore, I know this woman. Ash described Lilith, an ancient and powerful demon, well versed in necromantic arts. After all that has happened, I cannot tell which part of the story may be true and which is but a figment of delirious imagination... but, the Evil is weaving its web, and I fear your path leads to Moonchild, if you wish to investigate. Be wary, heroes! Evil has never been so powerful!\" The heroes return to the hall, and Lord Arthur addresses them one last time. \"I know not whether this story may be of any help to you, but these are hard times, and I will always do my best to protect my people. Unfortunately, we have suffered tremendous losses, and have no gold to give you – but my smiths and bowyers will sharpen your weapons and reinforce your armor before you leave Lone Pine. I hope one day we will meet again, brave heroes!\"",
@@ -381,7 +379,6 @@
                         en: "The defeat is terrible, and the heroes are wounded both in their bodies and souls. They gather their possession and sadly decide to march through the forest, instead of crossing back to Lone Pine, to reach Moonchild.",
                         ko: "패배는 끔찍하고 영웅들은 몸과 영혼에 상처를 입는다. 그들은 그들의 소유물을 모으고 슬프게도 문차일드에게 닿기 위해 론 파인까지 다시 건너가는 대신에 숲을 통과하기로 결정한다."
                 },
-
                 {
                         name: "ACT II - QUEST IV : Moonchild : Introduction",
                         en: "At last the Heroes reach the gates of Moonchild. Spectral clouds cover the moon's silver sickle in the sky, and the walls are manned by torch-bearing guards. One of them gets sight of the Heroes and yells, \"Stangers! You are welcome, but know that this city is expecting an undead siege anytime now, coming from the South. Entering Moonchild means tempting your own fate!\" The gates open, and Marcus introduces the Heroes, asking to speak to the mayou. Yet the guard, visivly upset, answers, \"The town hall will not open until tomorrow morning. You can talk to Inspector Crane, near to the walls of the next block. He is examining the scene of yet anothr heinous crime...\" <b>See Paragraph $4.1.</b>",
