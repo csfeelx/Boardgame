@@ -1,4 +1,5 @@
 ﻿var data_swordandsorcery_darknessfalls = [
+        // QUEST I
         {
                 name: "ACT II - QUEST I : Nothing is as good as it seems : Introduction",
                 en: "The moon shines high, bathing Twin Wyrms in silvery light.<br/><br/>The roads are teeming with life, waiting for the clarion call to begin the festival held in honor of the Immortal Souls.<br/><br/>The crowd cheers as the Heroes march to the Royal Palace, honored guests at the grand banquet held by Count Dalv himself and attended by all the nobility of the kingdom. Although the castle suffered damage in the siege, it seems as mighty as ever during this happy and glorious night; the Heroes enter the hall and, as the doors close behind them, Count Dalv proclaims, \"Let the dance begin!\"",
@@ -109,6 +110,8 @@
                 en: "The undead devour both the bodies and souls of the heroes... A timeless Evil will lay waste to the Talon Coast.",
                 ko: "언데드들은 영웅들의 몸과 영혼을 모두 먹어치운다... 고대로부터 존재해온 악이 탈론 코스트를 폐허로 만들 것이다."
         },
+
+        // QUEST II
 	{
 	        name: "ACT II - QUEST II : In the Forest : Introduction",
 	        en: "The Heroes, along with Marcus, journey to Moonchild; their path will pass through the forest, avoiding nearby Lone Pine. The journey unfolds without incident, yet as they catch a glimpse of dense black smoke rising from southwest, the Heroes sadly acknowledge the terrible fate of Lone Pine. While they have avoided any trouble because of the detour, nobody is actually happy. A problem avoided is rarely a problem solved. As if to confirm the sentiment, the forest becomes enshrouded in the mountains' dark shadows.",
@@ -244,6 +247,8 @@
                 en: "The night falls. The defeat is terrible, as the heroes are wounded both in body and soul. They gather their possessions and sadly decide to march through Lone Pine instead of crossing back through the forest to reach Moonchild.",
                 ko: "밤이 깊어진다. 끔찍하게 패배한 영웅들은 육신과 영혼에 상처를 입었다. 그들은 낙담하여, 챙길 수 있는 물건들을 챙기고 숲을 가로질러 문 차일드로 가는 것을 포기하고 론 파인으로 향하기로 한다."
         },
+
+        // QUEST III
         {
                 name: "ACT II - QUEST III : The Darkness' Army : Introduction",
                 en: "The Heroes, together with Marcus, head toward Lone Pine, a small town due south of Twin Wyrms, looking for answers. After several hours on the trail, the group encounters the first refugees; desperate people trying to escape toward the city of the Immortal Heroes, hoping for solace and help. When the Heroes question one of the refugees, he tells the tale of his doomed city. \"Go no further, the town is cursed! When the dead rise from their graves, there is no place for the living. Run, you fools!\" As the party approaches the town, more and more refugees flood the road, and the atmosphere becomes tense. In silence, the Heroes reach the gates of the town and are welcomed by screams from the nearby central square!",
@@ -374,26 +379,28 @@
                 en: "The defeat is terrible, and the heroes are wounded both in their bodies and souls. They gather their possession and sadly decide to march through the forest, instead of crossing back to Lone Pine, to reach Moonchild.",
                 ko: "끔찍하게 패배한 영웅들은 육신과 영혼에 상처를 입었다. 그들은 낙담하여, 챙길 수 있는 물건들을 챙기고 론 파인을 가로질러 문 차일드로 가는 것을 포기하고 대신 숲을 통과하기로 한다."
         },
+
+        // QUEST IV
         {
                 name: "ACT II - QUEST IV : Moonchild : Introduction",
                 en: "At last the Heroes reach the gates of Moonchild. Spectral clouds cover the moon's silver sickle in the sky, and the walls are manned by torch-bearing guards. One of them gets sight of the Heroes and yells, \"Stangers! You are welcome, but know that this city is expecting an undead siege anytime now, coming from the South. Entering Moonchild means tempting your own fate!\" The gates open, and Marcus introduces the Heroes, asking to speak to the mayor. Yet the guard, visibly upset, answers, \"The town hall will not open until tomorrow morning. You can talk to Inspector Crane, near to the walls of the next block. He is examining the scene of yet another heinous crime...\" <b>See Paragraph $4.1.</b>",
                 ko: "마침내, 영웅들은 문 차일드의 관문에 도착한다. 유령같은 구름이 밤하늘의 초승달을 가리고 있고, 성벽에는 횃불을 든 경비병들이 배치되어 있다. 경비병들 중 하나가 영웅들을 눈치 채고는 소리친다. \"환영하오. 이방인들! 하지만 알아두시오. 남쪽에서 언데드들이 몰려오고 있다오. 이 도시는 언제든 놈들에게 포위당할 수 있소. 지금 이 도시에 들어오는 것은 자신의 운명을 시험하는 일이 될 것이오!\" 관문이 열리고, 마르커스는 경비병에게 영웅들을 소개하며 시장을 만나게 해달라고 요청한다. 경비병은 눈에 띄게 당황하며 대답한다. \"시청은 내일 아침에나 문을 열겁니다. 크레인 경감님을 만나보시지요. 그 분은 또 다시 벌어진 끔찍한 범죄 현장을 조사하느라, 옆 구역의 성벽 근처에 계셨었지요. 아직 그 곳에 계실겁니다.\""
+        },
+        {
+                name: "$4.1 (Introduction)",
+                en: "The party finds Investigator Crane crouched over a woman's mangled corpse. As one of the guards introduces the heroes, Crane snaps some orders and rises to welcome them. \"Hail, good sirs. Your fame and reputation precede you, thus I think I know enough about you and your vampire Count mission... No surprise there. You, on the other hand, know nothing about me. Crane... My name is Ichabod Crane. First of all, you should know these homicides started just after the undead army was sighted.\" He points at the body laying at his feet, or what remains of it, and adds, \"They have only two things in common - the timing, from dusk to dawn, and the efficient brutality of the deep slashes on the victims, inflicted by razor-sharp implements. No one is safe in this city anymore.\" After a dramatic pause, he continues, \"Usually I do not like strangers intruding upon my investigations, but I am short on men so, since I know your deeds, perhaps you can help us. Should you accept, at least one of you must go to the Town Hall (Waypoint 1) as soon as possible: I am sure the mayor will grant you a commensurate reward. Well, whenever you are comfortable starting investigating, you can do it on my behalf. May the gods be with you.\" The adventure begins!",
+                ko: "일행은 쭈그리고 앉아, 짓이겨진 여성의 시체를 들여다 보고 있는 크레인 경감을 발견한다. 경비병 중 하나가 그에게 영웅들을 소개하자, 경감은 쏘아붙이는 어조로 몇가지 명령을 내린 후, 영웅들을 환영하기 위해 일어선다. \"환영합니다. 영웅들이시어. 여러분의 명성과 평판은 이미 이 곳에도 알려져 있습니다, 그래서 저는 여러분에 대한 이야기와, 여러분께서 흡혈귀 백작을 쫓고 있다는 것을 잘 알고 있습니다. 그렇게 놀라지 마십시오. 반면에 여러분께선 저에 대해 아는 바가 없으시죠. 크레인... 제 이름은 이카바드 크레인입니다. 무엇보다 먼저, 여러분께 이 살인 사건들이 언데드의 군대가 나타난 직후부터 시작되었다는 것을 알려드려야겠군요.\"  그는 그의 발 아래에 놓여있는 시체, 라기 보다 무언가의 잔해라고 불러야 할만한 것을 가리키며 덧붙인다. \"이 사건들에는 두가지 공통점이 있습니다. 첫번째, 사건이 항상 황혼에서 새벽 사이에 벌어졌다는 것과, 두번째, 피해자의 시체에, 면도날과 같이 아주 날카로운 흉기에 의한 것으로 짐작되는 정교하고 잔인한 깊은 자상이 남아있다는 것이지요. 이 도시의 누구도 안심할수가 없는 상황입니다.\" 과장된 포즈를 취한 뒤, 그는 말을 이어간다. \"저는 보통 타인이 제 수사에 끼어드는 것을 좋아하지 않습니디만, 인력이 부족한 상황이고, 여러분의 유능함을 잘 알고 있으니, 원하신다면 수사에 참여하셔도 좋습니다. 그렇게 하시겠다면, 여러분 중 한 분은 가능한 빨리 시청(Waypoint 1)으로 가주시기 바랍니다. 시장께서 적절한 보상을 하시리라 확신합니다. 좋습니다. 언제든 준비되시면 수사를 시작해주십시오. 저를 대행하는 권한을 드리지요. 신의 가호가 함께하길.\" 모험이 시작된다!"
+        },
+        {
+                name: "$4.2 (Waypoint 1)",
+                en: "The town hall is the main building in the city and was built centuries ago by the now extinct House Wyrgen. Every beam and brick in the building still bear the mark of the wolf, the symbol of Wyrgen. The central area of the building is marked by a large circle on the floor, enclosing a huge picture of a wolf's head surrounded by the lunar phases. A short man in elegant clothes, slightly limping on his right leg, interrupts the heroes' exploration. He speaks with a haughty manner. \"My name is Igor, and these are very busy days. If you wish to speak to the mayor, you must wait. I will not change my schedule for some wanderers.\"",
+                ko: "시청은 도시의 주요 건물이며, 몇 세기 전 지금은 멸족되어 없는 위르겐 가문에 의해 지어졌다. 건물의 모든 기둥과 벽돌에는 위르겐 가문의 상징인 늑대 문양이 남아있다. 건물의 중앙 구역의 바닥에는 커다란 원형의 그림이 그려져 있는데, 그것은 늑대의 머리를 달이 변화하는 모양이 둘러싸고 있는 모양새이다. 고급스러운 옷을 입은 작은 키의 남자가, 오른쪽 다리를 조금 절며 다가와 영웅들의 탐색을 방해한다. 그는 거만한 태도로 이야기한다. \"내 이름은 이고라고 하오. 요즘은 매우 바쁜 나날이 계속되고 있지. 시장님과 면담을 원한다면 기다리시오. 한낱 여행자들 때문에 내 일정을 바꾸진 않을거요.\""
         },
 {
         name: "",
         en: "",
         ko: ""
 },
-                {
-                        name: "$4.1 (Introduction)",
-                        en: "The party finds Investigator Crane crouched over a woman's mangled corpse. As one of the guards introduces the heroes, Crane snaps some orders and rises to welcome them. \"Hail, good sirs. Your fame and reputation precede you, thus I think I know enough about you and your vampire Count mission... No surprise there. You, on the other hand, know nothing about me. Crane... My name is Ichabod Crane. First of all, you should know these homicides started just after the undead army was sighted.\" He points at the body laying at his feet, or what remains of it, and adds, \"They have only two things in common - the timing, from dusk to dawn, and the efficient brutality of the deep slashes on the victims, inflicted by razor-sharp implements. No one is safe in this city anymore.\" After a dramatic pause, he continues, \"Usually I do not like strangers intruding upon my investigations, but I am short on men so, since I know your deeds, perhaps you can help us. Should you accept, at least one of you must go to the Town Hall (Waypoint 1) as soon as possible: I am sure the mayor will grant you a commensurate reward. Well, whenever you are comfortable starting investigating, you can do it on my behalf. May the gods be with you.\" The adventure begins!",
-                        ko: "일행은 쭈그리고 앉아, 짓이겨진 여성의 시체를 들여다 보고 있는 크레인 경감을 발견한다. 경비병 중 하나가 그에게 영웅들을 소개하자, 경감은 쏘아붙이는 어조로 몇가지 명령을 내린 후, 영웅들을 환영하기 위해 일어선다. \"환영합니다. 영웅들이시어. 여러분의 명성과 평판은 이미 이 곳에도 알려져 있습니다, 그래서 저는 여러분에 대한 이야기와, 여러분께서 흡혈귀 백작을 쫓고 있다는 것을 잘 알고 있다고 생각합니다. 그렇게 놀라지 마십시오. 반면에 여러분께선 저에 대해 아는 바가 없으시죠. 크레인... 제 이름은 이카바드 크레인입니다. 무엇보다 먼저, 여러분께 이 살인 사건들이 언데드의 군대가 나타난 직후부터 시작되었다는 것을 알려드려야겠군요.\" ||| 그는 자신의 발 앞에 놓여 있는 시체, 또는 남은 것을 가리키며, \"그들은 두 가지 공통점이 있다. 즉, 황혼에서 새벽까지, 그리고 면도날처럼 날카로운 도구들로 인해 희생자들에게 가해진 깊은 슬래시의 효율적인 잔인성. 이 도시에서는 아무도 더 이상 안전하지 않다.\" 극적인 중단 후, 그는 계속해서 \"보통 나는 내 조사를 방해하는 낯선 사람들을 좋아하지 않지만, 나는 남자들이 부족하기 때문에, 나는 당신의 행동을 알고 있기 때문에, 아마도 당신은 우리를 도울 수 있을 것이다. 수락할 경우, 적어도 한 명은 가능한 한 빨리 시청(Waypoint 1)으로 가야 한다. 나는 시장이 당신에게 그에 상응하는 보상을 해줄 것이라고 확신한다. 글쎄, 네가 조사를 시작하는 게 편할 때마다, 날 대신해서 할 수 있어. 신들이 너와 함께하길.\" 모험이 시작된다!"
-                },
-                {
-                        name: "$4.2 (Waypoint 1)",
-                        en: "The town hall is the main building in the city and was built centuries ago by the now extinct House Wyrgen. Every beam and brick in the building still bear the mark of the wolf, the symbol of Wyrgen. The central area of the building is marked by a large circle on the floor, enclosing a huge picture of a wolf's head surrounded by the lunar phases. A short man in elegant clothes, slightly limping on his right leg, interrupts the heroes' exploration. He speaks with a haughty manner. \"My name is Igor, and these are very busy days. If you wish to speak to the mayor, you must wait. I will not change my schedule for some wanderers.\"",
-                        ko: "타운홀은 도시의 주요 건물이며 수세기 전에 현재 멸종된 하우스 와이르겐에 의해 지어졌다. 건물 안의 모든 빔과 벽돌에는 아직도 와이르겐의 상징인 늑대의 흔적이 남아 있다. 건물의 중심부에는 방바닥에 커다란 원이 그려져 있으며, 달 상으로 둘러싸인 늑대의 거대한 머리 그림이 둘러져 있다. 우아한 옷을 입은 키 작은 남자가 오른쪽 다리를 약간 절뚝거리며 영웅들의 탐구를 방해한다. 그는 거만한 태도로 말한다. \"내 이름은 이고, 요즘 아주 바쁜 나날들이야. 시장과 통화하려면 기다려야 한다. 나는 몇몇 방랑자들을 위해 내 일정을 바꾸지 않을 것이다.\""
-                },
                 {
                         name: "$4.3 (Waypoint 4)",
                         en: "At first, the inside of the Slaughtered Lamb tavern appears quite appalling: dozens of animal skeletons hang from the ceiling, and a huge magical pentagram flanked by two equally large candles dominates the main wall. Yet the place is crowded with people looking for company and amusement in such dire times. The innkeper approaches the heroes while cleaning the traditional stein.",
@@ -534,11 +541,3 @@
 		        ko: "마침내 공포의 프리스트인, 이름 없는 악의 지배자인 신전의 입구가 손에 닿을 수 있는 곳에 놓여 있다. 문턱을 통과하기 직전에 모든 영혼 보석들이 빛을 발하고 각각의 영웅들은 그의 신이 침묵하고 무덤인 신성한 아바타로 나타나는 비전을 가지고 있다. 각각의 아바타는 그가 소통하는 영웅에게 아이템을 주고, 곧 다가올 전투를 위한 성스러운 선물을 준다. 그러자 신들이 자애로운 작별인사를 하며 고개를 끄덕이면서 비전이 희미해진다.(<b>엠포리엄 특별 퀘스트 규칙 </b> 참조) 마커스는 그 광경을 목격하고 나서 무릎을 꿇고 기도한다. 그러자 성직자는 엄숙한 말을 내뱉는다.\"신들은 우리와 함께 있다. 저 문을 지키면, 당신은 당신의 자유와 탈론 코스트의 숭배를 찾을 수 있을 것이다. 우리는 이 여정의 끝에 혼자가 아니다! 성하, 부디 우리의 가이드가 되어 주시옵소서. 이 마지막 노력을 하기 전과 후에. 우리는 빛에 봉사하는 너희의 병사들이야, 영원히 용감하고 자랑스러운 싸움을 하고 있어!\" 이런 말과 함께, 세자의 자애로운 빛에 목욕을 한 영웅들은 파멸의 신전의 어둠 속으로 발을 들여놓는다..."
 		},
 ];
-
-/*
-        {
-                name: "",
-                en: "",
-                ko: ""
-        },
-*/
