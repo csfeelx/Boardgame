@@ -394,33 +394,33 @@
         {
                 name: "$4.2 (Waypoint 1)",
                 en: "The town hall is the main building in the city and was built centuries ago by the now extinct House Wyrgen. Every beam and brick in the building still bear the mark of the wolf, the symbol of Wyrgen. The central area of the building is marked by a large circle on the floor, enclosing a huge picture of a wolf's head surrounded by the lunar phases. A short man in elegant clothes, slightly limping on his right leg, interrupts the heroes' exploration. He speaks with a haughty manner. \"My name is Igor, and these are very busy days. If you wish to speak to the mayor, you must wait. I will not change my schedule for some wanderers.\"",
-                ko: "시청은 도시의 주요 건물이며, 몇 세기 전 지금은 멸족되어 없는 위르겐 가문에 의해 지어졌다. 건물의 모든 기둥과 벽돌에는 위르겐 가문의 상징인 늑대 문양이 남아있다. 건물의 중앙 구역의 바닥에는 커다란 원형의 그림이 그려져 있는데, 그것은 늑대의 머리를 달이 변화하는 모양이 둘러싸고 있는 모양새이다. 고급스러운 옷을 입은 작은 키의 남자가, 오른쪽 다리를 조금 절며 다가와 영웅들의 탐색을 방해한다. 그는 거만한 태도로 이야기한다. \"내 이름은 이고라고 하오. 요즘은 매우 바쁜 나날이 계속되고 있지. 시장님과 면담을 원한다면 기다리시오. 한낱 여행자들 때문에 내 일정을 바꾸진 않을거요.\""
+                ko: "시청은 도시의 주요 건물이며, 몇 세기 전 지금은 멸족되어 없는 위르겐 가문에 의해 지어졌다. 건물의 모든 기둥과 벽돌에는 위르겐 가문의 상징인 늑대 문양이 남아있다. 건물의 중앙 구역의 바닥에는 커다란 원형의 그림이 그려져 있는데, 그것은 늑대의 머리를 중심으로 변화하는 달의 형태가 그려진 원형 테두리가 둘러져 있는 모양새이다. 고급스러운 옷을 입은 작은 키의 남자가, 오른쪽 다리를 조금 절며 다가와 영웅들의 탐색을 방해한다. 그는 거만한 태도로 이야기한다. \"내 이름은 이고라고 하오. 요즘은 매우 바쁜 나날이 계속되고 있지. 시장님과 면담을 원한다면 기다리시오. 한낱 여행자들 때문에 내 일정을 바꾸진 않을거요.\""
+        },
+        {
+                name: "$4.3 (Waypoint 4)",
+                en: "At first, the inside of the Slaughtered Lamb tavern appears quite appalling: dozens of animal skeletons hang from the ceiling, and a huge magical pentagram flanked by two equally large candles dominates the main wall. Yet the place is crowded with people looking for company and amusement in such dire times. The innkeper approaches the heroes while cleaning the traditional stein.",
+                ko: "'도살된 새끼양' 이라는 이름의 여관의 첫인상은 매우 소름끼친다. 한 무더기의 동물 골격이 천장에 매달려있고, 커다란 두개의 초 사이에 같은 크기의 오망성이 벽을 꽉 채우고 있다. 도시의 위기에도 불구하고, 이 곳은 술을 즐기거나, 동료를 찾는 사람들로 북적인다. 여관 주인이 전통 양식의 맥주잔을 닦으며 영웅들을 맞이한다."
+        },
+        {
+                name: "$4.4 (Waypoint 1)",
+                en: "The heroes put away their ego and decide the Talon Coast already offers them abundant enemies; there is no need to make new ones. They patiently wait for their turn.",
+                ko: "영웅들은 자존심을 내려놓고 생각한다, 이미 수 많은 적이 있으니 더 이상 적을 늘릴 필요는 없다고. 그들은 인내심있게 그들의 차례를 기다린다."
+        },
+        {
+                name: "$4.5 (Waypoint 4)",
+                en: "With a half-dismayed, half-proud attitude, the innkeeper speaks to the hero: \"I can only offer you salted meat. We're making preparation for the siege, you know... But, you can have excellent cider with that! Trust me, this apple nectar will make you think you’re at a royal banquet, friend!\"",
+                ko: "여관 주인은 당황한 듯 했지만, 한편으로는 자랑스럽게 이야기한다. \"자네들도 알다시피... 모두가 곧 있을 농성에 대비 중이라서, 음식이라고는 소금에 절인 고기 밖에 없구만. 하지만 여기 훌륭한 과실주가 있지! 날 믿어 보게나. 친구들! 이 사과 술과 함께라면 마치 황궁의 연회에 참석한 기분을 느낄 수 있을테니까 말이야.\""
+        },
+        {
+                name: "$4.6 (Waypoint 1)",
+                en: "Life is too short to wait for the Mayor's bidding. The hero exits the building, possibly returning some time later.",
+                ko: "영웅들에게는 차례를 기다릴만한 시간이 없다. 그들은 건물 밖으로 나온다. 나중에 다시 오는게 나을지도 모르겠다."
         },
 {
         name: "",
         en: "",
         ko: ""
 },
-                {
-                        name: "$4.3 (Waypoint 4)",
-                        en: "At first, the inside of the Slaughtered Lamb tavern appears quite appalling: dozens of animal skeletons hang from the ceiling, and a huge magical pentagram flanked by two equally large candles dominates the main wall. Yet the place is crowded with people looking for company and amusement in such dire times. The innkeper approaches the heroes while cleaning the traditional stein.",
-                        ko: "처음에는 슬러브 람 주점의 내부는 꽤 끔찍하게 보인다. 수십 개의 동물 뼈대가 천장에 매달려 있고, 똑같이 큰 두 개의 초가 비스듬히 주벽을 지배하고 있는 거대한 마법의 오각형이 주벽을 지배하고 있다. 하지만 이 곳은 이렇게 지독한 시기에 동행을 찾고 있는 사람들로 붐빈다. 여관 주인이 전통적인 기장을 닦으며 영웅들에게 다가간다."
-                },
-                {
-                        name: "$4.4 (Waypoint 1)",
-                        en: "The heroes put away their ego and decide the Talon Coast already offers them abundant enemies; there is no need to make new ones. They patiently wait for their turn.",
-                        ko: "영웅들은 자존심을 버리고 탈론해안은 이미 그들에게 풍부한 적을 제공한다고 결정하는데, 새로운 적을 만들 필요는 없다. 그들은 참을성 있게 차례를 기다린다."
-                },
-                {
-                        name: "$4.5 (Waypoint 4)",
-                        en: "With a half-dismayed, half-proud attitude, the innkeeper speaks to the hero: \"I can only offer you salted meat. We're making preparation for the siege, you know... But, you can have excellent cider with that! Trust me, this apple nectar will make you think you’re at a royal banquet, friend!\"",
-                        ko: "반쯤 흐물흐물한 태도로 여관 주인이 영웅에게 말한다: \"나는 소금에 절인 고기밖에 줄 수 없다. 우린 포위망을 준비하고 있어, 너도 알다시피... 하지만, 여러분은 그것으로 훌륭한 사이다를 가질 수 있답니다! 날 믿어, 이 사과 과즙이 널 궁중 연회에 온 것처럼 생각하게 만들 거야, 친구!\""
-                },
-                {
-                        name: "$4.6 (Waypoint 1)",
-                        en: "Life is too short to wait for the Mayor's bidding. The hero exits the building, possibly returning some time later.",
-                        ko: "시장의 입찰을 기다리기에는 인생이 너무 짧다. 영웅은 건물 밖으로 나가는데, 아마도 얼마 후에 돌아올 것이다."
-                },
                 {
                         name: "$4.7 (Waypoint 4)",
                         en: "As in every city on the Coast, there is no better way to get acquainted with news than to sit in the corner of an inn listening to the drunken voices. Among the news about the siege and lovers' quarrels, an old farmer's voice draws the attention of the heroes. The one-eyed old man complains: \"The dark times are again upon us. First, our king falls. Then, the dead walk again. Now, there's a gruesome murderer that eviscerates his victims by night. My only eye has seen what the killer can do. Believe me, good people, I happened to pass by a corpse last night, and it was... yes, it was like crazy Kessler's stories. The old hermit who lives in that rickety ancient house (Waypoint 3). We may call him crazy, but WE are the mad ones! The dark times are again upon us!\" The last words of the old man are drowned by a huge gulp of cider.",
