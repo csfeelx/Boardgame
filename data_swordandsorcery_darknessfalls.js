@@ -175,7 +175,7 @@
         {
                 name: "$2.12 (Waypoint 3)",
                 en: "The hero decides to listen to the lowlife before determining what to do with him. \"Oh! Now that I can see you in the light, you're not nearly as scary as Bone Crusher, the evil orc. Hehe! Well... I am Malak. That is my name, although I am also known as 'the quick.'I pledge you my knowledge, for a while!\”",
-                ko: "영웅은 그의 처우를 결정하기 전에 그 도적의 말을 들어보기로 한다. \"오! 이제야 제대로 당신들을 볼 수 있게 되었구려. 당신들은 그 사악한 오크, 뼈 파괴자만큼 무섭진 않구만. 헤헤! 음... 난 말락이라오. '재빠른 자' 로 알려져 있기도 하지만, 그게 내 이름이지. 잠시 내가 알고 있는 것을 알려드리리다.\""
+                ko: "영웅은 그의 처우를 결정하기 전에 그 도적의 말을 들어보기로 한다. \"오! 이제야 제대로 당신들을 볼 수 있게 되었구려. 당신들은 그 사악한 오크, 뼈 파괴자만큼 무섭진 않구만. 헤헤! 음... 난 말락이라오. '날쌘돌이' 로 알려져 있기도 하지만, 그게 내 이름이지. 잠시 내가 알고 있는 것을 알려드리리다.\""
         },
         {
                 name: "$2.13 (Waypoint 3)",
@@ -190,7 +190,7 @@
         {
                 name: "$2.15 (Waypoint 3)",
                 en: "\"If you allow me to accompany you... I will lead you on the shortest path out of bere toward the south. Plus, I have this vial of... something, I do not know... but, I have it nearby and I can give it to you. I do not know what kind of magical concoction it may be – I would be extra cautious in drinking it. Yes, the previous owner, well... he is gone, now. Gone, you understand. You, sort of... killed him. But I remember, he didn't want to drink from that vial. Listen, I have no reason to stick with you. I do not want any share or to be in your party. I just want to get out of here alive, but I will help you escape from the raiders' domain, and I know I have a better chance to live if I stay close to you. So... deal?\”",
-                ko: "\"내가 동행해도 좋다면... 황무지를 벗어나 남쪽으로 향하는 가장 빠른 길을 안내해드리리다. 거기에, 내게 뭔지 모를 것이 담긴 약병 하나가 있는데, 원한다면 바로 찾아내서 줄 수 있다오. 그 안에는 어떤 마법적인 혼합물이 들어 있는데, 뭔지는 나도 잘 모르겠소. 나라면 그걸 마시기 전에 생각 좀 많이 해볼 것 같구만. 그 약병의 이전 주인은 이제 없다오. 뭐... 당신들이 죽었지. 하지만 알고 계시오. 그도 약병에 들어있는 것을 마시려고는 하지 않았다오. 자, 정리를 해 봅시다, 내가 당신들의 '일행'이 되고 싶은 건 아니라오. 그저 이 곳을 살아서 나가고 싶은데, 나는 당신들에게 길을 안내해 줄 수 있고, 당신들은 나를 보호해줄 수 있으니 말이야. 어떻소... 그리 하겠소?\""
+                ko: "\"내가 동행해도 좋다면... 황무지를 벗어나 남쪽으로 향하는 가장 빠른 길을 안내해드리리다. 거기에, 내게 뭔지 모를 것이 담긴 약병 하나가 있는데, 원한다면 바로 찾아내서 줄 수 있다오. 그 안에는 어떤 마법적인 혼합물이 들어 있는데, 뭔지는 나도 잘 모르겠소. 나라면 그걸 마시기 전에 생각 좀 많이 해볼 것 같구만. 그 약병의 이전 주인은 이제 없다오. 뭐... 당신들이 죽였지. 하지만 알고 계시오. 그도 약병에 들어있는 것을 마시려고는 하지 않았다오. 자, 정리를 해 봅시다, 내가 당신들의 '일행'이 되고 싶은 건 아니라오. 그저 이 곳을 살아서 나가고 싶은데, 나는 당신들에게 길을 안내해 줄 수 있고, 당신들은 나를 보호해줄 수 있으니 말이야. 어떻소... 그리 하겠소?\""
         },
         {
                 name: "$2.16 (Waypoint 3)",
@@ -200,7 +200,7 @@
         {
                 name: "$2.17 (Waypoint 3)",
                 en: "A quick lunge takes Malak's life. As the body falls on the ground, Marcus whispers, \“In these lands, evil prospers and the good fall in battle. But not today! Yet we could not trust that man. He could have led us into another ambush or fatally slowed us down. We should move on, perhaps toward the south (Story Event 3).\”",
-                ko: "재빠른 공격에 말락은 잃는다. 그의 시체가 바닥에 쓰러지자, 마르커스가 속삭인다, \"이런 곳에서는 악이 번성하고 선한이들은 전투에서 쓰러지지요. 하지만 오늘은 아닙니다! 우리는 저런 자를 믿어서는 안됩니다. 저자는 우리는 다른 매복으로 이끌거나, 치명적으로 지체 시킬 수도 있었을 것 겁니다. 우리는 움직여야만 합니다. 아마도 남쪽으로 가야겠지요 (Story Event 3).\""
+                ko: "재빠른 공격에 말락은 목숨을 잃는다. 그의 시체가 바닥에 쓰러지자, 마르커스가 속삭인다, \"이런 곳에서는 악이 번성하고 선한이들은 전투에서 쓰러지지요. 하지만 오늘은 아닙니다! 우리는 저런 자를 믿어서는 안됩니다. 저자는 우리는 다른 매복으로 이끌거나, 놈들을 위한 시간을 벌기 위해 여정을 지체 시킬 수도 있었을 것 겁니다. 우리는 움직여야만 합니다. 아마도 남쪽으로 가야겠지요 (Story Event 3).\""
         },
         {
                 name: "$2.18 (Story Event 3)",
@@ -215,12 +215,12 @@
         {
                 name: "$2.20 (Story Event 3)",
                 en: "When the demonic bond is destroyed, the man shakes his head and then looks at his wound. He says softly, \“I acknowledge my mind was charmed by that gorgeous and wicked creature. Yet, you have wounded me, Altair the beautiful, leader of the Cave Raiders. I hope you understand there is nothing personal, but I cannot leave you alive. That would be a terrible, terrible example for my men. So, and I am truly sorry for this, you all have to die.\”",
-                ko: "악마의 주문이 사라지자, 남자는 그의 머리를 흔들고 그의 상처를 본다. 그는 부드럽게 이야기 한다. \"내가 그 매혹적이고 사악한 존재에게 홀려있었다는 것은 인정하지. 하지만, 너희는 나를 상처 입혔어, 무리의 우두머리인 나 아름다운 알타이어를 말이야. 사적인 감정은 없다는 것을 알아주었으면 좋겠군, 난 너희를 살려 보내 줄 수 없어, 그건 부하들을 다루는데 있어 매우 좋지 않은 보기가 될거야. 그러니 진심으로 미안하지만, 너희 모두 죽어줘야 겠다.\""
+                ko: "악마의 주문이 사라지자, 남자는 그의 머리를 흔들고 그의 상처를 본다. 그는 부드럽게 이야기 한다. \"내가 그 매혹적이고 사악한 존재에게 홀려있었다는 것은 인정하지. 하지만, 너희는 나를 상처 입혔어, 무리의 우두머리인 나 멋쟁이 알타이어를 말이야. 사적인 감정은 없다는 것을 알아주었으면 좋겠군, 난 너희를 살려 보내 줄 수 없어, 그건 부하들을 다루는데 있어 매우 좋지 않은 보기가 될거야. 그러니 진심으로 미안하지만, 너희 모두 죽어줘야 겠다.\""
         },
         {
                 name: "$2.21 (Story Event 3)",
                 en: "When the demonic bond is destroyed, the man shakes his head and then looks at himself. He speaks to the heroes, \“I acknowledge my mind was charmed by that gorgeous and wicked creature. Yet, I also must admit you – whoever you are - did your best not to wound me, Altair the beautiful, leader of the Cave Raiders. Let no one say I am ungrateful. You are free to go. But, I am no longer in your debt. Should our paths cross once more, I am afraid there will be blood. Farewell!\” With these words, Altair and his band melt into the forest.",
-                ko: "악마의 주문이 사라지자, 남자는 그의 머리를 흔들고 자신을 살펴본다. 그는 영웅들에게 말한다. \"내가 그 매혹적이고 사악한 존재에게 홀려있었다는 것을 인정해야겠군. 그리고 너희가 누구이든 간에 나를 상처 입히지 않게 하기 위해 최선을 다 했다는 것도 인정해야겠어. 무리의 우두머리인 나 아름다운 알타이어를 말이야. 배은망덕하다는 소리를 들을 수는 없지. 너희는 가도 좋다. 하지만 더 이상의 빚은 없다는 것을 알아둬, 다시 한 번 만나게 된다면 그 때는 피가 흐르게 될까 두렵군. 그만 가라!\" 이 말과 함께 알타이어와 그의 무리는 숲 속으로 사라졌다."
+                ko: "악마의 주문이 사라지자, 남자는 그의 머리를 흔들고 자신을 살펴본다. 그는 영웅들에게 말한다. \"내가 그 매혹적이고 사악한 존재에게 홀려있었다는 것을 인정해야겠군. 그리고 너희가 누구이든 간에 나를 상처 입히지 않게 하기 위해 최선을 다 했다는 것도 인정해야겠어. 무리의 우두머리인 나 멋쟁이 알타이어를 말이야. 배은망덕하다는 소리를 들을 수는 없지. 너희는 가도 좋다. 하지만 더 이상의 빚은 없다는 것을 알아둬, 다시 한 번 만나게 된다면 그 때는 피가 흐르게 될까 두렵군. 그만 가라!\" 이 말과 함께 알타이어와 그의 무리는 숲 속으로 사라졌다."
         },
         {
                 name: "$2.22 (Story Event 3)",
@@ -389,7 +389,7 @@
         {
                 name: "$4.1 (Introduction)",
                 en: "The party finds Investigator Crane crouched over a woman's mangled corpse. As one of the guards introduces the heroes, Crane snaps some orders and rises to welcome them. \"Hail, good sirs. Your fame and reputation precede you, thus I think I know enough about you and your vampire Count mission... No surprise there. You, on the other hand, know nothing about me. Crane... My name is Ichabod Crane. First of all, you should know these homicides started just after the undead army was sighted.\" He points at the body laying at his feet, or what remains of it, and adds, \"They have only two things in common - the timing, from dusk to dawn, and the efficient brutality of the deep slashes on the victims, inflicted by razor-sharp implements. No one is safe in this city anymore.\" After a dramatic pause, he continues, \"Usually I do not like strangers intruding upon my investigations, but I am short on men so, since I know your deeds, perhaps you can help us. Should you accept, at least one of you must go to the Town Hall (Waypoint 1) as soon as possible: I am sure the mayor will grant you a commensurate reward. Well, whenever you are comfortable starting investigating, you can do it on my behalf. May the gods be with you.\" The adventure begins!",
-                ko: "일행은 쭈그리고 앉아, 짓이겨진 여성의 시체를 들여다 보고 있는 크레인 경감을 발견한다. 경비병 중 하나가 그에게 영웅들을 소개하자, 경감은 쏘아붙이는 어조로 몇가지 명령을 내린 후, 영웅들을 환영하기 위해 일어선다. \"환영합니다. 영웅들이시어. 여러분의 명성과 평판은 이미 이 곳에도 알려져 있습니다, 그래서 저는 여러분에 대한 이야기와, 여러분께서 흡혈귀 백작을 쫓고 있다는 것을 잘 알고 있습니다. 그렇게 놀라지 마십시오. 반면에 여러분께선 저에 대해 아는 바가 없으시죠. 크레인... 제 이름은 이카바드 크레인입니다. 무엇보다 먼저, 여러분께 이 살인 사건들이 언데드의 군대가 나타난 직후부터 시작되었다는 것을 알려드려야겠군요.\"  그는 그의 발 아래에 놓여있는 시체, 라기 보다 무언가의 잔해라고 불러야 할만한 것을 가리키며 덧붙인다. \"이 사건들에는 두가지 공통점이 있습니다. 첫번째, 사건이 항상 황혼에서 새벽 사이에 벌어졌다는 것과, 두번째, 피해자의 시체에, 면도날과 같이 아주 날카로운 흉기에 의한 것으로 짐작되는 정교하고 잔인한 깊은 자상이 남아있다는 것이지요. 이 도시의 누구도 안심할수가 없는 상황입니다.\" 과장된 포즈를 취한 뒤, 그는 말을 이어간다. \"저는 보통 타인이 제 수사에 끼어드는 것을 좋아하지 않습니디만, 인력이 부족한 상황이고, 여러분의 유능함을 잘 알고 있으니, 원하신다면 수사에 참여하셔도 좋습니다. 그렇게 하시겠다면, 여러분 중 한 분은 가능한 빨리 시청(Waypoint 1)으로 가주시기 바랍니다. 시장께서 적절한 보상을 하시리라 확신합니다. 좋습니다. 언제든 준비되시면 수사를 시작해주십시오. 저를 대행하는 권한을 드리지요. 신의 가호가 함께하길.\" 모험이 시작된다!"
+                ko: "일행은 쭈그리고 앉아, 짓이겨진 여성의 시체를 들여다 보고 있는 크레인 경감을 발견한다. 경비병 중 하나가 그에게 영웅들을 소개하자, 경감은 쏘아붙이는 어조로 몇가지 명령을 내린 후, 영웅들을 환영하기 위해 일어선다. \"환영합니다. 영웅들이시어. 여러분의 명성과 평판은 이미 이 곳에도 알려져 있습니다, 그래서 저는 여러분에 대한 이야기와, 여러분께서 흡혈귀 백작을 쫓고 있다는 것을 잘 알고 있습니다. 그렇게 놀라지 마십시오. 반면에 여러분께선 저에 대해 아는 바가 없으시죠. 크레인... 제 이름은 이카바드 크레인입니다. 무엇보다 먼저, 여러분께 이 살인 사건들이 언데드의 군대가 나타난 직후부터 시작되었다는 것을 알려드려야겠군요.\"  그는 그의 발 아래에 놓여있는 시체, 라기 보다 무언가의 잔해라고 불러야 할만한 것을 가리키며 덧붙인다. \"이 사건들에는 두가지 공통점이 있습니다. 첫번째, 사건이 항상 황혼에서 새벽 사이에 벌어졌다는 것과, 두번째, 피해자의 시체에, 면도날과 같이 아주 날카로운 흉기에 의한 것으로 짐작되는 정교하고 잔인한 깊은 자상이 남아있다는 것이지요. 이 도시의 누구도 안심할수가 없는 상황입니다.\" 과장된 포즈를 취한 뒤, 그는 말을 이어간다. \"저는 보통 타인이 제 수사에 끼어드는 것을 좋아하지 않습니디만, 인력이 부족한 상황이고, 여러분의 유능함을 잘 알고 있으니, 원하신다면 수사에 참여하셔도 좋습니다. 그렇게 하시겠다면, 여러분 중 한 분은 가능한 빨리 시청(Waypoint 1)으로 가주시기 바랍니다. 시장께서 적절한 보상을 하시리라 확신합니다. 좋습니다. 언제든 준비되시면 수사를 시작해주십시오. 저 수사를 대행할 수 있는 권한을 드리지요. 신의 가호가 함께하길.\" 모험이 시작된다!"
         },
         {
                 name: "$4.2 (Waypoint 1)",
@@ -416,30 +416,30 @@
                 en: "Life is too short to wait for the Mayor's bidding. The hero exits the building, possibly returning some time later.",
                 ko: "영웅들에게는 차례를 기다릴만한 시간이 없다. 그들은 건물 밖으로 나온다. 나중에 다시 오는게 나을지도 모르겠다."
         },
+        {
+                name: "$4.7 (Waypoint 4)",
+                en: "As in every city on the Coast, there is no better way to get acquainted with news than to sit in the corner of an inn listening to the drunken voices. Among the news about the siege and lovers' quarrels, an old farmer's voice draws the attention of the heroes. The one-eyed old man complains: \"The dark times are again upon us. First, our king falls. Then, the dead walk again. Now, there's a gruesome murderer that eviscerates his victims by night. My only eye has seen what the killer can do. Believe me, good people, I happened to pass by a corpse last night, and it was... yes, it was like crazy Kessler's stories. The old hermit who lives in that rickety ancient house (Waypoint 3). We may call him crazy, but WE are the mad ones! The dark times are again upon us!\" The last words of the old man are drowned by a huge gulp of cider.",
+                ko: "탈론 코스트의 여느 도시에서와 마찬가지로, 새로운 정보를 얻기 위한 가장 좋은 방법은 여관 구석에 자리를 잡고 주정뱅이들의 이야기를 엿듣는 것이다. 다가올 포위 공격에 대한 이야기나 연인들의 말다툼 등 새로울 것이 없는 이야기가 대부분이지만, 한 늙은 농부의 이야기가 영웅들의 관심을 끈다. 그 애꾸눈의 노인이 투덜대며 말한다. \"어둠의 시기가 다시 왔어. 왕이 돌아가시고, 죽은자가 걷고 있지 않나. 이제는 소름끼치는 살인마가 밤마다 토막 살인을 하고 있지. 내 비록 한쪽 눈은 없지만 놈이 한 짓을 똑똑히 봤다고. 어젯밤 길을 걷다 우연히 보게 되었지. 그건 마치... 그래 꼭 미친 케슬러의 이야기 같더구만. 그 곧 무너질 것 같은 오래된 집에 살고 있는 늙은 은둔자 말일세 (Waypoint 3). 우리가 그를 미쳤다고 하지만, 글쎄 우리 역시 제 정신은 아닌 것 같구만! 어둠의 시기가 다시 왔다고!\" 이 말을 마지막으로 노인은 다시 술독에 빠졌다."
+        },
+        {
+                name: "$4.8 (Waypoint 1)",
+                en: "There will be a day to wait for the bidding of small, well-dressed men of the court... but this is not that day! Looking down on Igor, the heroes again demand an audience with the mayor, and this time their tone leaves no room for replies or objections. Terrified by the heroes' wrath, Igor scrambles to summon the mayor. As he runs away, a small pouch full of coins falls from his vest.",
+                ko: "언젠간 영웅들이, 잘 차려입은 작은 키의 비서관의 요구대로 순순히 차례를 기다리는 일이 생길지도 모른다... 하지만 오늘은 아니지! 영웅들은 이고를 내려다 보며, 거절은 생각지도 못할만한 위압적인 말투로 다시 한 번 면회를 요청한다. 영웅들의 분노에 겁에 질린 이고는 시장을 부르기 위해 달아난다. 허둥지둥 달아나던 그의 외투에서 작은 동전 주머니가 떨어진다."
+        },
+        {
+                name: "$4.9 (Waypoint 4)",
+                en: "The inn's gambling tables are crowded, either to chase away the shadows of the approaching horror, or just for sheer revelry...",
+                ko: "여관의 도박을 위해 준비된 테이블은 사람들로 북적인다. 순전히 흥정망청 놀기 위해서 일 수도 있지만, 다가올 공포의 그림자를 떨쳐내기 위함일 수도 있으리라."
+        },
 {
         name: "",
         en: "",
         ko: ""
 },
                 {
-                        name: "$4.7 (Waypoint 4)",
-                        en: "As in every city on the Coast, there is no better way to get acquainted with news than to sit in the corner of an inn listening to the drunken voices. Among the news about the siege and lovers' quarrels, an old farmer's voice draws the attention of the heroes. The one-eyed old man complains: \"The dark times are again upon us. First, our king falls. Then, the dead walk again. Now, there's a gruesome murderer that eviscerates his victims by night. My only eye has seen what the killer can do. Believe me, good people, I happened to pass by a corpse last night, and it was... yes, it was like crazy Kessler's stories. The old hermit who lives in that rickety ancient house (Waypoint 3). We may call him crazy, but WE are the mad ones! The dark times are again upon us!\" The last words of the old man are drowned by a huge gulp of cider.",
-                        ko: "해안가의 어느 도시나 그렇듯이 여관 구석에 앉아 술취한 목소리를 듣는 것보다 더 좋은 소식은 없다. 포위와 연인들의 말다툼 소식 가운데 늙은 농부의 목소리가 영웅들의 관심을 끈다. 외눈박이 노인은 불평한다: \"어두운 시절이 다시 우리에게 다가왔다. 먼저 우리 왕이 쓰러진다. 그리고 나서, 죽은 사람들은 다시 걷는다. 밤에 희생자들을 쫓아내는 섬뜩한 살인범이 있어 내 유일한 눈은 살인자가 무엇을 할 수 있는지 알아냈다. 날 믿어, 좋은 사람들이여, 어젯밤에 우연히 시체 옆을 지나쳤는데, 그게... 그래, 케슬러의 미친 이야기 같았어 저 지저분한 고택에 살고 있는 늙은 은둔자(Waypoint 3). 우리는 그를 미쳤다고 부를지 모르지만, 우리는 미친 사람들이야! 암흑시대가 다시 다가오고 있어!\" 노인의 마지막 말이 사이다를 엄청나게 한 모금 들이켜서 익사한다."
-                },
-                {
-                        name: "$4.8 (Waypoint 1)",
-                        en: "There will be a day to wait for the bidding of small, well-dressed men of the court... but this is not that day! Looking down on Igor, the heroes again demand an audience with the mayor, and this time their tone leaves no room for replies or objections. Terrified by the heroes' wrath, Igor scrambles to summon the mayor. As he runs away, a small pouch full of coins falls from his vest.",
-                        ko: "궁중의 작고 잘 차려입은 남자들의 입찰을 기다리는 날이 올 것이다... 하지만 오늘은 그런 날이 아니야! 이고르를 내려다보며 영웅들은 다시 시장에게 청중을 요구하는데, 이번에는 그들의 어조가 대꾸나 이의제기를 할 여지를 남기지 않는다. 영웅들의 분노에 놀란 이고르는 시장을 소환하기 위해 허둥댄다. 그가 달아나자 그의 조끼에서 동전이 가득 든 작은 주머니가 떨어진다."
-                },
-                {
-                        name: "$4.9 (Waypoint 4)",
-                        en: "The inn's gambling tables are crowded, either to chase away the shadows of the approaching horror, or just for sheer revelry...",
-                        ko: "다가오는 공포의 그림자를 쫓기 위해서인지, 아니면 순전히 흥청망청 놀기 위해서인지 여관의 노름판이 붐비고 있다."
-                },
-                {
                         name: "$4.10 (Waypoint 1)",
                         en: "The mayor introduces himself while the servants bring good mead to the guests. \"I hope Igor was nicer than usual. My name is Victor Fronkensteen and, although I'm happy to meet you, I am ashamed by the state of my city. When the Wyrgen lords ruled, this city was founded on noble ideals, forged by their strong will, and tempered by time. Now... just look at what it has become: a grim city, isolated, and soon to be besieged by the walking dead. Concerning the recent homicides, I cannot help but ask myself whether this new enemy is linked to the undead horde pressing on the Southern walls. The mighty walls of Moonchild... how ironic the whims of the gods. These walls were erected to protect the city and keep away any trouble from the Talon Coast... But now, these very walls that keep the walking dead at bay are keeping this monster inside with us. I spoke to inspector Crane, and I trust in your ability to help vanquish this scourge. In exchange, Moonchild will help you in your hunt of the vampire Count. Good luck.\"",
-                        ko: "하인들이 손님들에게 좋은 미드를 가져다 주는 동안 시장은 자신을 소개한다. \"Igor가 평소보다 더 친절했으면 좋겠어. 내 이름은 빅터 프론켄스틴이고, 널 만나서 기쁘긴 하지만, 내 도시의 상태에 부끄럽다. 와이르겐 영주들이 통치할 때, 이 도시는 그들의 강한 의지에 의해 형성되고, 시간에 따라 담금질된 고귀한 이상을 바탕으로 세워졌다. 이제... 어떻게 되었는지 보십시오. 암울한 도시, 고립된 도시, 그리고 곧 걸어가는 죽은 자들에게 포위될 겁니다. 최근의 살인사건과 관련하여, 나는 이 새로운 적이 남쪽 벽을 누르고 있는 언데드 호드와 연결되어 있는지 자문하지 않을 수 없다. 문 차일드의 거대한 벽들... 신들의 변덕이 얼마나 아이러니한가. 이 벽들은 도시를 보호하고 탈론 해안으로부터 어떠한 문제도 피하기 위해 세워졌다... 하지만 지금, 걸어다니는 죽은 사람들을 막아주는 바로 이 벽들이 이 괴물을 우리 안에 가두어 놓고 있다. 크레인 검사관과 얘기했는데 자네가 이 재앙을 물리치는 데 도움이 될 거라 믿네 그 대신 문 차일드가 뱀파이어 백작 사냥에 도움을 줄 거야 행운을 빌어요\""
+                        ko: "하인들이 손님들을 위한 질 좋은 벌꿀술을 가지고 오는 동안, 시장은 자신을 소개한다. \"이고가 평소보다 친절하게 굴었다면 좋았을 것을... 제 이름은 빅터 프론켄스타인입니다. 여러분을 만나 기쁘지만, 한편으로는 도시의 좋은 않은 상황을 보여드리게 되어 부끄럽군요. 위르겐 영주들은 고귀한 뜻을 품고 이 도시의 세우고, 강한 의지를 통해 도시를 발전시켰지요. 그들이 다스리는 동안 도시는 시간이 지날 수록 위대해졌었습니다. 지금은... 도시의 상황은 참담합니다. 곧 망자들에게 포위당할 고립되고, 위태로운 도시지요. 최근의 살인 사건들에 대해, 전 이 새로운 적이 남쪽 벽을 압박하고 있는 언데드와 연관이 있다는 생각을 떨칠 수가 없습니다. ||| "
                 },
                 {
                         name: "$4.11 (Waypoint 4)",
