@@ -897,7 +897,7 @@
 			},
 			{
 				title: "END OF MISSION #1",
-				text: "바이스는 당신의 수송선이 높이 이륙할 때도 계속하여 사격을 감행한다. 당신의 배가 궤도를 이탈하기 전까지 배에 그을린 자국이 좀 남긴 했지만, 당신과 보급품들은 무사하다.",
+				text: "바이스는 당신의 수송선이 높이 이륙할 때도 계속하여 사격을 감행한다. 당신의 함선이 궤도를 이탈하기 전까지 함선 외벽에 그을린 자국이 좀 남긴 했지만, 당신과 보급품들은 무사하다.",
 			},
 			{
 				title: "END OF MISSION #2",
@@ -960,11 +960,11 @@
 		detail: [
 			{
 				title: "SYNOPSIS",
-				text: "제국의 데이터 센터는 매우 귀중하므로 반란 연합의 최우선 공격 목표가 되곤 한다. 현명한 결정을 내린다면, 바로 이 데이터 센터를 잘 지켜내는 것인데...",
+				text: "제국의 데이터 센터는 매우 가치 있는 목표이기에 반란군의 최우선 공격 목표가 되곤 한다. 제국군 입장에서는 이 데이터 센터를 잘 지켜내는 것이 현명한 판단일 것이다.",
 			},
 			{
 				title: "MISSION BRIEFING",
-				text: "당신의 셔틀이 소규모 제국군 데이터 센터에서 우측 외곽에 착륙했다. 반란 연합 정보부에서는 당신이 제 시간에만 도착한다면 순찰대를 피할 수 있을 것이라 했지만, 머지않아 그 이야기와는 전혀 다른 상황을 맞게 되었다.<br><br>\"꼼짝 마라! 네놈들은 현재 제국 기밀 시설에 무단 침입하였으며, 구류될 것이다.\"<br><br>당신은 스톰트루퍼의 헬멧 너머에서 들려오는 험악한 목소리를 들었고 스톰트루퍼 분대가 블래스터를 조준하는 모습을 목도했다.",
+				text: "당신의 수송선은 소규모 제국군 데이터 센터에서 우측 외곽에 착륙했다. 반란 연합 정보부에서는 당신이 제 시간에만 도착한다면 순찰대를 피할 수 있을 것이라 했지만, 머지않아 그 이야기와는 전혀 다른 상황을 맞게 되었다.<br><br>\"꼼짝 마라! 네놈들은 현재 제국 기밀 시설에 무단 침입하였으며, 구류될 것이다.\"<br><br>당신은 스톰트루퍼의 헬멧 너머에서 들려오는 험악한 목소리를 들었고 스톰트루퍼 분대가 블래스터를 조준하는 모습을 목도했다.",
 			},
 			{
 				title: "",
@@ -981,77 +981,77 @@
 		]
 	},
 	{
-		name: "# Rebel Trooper - Brace For Impact",
+		name: "* 반란군 병사 - 충격에 대비하라",
 		detail: [
 			{
 				title: "SYNOPSIS",
-				text: "A choppy, static-filled communcation comes in from a group of troopers sent to steal classifed data at an Imperial facility. They frantically relay that their intelligence was faulty. There were more defenses than accounted for, and they need assistance completing their mission before their barricade is overrun...",
+				text: "잡음으로 가득하고, 툭툭 끊기는 통신문이 들어온다. 그것은 기밀 정보를 훔치기 위해 제국 시설에 파견된 반란군 병사 분대에게서 온 것이다. 그들은 몹시 다급하게 제국의 병력 예측이 잘못되어 예상보다 많은 방어군을 만났다는 말을 반복한다. 당신은 바리케이드가 무너지고 분대가 전멸하기 전에 그들을 도와 임무를 완료해야 한다.",
 			},
 			{
 				title: "MISSION BRIEFING",
-				text: "You arreve to find your compatriots locked in battle with stormtroopers. It's clear you won't have much time to finish their mission before they're overrun.",
+				text: "당신은 스톰트루퍼들의 공격으로 꼼짝달싹하지 못하게 된 동료들을 찾아 전장에 들어선다. 그들은 금방이라도 전멸할 위기에 놓여 있다. 따라서 당신이 임무를 완수하기 위해 남은 시간이 얼마 되지 않는다는 것은 분명하다.",
 			},
 			{
 				title: "ALARM",
-				text: "\"Data security compromised.\"This amplified warning repeats through the compound as alarms ring out.",
+				text: "\"데이터 유출 시도 감지됨. 데이터 유출 시도 감지됨.\" 시설 전체에 큰 소리로 경보가 울린다.",
 			},
 			{
 				title: "END OF MISSION #1",
-				text: "Clutching your datapad full of Imperial secrets, you run past the barricade. A brutal, fighting retreat occupies the next few hours, but eventually you are able to get clear of Imperial forces.",
+				text: "제국의 기밀로 가득찬 데이터패드를 움겨쥐고, 당신은 바리케이드를 향해 달린다. 몇 시간 동안 격렬한 공방이 이어진 뒤, 마침내 당신은 제국군 병력을 일소하는데 성공한다.",
 			},
 			{
 				title: "END OF MISSION #2",
-				text: "You look on in horror as the Imperial forces overrung the barricade and cut down any who oppose them. In moments, not one of your troopers remains standing. Imperials then begin to surround you and your datapad is destroyed by blaster crossfire. You decide to make your escape before you encounter the same fate as your comrades.",
+				text: "당신은 공포에 질린채 제국군이 바리케이드를 부수고, 저항하는 모든 반란군 병사를 도륙하는 모습을 지켜본다. 잠시후 쓰러지지 않은 반란군 병사는 한 명도 없었다. 제국군은 당신을 포위하기 시작하고, 당신의 데이터패드는 제국군의 십자포화 속에서 가루가 된다. 당신은 당신의 동료들과 같은 운명을 맞이하기 전에 도망치기로 결심한다.",
 			},
 		]
 	},
 	{
-		name: "# Chewbacca - Celebration",
+		name: "* 츄바카 - 기념 행사",
 		detail: [
 			{
 				title: "SYNOPSIS",
-				text: "Chewbacca is hosting a large celebration on his home world with other Wookiees of the Rebellion. Though this is meant to simply be relaxing, some intercepted Imperial chatter implies that this celebration may also becom the target of an attack...",
+				text: "츄바카는 반란군에 소속된 다른 우키들과 함께 고향 행성에서 큰 기념 행사을 벌이고 있다. 이 행사는 작은 휴식이 될 예정이었으나, 제국군의 통신을 도청한 정보에 의하면 이 축하연은 그들의 공격 목표가 되었을 수 있다.",
 			},
 			{
 				title: "MISSION BRIEFING",
-				text: "The celebration is wonderful, and the marvelous feast reminds you of why you fight so hard in the first place.<br><br>As festivities continue, you notice the Wokiees begin to move slowly, some even staggering and falling down. In the midst of assisting them, you conclude that their traditional drink, the very potent accarragm, has been drugged.<br><br>There's a rumble of an engine as an Inperial shuttle lands in the forest. Stormtroopers rush out and begin rounding up the unconscious Wookiees.",
+				text: "기념 행사는 굉장했고, 놀라운 축제는 당신이 힘든 싸움을 이어가는 이유를 상기 시켜준다.<br><br>행사가 진행되는 동안 당신은 우키들의 움직임이 둔해진 것을 눈치챈다. 심지어 몇몇은 정신을 잃고 쓰러졌다. 그들을 돕고 있는 도중에 당신은 우키들의 전통주인 Accarragm에 독이 들어간 것이 분명하다고 판단한다.<br><br>커다란 엔진 소리와 함께 제국군의 수송선이 숲에 착륙한다. 그 함선에서 스톰트루퍼들이 쏟아져나와 정신을 잃은 우키들을 포위하기 시작한다.",
 			},
 			{
 				title: "ASSAULT WAVE",
-				text: "An Imperial officer shouts to his troops as they pour out of the forest behind you. \"Move faster! I don't want your excuses, I want those Wookiees secured for transport!\"<br><br>In the midst of battle, an explosion causes you to lift your head to find the source of such a massive sound. You see that the Imperials have blown a hole in the side of Chewbacca's hut and are now running in to arrest even more Wookiees.",
+				text: "당신의 뒤편에 있는 숲에서 제국군의 병력이 쏟아져 나오는 가운데, 제국군 장교가 소리친다. \"서둘러라! 변명은 필요없다. 어서 이 우키들을 구속해서 수송선으로 옮겨!\"<br><br>한창 전투가 벌어지는 도중, 커다란 폭발음이 당신의 주의를 끈다. 당신의 눈에 제국군 병력이 츄바카의 오두막의 벽을 날려버리고, 더 많은 우키들을 구속하기 위해 전진하고 있는 것이 보인다.",
 			},
 			{
 				title: "END OF MISSION #1",
-				text: "Chewbacca roars in triumph as the Imperials are forced to retreat. You run to the drugged Wookiees and start apllying simpacks as fast as you can.",
+				text: "제국군이 후퇴하자, 츄바카는 승리의 함성을 내지른다. 당신은 중독된 우키들에게 달려가, 가능한 서두르며 치유제를 주사하기 시작한다.",
 			},
 			{
 				title: "END OF MISSION #2",
-				text: "The shuttle blasts off with its captives. With a roar, Chewbacca takes off toward you ship, as if ready to make pursuit. Noticing the shambles of the village and a number of his kin still in need of assistance, he gives a low, sorrowful growl and sets down his bowcaster.",
+				text: "수송선은 우키 포로들을 싣고 이륙한다. 츄바카는 그들을 추적할 생각인 듯, 분노의 함성을 지르며 당신을 재촉하며 함선으로 달린다. 하지만 마을의 참상과, 도움을 필요로 하는 그의 동족들을 남아 있음을 눈치채고, 그는 슬픔에 가득찬 낮은 소리로 그르릉대며 그의 보우캐스터를 내려 놓는다.",
 			},
 		]
 	},
 	{
-		name: "# Stormtroopers - Bunker Buster",
+		name: "* 스톰트루퍼 - 벙커 버스터",
 		detail: [
 			{
 				title: "SYNOPSIS",
-				text: "The training facility for the 501st Stormtroopers division is one of central points of the Imperial stormtroopers corps. As such, it is a prime target for sabotage missions.",
+				text: "501 스톰트루퍼 사단을 위한 훈련소는 제국 스톰트루퍼 군단의 주요 지점 중 한 곳이다. 이 말은 즉, 그곳이 파괴 공작의 최우선 목표라는 것이다.",
 			},
 			{
 				title: "MISSION BRIEFING",
-				text: "You march toward a training facility for the 501st Legion, also known as Vader's Fist. Command has informed you that this outpost is critical to Imperial logistical operations. Destroying it could break the Empire's grip in this sector.<br><br>The hoversled carrying the thermal payload is prepped and ready, but you'll ness to get it in yourself. You know that this facility is directly connected to a stormtrooper barracks, however, so you expect plenty of resistance.",
+				text: "당신은 베이더의 직속 부대로 알려진 501 스톰트루퍼 사단의 훈련소로 전진한다. 지휘부의 정보에 의하면 이 전초기지는 제국 병참 작전의 주요 거점이다. 이 곳을 파괴한다면 이 성계의 제국군의 통제권을 크게 약화시킬 수 있을 것이다.<br><br>기폭 준비가 된 열중성자 폭발물을 호버크래프트로 운반해 왔으나, 설치를 위해서는 직접 움직일 필요가 있다. 또한 당신은 이 시설이 스톰트루퍼 병영과 직접 연결되어 있음을 알기에, 만만치 않은 저항이 있을 것을 각오한다.",
 			},
 			{
 				title: "INTO THE BREACH",
-				text: "The blast doors open and the internal defenses are ready for you. You hear shouts and commands as troopers align themselves into position to face you.",
+				text: "방폭문이 열리고, 시설 내부의 병력이 당신을 맞이한다. 당신의 귀에 제국군 병사들이 집결하여 전투를 준비하는 외침이 들려온다.",
 			},
 			{
 				title: "END OF MISSION #1",
-				text: "The explosives go live, forcing everyone present to flee. The remaining stormtroopers ignore you as they retreat to their own ships. As you fly away, you see the smoking crater that as once an Imperial outpost.",
+				text: "폭발물을 터뜨릴 준비를 마쳤고, 이를 눈치챈 시설의 모든 이들이 도망친다. 스톰트루퍼 잔존 병력은 당신을 무시하고 그들의 함선으로 후퇴한다. 당신이 수송선을 타고 날아오를 때, 당신은 커다란 폭발과 함께 제국의 전초기지가 있던 곳에 연기가 솓아 오르는 커다란 구덩이만 남은 것을 목격한다.",
 			},
 			{
 				title: "END OF MISSION #2",
-				text: "You can't get the payload to the structural weak point and you're forced to retreat before Imperial walkers and bomb disposal agents come to undo your work. As you fly away form the outpost, you sigh wearily, You know you'll be seeing more of the 501st Legion, and soon.",
+				text: "당신은 폭발물을 목표지점으로 운반하는 것에 실패했고, 제국군의 워커 및 폭발물 전담 요원이 오기 전에 후퇴한다. 당신이 전초기지에서 수송선을 타고 탈출할 때, 당신은 녹초가 되어 한숨쉰다. 당신은 501 스톰트루퍼 사단이 곧 복수를 위해 당신을 쫓을 것임을 알고 있다.",
 			},
 		]
 	},
