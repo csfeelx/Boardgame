@@ -24,11 +24,19 @@
             for (var ii = 0 ; ii < datTranslation.length ; ii++) {
                 // 준비
                 var data = datTranslation[ii];
-                var button = winButton.appendChild(document.createElement("button"));
-                winButton.appendChild(document.createElement("div"));
-                button.no = ii;
-                button.innerHTML = data.name;
-                button.onclick = function (ev) { openDialog(ev.target, ev.target.no); }
+
+                // 배치
+                if (data.title != null) { // 카테고리
+                    var cat = document.createElement("div");
+                    winButton.appendChild(cat);
+                    cat.innerHTML = "<b>" + data.title + "<b>";
+                } else { // 버튼
+                    var button = winButton.appendChild(document.createElement("button"));
+                    winButton.appendChild(document.createElement("div"));
+                    button.no = ii;
+                    button.innerHTML = data.name;
+                    button.onclick = function (ev) { openDialog(ev.target, ev.target.no); }
+                }
             }
         }
 
