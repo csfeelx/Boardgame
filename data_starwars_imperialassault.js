@@ -514,7 +514,7 @@
 	        detail: [
 			{
 			        title: "SYNOPSIS",
-                                text: "기드온 아르거스는 전설적인 특수 부대, 세이버 팀의 창립 멤버였다. 하지만 한 작전이 실패했는데, 멤버 중 배신자가 있음이 분명해 보였다. 그렇게 그는 그의 오랜 동지들 사이에서 누구를 믿어야 될지 모를 상황에서 팀을 떠났다.<br><br>그리고 최근, 세이버 팀의 멤버들은 그들의 옛 지휘관에게 도움을 바라며 연락을 해 왔다."
+                                text: "기드온 아르거스는 전설적인 특수 부대, 세이버 팀의 창립 멤버였다. 하지만 멤버 중 배신자가 있었으리라 의심되는 작전의 실패 후, 그는 그의 오랜 동지들 사이에서 누구를 믿어야 될지 모를 상황에서 팀을 떠났다.<br><br>그리고 최근, 세이버 팀의 멤버들은 그들의 옛 지휘관에게 도움을 바라며 연락을 해 왔다."
 			},
 			{
 			        title: "MISSION BRIEFING",
@@ -534,11 +534,11 @@
         // Side Mission : Green (Selectable)
         { title: "<br>Side Mission : Green (Selectable)" },
 	{
-	        name: "12p",
+	        name: "> Sorry About the Mess (2-4, Han Solo Ally, Core)",
 	        detail: [
 			{
 			        title: "SYNOPSIS",
-			        text: "반란 연합은 수완이 좋은 밀수꾼 한 솔로에게 큰 빚을 졌다. 반란 연합에게 이 사실을 회자하길 꺼리지 않던 한이 지원을 요청했다.<br><br>한이 이 작전이 제국의 활동을 중단시킬 수 있다고 보장하고 있었기 때문에, 반란 연합은 그의 요청을 받아들이기로 하는데...",
+			        text: "수완 좋은 밀수꾼인 한 솔로는 반란군에 승리에 큰 기여를 했다. 그는 자신의 헌신에 대한 보답을 요구하는 것을 부끄러워하지 않기에, 자신의 일에 반란군에 도움을 요청했다.<br><br>그가 이 작전은 제국의 활동을 방해하는 효과도 있다고 단언했기에, 반란군은 그의 요청을 기꺼이 받아들였다.",
 			},
 			{
 			        title: "MISSION BRIEFING",
@@ -559,11 +559,11 @@
 	        ]
 	},
 	{
-	        name: "13p",
+	        name: "> Homecoming (3-4, Luke Skywalker Ally, Core)",
 	        detail: [
 			{
 			        title: "SYNOPSIS",
-			        text: "반란 연합의 새로운 파일럿 모집에 참여한 루크 스카이워커는 며칠간 소식이 없었다.<br><br>반란 연합의 영웅이 된 루크는 제국군과 현상금 사냥꾼들에게 최우선 목표가 되었으며, 반란 연합의 최고 사령부는 루크가 중대한 위험에 처했을 수도 있다는 것에 우려늘 느끼고 있는데...",
+			        text: "반란군의 새로운 파일럿 모집에 참여한 루크 스카이워커는 며칠간 소식이 없었다.<br><br>반란군의 영웅이 된 루크는 제국군과 현상금 사냥꾼들에게 최우선 목표가 되었기에, 반란군 최고 사령부는 루크가 중대한 위험에 빠진게 아닐까 심히 걱정하고 있다.",
 			},
 			{
 			        title: "MISSION BRIEFING",
@@ -584,11 +584,11 @@
 	        ]
 	},
 	{
-	        name: "14p",
+	        name: "> The Spice Job (2-7, Chewbacca Ally, Core)",
 	        detail: [
 			{
 			        title: "SYNOPSIS",
-			        text: "한 솔로에게는 그의 동료가 하는 일이 주요 관심사가 되었다. 한의 바람과는 달리, 츄바카에게는 헛의 주의를 한에게 돌려야하는 작업이 하나 있었다.<br><br>이 작업을 성공하면 크레딧도 벌어들이고 헛의 관심도 돌릴 수 있으며, 한에게 한숨 돌릴만한 시간을 줄 수도 있지만, 그리 간단한 일은 아닌데...",
+			        text: "츄바카에게 그의 동료인 한 솔로의 빚은 큰 걱정거리가 되었다. 한은 원치 않지만, 츄바카는 그를 쫓는 자바 헛을 방해하려는 작전을 준비했다.<br><br>이 작전이 성공하면 크레딧도 벌어들이고, 자바 헛의 주의를 끌어 잠깐이라도 한 솔로에게 한숨 돌릴 시간을 마련해 줄 수 있을 것이다.",
 			},
 			{
 			        title: "MISSION BRIEFING",
@@ -609,11 +609,11 @@
 	        ]
 	},
 	{
-	        name: "15p",
+	        name: "> Target of Opportunity (-, Rebel Saboteur Ally, Core)",
 	        detail: [
 			{
 			        title: "SYNOPSIS",
-			        text: "반란 연합은 언제나 제국보다 우위를 점할 수 있는 기회를 노리고 있으며, 파괴 공작은 가장 선호되는 방법이다.<br><br>파괴 공작원들은 항상 대상을 염두에 두고 있다. 그들의 평판은 다소 엇갈리지만, 파괴 공작원들의 무모하고 끈질긴 태도는 그들이 가진 폭파 기술보다 더 높게 평가되는데...",
+			        text: "반란군은 언제나 제국보다 우위를 점할 수 있는 기회를 노리고 있으며, 파괴 공작은 그 수단으로 가장 선호되는 방법이다.<br><br>두 명으로 이루어진 파괴공작원 팀 하나가 작전을 계획중이다. 그들의 평판은 다소 엇갈리지만, 그들의 폭파 기술에 비해, 무모하고 고집스러운 성향이 강한 듯 하다.",
 			},
 			{
 			        title: "MISSION BRIEFING",
@@ -634,7 +634,7 @@
 	        ]
 	},
         {
-                name: "* Rebel Troopers Ally Pack - Brace for Impact",
+                name: "* Brace for Impact (-, Rebel Trooper Ally, Rebel Troopers Ally Pack)",
                 detail: [
 			{
 			        title: "SYNOPSIS",
@@ -662,11 +662,11 @@
         // Side Mission : Gray (Random)
         { title: "<br>Side Mission : Gray (Random)" },
 	{
-	        name: "16p",
+	        name: "> Viper's Den (-, Rebel Recon Card, Core)",
 	        detail: [
 			{
 			        title: "SYNOPSIS",
-			        text: "반란군 최고 사령부는 조난 신호 하나를 받았다. 평판이 좋지 않은 정보 제공자 웨인 얄은 제국 군대의 움직임에 관한 중요한 정보를 가지고 있다고 호언장담했다.<br><br>예전에 알은 믿을 가치가 없다고 입증되었지만, 그의 신뢰성에 대한 위험을 감수할 가치가 있을 만큼, 그가 가진 정보는 유용할 지도 모르는데...",
+			        text: "반란군 최고 사령부는 조난 신호 하나를 받았다. 평판이 좋지 않은 정보 제공자 웨인 얄은 제국군 병력 이동에 관한 중요한 정보를 가지고 있다고 장담했다.<br><br>얄은 이미 정보원으로 신뢰할 수 없음이 증명되었지만, 이 정보는 다시 한번 그를 믿는 위험을 감수할 수 있을 만큼 유용할 수도 있다.",
 			},
 			{
 			        title: "MISSION BRIEFING",
@@ -687,11 +687,11 @@
 	        ]
 	},
 	{
-	        name: "17p",
+	        name: "> A Simple Task (-, Adrenal Implant Card, Core)",
 	        detail: [
 			{
 			        title: "SYNOPSIS",
-			        text: "제국의 관료주의 때문에 끊임없이 제안되던 프로젝트들이 버려지는 일이 흔했다.<br><br>강한 전투 자극제의 화학실 또한 그런 프로젝트 중 하나였다. 개발되었지만 버려진 기지에서 이 화학식에 대한 정보를 찾는 것은 그리 어려운 일이 아니었는데...",
+			        text: "제국의 관료주의는 프로젝트가 제안되었다가, 버려지는 일을 끊임없이 반복하게 만든다.<br><br>강력한 전투 자극제 개발 프로젝트 역시 그 중 하나였다. 전투 자극제가 개발되던 기지는 줄곧 버려져있었기에, 자극제 화학식에 대한 정보를 찾는 것은 어렵지 않으리라 예상된다.",
 			},
 			{
 			        title: "MISSION BRIEFING",
@@ -720,11 +720,11 @@
 	        ]
 	},
 	{
-	        name: "18p",
+	        name: "> Generous Donations (-, Credits, Core)",
 	        detail: [
 			{
 			        title: "SYNOPSIS",
-			        text: "제국의 총독 미노 페린은 오랫동안 자신이 지배하는 사람들을 탄압하기 위해 자신의 재정을 활용하는 것으로 알려져왔다.<br><br>반란 연합은 그의 비밀 계좌를 관리하는 설러스트의 숨겨진 시설을 찾아냈다. 그 기지에 침투하여 계좌를 찾아내면 반란군의 새로운 전함을 구축할 자금을 확보할 수 있는데...",
+			        text: "제국의 총독 미노 페린은 오랫동안 피지배자들을 탄압하기 위해 자신의 재정을 활용하는 것으로 알려져있다.<br><br>반란군은 설러스트에서 그의 비밀 계좌를 관리하는 비밀 시설을 찾아냈다. 그 기지에 침투하여 그의 자금을 빼돌린다면 새로운 반란군 전함을 구축할 자금을 확보할 수 있을 것이다.",
 			},
 			{
 			        title: "MISSION BRIEFING",
@@ -741,11 +741,11 @@
 	        ]
 	},
 	{
-	        name: "19p",
+	        name: "> Luxury Cruise (-, Allied Operations Card, Core)",
 	        detail: [
 			{
 			        title: "SYNOPSIS",
-			        text: "연합은 잠입에 사용하기 위해서 ㅈ국이 사용했던 선박들을 모으려 하고 있다.<br><br>그리고 셔틀하나가 수리를 받고 손쉬운 먹잇감이 되어 나타나게 되는데...",
+			        text: "반란군은 위장 잠입을 위해 제국이 사용하던 선박들을 모으려하고 있다.<br><br>수리 중인 제국 수송선 하나가 발견되었고, 이는 손쉬운 먹잇감으로 보인다.",
 			},
 			{
 			        title: "MISSION BRIEFING",
@@ -766,7 +766,7 @@
 	        ]
 	},
         {
-                name: "* Luke Skywalker Ally Pack - Sympathy for the Rebellion",
+                name: "* Sympathy for the Rebellion (3-4, The Ways of the Force Card, Luke Skywalker Ally Pack)",
                 detail: [
 			{
 			        title: "SYNOPSIS",
@@ -791,7 +791,7 @@
                 ]
         },
         {
-                name: "> Han Solo Ally Pack - Imperial Entanglements",
+                name: "> Imperial Entanglements (2-4, Quickdraw Holster Card, Han Solo Ally Pack)",
                 detail: [
 			{
 			        title: "SYNOPSIS",
@@ -816,7 +816,7 @@
                 ]
         },
         {
-                name: "* Chewbacca Ally Pack - Celebration",
+                name: "* Celebration (2-7, Intimidation Card, Chewbacca Ally Pack)",
                 detail: [
 			{
 			        title: "SYNOPSIS",
@@ -844,11 +844,11 @@
         // Agenda Mission
         { title: "<br>Agenda Mission" },
 	{
-	        name: "20p",
+	        name: "> Means of Production (3, -, Imperial Industry Card, Core)",
 	        detail: [
 			{
 			        title: "SYNOPSIS",
-			        text: "최근 제국의 시험 시설은 돌파구를 찾아냈다. 제국의 지원 아래 그들의 혁신적인 산물은 곧 생산에 돌입할 수 있을 것이다.",
+			        text: "제국의 실험 시설 중 하나가 최근 큰 실험 성과를 이루어냈다. 제국의 지원 아래 그들의 혁신적인 결과물은 곧 실전 배치 될 수 있을 것이다.",
 			},
 			{
 			        title: "MISSION BRIEFING",
@@ -869,11 +869,11 @@
 	        ]
 	},
 	{
-	        name: "21p",
+	        name: "> Breaking Point (3, -, Supply Deficit Card, Core)",
 	        detail: [
 			{
 			        title: "SYNOPSIS",
-			        text: "제국의 요원은 치명적인 공격을 감행하여 반란 연합의 중요한 보급품들을 파괴했다. 반란 연합은 약해졌고 그들의 항복은 거의 확실시되고 있다.",
+			        text: "제국의 요원들이 반란군의 중요 보급품을 파괴하기 위한 정밀 타격 작전을 계획하고 있다. 이 작전이 성공한다면 반란군을 궁지에 몰아 넣을 수 있을 것이다.",
 			},
 			{
 			        title: "MISSION BRIEFING",
@@ -894,11 +894,11 @@
 	        ]
 	},
 	{
-	        name: "22p",
+	        name: "> Impounded (Forced, 4, -, Special Operations Card, Core)",
 	        detail: [
 			{
 			        title: "SYNOPSIS",
-			        text: "선박은 제대로 된 허가를 받았지만, 그 배의 승무원은 반란군의 동조자로 알려져 있다. 승무원들을 심문하고 선박의 데이터 파일을 분석하면 중요한 정보를 알아낼 수 있을 것이다.",
+			        text: "그 선박은 적합한 허가서를 가지고 있지만, 그 배의 승무원은 반란군의 동조자로 알려져 있다. 승무원들을 심문하고 선박의 데이터 파일을 분석하면 중요한 정보를 알아낼 수 있을 것이다. 이들은 위험한 범죄자들로 얕잡아 봐서는 안된다. 교묘한 술책을 사용한다면, 직접적인 전투를 피하고 정보를 얻어낼 수 있을 것이다.",
 			},
 			{
 			        title: "MISSION BRIEFING",
@@ -919,11 +919,11 @@
 	        ]
 	},
 	{
-	        name: "23p",
+	        name: "> Wanted (Forced, 4, -, Old Wounds, Core)",
 	        detail: [
 			{
 			        title: "SYNOPSIS",
-			        text: "제국 측에 있어 반란군 요원들은 골칫거리가 되었다. 용병들과 같이 일하는 것이 불쾌하더라도, 상당한 현상금은 용병들에게 충분한 압박을 줄 수 있다.제국의 요원은 치명적인 공격을 감행하여 반란 연합의 중요한 보급품들을 파괴했다. 반란 이 반란군들은 위험한 적이다. 조언에 따르면 반란군을 직접 마주하기에 앞서 전술적인 우위를 점하기 위해서는 사냥꾼들을 고용하는 것이 좋다고 한다.",
+                                text: "반란군 요원들은 자신의 가치를 증명했고, 제국의 입장에서는 입안의 가시와도 같은 존재가 되었다. 용병을 부리는 것은 피곤한 일이 될수도 있지만, 거액의 보상은 그들을 얌전하게 만들 수 있을 것이다.<br><br>반란군 요원들은 위험한 상대이다. 따라서 용병들에게 정면 충돌 전에 전술적 이점을 만들어 둘 것을 충고하라.",
 			},
 			{
 			        title: "MISSION BRIEFING",
@@ -940,11 +940,11 @@
 	        ]
 	},
 	{
-	        name: "> Darth Vader, Lord of the Sith Villain Pack - Dark Obsession",
+	        name: "> Dark Obsession (3, 1-6, Darth Vader Villain, Darth Vade Villain Pack)",
 	        detail: [
 			{
 			        title: "SYNOPSIS",
-			        text: "다스 베이더는 루크 스카이워커의 움직임에 관해 큰 관심을 가지고 있었다. 결국 베이더는 오비완의 제자를 사로잡을 수 있는 완벽한 기회를 잡았다.",
+			        text: "다스 베이더는 루크 스카이워커의 움직임에 관해 큰 관심을 가지고 있었다. 결국 베이더는 오비완의 제자를 사로잡을 수 있는 최후의 기회를 잡았다.",
 			},
 			{
 			        title: "MISSION BRIEFING",
@@ -969,7 +969,7 @@
 	        ]
 	},
         {
-                name: "> Royal Guard Champion Villain Pack - Infection",
+                name: "> Infection (3, -, Royal Guard Champion Villain, Royal Guard Champion Villain Pack)",
                 detail: [
 			{
 			        title: "SYNOPSIS",
@@ -994,7 +994,7 @@
                 ]
         },
 	{
-	        name: "* General Weiss, Field Commander Villain Pack - Forest Ambush",
+	        name: "* Forest Ambush (3, -, General Weiss Villain, General Weiss Villain Pack)",
 	        detail: [
 			{
 			        title: "SYNOPSIS",
@@ -1019,7 +1019,7 @@
 	        ]
 	},
 	{
-	        name: "* Stormtroopers Villain Pack - Bunker Buster",
+	        name: "* Bunker Buster (3, -, 501st Training Card, Stormtroopers Villain Pack)",
 	        detail: [
 			{
 			        title: "SYNOPSIS",
@@ -1044,7 +1044,7 @@
 	        ]
 	},
         {
-                name: "> IG-88, Assassin Droid Villain Pack - Binary Revolution",
+                name: "> Binary Revolution (3, -, IG-88 Villain, IG-88 Villain Pack)",
                 detail: [
 			{
 			        title: "SYNOPSIS",
