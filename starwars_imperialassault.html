@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="ko">
 <head>
     <meta charset="utf-8">
@@ -58,7 +58,7 @@
 			var detail = data_current.detail;
 			var str = "";
 			for (var ii = 0 ; ii < detail.length ; ii++) {
-				str += "<b>" + detail[ii].title + "</b><br><br>";
+				if (detail[ii].title != null) { str += "<b>" + detail[ii].title + "</b><br><br>"; }
 				str += detail[ii].text +"<br><br>";
 			}
             winDialog.detail.innerHTML = str;
