@@ -507,7 +507,7 @@
 			},
 			{
 				title: "END OF MISSION #2",
-				text: "폭발이 땅을 뒤흔들고 불길이 사방을 휩쓴다. 펜은 싸움을 계속하고, 끊임없이 적 병사를 쓰러뜨린다.<br><br>그 모든 것이 헛되이, 반란군은 쏟아지는 포화의 열기와 연기 속에서 버티지 못하고 밀려나고, 후퇴 중에 펜은 그가 피땀흘려 해방시켰던 대지가 불타오르는 것을 지켜볼 수 없다.",
+				text: "폭발이 땅을 뒤흔들고 불길이 사방을 휩쓴다. 펜은 싸움을 계속하고, 끊임없이 적 병사를 쓰러뜨린다.<br><br>그 모든 것이 헛되이, 반란군은 쏟아지는 포화의 열기와 연기 속에서 버티지 못하고 밀려나고, 후퇴 중에 펜은 그가 피땀흘려 해방시켰던 대지가 불타오르는 것을 지켜볼 수 밖에 없다.",
 			},
 		]
 	},
@@ -815,7 +815,7 @@
 		]
 	},
 	{
-		name: "Hunted Down (2-4, Han Solo, Twin Shadows)",
+		name: "Hunted Down (2-4, Han Solo Ally, Twin Shadows)",
 		detail: [
 			{
 				title: "SYNOPSIS",
@@ -1022,7 +1022,7 @@
 		]
 	},
 	{
-		name: "Canyon Run (-, Counterparts, Twin Shadows)",
+		name: "Canyon Run (-, Counterparts Card, Twin Shadows)",
 		detail: [
 			{
 				title: "SYNOPSIS",
@@ -1125,7 +1125,7 @@
 		]
 	},
 	{
-		name: "Wanted (Forced, 4, -, Old Wounds, Core)",
+		name: "Wanted (Forced, 4, -, Old Wounds Card, Core)",
 		detail: [
 			{
 				title: "SYNOPSIS",
@@ -1146,7 +1146,7 @@
 		]
 	},
 	{
-		name: "Fire In the Sky (3, 1-5, Bounty, Twin Shadows)",
+		name: "Fire In the Sky (3, 1-5, Bounty Card, Twin Shadows)",
 		detail: [
 			{
 				title: "SYNOPSIS",
@@ -1171,7 +1171,7 @@
 		]
 	},
 	{
-		name: "Infiltrated (3, -, Surveillance Operatives, Twin Shadows)",
+		name: "Infiltrated (3, -, Surveillance Operatives Card, Twin Shadows)",
 		detail: [
 			{
 				title: "SYNOPSIS",
