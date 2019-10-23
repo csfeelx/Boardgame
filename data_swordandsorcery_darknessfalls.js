@@ -429,27 +429,22 @@
 	{
 		name: "$4.9 (Waypoint 4)",
 		en: "The inn's gambling tables are crowded, either to chase away the shadows of the approaching horror, or just for sheer revelry...",
-		ko: "여관의 도박을 위해 준비된 테이블은 사람들로 북적인다. 순전히 흥정망청 놀기 위해서 일 수도 있지만, 다가올 공포의 그림자를 떨쳐내기 위함일 수도 있으리라."
-	},
-	{
-		name: "",
-		en: "",
-		ko: ""
+		ko: "여관의 도박을 위해 준비된 테이블은 사람들로 북적인다. 순전히 흥정망청 놀기 위해서 일 수도 있지만, 다가올 공포의 그림자를 떨쳐내기 위함일 수도 있으리라..."
 	},
 	{
 		name: "$4.10 (Waypoint 1)",
-		en: "The mayor introduces himself while the servants bring good mead to the guests. \"I hope Igor was nicer than usual. My name is Victor Fronkensteen and, although I'm happy to meet you, I am ashamed by the state of my city. When the Wyrgen lords ruled, this city was founded on noble ideals, forged by their strong will, and tempered by time. Now... just look at what it has become: a grim city, isolated, and soon to be besieged by the walking dead. Concerning the recent homicides, I cannot help but ask myself whether this new enemy is linked to the undead horde pressing on the Southern walls. The mighty walls of Moonchild... how ironic the whims of the gods. These walls were erected to protect the city and keep away any trouble from the Talon Coast... But now, these very walls that keep the walking dead at bay are keeping this monster inside with us. I spoke to inspector Crane, and I trust in your ability to help vanquish this scourge. In exchange, Moonchild will help you in your hunt of the vampire Count. Good luck.\"",
-		ko: "하인들이 손님들을 위한 질 좋은 벌꿀술을 가지고 오는 동안, 시장은 자신을 소개한다. \"이고가 평소보다 친절하게 굴었다면 좋았을 것을... 제 이름은 빅터 프론켄스타인입니다. 여러분을 만나 기쁘지만, 한편으로는 도시의 좋은 않은 상황을 보여드리게 되어 부끄럽군요. 위르겐 영주들은 고귀한 뜻을 품고 이 도시의 세우고, 강한 의지를 통해 도시를 발전시켰지요. 그들이 다스리는 동안 도시는 시간이 지날 수록 위대해졌었습니다. 지금은... 도시의 상황은 참담합니다. 곧 망자들에게 포위당할 고립되고, 위태로운 도시지요. 최근의 살인 사건들에 대해, 전 이 새로운 적이 남쪽 벽을 압박하고 있는 언데드와 연관이 있다는 생각을 떨칠 수가 없습니다. ||| "
+		en: "The mayor introduces himself while the servants bring good mead to the guests. \"I hope Igor was nicer than usual. My name is Victor Fronkensteen and, although I'm happy to meet you, I am ashamed by the state of my city. When the Wyrgen lords ruled, this city was founded on noble ideals, forged by their strong will, and tempered by time. Now... just look at what it has become: a grim city, isolated, and soon to be besieged by the walking dead. Concerning the recent homicides, I cannot help but ask myself whether this new enemy is linked to the undead horde pressing on the Southern walls. The mighty walls of Moonchild...how ironic the whims of the gods.These walls were erected to protect the city and keep away any trouble from the Talon Coast...But now, these very walls that keep the walking dead at bay are keeping this monster inside with us. I spoke to inspector Crane, and I trust in your ability to help vanquish this scourge. In exchange, Moonchild will help you in your hunt of the vampire Count. Good luck.\"",
+		ko: "하인들이 손님들을 위한 질 좋은 벌꿀술을 가지고 오는 동안, 시장은 자신을 소개한다. \"이고가 평소보다 친절하게 굴었다면 좋았을 것을... 제 이름은 빅터 프론켄스타인입니다. 여러분을 만나 기쁘지만, 한편으로는 도시의 좋은 않은 상황을 보여드리게 되어 부끄럽군요. 위르겐 영주들은 고귀한 뜻을 품고 이 도시를 세웠고, 강한 의지를 통해 발전시켰지요. 그들이 다스리는 동안 도시는 시간이 지날 수록 위대해졌습니다. 하지만 지금은... 도시의 상황은 참담합니다. 곧 망자들에게 포위당할 고립되고, 위태로운 도시지요. 최근의 살인 사건들에 대해, 전 이 새로운 적이 남쪽 벽을 압박하고 있는 언데드와 연관이 있다는 생각을 떨칠 수가 없습니다. 문차일드의 성벽은 튼튼합니다. 신들의 장난은 이 얼마나 역설적인지 모르겠군요. 이 성벽은 탈론 코스트의 온갖 위협으로부터 도시를 지키기 위해 세워졌습니다... 하지만 현재, 걸어다니는 시체들을 저지하는 이 벽은 밤의 어둠속을 배회하는 괴물과 함께 문차일드의 주민들을 가두어둔 감옥이 되었습니다. 전 이미 크레인 경감과 이야기를 나누었습니다. 그리고 여러분이 이 재앙을 없애는데 도움이 될 능력이 있음을 믿습니다. 우리를 도와주시면, 그 대가로 문차일드는 여러분과, 뱀파이어 백작을 쫓는 여러분의 여정을 돕겠습니다. 부디 행운을 빕니다."
 	},
 	{
 		name: "$4.11 (Waypoint 4)",
 		en: "The inn, its air full of smoke and the smell of food, seems to offer nothing else to the hero.",
-		ko: "연기로 가득 찬 공기와 음식 냄새로 가득 찬 여관은 영웅에게 다른 것은 아무것도 제공하지 않는 것 같다."
+		ko: "여관은 연기와 음식 냄새로 가득 차 있다. 그외 쓸모 있는 것은 찾을 수 없을 듯 하다."
 	},
 	{
 		name: "$4.12 (Day)",
 		en: "A new day dawns over the city of Moonchild. Fears and creatures of the night fade with the sun, while the streets come to life again, teeming with new, potential victims (Shadows) of the bloodthirsty killer. Time for the heroes to hunt!",
-		ko: "문 차일드의 도시 상공에 새로운 날이 밝다. 공포와 밤의 생물들은 태양과 함께 사라지고, 거리는 다시 살아나고, 피에 굶주린 살인자의 새롭고 잠재적인 희생자들(그림자)로 가득 차 있다. 영웅들이 사냥할 시간이다!"
+		ko: "문 차일드의 도시 상공에 새로운 날이 밝아온다. 공포와 밤의 괴물들은 태양과 함께 사라진다. 거리에는 다시 생명이 넘치고, 피에 굶주린 살인자의 새로운, 잠재적 희생자들 (그림자) 로 가득찬다. 이제 영웅들이 사냥할 시간이다!"
 	},
 	{
 		name: "$4.13 (Waypoint 2)",
@@ -459,17 +454,17 @@
 	{
 		name: "$4.14 (Waypoint 2)",
 		en: "The High cleric appears to be a stark, inflexible person, perhaps not suited to the present situation, yet strong in his faith in the gods. When asked about the recent developments in the city, he answers, \"This is how the gods punish us for our sins! This city has always worshipped the strength of its founders instead of the will of the gods! Behold the people of Moonchild! Even before the walking dead, before the heinous crimes in the night, their faith wavers! The gods are our only hope! Pray, strangers! Pray. I have no more to tell you.\"",
-		ko: "고위 사제는 냉엄하고, 엄격한 사람으로 보인다, 아마도 지금 상황에는 어울리는 않겠지만, 확고한 신앙을 가진 사람말이다. 최근에 도시에서 벌어지고 있는 일에 대해 묻자, 그가 대답한다. \"이 모든 사건은 주님께서 우리의 죄를 벌하시는 것이오! 이 도시의 사람들은 언제나, 주님의 뜻을 따르는 대신 도시 건립자들을 숭배해 왔소! 그들을 보시오! 심지어 죽은자가 걸어다니는 상황에서도, 밤에 극악무도한 범죄가 벌어지는 상황에서도, 그들은 주님의 뜻을 따르려 하지 않소! 주님만이 우리의 희망이오! 기도하시오, 이방인들이여! 기도하시오! 나는 더 해줄 말이 없소이다.\""
+		ko: "고위 사제는 냉엄하고, 엄격한 사람으로 보인다, 아마도 지금 상황에는 어울리는 않겠지만, 확고한 신앙을 가진 사람말이다. 최근에 도시에서 벌어지고 있는 일에 대해 묻자, 그가 대답한다. \"이 모든 사건은 주님께서 우리의 죄를 벌하시는 것이오! 이 도시의 사람들은 언제나, 주님의 뜻을 따르는 대신 도시 건립자들을 숭배해 왔소! 그들을 보시오! 심지어 죽은자가 걸어다니는 상황에서도, 한밤에 극악무도한 범죄가 벌어지는 상황에서도, 그들은 주님의 뜻을 따르려 하지 않소! 주님만이 우리의 희망이오! 기도하시오, 이방인들이여! 기도하시오! 나는 더 해줄 말이 없소이다.\""
 	},
 	{
 		name: "$4.15 (Waypoint 2)",
 		en: "There will be other times to worship in the house of gods, but now it is time to act, and the heroes bid farewell to the High cleric.",
-		ko: ""
+		ko: "언젠가는 신에게 기도를 올릴 시간이 있을 것이다. 하지만 지금은 행동에 나설 때이다. 영웅들은 고위 사제에게 작별을 고한다."
 	},
 	{
 		name: "$4.16 (Waypoint 3)",
-		en: "Several shacks crowd the South-Eastern Quarter, yet one is remarkable among the others: secluded from the mass of wood and fabric, it stands alone. It is unsettling, with huge animal skulls as braziers beside the door, and surrounded by a fence made of old rusty weapons. When the heroes get closer to the door, it suddenly opens, revealing an imposing, white-haired man with bright green eyes. As he turns to go back in the shadows of the hovel, the figure speaks: \"You have found crazy old Kessler.Now come in; I have been expecting you.\"",
-		ko: ""
+		en: "Several shacks crowd the South-Eastern Quarter, yet one is remarkable among the others: secluded from the mass of wood and fabric, it stands alone. It is unsettling, with huge animal skulls as braziers beside the door, and surrounded by a fence made of old rusty weapons. When the heroes get closer to the door, it suddenly opens, revealing an imposing, white-haired man with bright green eyes. As he turns to go back in the shadows of the hovel, the figure speaks: \"You have found crazy old Kessler. Now come in; I have been expecting you.\"",
+		ko: "남동쪽 구역에는 여러채의 판잣집들이 모여있는데, 그 중 하나가 몹시 눈에 띈다. 그 집은 다른 집들과는 거리를 둔채 홀로 서있다. 그것은 불길한 분위기를 풍겼는데, 문 옆에는 커다란 동물 머리뼈로 만들어진 화로가 있고, 낡고 녹슨 무기들로 세워진 울타리로 둘러쌓여있다. 영웅들이 문으로 다가가자, 그것이 갑자기 열리며 백발과 녹색 눈을 가진 강렬한 인상의 남자가 모습을 드러낸다. 그는 몸을 돌려 가축 우리와도 같은 방안의 어둠 속으로 들어가 말을 꺼낸다. \"내가 그 미친 늙은이 케슬러라네. 들어오게. 난 자네들을 기다리고 있었다네.\""
 	},
 	{
 		name: "$4.17 (Waypoint 3)",
