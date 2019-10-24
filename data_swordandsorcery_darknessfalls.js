@@ -471,54 +471,55 @@
 		en: "Several shacks crowd the South-Eastern Quarter, yet one is remarkable among the others: secluded from the mass of wood and fabric, it stands alone. It is unsettling, with huge animal skulls as braziers beside the door, and surrounded by a fence made of old rusty weapons. When the heroes get closer to the door, it suddenly opens, revealing an imposing, white-haired man with bright green eyes. As he turns to go back in the shadows of the hovel, the figure speaks: \"You have found crazy old Kessler. Now come in; I have been expecting you.\"",
 		ko: "남동쪽 구역에는 여러채의 판잣집들이 모여있는데, 그 중 하나가 몹시 눈에 띈다. 그 집은 다른 집들과는 거리를 둔채 홀로 서있다. 문 옆에는 커다란 동물 머리뼈로 만들어진 화로가 있고, 낡고 녹슨 무기들로 세워진 울타리로 둘러쌓인 그 집은 불길한 분위기를 풍긴다. 영웅들이 문으로 다가가자, 그것이 갑자기 열리며 백발과 녹색 눈을 가진 강렬한 인상의 남자가 모습을 드러낸다. 그는 몸을 돌려 가축 우리와도 같은 방안의 어둠 속으로 들어가 말을 꺼낸다. \"내 이름은 케슬러일세. 사람들은 나를 미친 늙은이라 부르지. 들어오게. 난 자네들을 기다리고 있었다네.\""
 	},
-
-        // ~작업 완료
-
 	{
 		name: "$4.17 (Waypoint 3)",
-		en: "The inside of the shack is completely filled with old tapestries and animal skeletons, so even walking becomes difficult. By candlelight, Kessler appears to be a very old, yet very powerful, man. His muscles are tired yet still speak of their past might.As his eyes study the party, his deep, low voice begins to speak. \"And so, the steward of the city rules like this... giving the dubious honour of defending Moonchild to newcomers. We have never been so far removed from our past glories. Once, this problem would have been solved by the royal family! But would you ask that much from that fat bureaucrat, Victor? I know you not, strangers, but I feel in my bones that you are stronger than any other being in this city, aside from that murderous monster. We will see, but beware... I think you are going to hunt a relentless killer with superhuman strength. Why so? My instinct tells me... a mad man's instinct... Mwahahahah!\"",
-		ko: "판잣집 안은 낡은 태피스트리와 동물뼈로 완전히 채워져 있어 걷는 것조차 어려워진다. 촛불에 의해 케슬러는 매우 늙었지만 매우 강력한 사람으로 보인다. 그의 근육은 피곤하지만 여전히 그들의 과거 힘을 말해준다.그의 눈이 일행을 연구하면서 그의 깊고 낮은 목소리가 말하기 시작한다. \"그래서 도시의 관리인은 이렇게 규칙을 정한다... 새로 온 사람들에게 문차일드를 옹호하는 모호한 명예를 주는 것 우리는 과거의 영광에서 그렇게 멀리 떨어져 본 적이 없다. 한 번, 이 문제는 왕실에 의해 해결되었을 것이다! 하지만 그 뚱뚱한 관료에게 그렇게 많이 물어봐 줄래, 빅터? 낯선 사람들아, 나는 네가 이 도시에 있는 다른 어떤 존재보다 강하다는 것을 뼛속 깊이 느낀다. 그 살인적인 괴물은 제쳐. 두고 보자, 하지만 조심해라... 넌 초인적인 힘을 가진 가차없는 살인범을 사냥할 거라고 생각해. 왜 그래? 내 본능은... 미친놈의 본능... 음와하하!\""
+		en: "The inside of the shack is completely filled with old tapestries and animal skeletons, so even walking becomes difficult. By candlelight, Kessler appears to be a very old, yet very powerful, man. His muscles are tired yet still speak of their past might. As his eyes study the party, his deep, low voice begins to speak. \"And so, the steward of the city rules like this... giving the dubious honour of defending Moonchild to newcomers. We have never been so far removed from our past glories. Once, this problem would have been solved by the royal family! But would you ask that much from that fat bureaucrat, Victor? I know you not, strangers, but I feel in my bones that you are stronger than any other being in this city, aside from that murderous monster. We will see, but beware... I think you are going to hunt a relentless killer with superhuman strength. Why so? My instinct tells me... a mad man's instinct... Mwahahahah!\"",
+		ko: "판잣집의 내부는 낡은 태피스트리와 동물의 두개골로 가득차 있어서, 걷기 조차 힘들다. 촛불 옆에 서있는 케슬러는 매우 늙은 나이에도 아직 강인한 남자로 보인다. 그의 근육은 세월의 흐름으로 지쳐있지만, 여전히 과거의 강인함이 엿보인다. 그는 일행을 한참 응시하더니, 깊고 낮은 목소리로 이야기를 시작한다. \"그래. 섭정께선 이런 결정을 내렸단 말이지... 외부인들에게 문차일드의 운명을 맡긴단 말이군. 우리가 이렇게까지 과거의 영광에서 멀어진 적이 었었던가. 이런 문제는 왕실 가문에 의해 해결되었어야 마땅했다! 하지만 그 뚱뚱한 관료 빅터에게 이런걸 기대하긴 어렵겠지. 이방인들이여. 나는 자네들이 누군지 모르지만, 자네들이 이 도시의 그 누구보다 강한 자라는 것이 뼈 속부터 느껴진다네. 그 살인 괴물을 제외하고는 말이지. 뭐 붙어보면 알겠지. 하지만 주의하게... 자네들이 사냥하는 그 놈은 보통 인간이 아닐걸세. 어떻게 아느냐고? 내 본능이 말해주는군... 늙은 미치광이의 본능이 말이야... 으하하하!\""
 	},
 	{
 	        name: "$4.18 (Waypoint 3)",
 		en: "With these last words, Kessler bids the heroes farewell: \"It is time for you to go. Please, come back if you ever discover more information about this killer. In crazy times, a lunatic's voice may be your one true guide! Mwahahahahah!\"",
-		ko: "케슬러는 이 마지막 말로 영웅들에게 작별을 고한다: \"이제 가야 할 시간이다. 제발, 이 살인자에 대한 더 많은 정보를 발견하면 돌아와. 미친 시대에, 미치광이의 목소리는 당신의 진정한 안내자일 수도 있다! 음와하하하!\""
+		ko: "이 말을 마지막으로 케슬러는 영웅들에게 작별을 고한다: \"이제 자네들이 행동에 나설 차례일세. 부탁하네, 이 살인자에 대한 더 많은 정보를 발견하면 돌아와주게. 지금같은 광기의 시대에서는 나 같은 미치광이의 말이 자네를 인도해줄지도 모르잖나! 으하하하!\""
 	},
 	{
 	        name: "$4.19 (Waypoint 3)",
 	        en: "The hero notices that Kessler's voice changes subtly when he speaks about the past. For some reason, his heart seems to become roused. His hand instinctively goes to an imaginary sword, his knuckles white in the effort of stopping the movement, fighting the instinct... an instinct that should be dead, now, considering his apparent age. This man must have been a fierce fighter in his days.",
-	        ko: "영웅은 케슬러의 목소리가 과거에 대해 말할 때 미묘하게 변하는 것을 알아차린다. 웬일인지 그의 마음은 발끈하는 것 같다. 그의 손은 본능적으로 상상의 검으로 가고, 그의 손가락 마디는 움직임을 멈추려는 노력으로 하얗게 되며, 본능과 싸운다... 이제 죽어야 할 본능이지 그의 외견상 나이를 고려한다면 이 사람은 틀림없이 당대에 맹렬한 투사였을 것이다."
+	        ko: "영웅은 케슬러가 과거에 대한 이야기를 할 때, 그의 목소리가 미묘하게 변하는 것을 눈치챈다. 마치 멈췄던 그의 심장이 다시 뛰는 듯한 모습이다. 그의 손이 본능적으로 비어있는 허리춤을 향한다. 그는 이를 멈추기 위해 핏기가 가실 정도로 손을 꽉 쥐고 본능과 싸운다... 그의 나이를 고려하면 이제는 사라졌어야 할 본능. 그는 젊은 날 사나운 전사였음이 분명하다."
 	},
 	{
 	        name: "$4.20 (Waypoint 5)",
 	        en: "The main general store in Moonchild is a wooden, multistory structure. Many shelves in the shop are empty, perhaps due to the ongoing siege. The owner, a young man, is very polite to customers, including the heroes. \"Welcome, welcome, good sirs. My name is Harker. How can I help you on this fine day?\"",
-	        ko: "문차일드의 주요 종합상점은 나무로 된 다층 구조물이다. 계속되는 포위 공격 때문인지 가게의 많은 선반들이 비어 있다. 주인인 젊은이는 영웅들을 포함한 손님들에게 매우 공손하다. \"환영, 반갑습니다, 좋은 손님들. 내 이름은 하커야. 이 좋은 날에 내가 어떻게 도와줄까?\""
+	        ko: "문차일드의 대표 잡화점은 나무로 된 다층 건물이다. 상점 안의 많은 선반들이 비어있다. 아마도 계속되는 포위 공격 때문이리라. 주인으로 보이는 젊은 청년은 영웅들을 포함한 모든 손님들에게 매우 공손하다. \"신사 숙녀 여러분. 어서오세요. 환영합니다. 제 이름은 하커입니다. 오늘은 몹시 좋은 날이군요. 어떻게 도와드릴까요?\""
 	},
 	{
 	        name: "$4.21 (Waypoint 5)",
 	        en: "When asked about the recent happenings, Harker speaks in a sincere tone: \"Oh, I am not an adventurer. My whole life is this shop and my woman, Mina. I hope all of this will pass quickly. I have grown with the tales of my forefathers about the greatness and the deeds of this city in times past. Yet, all my life I have lived as modest a life as anyone in Moonchild. No one here deserves such cruelty. I really do not know what else to say... well, except thank you for your help.\"",
-	        ko: "최근의 사태에 대해 묻자 하커는 진심 어린 어조로 말한다: \"아, 나는 모험가가 아니다. 내 인생은 이 가게와 내 여자 미나야. 나는 이 모든 것이 빨리 지나가기를 바란다. 나는 옛날 이 도시의 위대함과 행적에 대한 선조들의 이야기와 함께 성장해 왔다. 하지만, 나는 평생 문차일드 사람들처럼 겸손한 삶을 살아왔다. 여기 있는 누구도 그런 잔인함을 받을 자격이 없다. 나는 정말 무슨 말을 더 해야 할지 모르겠다... 도와줘서 고맙다는 말 빼곤\""
+	        ko: "최근의 사태에 대해 묻자 하커는 진심 어린 어조로 말한다: \"아, 저는 모험가가 아닙니다. 제 삶은 이 가게와 아내인 미나로만 이루어져 있지요. 저는 이 모든 일이 어서 지나갔으면 하는 바램뿐입니다. 저는 과거에 이 도시에 위대함에 기여한 선조들의 이야기를 들으며 자라왔습니다만, 제 자신의 인생은 문차일드의 그 누구보다 평범하기 그지 없었지요. 그 누구도 그런 끔찍한 일을 당할 이유는 없습니다. 하지만 저는 정말로 그 일에 대해서 뭐라고 해드릴 말이 없군요. 여러분께 감사를 드리는 것 말고는 말이지요."
 	},
 	{
 		name: "$4.22 (Waypoint 5)",
 		en: "The seller shows the available items, apologizing. \"Unfortunately, with the pending siege, my provisions are scarce and this is all I have left.\"",
-		ko: "판매자는 사과하면서 사용 가능한 물건을 보여준다. \"불행하게도, 미결된 포위망으로, 나의 식량도 부족하고 이것밖에 남지 않았다.\""
+		ko: "상점 주인은 사과의 말과 함께 물건을 보여준다. \"불행히도 계속되는 포위 공격 때문에 물건이 거의 없습니다. 남아있는 건 이것들이 전부로군요.\""
 	},
 	{
 	        name: "$4.23 (Waypoint 5)",
 		en: "Once again, Harker thanks the heroes with a deep bow and then returns to his work.",
-		ko: "하커는 다시 한 번 영웅들에게 깊은 절을 하고 나서 다시 그의 작품으로 돌아온다."
+		ko: "하커는 다시 한 번 영웅들에게 허리 숙여 인사하고, 자신의 일로 돌아간다."
 	},
 	{
 	        name: "$4.24 (Night) ",
 		en: "Darkness falls again on Moonchild... the blackness that hides the streets strikes both terror in the innocent and courage in the bloodthirsty, greedy rogues.",
-		ko: "문차일드에게 다시 어둠이 내린다... 거리를 숨기는 검정은 순진한 자들에게 공포와 피에 굶주리고 탐욕스러운 악습에 용기를 동시에 준다."
+		ko: "다시 한 번 밤이 다가온다... 거리에 깔린 어둠은 죄 없는 자들에게는 공포를, 피에 굶주리고 탐욕스러운 강도들에게는 용기를 불러온다."
 	},
 	{
 	        name: "$4.25 (Story Event 1)",
 		en: "A thin white mist begins to shroud the city, when all at once a scream of anguish breaks the silence of the night!",
-		ko: "희끄무레한 하얀 안개가 도시를 뒤덮기 시작하는데, 이때 고뇌의 비명이 일제히 밤의 정적을 깨뜨린다!"
+		ko: "옅은 하얀 안개가 도시를 덮기 시작한다, 이때 고통에 찬 비명소리가 밤의 정적을 깨뜨린다!"
 	},
+        {},
+        // ~작업 완료
+
+
 	{
 	        name: "$4.26 (Story Event 1)",
 	        en: "Despite the efforts of both the heroes and the city watch, the bloodthirsty killer disappears in the night, leaving behind the mangled body of a new victim, a young man named Scott Howard. Acknowledging the news, all the heroes can do is to wait for the dawn and return to their investigation.",
@@ -654,7 +655,6 @@
                 en: "Your soul is in perfect harmony with the spirit of the wolf. You shiver, and then feel the strength in your veins, wild and powerful as the Moon itself. As Kessler feels the spirit returning to this world, he turns his back, walking away. You hear his last words, however: \"You embraced the very nature of the earth. Be proud, because the spirit of the wolf only chooses the worthy. You now have a powerful ally. Farewell.\"",
                 ko: "그대의 영혼은 늑대의 정신과 완벽하게 조화를 이루고 있다. 그대는 몸을 떨며, 그리고 나서 달 그 자체처럼 거칠고 힘찬 정맥의 힘을 느낀다. 케슬러는 이 세상으로 돌아오는 영을 느끼면서 등을 돌리며 걸어간다. 그러나 당신은 그의 마지막 말을 듣는다: \"너는 지구의 본성을 받아들였다. 늑대의 정신은 가치 있는 자만을 선택하기 때문에 자부심을 가져라. 이제 강력한 동맹자가 생겼군 작별\""
         },
-
         {},
 
         // QUEST V
