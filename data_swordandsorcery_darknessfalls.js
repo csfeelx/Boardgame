@@ -1,4 +1,6 @@
 ﻿var data_swordandsorcery_darknessfalls = [
+        {},
+
 	// QUEST I
 	{
 		name: "ACT II - QUEST I : Nothing is as good as it seems : Introduction",
@@ -110,6 +112,7 @@
 		en: "The undead devour both the bodies and souls of the heroes... A timeless Evil will lay waste to the Talon Coast.",
 		ko: "언데드들은 영웅들의 몸과 영혼을 모두 먹어치운다... 고대로부터 존재해온 악이 탈론 코스트를 폐허로 만들 것이다."
 	},
+        {},
 
 	// QUEST II
 	{
@@ -247,6 +250,7 @@
 		en: "The night falls. The defeat is terrible, as the heroes are wounded both in body and soul. They gather their possessions and sadly decide to march through Lone Pine instead of crossing back through the forest to reach Moonchild.",
 		ko: "밤이 깊어진다. 끔찍하게 패배한 영웅들은 육신과 영혼에 상처를 입었다. 그들은 낙담하여, 챙길 수 있는 물건들을 챙기고 숲을 가로질러 문 차일드로 가는 것을 포기하고 론 파인으로 향하기로 한다."
 	},
+        {},
 
 	// QUEST III
 	{
@@ -379,6 +383,7 @@
 		en: "The defeat is terrible, and the heroes are wounded both in their bodies and souls. They gather their possession and sadly decide to march through the forest, instead of crossing back to Lone Pine, to reach Moonchild.",
 		ko: "끔찍하게 패배한 영웅들은 육신과 영혼에 상처를 입었다. 그들은 낙담하여, 챙길 수 있는 물건들을 챙기고 론 파인을 가로질러 문 차일드로 가는 것을 포기하고 대신 숲을 통과하기로 한다."
 	},
+        {},
 
 	// QUEST IV
 	{
@@ -434,7 +439,7 @@
 	{
 		name: "$4.10 (Waypoint 1)",
 		en: "The mayor introduces himself while the servants bring good mead to the guests. \"I hope Igor was nicer than usual. My name is Victor Fronkensteen and, although I'm happy to meet you, I am ashamed by the state of my city. When the Wyrgen lords ruled, this city was founded on noble ideals, forged by their strong will, and tempered by time. Now... just look at what it has become: a grim city, isolated, and soon to be besieged by the walking dead. Concerning the recent homicides, I cannot help but ask myself whether this new enemy is linked to the undead horde pressing on the Southern walls. The mighty walls of Moonchild...how ironic the whims of the gods.These walls were erected to protect the city and keep away any trouble from the Talon Coast...But now, these very walls that keep the walking dead at bay are keeping this monster inside with us. I spoke to inspector Crane, and I trust in your ability to help vanquish this scourge. In exchange, Moonchild will help you in your hunt of the vampire Count. Good luck.\"",
-		ko: "하인들이 손님들을 위한 질 좋은 벌꿀술을 가지고 오는 동안, 시장은 자신을 소개한다. \"이고가 평소보다 친절하게 굴었다면 좋았을 것을... 제 이름은 빅터 프론켄스타인입니다. 여러분을 만나 기쁘지만, 한편으로는 도시의 좋은 않은 상황을 보여드리게 되어 부끄럽군요. 위르겐 영주들은 고귀한 뜻을 품고 이 도시를 세웠고, 강한 의지를 통해 발전시켰지요. 그들이 다스리는 동안 도시는 시간이 지날 수록 위대해졌습니다. 하지만 지금은... 도시의 상황은 참담합니다. 곧 망자들에게 포위당할 고립되고, 위태로운 도시지요. 최근의 살인 사건들에 대해, 전 이 새로운 적이 남쪽 벽을 압박하고 있는 언데드와 연관이 있다는 생각을 떨칠 수가 없습니다. 문차일드의 성벽은 튼튼합니다. 신들의 장난은 이 얼마나 역설적인지 모르겠군요. 이 성벽은 탈론 코스트의 온갖 위협으로부터 도시를 지키기 위해 세워졌습니다... 하지만 현재, 걸어다니는 시체들을 저지하는 이 벽은 밤의 어둠속을 배회하는 괴물과 함께 문차일드의 주민들을 가두어둔 감옥이 되었습니다. 전 이미 크레인 경감과 이야기를 나누었습니다. 그리고 여러분이 이 재앙을 없애는데 도움이 될 능력이 있음을 믿습니다. 우리를 도와주시면, 그 대가로 문차일드는 여러분과, 뱀파이어 백작을 쫓는 여러분의 여정을 돕겠습니다. 부디 행운을 빕니다."
+		ko: "하인들이 손님들을 위한 질 좋은 벌꿀술을 가지고 오는 동안, 시장은 자신을 소개한다. \"이고가 평소보다 친절하게 굴었다면 좋았을 것을... 제 이름은 빅터 프론켄스타인입니다. 여러분을 만나 기쁘지만, 한편으로는 도시의 좋은 않은 상황을 보여드리게 되어 부끄럽군요. 위르겐 영주들은 고귀한 뜻을 품고 이 도시를 세우고, 강한 의지를 통해 발전시켰지요. 그들이 다스리는 동안 도시는 시간이 지날 수록 위대해졌습니다. 하지만 지금은... 도시의 상황은 참담합니다. 곧 망자들에게 포위당할 고립되고, 위태로운 도시지요. 최근의 살인 사건들에 대해 말하자면, 전 이 새로운 위협이 남쪽 벽을 압박하고 있는 언데드와 연관이 있다는 생각을 떨칠 수가 없습니다. 문차일드의 성벽은 튼튼합니다. 신들의 장난은 이 얼마나 역설적인지 모르겠군요. 이 성벽은 탈론 코스트의 온갖 위협으로부터 도시를 지키기 위해 세워졌습니다... 하지만 현재, 걸어다니는 시체들을 저지하는 이 벽은 밤의 어둠속을 배회하는 괴물과 함께 문차일드의 주민들을 가두어둔 감옥이 되었습니다. 전 이미 크레인 경감과 이야기를 나누었습니다. 그리고 여러분이 이 재앙을 없애는데 도움이 될 능력이 있음을 믿습니다. 우리를 도와주시면, 그 대가로 문차일드는 여러분과, 뱀파이어 백작을 쫓는 여러분의 여정을 돕겠습니다. 부디 행운을 빕니다."
 	},
 	{
 		name: "$4.11 (Waypoint 4)",
@@ -444,12 +449,12 @@
 	{
 		name: "$4.12 (Day)",
 		en: "A new day dawns over the city of Moonchild. Fears and creatures of the night fade with the sun, while the streets come to life again, teeming with new, potential victims (Shadows) of the bloodthirsty killer. Time for the heroes to hunt!",
-		ko: "문 차일드의 도시 상공에 새로운 날이 밝아온다. 공포와 밤의 괴물들은 태양과 함께 사라진다. 거리에는 다시 생명이 넘치고, 피에 굶주린 살인자의 새로운, 잠재적 희생자들 (그림자) 로 가득찬다. 이제 영웅들이 사냥할 시간이다!"
+		ko: "문 차일드에 새로운 태양이 밝아온다. 공포와 밤의 괴물들은 떠오르는 태양 빛과 함께 사라진다. 거리는 다시 활기가 넘치고, 피에 굶주린 살인자의 새로운, 잠재적 희생자들 (그림자) 로 가득찬다. 이제 영웅들이 사냥할 시간이다!"
 	},
 	{
 		name: "$4.13 (Waypoint 2)",
 		en: "The Moonchild temple is one of the more decayed buildings in the city. Its once elegant structure, decorated with threatening gargoyles, is now worn smooth and crumbling. However, it seems the temple still offers services to the small number of persons entering it. In the central aisle, the High cleric nods to the heroes to acknowledge his availability to speak, if necessary.",
-		ko: "문차일드 사원은 도시에서 가장 낡은 건물 중 하나이다. 그 건물은 무시무시한 가고일 조각상으로 장식된, 화려한 건물이었지만, 이제는 닳아 부서지고 있다. 하지만, 사원은 여전히 그 곳을 찾는 소수의 사람들에게 편의를 제공하고 있는 듯 하다. 중앙 통로에는, 고위 사제가 영웅들을 눈치채고 고개를 끄덕인다. 대화에 응해줄 듯 하다."
+		ko: "문차일드 사원은 도시에서 가장 낡은 건물 중 하나이다. 그 건물은 무시무시한 가고일 조각상으로 장식된, 화려한 건물이었지만, 이제는 닳아 부서지고 있다. 하지만, 사원은 여전히 그 곳을 찾는 소수의 사람들에게 편의를 제공하고 있는 듯 하다. 중앙 통로에서 고위 사제가 영웅들을 눈치채고 고개를 끄덕인다. 대화에 응해줄 듯 하다."
 	},
 	{
 		name: "$4.14 (Waypoint 2)",
@@ -464,64 +469,244 @@
 	{
 		name: "$4.16 (Waypoint 3)",
 		en: "Several shacks crowd the South-Eastern Quarter, yet one is remarkable among the others: secluded from the mass of wood and fabric, it stands alone. It is unsettling, with huge animal skulls as braziers beside the door, and surrounded by a fence made of old rusty weapons. When the heroes get closer to the door, it suddenly opens, revealing an imposing, white-haired man with bright green eyes. As he turns to go back in the shadows of the hovel, the figure speaks: \"You have found crazy old Kessler. Now come in; I have been expecting you.\"",
-		ko: "남동쪽 구역에는 여러채의 판잣집들이 모여있는데, 그 중 하나가 몹시 눈에 띈다. 그 집은 다른 집들과는 거리를 둔채 홀로 서있다. 그것은 불길한 분위기를 풍겼는데, 문 옆에는 커다란 동물 머리뼈로 만들어진 화로가 있고, 낡고 녹슨 무기들로 세워진 울타리로 둘러쌓여있다. 영웅들이 문으로 다가가자, 그것이 갑자기 열리며 백발과 녹색 눈을 가진 강렬한 인상의 남자가 모습을 드러낸다. 그는 몸을 돌려 가축 우리와도 같은 방안의 어둠 속으로 들어가 말을 꺼낸다. \"내가 그 미친 늙은이 케슬러라네. 들어오게. 난 자네들을 기다리고 있었다네.\""
-	},
-	{
-		name: "$4.17 (Waypoint 3)",
-		en: "The inside of the shack is completely filled with old tapestries and animal skeletons, so even walking becomes difficult. By candlelight, Kessler appears to be a very old, yet very powerful, man. His muscles are tired yet still speak of their past might.As his eyes study the party, his deep, low voice begins",
-		ko: ""
-	},
-	{
-		name: "",
-		en: "",
-		ko: ""
-	},
-	{
-		name: "",
-		en: "",
-		ko: ""
-	},
-	{
-		name: "",
-		en: "",
-		ko: ""
-	},
-	{
-		name: "",
-		en: "",
-		ko: ""
-	},
-	{
-		name: "",
-		en: "",
-		ko: ""
-	},
-	{
-		name: "",
-		en: "",
-		ko: ""
-	},
-	{
-		name: "",
-		en: "",
-		ko: ""
-	},
-	{
-		name: "",
-		en: "",
-		ko: ""
-	},
-	{
-		name: "",
-		en: "",
-		ko: ""
+		ko: "남동쪽 구역에는 여러채의 판잣집들이 모여있는데, 그 중 하나가 몹시 눈에 띈다. 그 집은 다른 집들과는 거리를 둔채 홀로 서있다. 문 옆에는 커다란 동물 머리뼈로 만들어진 화로가 있고, 낡고 녹슨 무기들로 세워진 울타리로 둘러쌓인 그 집은 불길한 분위기를 풍긴다. 영웅들이 문으로 다가가자, 그것이 갑자기 열리며 백발과 녹색 눈을 가진 강렬한 인상의 남자가 모습을 드러낸다. 그는 몸을 돌려 가축 우리와도 같은 방안의 어둠 속으로 들어가 말을 꺼낸다. \"내 이름은 케슬러일세. 사람들은 나를 미친 늙은이라 부르지. 들어오게. 난 자네들을 기다리고 있었다네.\""
 	},
 
+        // ~작업 완료
+
 	{
-		name: "ACT II - QUEST V : Nothing is as bad as it seems : Introduction",
-		en: "The party journeys to Count Dalv's castle, along the shores of Lake Scythe. With the undead armies engaged in their march toward Moonchild, the Heroes pass by undetected. The small castle, built on top of a sheer cliff on the sea, is silhouetted against the starry sky like an evil, cloaked figure. A thick shoroud of dard clouds surrounds the castle, isolating it from the rest of the world. Marcus stops the party just outside of the shroud and speaks: \"A new day will soon dawn, yet this cloud blocks our greatest ally against the vampire count... the sun! I will not be any help in the castle rooms, but form here - with the help of the gods - I will try to weaken the enshrouding sorcery. Should I succeed, you will have word from me. May the Three bring you victory!\" And so, the Heroes advance toward the door. Only silence comes from inside, because Death makes no noise.",
-		ko: "파티는 달브 백작의 성을 따라 스키타 호수를 따라 스키트 호수를 따라. 미제 군대가 문 차일드를 향해 진군하는 가운데, 히어로즈 호는 들키지 않고 지나간다. 바다 위에 깎아지른 절벽 위에 세워진 이 작은 성은 마치 악하고 가려진 모습처럼 별이 빛나는 하늘을 배경으로 실루엣을 이루고 있다. 짙은 먹구름이 성을 에워싸고 있어, 성을 다른 세계와 격리시키고 있다. 마커스는 장막 밖에서 파티를 멈추고 말했다. \"곧 새로운 날이 밝을 것이다. 하지만 이 구름은 흡혈귀 수에 대항하여 우리의 가장 큰 동맹국을 차단한다.\"태양! 나는 성의 방에서는 어떤 도움도 되지 않을 것이다. 그러나 신들의 도움을 받아 이곳에 서라. 나는 봉안된 주술을 약화시키려고 노력할 것이다. 내가 성공하면, 너는 나에게서 말을 듣게 될 것이다. 세 사람이 너에게 승리를 가져다 주길!\" 그래서 영웅들은 문 쪽으로 나아간다. 오직 침묵만이 안에서 나온다, 왜냐하면 죽음은 소리를 내지 않기 때문이다."
+		name: "$4.17 (Waypoint 3)",
+		en: "The inside of the shack is completely filled with old tapestries and animal skeletons, so even walking becomes difficult. By candlelight, Kessler appears to be a very old, yet very powerful, man. His muscles are tired yet still speak of their past might.As his eyes study the party, his deep, low voice begins to speak. \"And so, the steward of the city rules like this... giving the dubious honour of defending Moonchild to newcomers. We have never been so far removed from our past glories. Once, this problem would have been solved by the royal family! But would you ask that much from that fat bureaucrat, Victor? I know you not, strangers, but I feel in my bones that you are stronger than any other being in this city, aside from that murderous monster. We will see, but beware... I think you are going to hunt a relentless killer with superhuman strength. Why so? My instinct tells me... a mad man's instinct... Mwahahahah!\"",
+		ko: "판잣집 안은 낡은 태피스트리와 동물뼈로 완전히 채워져 있어 걷는 것조차 어려워진다. 촛불에 의해 케슬러는 매우 늙었지만 매우 강력한 사람으로 보인다. 그의 근육은 피곤하지만 여전히 그들의 과거 힘을 말해준다.그의 눈이 일행을 연구하면서 그의 깊고 낮은 목소리가 말하기 시작한다. \"그래서 도시의 관리인은 이렇게 규칙을 정한다... 새로 온 사람들에게 문차일드를 옹호하는 모호한 명예를 주는 것 우리는 과거의 영광에서 그렇게 멀리 떨어져 본 적이 없다. 한 번, 이 문제는 왕실에 의해 해결되었을 것이다! 하지만 그 뚱뚱한 관료에게 그렇게 많이 물어봐 줄래, 빅터? 낯선 사람들아, 나는 네가 이 도시에 있는 다른 어떤 존재보다 강하다는 것을 뼛속 깊이 느낀다. 그 살인적인 괴물은 제쳐. 두고 보자, 하지만 조심해라... 넌 초인적인 힘을 가진 가차없는 살인범을 사냥할 거라고 생각해. 왜 그래? 내 본능은... 미친놈의 본능... 음와하하!\""
 	},
+	{
+	        name: "$4.18 (Waypoint 3)",
+		en: "With these last words, Kessler bids the heroes farewell: \"It is time for you to go. Please, come back if you ever discover more information about this killer. In crazy times, a lunatic's voice may be your one true guide! Mwahahahahah!\"",
+		ko: "케슬러는 이 마지막 말로 영웅들에게 작별을 고한다: \"이제 가야 할 시간이다. 제발, 이 살인자에 대한 더 많은 정보를 발견하면 돌아와. 미친 시대에, 미치광이의 목소리는 당신의 진정한 안내자일 수도 있다! 음와하하하!\""
+	},
+	{
+	        name: "$4.19 (Waypoint 3)",
+	        en: "The hero notices that Kessler's voice changes subtly when he speaks about the past. For some reason, his heart seems to become roused. His hand instinctively goes to an imaginary sword, his knuckles white in the effort of stopping the movement, fighting the instinct... an instinct that should be dead, now, considering his apparent age. This man must have been a fierce fighter in his days.",
+	        ko: "영웅은 케슬러의 목소리가 과거에 대해 말할 때 미묘하게 변하는 것을 알아차린다. 웬일인지 그의 마음은 발끈하는 것 같다. 그의 손은 본능적으로 상상의 검으로 가고, 그의 손가락 마디는 움직임을 멈추려는 노력으로 하얗게 되며, 본능과 싸운다... 이제 죽어야 할 본능이지 그의 외견상 나이를 고려한다면 이 사람은 틀림없이 당대에 맹렬한 투사였을 것이다."
+	},
+	{
+	        name: "$4.20 (Waypoint 5)",
+	        en: "The main general store in Moonchild is a wooden, multistory structure. Many shelves in the shop are empty, perhaps due to the ongoing siege. The owner, a young man, is very polite to customers, including the heroes. \"Welcome, welcome, good sirs. My name is Harker. How can I help you on this fine day?\"",
+	        ko: "문차일드의 주요 종합상점은 나무로 된 다층 구조물이다. 계속되는 포위 공격 때문인지 가게의 많은 선반들이 비어 있다. 주인인 젊은이는 영웅들을 포함한 손님들에게 매우 공손하다. \"환영, 반갑습니다, 좋은 손님들. 내 이름은 하커야. 이 좋은 날에 내가 어떻게 도와줄까?\""
+	},
+	{
+	        name: "$4.21 (Waypoint 5)",
+	        en: "When asked about the recent happenings, Harker speaks in a sincere tone: \"Oh, I am not an adventurer. My whole life is this shop and my woman, Mina. I hope all of this will pass quickly. I have grown with the tales of my forefathers about the greatness and the deeds of this city in times past. Yet, all my life I have lived as modest a life as anyone in Moonchild. No one here deserves such cruelty. I really do not know what else to say... well, except thank you for your help.\"",
+	        ko: "최근의 사태에 대해 묻자 하커는 진심 어린 어조로 말한다: \"아, 나는 모험가가 아니다. 내 인생은 이 가게와 내 여자 미나야. 나는 이 모든 것이 빨리 지나가기를 바란다. 나는 옛날 이 도시의 위대함과 행적에 대한 선조들의 이야기와 함께 성장해 왔다. 하지만, 나는 평생 문차일드 사람들처럼 겸손한 삶을 살아왔다. 여기 있는 누구도 그런 잔인함을 받을 자격이 없다. 나는 정말 무슨 말을 더 해야 할지 모르겠다... 도와줘서 고맙다는 말 빼곤\""
+	},
+	{
+		name: "$4.22 (Waypoint 5)",
+		en: "The seller shows the available items, apologizing. \"Unfortunately, with the pending siege, my provisions are scarce and this is all I have left.\"",
+		ko: "판매자는 사과하면서 사용 가능한 물건을 보여준다. \"불행하게도, 미결된 포위망으로, 나의 식량도 부족하고 이것밖에 남지 않았다.\""
+	},
+	{
+	        name: "$4.23 (Waypoint 5)",
+		en: "Once again, Harker thanks the heroes with a deep bow and then returns to his work.",
+		ko: "하커는 다시 한 번 영웅들에게 깊은 절을 하고 나서 다시 그의 작품으로 돌아온다."
+	},
+	{
+	        name: "$4.24 (Night) ",
+		en: "Darkness falls again on Moonchild... the blackness that hides the streets strikes both terror in the innocent and courage in the bloodthirsty, greedy rogues.",
+		ko: "문차일드에게 다시 어둠이 내린다... 거리를 숨기는 검정은 순진한 자들에게 공포와 피에 굶주리고 탐욕스러운 악습에 용기를 동시에 준다."
+	},
+	{
+	        name: "$4.25 (Story Event 1)",
+		en: "A thin white mist begins to shroud the city, when all at once a scream of anguish breaks the silence of the night!",
+		ko: "희끄무레한 하얀 안개가 도시를 뒤덮기 시작하는데, 이때 고뇌의 비명이 일제히 밤의 정적을 깨뜨린다!"
+	},
+	{
+	        name: "$4.26 (Story Event 1)",
+	        en: "Despite the efforts of both the heroes and the city watch, the bloodthirsty killer disappears in the night, leaving behind the mangled body of a new victim, a young man named Scott Howard. Acknowledging the news, all the heroes can do is to wait for the dawn and return to their investigation.",
+	        ko: "영웅들과 시청자들 모두의 노력에도 불구하고, 피에 굶주린 살인범은 밤중에 사라지며, 새로운 희생자인 스콧 하워드라는 젊은이의 으스러진 몸을 남겨둔다. 이 소식을 인정하면서 영웅들이 할 수 있는 일은 새벽을 기다렸다가 다시 수사로 돌아오는 것뿐이다."
+	},
+        {
+                name: "$4.27 (Story Event 1)",
+                en: "The heroes find a frightened man roaming the streets in a state of shock, his pupils dilated and his breath short. One of the guards recognizes the man as an acolyte from the temple. Since the man is on the verge of collapsing, the inspector decides to take him to the High cleric (Waypoint 2), explaining to the heroes, \”Perhaps, once he has recovered, he can tell us something useful about what caused such terror, but until then he will not be of any help to us.\”",
+                ko: "영웅들은 겁에 질린 한 남자가 충격 상태에서 거리를 배회하고, 동공이 팽창하고 호흡이 짧아진 것을 발견한다. 경비원 중 한 명이 그 남자를 신전에서 온 도련님으로 알아본다. 그 남자가 쓰러질 위기에 처해 있기 때문에, 감찰관은 그를 고위 성직자(웨이포인트 2)에게 데리고 가서 영웅들에게 설명하기로 결심한다. \"아마도, 그가 회복되면, 우리에게 무엇이 그러한 테러를 일으켰는지에 대해 유용한 것을 말해 줄 수 있을 것이다. 그러나 그때까지 그는 우리에게 아무런 도움이 되지 않을 것이다.\”"
+        },
+        {
+                name: "$4.28 (Waypoint X)",
+                en: "As they walk along the road beside the graveyard, the heroes find strange footprints dragged along the ground. Judging from the foul odour, something rotten is walking toward the city!",
+                ko: "묘지 옆 길을 걸으면서 영웅들은 땅바닥을 따라 끌려가는 이상한 발자국을 발견한다. 악취를 풍기는 것으로 보아, 썩은 것이 도시를 향해 걸어가고 있는 것이다!"
+        },
+        {
+                name: "$4.29 (Story Event 1)",
+                en: "As one of the heroes inspects the city, something draws his eyes toward a near alley. He sees the shape of a man squatting, then running on four legs, and finally jumping away with a strength no man should have. Perhaps it was just another drunk collapsing to the ground, whose shadow became a monster in the flickering light of the torches. Or perhaps you are really hunting something quite... inhuman.",
+                ko: "영웅들 중 한 명이 도시를 살피고 있을 때, 무언가가 그의 눈을 가까운 골목 쪽으로 끌어당긴다. 그는 쭈그리고 앉아 있다가 네 다리로 뛰어가는 남자의 모습을 보고, 마침내 어떤 남자도 가져서는 안 될 힘을 가지고 뛰어내린다. 아마도 그것은 횃불의 깜박거리는 불빛 속에서 그림자가 괴물이 되어버린 또 하나의 술기운에 지나지 않았을 것이다. 아니면 정말로 뭔가 사냥하고 있는 거겠지 잔혹한"
+        },
+        {
+                name: "$4.30 (Waypoint X)",
+                en: "Be it destiny or the gods' will, the heroes understand they are way too close to these lifeless beings!",
+                ko: "운명이건 신의 뜻이건 영웅들은 그들이 이 생명이 없는 존재들과 너무 가깝다는 것을 이해한다!"
+        },
+        {
+                name: "$4.31 (Story Event 1)",
+                en: "Their efforts have paid off at last! The heroes can finally deduce where the monster will strike again, and this time they are there, waiting and ready, as the creature appears! The shadows unveil a couple of cutthroats, their faces masked, along with a huge mass of muscles and fur, with razor-sharp claws and the snout of a wolf!",
+                ko: "그들의 노력이 마침내 결실을 보았다! 영웅들은 마침내 괴물이 어디서 다시 공격할지 추론할 수 있고, 이번에는 생명체가 나타나듯이 기다리고 또 준비가 되어 있다! 그 그림자들은 두 마리의 베드로이트를, 얼굴을 가린 채 거대한 근육과 털 덩어리와 함께 면도날 같은 발톱과 늑대의 코로 모습을 드러낸다!"
+        },
+        {
+                name: "$4.32 (Waypoint X)",
+                en: "The screams of terror in the distance hints to the fact that the lifeless creatures have reached the more densely populated areas of Moonchild.",
+                ko: "멀리서 들려오는 공포의 비명소리는 생명이 없는 생명체가 문차일드의 인구밀도가 높은 지역에 이르렀음을 암시한다."
+        },
+        {
+                name: "$4.33 (Story Event 1)",
+                en: "As the wolf-like monster falls, a flaming arrow flies from a rooftop. Before the heroes can do anything, the body of the monster erupts in fire and rapidly burns to ashes, together with the bodies of the cutthroats, while the survivors flee under the cover of the smoke. When the guards arrive, the heroes speak to inspector Crane, who hands them a purse of Crowns as a reward for a job well done. \”As I suspected, your contribution has been vital to this investigation; unfortunately, from what we have seen, we no longer have to look for a single person, but for a... a pack, for lack of a better name. Please, keep investigating. I can give you this money for now, but more waits for you at the end of this entire absurd story. Should we get any information from this scene, I will summon you, but until then, we must protect the city.\”",
+                ko: "늑대 같은 괴물이 쓰러지면서 옥상에서 불타는 화살이 날아온다. 영웅들이 무슨 짓을 하기도 전에 괴물의 몸이 불길에 폭발하여 순식간에 잿더미로 타오르며, 생존자들은 연기 덮개 밑으로 도망친다. 간수들이 도착하면 영웅들은 잘한 일에 대한 보상으로 크라운지갑을 건네주는 검사관 크레인에게 말한다. \"의견대로, 당신의 공헌은 이번 조사에 매우 중요했다; 불행하게도, 우리가 본 바로는, 우리는 더 이상 단 한 사람도 찾을 필요가 없고, 더 나은 이름이 없어서 한 무리의 사람들을 찾을 필요가 없다. 제발, 계속 조사해줘. 지금은 이 돈을 줄 수 있지만, 이 모든 터무니없는 이야기가 끝날 때쯤에는 더 많은 사람들이 당신을 기다린다. 이 장면에서 어떤 정보를 얻으면, 당신을 소환하겠지만, 그때까지 우리는 도시를 지켜야 한다.\”"
+        },
+        {
+                name: "$4.34 (Waypoint 2)",
+                en: "When the heroes ask to see the acolyte, the High cleric prays to the Three Gods and then answers: \"Renfield is a devoted servant of the gods, yet they are harshly punishing him. I will take you to him, yet be warned: reason no longer dwells within that body...\" The heroes find the acolyte sitting on the floor of his room, bobbing his head and chanting the same four words over and over: \"There wolf, there castle, there wolf, there castle...\" The High cleric speaks again to the party: \"For now, all that we can do is heal his body, waiting and hoping that his mind will recover. Thank you for saving him. May the blessing of the Three be upon you. Farewell.\"",
+                ko: "영웅들이 도련님을 보자고 하면, 고위 성직자는 세 신에게 기도하고 대답한다. \"렌필드는 신들의 헌신적인 종인데, 그들은 그를 가혹하게 벌하고 있다. 내가 너를 그에게 데려갈 것이다. 그러나 경고를 받을 것이다. 이성은 더 이상 그 몸 안에 머물지 않는다.\" 영웅들은 그의 방바닥에 앉아 고개를 까딱거리며 똑같은 네 마디를 반복해서 외치고 있는 아콜리트를 발견한다: \"저기 늑대, 저기 성, 저기 늑대...\" 고위 성직자는 파티에서 다시 말한다: \"지금으로서는 그의 몸을 치유하고 그의 마음이 회복되기를 기다리는 것뿐이다. 구해줘서 고마워 세자의 복이 네게 있기를. 작별\""
+        },
+        {
+                name: "$4.35 (Glass Vial)",
+                en: "Remembering the words of Malak, the hero sips just a few drops of the magical liquid from the vial, and the effects soon set in...",
+                ko: "말락의 말을 기억하면서 영웅은 바이알에서 마법 같은 액체를 몇 방울만 흘리는데, 그 효과는 곧..."
+        },
+        {
+                name: "$4.36 (Waypoint 3)",
+                en: "The hero, witness of the strange event, decides to relate to Kessler everything about the weird shape leaping away from the alley during the night. When the tale ends, Kessler appears upset and then yells, “Well, that is simply IMPOSSIBLE! What you say would sound strange to most, but for me is it like... well, the sunlight at night; it is pure madness! We must be sure! I cannot tell you more for the moment, but I promise, if you give me more information, I will be able to finally tell you what is really happening. Until then, everything is in your hands!” The heroes start to wonder who is the actual madman in the room, Kessler the fool or themselves...",
+                ko: "그 이상한 사건의 목격자인 영웅은 케슬러와 밤중에 골목에서 뛰어내리는 이상한 모양에 관한 모든 것을 연관시키기로 결심한다. 이 이야기가 끝나자 케슬러는 화가 난 듯하더니 이렇게 소리친다. \"글쎄요, 그건 단순히 IMPOSSIBLE이야! 네 말이 이상하게 들리겠지만, 나한텐... 음, 밤의 햇빛; 그것은 순전히 미친 짓이야! 우리는 확신해야만 해! 지금은 더 말할 수 없지만, 약속할게, 만약 당신이 더 많은 정보를 준다면, 나는 마침내 당신에게 실제로 무슨 일이 일어나고 있는지 말할 수 있을 거야. 그때까지 모든 것이 네 손에 달렸어!\" 영웅들은 누가 진짜 미치광이인지 궁금해하기 시작한다. 케슬러는 바보인지 아니면 그들 자신인지..."
+        },
+        {
+                name: "$4.37 (Story Event 2)",
+                en: "Long howls dominate the night, striking fear in the hearts of the citizens of Moonchild.",
+                ko: "긴 울부짖음이 밤을 지배하며, 문차일드 시민들의 가슴속에 공포를 자아낸다."
+        },
+        {
+                name: "$4.38 (Story Event 2)",
+                en: "Despite the heroes' and night watch's best efforts, the murderer claims another victim, a woman named Lucy Westenra. This night witnesses Death again, soaring in the air among wild howls. This night calls for more blood...",
+                ko: "영웅들과 야간 경비대의 최선의 노력에도 불구하고, 살인범은 또 다른 희생자인 루시 웨스텐라라는 이름을 가진 여성을 주장한다. 이 밤은 또다시 야생의 울부짖음들 사이에서 공중으로 치솟는 죽음을 목격한다. 이 밤엔 더 많은 피가 필요해"
+        },
+        {
+                name: "$4.39 (Story Event 2)",
+                en: "One of the watchmen calls the hero. He is holding a lightly wounded woman who, gaze fixed upon the moon, whispers, \”Please, carry me to my husband.\” These are the only words she manages to utter before fainting. The soldier adds, \”I found her hidden in the cellar, there in the alley. This is Mina, wife of Harker, the owner of the General Store. Better to carry her there (Waypoint 5). Her husband will be out of his mind by now.\”",
+                ko: "감시원 중 한 명이 영웅을 부른다. 그는 달을 응시하며 속삭이는 가벼운 상처를 입은 여자를 안고 있다. \"제발, 나를 내 남편에게 데려다 줘.\" 실신하기 전에 그녀가 겨우 내뱉은 말은 이것뿐이다. 그 병사는 덧붙인다, \"나는 그녀가 지하실, 저기 골목에 숨겨져 있는 것을 발견했다. 제너럴 스토어의 주인 하커의 아내 미나 입니다. 그녀를 그곳으로 데리고 가는 것이 더 낫다. 그녀의 남편은 지금쯤 제정신이 아닐 것이다.\”"
+        },
+        {
+                name: "$4.40 (Story Event 2)",
+                en: "As the hero walks through town, he is interrupted by images on the wind, an echo perhaps coming from a nearby underground room... a ritual, a stillbeating wolf heart sacrified to trap its spirit in a human host... then a scream of pain... finally a howl!",
+                ko: "영웅은 마을을 걸으면서 바람 위의 이미지들에 의해 방해를 받고, 아마 근처 지하실에서 메아리가 울릴 것이다. 인간의 숙주에 그 정신을 가두기 위해 성찬한 의식, 고요한 늑대의 심장... 그리고 고통의 비명... 드디어 울부짖는다!"
+        },
+        {
+                name: "$4.41 (Story Event 2)",
+                en: "Following a faint trail, the heroes manage to catch a glance of a gigantic beast, similar to a wolf but three times larger, jumping from a nearby roof, followed by a pack of cutthroats!",
+                ko: "희미한 흔적을 따라, 영웅들은 늑대와 비슷하지만 세 배나 더 큰 거대한 짐승을 간신히 한 눈에 잡으며, 근처 지붕에서 뛰어내리고, 그 뒤를 한 무리의 귀여운 짐승들이 따라온다!"
+        },
+        {
+                name: "$4.42 (Ex-Mortis)",
+                en: "The signs, written in blood, leave their runic shape and form understandable letters during the time needed to cast the spell. Once spoken, the necromantic magic manifests as the letters revert to blood runes...",
+                ko: "피로 쓰여진 이 표지판들은 그들의 진부한 모양을 남기고 주문을 외우는 데 필요한 시간 동안 이해할 수 있는 글자를 형성한다. 일단 말을 하면, 글자가 혈류로 되돌아갈 때 신크로맨틱 마법이 나타난다..."
+        },
+        {
+                name: "$4.43 (Waypoint 5)",
+                en: "The heroes find Mina embraced by Harker, still shaking with fear, but able to tell her tale. \”I was coming back here when I heard a deep growl from the alley. I was scared! I started running away, but then I saw a huge grey wolf with bloodshot eyes. He was about to attack me when I tripped in the darkness and fell into a cellar. I am alive, thanks to the gods' will!\” Harker sees the terror in his wife's eyes and turns to the heroes. \”Please, stop this nightmare! Here, take these items. I hope they help you in your hunt. May the gods be with you!\”",
+                ko: "영웅들은 미나가 하커에게 포옹을 받고, 여전히 공포에 떨면서도 그녀의 이야기를 할 수 있다는 것을 발견한다. \"여기서 돌아오는데 골목에서 깊은 으르렁거리는 소리가 들렸다. 무서웠어! 나는 도망치기 시작했지만, 그때 충혈된 눈을 가진 거대한 회색 늑대를 보았다. 그가 나를 공격하려다가 어둠 속에 걸려 지하실에 떨어졌다. 난 살아있어, 신의 뜻 덕분에!하커는 아내의 눈에서 공포를 보고 영웅들에게 눈을 돌린다. \"제발, 이 악몽을 그만둬! 자, 이 물건들을 가져가세요. 나는 그들이 너의 사냥에 도움이 되기를 바란다. 신들이 함께 있기를!\”"
+        },
+        {
+                name: "$4.44 (Story Event 2)",
+                en: "After defeating the enemies, the heroes start examining the body of the slain wolf – but suddenly it turns into a dead man with the same wounds! Inspector Crane stares in disbelief at the shapechange. \"I thought I had seen the most hideous things in my job... it turns out I was wrong! The horrors from old legends are starting to become common things for this town... Damn, here, this is you rewa... \"But his words are silenced by other howls in different areas of the city. \"Please, stay on guard! I fear this night will not end anytime soon...\"",
+                ko: "적들을 물리친 후, 영웅들은 죽은 늑대의 시체를 조사하기 시작하지만, 갑자기 같은 상처를 입은 죽은 사람으로 변한다. 크레인 경감은 형체변경을 못 믿겠다는 듯이 노려본다. \"직장에서 가장 흉측한 것들을 본 줄 알았는데... 알고 보니 내가 틀렸어! 옛날 전설의 공포가 이 마을에 흔한 것이 되기 시작하고 있다... 젠장, 여기, 이건 네가... \"그러나 그의 말은 도시의 다른 지역에서 들려오는 다른 울부짖음으로 인해 침묵하고 있다. \"제발, 경계하라! 나는 이 밤이 곧 끝나지 않을까 걱정된다...\""
+        },
+        {
+                name: "$4.45 (Waypoint 3)",
+                en: "Kessler angrily answers the heroes, \”Your words confirm my fears: someone or something must have found a sorcery to imbue humans with the spirit of the wolf. It is an ancient spiritual force once exclusive to the Wyrgen royal family; a force of Nature too strong to be controlled by most men, it brought an end to that ancient lineage, and it will bring this city to an end, too. People forget the past. Each year turns facts to stories and stories to legends. You will face the most fearsome beasts you have ever seen, beings unworthy to carry the spirit of the wolf within them – thus, they become corrupted. Have no pity for those that once were men, for none you shall receive! Oh, I would never have thought to again meet such champions worthy of my strength. I cannot fight with you, but I shall offer you something that will help. Give me one of your weapons, or take one of mine, and I will imbue it with something I never thought to use: a vial of liquid silver. It will not last long, but it should give you enough time to face the beasts. We shall meet again, should you prove yourselves worthy!\”",
+                ko: "케슬러는 영웅들에게 화를 내며 대답한다. \"당신의 말은 나의 두려움을 확인시켜 준다:누군가 또는 어떤 것이 인간을 늑대의 정신으로 주입시키는 주술을 발견했을 것이다. 그것은 한때 와이르겐 왕가에만 국한되었던 고대의 영적 힘이다. 자연의 힘은 너무 강해서 대부분의 남성들에게 지배될 수 없다. 그것은 그 고대 혈통을 끝장냈다. 그리고 그것은 이 도시도 끝장낼 것이다. 사람들은 과거를 잊는다. 매년 사실을 이야기로, 그리고 전설로 바꾼다. 당신은 지금까지 본 것 중 가장 무서운 짐승들과 마주하게 될 것이며, 늑대의 정신을 그 안에 담아갈 가치가 없는 존재들을 만나게 될 것이다. 따라서 그들은 타락하게 될 것이다. 너희는 한 때 사람이었던 자들을 불쌍히 여기지 말아라. 너희는 그 누구도 받을 수 없다. 오, 나는 다시는 내 힘에 걸맞은 그런 챔피언들을 만날 생각을 하지 못했을 것이다. 너와 싸울 수는 없지만 도움이 될 만한 것을 제공하겠다. 네 무기들 중 하나를 내게 주든지, 내 무기 중 하나를 가져가라. 그러면 나는 그것을 사용하리라 생각지도 못했던 것, 즉 액체 은 한 병과 함께 주입할 것이다. 그것은 오래 지속되지는 않겠지만, 그것은 당신에게 짐승들과 대면할 충분한 시간을 줄 것이다. 우리는 다시 만날 것이다, 만약 당신이 가치있는 사람이라는 것을 증명한다면!\”"
+        },
+        {
+                name: "$4.46 (Story Event 3)",
+                en: "A dreadful howl, followed by screams and the alarm bell of the Town Hall, testifies to the location of the final battle. An entire werewolf pack, led by a huge albino Alpha, is poised to raze the Town Hall. As the heroes step up, the pack turns toward them, although fire and smoke leave little time to end the fight!",
+                ko: "무시무시한 울부짖음과 함께 비명소리와 타운홀의 자명종이 마지막 전투의 장소를 증언한다. 거대한 알비노 알파가 이끄는 늑대인간 무리 전체가 마을 회관을 소탕할 태세다. 영웅들이 나서자, 비록 불과 연기가 싸움을 끝낼 시간이 거의 남지 않았지만, 무리는 그들을 향해 돌아선답니다!"
+        },
+        {
+                name: "$4.47 (Ending)",
+                en: "The defeat of the werewolves marks the end of the homicides, too, giving the guards enough courage to face the pending siege. After the first night without nightmares, the mayor summons the party to the Town Hall. A ceremony is held with the most important persons of Moonchild attending, including Inspector Crane. After the usual speech, Victor addresses the heroes. “No word would give justice to what you have accomplished here, heroes. Therefore, Moonchild decided to give you one of its most important relics!\" At this, Igor, slightly dragging on his left leg, opens a casket, revealing a precious weapon. Then Victor continues, \"May this weapon help you to defeat Count Dalv! Rumors tell of a grim castle that appeared overnight on a crag south-west of the Scythe Lake. I would bet that the Count dwells there. Here is our most detailed map of the area, and my scouts will teach you safe paths to get there. For the sake of the entire Talon Coast, I pray you succeed in your quest. If any hope still burns, it is in you! Farewell, noble heroes!\" The party leaves Moonchild, but just outside the city gates, the heroes meet Kessler again. \"And so, you managed to save this cursed town, showing the strength of your spirit. This, friends, is the Heart of Corvinus, the white werewolf you defeated. I can use it to properly summon the spirit of the wolf, because I am truly Adam Kessler Wyrgen, the last member of the faded royal family. I hoped for this chance for decades, but it is now too late for me. For you... there is still time to accept this gift. But only the one of you with the purest heart can move forward, and should he be found worthy, he will become able to turn into the wildest and most powerful predator in this land!\"",
+                ko: "늑대인간들의 패배는 또한 살인 사건이 종결된 것을 의미하며, 경비병들도 미결된 포위망을 마주할 수 있는 충분한 용기를 준다. 악몽 없이 첫날밤을 보낸 후 시장은 파티장을 시청으로 소환한다. 크레인 경위 등 문차일드 대표들이 참석한 가운데 기념식이 열린다. 통상적인 연설이 끝난 후 빅토르는 영웅들에게 연설한다. \"영웅들아, 네가 여기서 이룬 것에 대해 어떤 말도 정의를 내리지는 않을 것이다. 따라서, 문차일드는 여러분에게 가장 중요한 유물 중 하나를 주기로 결정했답니다!\" 이 말에 이고르는 왼쪽 다리를 약간 끌며 관을 열어 소중한 무기를 드러낸다. 그러자 빅토르는 계속한다, \"이 무기가 달프 백작님을 물리치는 데 도움이 되기를!소문에 의하면 스키테호 남서의 갈기갈기 찢어진 남서부 지역에 하룻밤 사이에 나타난 음울한 성에 관한 것이다. 백작이 거기에 거주할 것이라고 장담한다. 여기 이 지역의 가장 상세한 지도가 있어. 그리고 내 정찰병들이 거기까지 가는 안전한 길을 가르쳐 줄 거야. 탈론 해안 전체를 위해서, 나는 당신이 당신의 탐구에 성공하기를 기도한다. 만약 어떤 희망이 여전히 타들어간다면, 그것은 네 안에 있다! 안녕, 고귀한 영웅들!\" 일행은 문차일드를 떠나지만, 성문 바로 밖에서 영웅들은 케슬러를 다시 만난다. \"그러니까, 이 저주받은 마을을 간신히 구해서, 정신의 강인함을 보여주셨군요. 이건 코비누스의 심장이야 네가 패배시킨 하얀 늑대인간이지 나는 실로 빛바랜 왕가의 마지막 일원인 아담 케슬러 와이르겐이기 때문에 늑대의 정신을 제대로 소환하는 데 사용할 수 있다. 나는 수십 년 동안 이 기회를 바랐지만, 지금은 너무 늦었다 당신을 위해서... 아직 이 선물을 받을 시간이 있다. 그러나 가장 순수한 마음을 가진 자만이 앞으로 나아갈 수 있고, 그가 가치있다고 발견된다면 그는 이 땅에서 가장 야성적이고 강력한 포식자로 변할 수 있을 것이다!\""
+        },
+        {
+                name: "$4.48 (Ending)",
+                en: "Defeat burns as white flame, searing the hearts of the heroes...",
+                ko: "패배는 하얀 불꽃처럼 타오르고 영웅들의 마음을 사로잡고..."
+        },
+        {
+                name: "$4.49 (Ending)",
+                en: "The werewolves and their sect manage to destroy the city's landmarks, leaving the flames to take care of what remains. As the Town Hall crumbles in a roaring blaze, Mayor Victor and Inspector Crane die in the raging inferno. Most of the buildings are ruined, and the city will surely be razed by the walking dead. All the heroes can do now is to save themselves and march southward. Revenge burns deep in their hearts... Count Dalv will pay dearly for each life lost!",
+                ko: "늑대인간들과 그들의 종파는 도시의 명소를 간신히 파괴하고 남은 것은 화염이 돌볼 수 있게 한다. 타운홀이 굉음을 내며 무너질 때 빅토르 시장과 크레인 경감은 격노 속에서 죽어간다. 대부분의 건물들은 파괴되었고, 도시는 틀림없이 걸어다니는 죽은 사람들에 의해 파괴될 것이다. 지금 영웅들이 할 수 있는 모든 것은 자신을 구하고 남쪽으로 진군하는 것이다. 복수는 가슴 깊이 타오른다... 달브 백작은 잃어버린 각각의 목숨에 대해 큰 대가를 치르게 될 것이다!"
+        },
+        {
+                name: "$4.51 (Ending)",
+                en: "All those lives lost grieve the heroes, but their will to break the spell that binds their souls is stronger than anything. The party renews their investigation, determined to save Moonchild and then destroy Count Dalv once and for all.",
+                ko: "그 모든 생명들은 영웅들을 슬퍼하지만, 그들의 영혼을 묶는 주문을 깨뜨리려는 그들의 의지는 무엇보다도 강하다. 그 당은 문차일드를 구해낸 다음 달브 백작을 완전히 파괴하기로 결심하고 수사를 재개한다."
+        },
+        {
+                name: "$4.52 (Ending)",
+                en: "The very essence of your soul attempts to dominate the nature of the beast. You feel a brief but intense bout of pain, and then you understand that this force of nature cannot be dominated. Kessler sees the hero fall to the ground, and then turns his back, sadly revealing the harsh truth: \”You have tried to dominate the very nature of the earth. No one can. You will continue your journey alone; the spirit of the wolf will never return to you. Farewell.\”",
+                ko: "네 영혼의 본질은 짐승의 본질을 지배하려고 한다. 그대는 짧고 강렬한 고통의 연속을 느끼고, 그 다음에는 자연의 이 힘이 지배될 수 없다는 것을 이해하게 된다. 케슬러는 영웅이 땅에 떨어지는 것을 보고 나서 등을 돌려서 그 가혹한 진실을 슬프게 폭로한다: \"너는 지구의 본성을 지배하려고 했다. 아무도 할 수 없다. 홀로 여행을 계속할 것이며, 늑대의 정신은 결코 그대에게 돌아가지 않을 것이다. 작별\”"
+        },
+        {
+                name: "$4.53 (Ending)",
+                en: "Your soul is in perfect harmony with the spirit of the wolf. You shiver, and then feel the strength in your veins, wild and powerful as the Moon itself. As Kessler feels the spirit returning to this world, he turns his back, walking away. You hear his last words, however: \"You embraced the very nature of the earth. Be proud, because the spirit of the wolf only chooses the worthy. You now have a powerful ally. Farewell.\"",
+                ko: "그대의 영혼은 늑대의 정신과 완벽하게 조화를 이루고 있다. 그대는 몸을 떨며, 그리고 나서 달 그 자체처럼 거칠고 힘찬 정맥의 힘을 느낀다. 케슬러는 이 세상으로 돌아오는 영을 느끼면서 등을 돌리며 걸어간다. 그러나 당신은 그의 마지막 말을 듣는다: \"너는 지구의 본성을 받아들였다. 늑대의 정신은 가치 있는 자만을 선택하기 때문에 자부심을 가져라. 이제 강력한 동맹자가 생겼군 작별\""
+        },
+
+        {},
+
+        // QUEST V
+        {
+                name: "ACT II - QUEST V : Nothing is as bad as it seems : Introduction",
+                en: "The party journeys to Count Dalv's castle, along the shores of Lake Scythe. With the undead armies engaged in their march toward Moonchild, the Heroes pass by undetected. The small castle, built on top of a sheer cliff on the sea, is silhouetted against the starry sky like an evil, cloaked figure. A thick shoroud of dard clouds surrounds the castle, isolating it from the rest of the world. Marcus stops the party just outside of the shroud and speaks: \"A new day will soon dawn, yet this cloud blocks our greatest ally against the vampire count... the sun! I will not be any help in the castle rooms, but form here - with the help of the gods - I will try to weaken the enshrouding sorcery. Should I succeed, you will have word from me. May the Three bring you victory!\" And so, the Heroes advance toward the door. Only silence comes from inside, because Death makes no noise.",
+                ko: "파티는 달브 백작의 성을 따라 스키타 호수를 따라 스키트 호수를 따라. 미제 군대가 문 차일드를 향해 진군하는 가운데, 히어로즈 호는 들키지 않고 지나간다. 바다 위에 깎아지른 절벽 위에 세워진 이 작은 성은 마치 악하고 가려진 모습처럼 별이 빛나는 하늘을 배경으로 실루엣을 이루고 있다. 짙은 먹구름이 성을 에워싸고 있어, 성을 다른 세계와 격리시키고 있다. 마커스는 장막 밖에서 파티를 멈추고 말했다. \"곧 새로운 날이 밝을 것이다. 하지만 이 구름은 흡혈귀 수에 대항하여 우리의 가장 큰 동맹국을 차단한다.\"태양! 나는 성의 방에서는 어떤 도움도 되지 않을 것이다. 그러나 신들의 도움을 받아 이곳에 서라. 나는 봉안된 주술을 약화시키려고 노력할 것이다. 내가 성공하면, 너는 나에게서 말을 듣게 될 것이다. 세 사람이 너에게 승리를 가져다 주길!\" 그래서 영웅들은 문 쪽으로 나아간다. 오직 침묵만이 안에서 나온다, 왜냐하면 죽음은 소리를 내지 않기 때문이다."
+        },
+
+        // ~ 33 페이지. > 34 페이지
+
+        {
+                name: "",
+                en: "",
+                ko: ""
+        },
+        {
+                name: "",
+                en: "",
+                ko: ""
+        },
+        {
+                name: "",
+                en: "",
+                ko: ""
+        },
+        {
+                name: "",
+                en: "",
+                ko: ""
+        },
+        {
+                name: "",
+                en: "",
+                ko: ""
+        },
+        {
+                name: "",
+                en: "",
+                ko: ""
+        },
+        {
+                name: "",
+                en: "",
+                ko: ""
+        },
+        {
+                name: "",
+                en: "",
+                ko: ""
+        },
+
 	{
 		name: "ACT II - QUEST VI : Cemetery Gates : Introduction",
 		en: "After meeting with Marcus, the party decides to enter the portal opened upon the death of Count Dalv. Black magical tendrils painfully envelop the Heroes, teleporting them to a distant land, far away from the count's castle. The cold stone is lit by weak torches, and the damp, pungent air of the undergound, are all the Heroes see and feel. Without another hint, the party parys to the gods to help them in their quest, and begins exploring the gloomy dungeon forking just ahead.",

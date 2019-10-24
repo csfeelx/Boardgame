@@ -27,6 +27,14 @@
             for (var ii = 0 ; ii < datTranlsation.length ; ii++) {
                 // 준비
                 var data = datTranlsation[ii];
+
+                // 공란
+                if (data.name == null) {
+                    var blank = winButton.appendChild(document.createElement("div"));
+                    blank.innerHTML = "<br>";
+                    continue;
+                }
+
                 var button = winButton.appendChild(document.createElement("button"));
                 winButton.appendChild(document.createElement("div"));
                 button.no = ii;
