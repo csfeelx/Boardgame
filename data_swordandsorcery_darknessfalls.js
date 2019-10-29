@@ -519,7 +519,7 @@
 	{
 	        name: "$4.26 (Story Event 1)",
 	        en: "Despite the efforts of both the heroes and the city watch, the bloodthirsty killer disappears in the night, leaving behind the mangled body of a new victim, a young man named Scott Howard. Acknowledging the news, all the heroes can do is to wait for the dawn and return to their investigation.",
-	        ko: "영웅들과 도시 경비대의 노력에도 불구하고, 피에 굶주린 살인마는 희생자의 난도질당한 시체를 남겨두고는, 밤의 어둠 속으로 사라진다. 새로운 희생자는 스캇 하워드라는 이름의 청년이다. 이를 막지 못한 영웅들에게 남겨진 일은 새벽을 기다려 수사를 재개하는 것 뿐이다."
+	        ko: "영웅들과 도시 경비대의 노력에도 불구하고, 피에 굶주린 살인마는 희생자의 난도질당한 시체를 남겨두고는, 밤의 어둠 속으로 사라진다. 새로운 희생자는 스캇 하워드라는 이름의 청년이다. 사건을 막지 못한 영웅들에게 남겨진 일은 새벽을 기다려 수사를 재개하는 것 뿐이다."
 	},
         {
                 name: "$4.27 (Story Event 1)",
@@ -534,7 +534,7 @@
         {
                 name: "$4.29 (Story Event 1)",
                 en: "As one of the heroes inspects the city, something draws his eyes toward a near alley. He sees the shape of a man squatting, then running on four legs, and finally jumping away with a strength no man should have. Perhaps it was just another drunk collapsing to the ground, whose shadow became a monster in the flickering light of the torches. Or perhaps you are really hunting something quite... inhuman.",
-                ko: "범인을 찾아 헤매던 중 근처의 골목길에 있는 무언가가 영웅 하나의 눈길을 끈다. 남자 하나가 쭈그리고 있다가 네 다리로 달리기 시작한다. 그리고는 인간으로는 믿을 수 없는 힘으로 뛰어올라 모습을 감춘다. 당신은 당신의 눈을 믿을 수 없다. 아마도 주정뱅이 하나가 땅에 쓰러져 있고, 일렁이는 횃불 빛에 그의 그림자가 괴물의 움직임처럼 보인 것이리라. 그것이 아니라면, 당신이 쫓고 있는 것은 분명... 사람이 아닌 무언가이다."
+                ko: "범인을 찾아 헤매던 중 근처의 골목길에 있는 무언가가 영웅 하나의 눈길을 끈다. 남자 하나가 쭈그리고 있다가 네 다리로 달리기 시작한다. 그리고는 인간이라고 믿을 수 없는 힘으로 뛰어올라 모습을 감춘다. 당신은 당신의 눈을 믿을 수 없다. 아마도 주정뱅이 하나가 땅에 쓰러져 있고, 일렁이는 횃불 빛에 그의 그림자가 괴물의 움직임처럼 보인 것이리라. 그것이 아니라면, 당신이 쫓고 있는 것은 분명... 사람이 아닌 무언가이다."
         },
         {
                 name: "$4.30 (Waypoint X)",
@@ -544,21 +544,21 @@
         {
                 name: "$4.31 (Story Event 1)",
                 en: "Their efforts have paid off at last! The heroes can finally deduce where the monster will strike again, and this time they are there, waiting and ready, as the creature appears! The shadows unveil a couple of cutthroats, their faces masked, along with a huge mass of muscles and fur, with razor-sharp claws and the snout of a wolf!",
-                ko: "노력이 결실을 맺어 영웅들은 마침내 괴물이 어디에 다시 나타날지 예상할 수 있게 되었다. 잠복하고 있는 영웅들 앞에 괴물이 나타난다! 그림자 속에서 가면을 쓴, 두 형체가 모습을 드러낸다. 그 잔악무도한 놈들의 몸은 엄청난 근육과 털로 덮혀있고, 면도날처럼 날카로운 손톱과 늑대의 주둥이를 가지고 있다!"
+                ko: "노력이 결실을 맺어 영웅들은 마침내 괴물이 어디에 다시 나타날지 예상할 수 있게 되었다. 잠복하고 있는 영웅들 앞에 괴물이 나타난다! 괴물의 엄청난 근육은 털로 덮혀있고, 놈은 면도날처럼 날카로운 손톱과 늑대의 주둥이를 가지고 있다! 그리고 놈의 뒤 그림자 속에서 가면을 쓴, 두 명의 살인자가 모습을 드러낸다."
         },
         {
                 name: "$4.32 (Waypoint X)",
                 en: "The screams of terror in the distance hints to the fact that the lifeless creatures have reached the more densely populated areas of Moonchild.",
-                ko: "멀리서 들려오는 공포에 찬 비명소리로 영웅들은 언데드들이 문차일드의 인구 밀집 지역까지 도달했을을 깨닫는다."
+                ko: "멀리서 들려오는 공포에 찬 비명소리로 영웅들은 언데드들이 문차일드의 인구 밀집 지역까지 도달했음을 깨닫는다."
         },
-        {},
-        // ~작업 완료
-
         {
                 name: "$4.33 (Story Event 1)",
                 en: "As the wolf-like monster falls, a flaming arrow flies from a rooftop. Before the heroes can do anything, the body of the monster erupts in fire and rapidly burns to ashes, together with the bodies of the cutthroats, while the survivors flee under the cover of the smoke. When the guards arrive, the heroes speak to inspector Crane, who hands them a purse of Crowns as a reward for a job well done. \”As I suspected, your contribution has been vital to this investigation; unfortunately, from what we have seen, we no longer have to look for a single person, but for a... a pack, for lack of a better name. Please, keep investigating. I can give you this money for now, but more waits for you at the end of this entire absurd story. Should we get any information from this scene, I will summon you, but until then, we must protect the city.\”",
-                ko: "늑대 같은 괴물이 쓰러지면서 옥상에서 불타는 화살이 날아온다. 영웅들이 무슨 짓을 하기도 전에 괴물의 몸이 불길에 폭발하여 순식간에 잿더미로 타오르며, 생존자들은 연기 덮개 밑으로 도망친다. 간수들이 도착하면 영웅들은 잘한 일에 대한 보상으로 크라운지갑을 건네주는 검사관 크레인에게 말한다. \"의견대로, 당신의 공헌은 이번 조사에 매우 중요했다; 불행하게도, 우리가 본 바로는, 우리는 더 이상 단 한 사람도 찾을 필요가 없고, 더 나은 이름이 없어서 한 무리의 사람들을 찾을 필요가 없다. 제발, 계속 조사해줘. 지금은 이 돈을 줄 수 있지만, 이 모든 터무니없는 이야기가 끝날 때쯤에는 더 많은 사람들이 당신을 기다린다. 이 장면에서 어떤 정보를 얻으면, 당신을 소환하겠지만, 그때까지 우리는 도시를 지켜야 한다.\”"
-        },
+		ko: "늑대를 닮은 괴물이 쓰러지는 순간, 옥상에서 불타는 화살이 날아온다. 영웅들이 어떠한 반응을 하기도 전에, 그 괴물의 몸은 불길 속에서 폭발하여, 살인자들의 시체와 함께, 순식간에 불타올라 재만 남는다. 그 동안 생존자들은 연기 아래로 도망친다. 경비대가 도착한 뒤, 크레인 경감은 영웅들에게 일을 훌륭히 처리해준 것에 대한 보상으로 돈 주머니를 건네준다. \"제가 예상한대로, 여러분은 수사에 큰 도움을 주셨습니다. 하지만 불행히도, 보시다시피, 우리가 쫓는 대상은 한 사람이 아닌... 짐승 무리입니다. 더 적절한 단어를 찾기 어렵군요. 부탁드립니다. 수사를 계속해주세요. 지금 제가 드릴 수 있는 돈은 이 정도 뿐이지만, 이 터무니 없는 사건이 해결된다면 더 많은 것을 얻으실 수 있을 겁니다. 이 현장에서 어떤 정보라도 얻게된다면 여러분을 찾겠습니다. 하지만 그 전까지 우리는 이 도시를 지켜내야만 합니다.\""
+	},
+	{},
+        // ~작업 완료
+	
         {
                 name: "$4.34 (Waypoint 2)",
                 en: "When the heroes ask to see the acolyte, the High cleric prays to the Three Gods and then answers: \"Renfield is a devoted servant of the gods, yet they are harshly punishing him. I will take you to him, yet be warned: reason no longer dwells within that body...\" The heroes find the acolyte sitting on the floor of his room, bobbing his head and chanting the same four words over and over: \"There wolf, there castle, there wolf, there castle...\" The High cleric speaks again to the party: \"For now, all that we can do is heal his body, waiting and hoping that his mind will recover. Thank you for saving him. May the blessing of the Three be upon you. Farewell.\"",
