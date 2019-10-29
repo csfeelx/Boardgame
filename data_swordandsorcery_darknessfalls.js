@@ -516,45 +516,44 @@
 		en: "A thin white mist begins to shroud the city, when all at once a scream of anguish breaks the silence of the night!",
 		ko: "옅은 하얀 안개가 도시를 덮기 시작한다, 이때 고통에 찬 비명소리가 밤의 정적을 깨뜨린다!"
 	},
-        {},
-        // ~작업 완료
-
-
 	{
 	        name: "$4.26 (Story Event 1)",
 	        en: "Despite the efforts of both the heroes and the city watch, the bloodthirsty killer disappears in the night, leaving behind the mangled body of a new victim, a young man named Scott Howard. Acknowledging the news, all the heroes can do is to wait for the dawn and return to their investigation.",
-	        ko: "영웅들과 시청자들 모두의 노력에도 불구하고, 피에 굶주린 살인범은 밤중에 사라지며, 새로운 희생자인 스콧 하워드라는 젊은이의 으스러진 몸을 남겨둔다. 이 소식을 인정하면서 영웅들이 할 수 있는 일은 새벽을 기다렸다가 다시 수사로 돌아오는 것뿐이다."
+	        ko: "영웅들과 도시 경비대의 노력에도 불구하고, 피에 굶주린 살인마는 희생자의 난도질당한 시체를 남겨두고는, 밤의 어둠 속으로 사라진다. 새로운 희생자는 스캇 하워드라는 이름의 청년이다. 이를 막지 못한 영웅들에게 남겨진 일은 새벽을 기다려 수사를 재개하는 것 뿐이다."
 	},
         {
                 name: "$4.27 (Story Event 1)",
                 en: "The heroes find a frightened man roaming the streets in a state of shock, his pupils dilated and his breath short. One of the guards recognizes the man as an acolyte from the temple. Since the man is on the verge of collapsing, the inspector decides to take him to the High cleric (Waypoint 2), explaining to the heroes, \”Perhaps, once he has recovered, he can tell us something useful about what caused such terror, but until then he will not be of any help to us.\”",
-                ko: "영웅들은 겁에 질린 한 남자가 충격 상태에서 거리를 배회하고, 동공이 팽창하고 호흡이 짧아진 것을 발견한다. 경비원 중 한 명이 그 남자를 신전에서 온 도련님으로 알아본다. 그 남자가 쓰러질 위기에 처해 있기 때문에, 감찰관은 그를 고위 성직자(웨이포인트 2)에게 데리고 가서 영웅들에게 설명하기로 결심한다. \"아마도, 그가 회복되면, 우리에게 무엇이 그러한 테러를 일으켰는지에 대해 유용한 것을 말해 줄 수 있을 것이다. 그러나 그때까지 그는 우리에게 아무런 도움이 되지 않을 것이다.\”"
+                ko: "영웅들은 겁에 질린채 거리를 방황하는 남자 하나를 발견한다. 그는 충격을 받은 듯 동공이 커진채 가쁜 숨을 쉬고 있다. 경비대원 중 하나가 그가 사원에서 일하는 시종임을 알아본다. 그는 당장이라도 정신을 잃을 것 같은 상태이기에, 수사관은 영웅들을 설득해 그를 고위 사제에게로 데려가기로 결정한다 (Waypoint 2). \"아마도, 이 청년에게서 살인마에 대한 유용한 정보를 얻을 수 있을 겁니다. 하지만, 지금 상태로는 무리겠군요.\""
         },
         {
                 name: "$4.28 (Waypoint X)",
                 en: "As they walk along the road beside the graveyard, the heroes find strange footprints dragged along the ground. Judging from the foul odour, something rotten is walking toward the city!",
-                ko: "묘지 옆 길을 걸으면서 영웅들은 땅바닥을 따라 끌려가는 이상한 발자국을 발견한다. 악취를 풍기는 것으로 보아, 썩은 것이 도시를 향해 걸어가고 있는 것이다!"
+                ko: "묘지 근처를 걷다가, 영웅들은 땅바닥에 남겨진, 다리를 끌며 지나간 듯한 기이한 발자국을 발견한다. 남아있는 악취로 판단하건데, 무언가 썩은 것이 도시를 향해 걸어가고 있다!"
         },
         {
                 name: "$4.29 (Story Event 1)",
                 en: "As one of the heroes inspects the city, something draws his eyes toward a near alley. He sees the shape of a man squatting, then running on four legs, and finally jumping away with a strength no man should have. Perhaps it was just another drunk collapsing to the ground, whose shadow became a monster in the flickering light of the torches. Or perhaps you are really hunting something quite... inhuman.",
-                ko: "영웅들 중 한 명이 도시를 살피고 있을 때, 무언가가 그의 눈을 가까운 골목 쪽으로 끌어당긴다. 그는 쭈그리고 앉아 있다가 네 다리로 뛰어가는 남자의 모습을 보고, 마침내 어떤 남자도 가져서는 안 될 힘을 가지고 뛰어내린다. 아마도 그것은 횃불의 깜박거리는 불빛 속에서 그림자가 괴물이 되어버린 또 하나의 술기운에 지나지 않았을 것이다. 아니면 정말로 뭔가 사냥하고 있는 거겠지 잔혹한"
+                ko: "범인을 찾아 헤매던 중 근처의 골목길에 있는 무언가가 영웅 하나의 눈길을 끈다. 남자 하나가 쭈그리고 있다가 네 다리로 달리기 시작한다. 그리고는 인간으로는 믿을 수 없는 힘으로 뛰어올라 모습을 감춘다. 당신은 당신의 눈을 믿을 수 없다. 아마도 주정뱅이 하나가 땅에 쓰러져 있고, 일렁이는 횃불 빛에 그의 그림자가 괴물의 움직임처럼 보인 것이리라. 그것이 아니라면, 당신이 쫓고 있는 것은 분명... 사람이 아닌 무언가이다."
         },
         {
                 name: "$4.30 (Waypoint X)",
                 en: "Be it destiny or the gods' will, the heroes understand they are way too close to these lifeless beings!",
-                ko: "운명이건 신의 뜻이건 영웅들은 그들이 이 생명이 없는 존재들과 너무 가깝다는 것을 이해한다!"
+                ko: "그것이 운명이건, 신의 뜻이건, 영웅들은 그들이 이 언데드 무리와 너무 가까워졌다는 것을 깨닫는다!"
         },
         {
                 name: "$4.31 (Story Event 1)",
                 en: "Their efforts have paid off at last! The heroes can finally deduce where the monster will strike again, and this time they are there, waiting and ready, as the creature appears! The shadows unveil a couple of cutthroats, their faces masked, along with a huge mass of muscles and fur, with razor-sharp claws and the snout of a wolf!",
-                ko: "그들의 노력이 마침내 결실을 보았다! 영웅들은 마침내 괴물이 어디서 다시 공격할지 추론할 수 있고, 이번에는 생명체가 나타나듯이 기다리고 또 준비가 되어 있다! 그 그림자들은 두 마리의 베드로이트를, 얼굴을 가린 채 거대한 근육과 털 덩어리와 함께 면도날 같은 발톱과 늑대의 코로 모습을 드러낸다!"
+                ko: "노력이 결실을 맺어 영웅들은 마침내 괴물이 어디에 다시 나타날지 예상할 수 있게 되었다. 잠복하고 있는 영웅들 앞에 괴물이 나타난다! 그림자 속에서 가면을 쓴, 두 형체가 모습을 드러낸다. 그 잔악무도한 놈들의 몸은 엄청난 근육과 털로 덮혀있고, 면도날처럼 날카로운 손톱과 늑대의 주둥이를 가지고 있다!"
         },
         {
                 name: "$4.32 (Waypoint X)",
                 en: "The screams of terror in the distance hints to the fact that the lifeless creatures have reached the more densely populated areas of Moonchild.",
-                ko: "멀리서 들려오는 공포의 비명소리는 생명이 없는 생명체가 문차일드의 인구밀도가 높은 지역에 이르렀음을 암시한다."
+                ko: "멀리서 들려오는 공포에 찬 비명소리로 영웅들은 언데드들이 문차일드의 인구 밀집 지역까지 도달했을을 깨닫는다."
         },
+        {},
+        // ~작업 완료
+
         {
                 name: "$4.33 (Story Event 1)",
                 en: "As the wolf-like monster falls, a flaming arrow flies from a rooftop. Before the heroes can do anything, the body of the monster erupts in fire and rapidly burns to ashes, together with the bodies of the cutthroats, while the survivors flee under the cover of the smoke. When the guards arrive, the heroes speak to inspector Crane, who hands them a purse of Crowns as a reward for a job well done. \”As I suspected, your contribution has been vital to this investigation; unfortunately, from what we have seen, we no longer have to look for a single person, but for a... a pack, for lack of a better name. Please, keep investigating. I can give you this money for now, but more waits for you at the end of this entire absurd story. Should we get any information from this scene, I will summon you, but until then, we must protect the city.\”",
