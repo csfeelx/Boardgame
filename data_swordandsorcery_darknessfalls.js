@@ -238,7 +238,7 @@
 	{
 		name: "$2.24 (Glass Vial)",
 		en: "Remembering Malak's words, the hero sips a few drops of the magical glowing potion. It takes but a breath before feeling the effects....",
-		ko: "말락의 말을 기억하며, 영웅들은 빛나는 마법의 물약을 몇 방울 마신다. 숨 한 번 내쉴 사이에, 효과가 나타난다."
+		ko: "말락의 말을 기억하며, 영웅은 빛나는 마법의 물약을 몇 방울 마신다. 숨 한 번 내쉴 사이에, 효과가 나타난다..."
 	},
 	{
 		name: "$2.25 (Ending)",
@@ -356,7 +356,7 @@
 	{
 		name: "$3.21 (Glass Vial)",
 		en: "Remembering Malak’s words, the hero only sips a few drops of the magical glowing potion, and it takes but a breath before the effects kick in...",
-		ko: "말락의 말을 기억하며, 영웅들은 빛나는 마법의 물약을 몇 방울 마신다. 숨 한 번 내쉴 사이에, 효과가 나타난다."
+		ko: "말락의 말을 기억하며, 영웅은 빛나는 마법의 물약을 몇 방울 마신다. 숨 한 번 내쉴 사이에, 효과가 나타난다..."
 	},
 	{
 		name: "$3.22 (Ending)",
@@ -449,7 +449,7 @@
 	{
 		name: "$4.12 (Day)",
 		en: "A new day dawns over the city of Moonchild. Fears and creatures of the night fade with the sun, while the streets come to life again, teeming with new, potential victims (Shadows) of the bloodthirsty killer. Time for the heroes to hunt!",
-		ko: "문 차일드에 새로운 태양이 밝아온다. 공포와 밤의 괴물들은 떠오르는 태양 빛과 함께 사라진다. 거리는 다시 활기가 넘치고, 피에 굶주린 살인자의 새로운, 잠재적 희생자들 (그림자) 로 가득찬다. 이제 영웅들이 사냥할 시간이다!"
+		ko: "문 차일드에 새로운 태양이 밝아온다. 공포와 밤의 괴물들은 떠오르는 태양 빛과 함께 사라진다. 거리는 다시 활기가 넘치고, 피에 굶주린 살인마의 새로운, 잠재적 희생자들 (그림자) 로 가득찬다. 이제 영웅들이 사냥할 시간이다!"
 	},
 	{
 		name: "$4.13 (Waypoint 2)",
@@ -459,7 +459,7 @@
 	{
 		name: "$4.14 (Waypoint 2)",
 		en: "The High cleric appears to be a stark, inflexible person, perhaps not suited to the present situation, yet strong in his faith in the gods. When asked about the recent developments in the city, he answers, \"This is how the gods punish us for our sins! This city has always worshipped the strength of its founders instead of the will of the gods! Behold the people of Moonchild! Even before the walking dead, before the heinous crimes in the night, their faith wavers! The gods are our only hope! Pray, strangers! Pray. I have no more to tell you.\"",
-		ko: "고위 사제는 냉엄하고, 엄격한 사람으로 보인다, 아마도 지금 상황에는 어울리는 않겠지만, 확고한 신앙을 가진 사람말이다. 최근에 도시에서 벌어지고 있는 일에 대해 묻자, 그가 대답한다. \"이 모든 사건은 주님께서 우리의 죄를 벌하시는 것이오! 이 도시의 사람들은 언제나, 주님의 뜻을 따르는 대신 도시 건립자들을 숭배해 왔소! 그들을 보시오! 심지어 죽은자가 걸어다니는 상황에서도, 한밤에 극악무도한 범죄가 벌어지는 상황에서도, 그들은 주님의 뜻을 따르려 하지 않소! 주님만이 우리의 희망이오! 기도하시오, 이방인들이여! 기도하시오! 나는 더 해줄 말이 없소이다.\""
+		ko: "고위 사제는 냉엄하고, 엄격한 사람으로 보인다, 아마도 지금 상황에는 어울리는 않겠지만, 확고한 신앙을 가진 사람말이다. 최근에 도시에서 벌어지고 있는 일에 대해 묻자, 그가 대답한다. \"이 모든 사건은 세분의 신께서 우리의 죄를 벌하시는 것이오! 이 도시의 사람들은 언제나, 신의 뜻을 따르는 대신 도시 건립자들을 숭배해 왔소! 그들을 보시오! 심지어 죽은자가 걸어다니는 상황에서도, 한밤에 극악무도한 범죄가 벌어지는 상황에서도, 그들은 신의 뜻을 따르려 하지 않소! 세분의 신만이 우리의 희망이오! 기도하시오, 이방인들이여! 기도하시오! 나는 더 해줄 말이 없소이다.\""
 	},
 	{
 		name: "$4.15 (Waypoint 2)",
@@ -479,7 +479,7 @@
 	{
 	        name: "$4.18 (Waypoint 3)",
 		en: "With these last words, Kessler bids the heroes farewell: \"It is time for you to go. Please, come back if you ever discover more information about this killer. In crazy times, a lunatic's voice may be your one true guide! Mwahahahahah!\"",
-		ko: "이 말을 마지막으로 케슬러는 영웅들에게 작별을 고한다: \"이제 자네들이 행동에 나설 차례일세. 부탁하네, 이 살인자에 대한 더 많은 정보를 발견하면 돌아와주게. 지금같은 광기의 시대에서는 나 같은 미치광이의 말이 자네를 인도해줄지도 모르잖나! 으하하하!\""
+		ko: "이 말을 마지막으로 케슬러는 영웅들에게 작별을 고한다: \"이제 자네들이 행동에 나설 차례일세. 부탁하네, 이 살인마에 대한 더 많은 정보를 발견하면 돌아와주게. 지금같은 광기의 시대에서는 나 같은 미치광이의 말이 자네를 인도해줄지도 모르잖나! 으하하하!\""
 	},
 	{
 	        name: "$4.19 (Waypoint 3)",
@@ -544,7 +544,7 @@
         {
                 name: "$4.31 (Story Event 1)",
                 en: "Their efforts have paid off at last! The heroes can finally deduce where the monster will strike again, and this time they are there, waiting and ready, as the creature appears! The shadows unveil a couple of cutthroats, their faces masked, along with a huge mass of muscles and fur, with razor-sharp claws and the snout of a wolf!",
-                ko: "노력이 결실을 맺어 영웅들은 마침내 괴물이 어디에 다시 나타날지 예상할 수 있게 되었다. 잠복하고 있는 영웅들 앞에 괴물이 나타난다! 괴물의 엄청난 근육은 털로 덮혀있고, 놈은 면도날처럼 날카로운 손톱과 늑대의 주둥이를 가지고 있다! 그리고 놈의 뒤 그림자 속에서 가면을 쓴, 두 명의 살인자가 모습을 드러낸다."
+                ko: "노력이 결실을 맺어 영웅들은 마침내 괴물이 어디에 다시 나타날지 예상할 수 있게 되었다. 잠복하고 있는 영웅들 앞에 괴물이 나타난다! 괴물의 엄청난 근육은 털로 덮혀있고, 놈은 면도날처럼 날카로운 손톱과 늑대의 주둥이를 가지고 있다! 그리고 놈의 뒤 그림자 속에서 가면을 쓴, 두 명의 암살자가 모습을 드러낸다."
         },
         {
                 name: "$4.32 (Waypoint X)",
@@ -554,7 +554,7 @@
         {
                 name: "$4.33 (Story Event 1)",
                 en: "As the wolf-like monster falls, a flaming arrow flies from a rooftop. Before the heroes can do anything, the body of the monster erupts in fire and rapidly burns to ashes, together with the bodies of the cutthroats, while the survivors flee under the cover of the smoke. When the guards arrive, the heroes speak to inspector Crane, who hands them a purse of Crowns as a reward for a job well done. \”As I suspected, your contribution has been vital to this investigation; unfortunately, from what we have seen, we no longer have to look for a single person, but for a... a pack, for lack of a better name. Please, keep investigating. I can give you this money for now, but more waits for you at the end of this entire absurd story. Should we get any information from this scene, I will summon you, but until then, we must protect the city.\”",
-		ko: "늑대를 닮은 괴물이 쓰러지는 순간, 옥상에서 불타는 화살이 날아온다. 영웅들이 어떠한 반응을 하기도 전에, 그 괴물의 몸은 불길 속에서 폭발하여, 살인자들의 시체와 함께, 순식간에 불타올라 재만 남는다. 그 동안 생존자들은 연기 아래로 도망친다. 경비대가 도착한 뒤, 크레인 경감은 영웅들에게 일을 훌륭히 처리해준 것에 대한 보상으로 돈 주머니를 건네준다. \"제가 예상한대로, 여러분은 수사에 큰 도움을 주셨습니다. 하지만 불행히도, 보시다시피, 우리가 쫓는 대상은 한 사람이 아닌... 짐승 무리입니다. 더 적절한 단어를 찾기 어렵군요. 부탁드립니다. 수사를 계속해주세요. 지금 제가 드릴 수 있는 돈은 이 정도 뿐이지만, 이 터무니 없는 사건이 해결된다면 더 많은 것을 얻으실 수 있을 겁니다. 이 현장에서 어떤 정보라도 얻게된다면 여러분을 찾겠습니다. 하지만 그 전까지 우리는 이 도시를 지켜내야만 합니다.\""
+		ko: "늑대를 닮은 괴물이 쓰러지는 순간, 옥상에서 불타는 화살이 날아온다. 영웅들이 어떠한 반응을 하기도 전에, 그 괴물의 몸은 불길 속에서 폭발하여, 암살자들의 시체와 함께, 순식간에 불타올라 재만 남는다. 그 동안 생존자들은 연기 아래로 도망친다. 경비대가 도착한 뒤, 크레인 경감은 영웅들에게 일을 훌륭히 처리해준 것에 대한 보상으로 돈 주머니를 건네준다. \"제가 예상한대로, 여러분은 수사에 큰 도움을 주셨습니다. 하지만 불행히도, 보시다시피, 우리가 쫓는 대상은 한 사람이 아닌... 짐승 무리입니다. 더 적절한 단어를 찾기 어렵군요. 부탁드립니다. 수사를 계속해주세요. 지금 제가 드릴 수 있는 돈은 이 정도 뿐이지만, 이 터무니 없는 사건이 해결된다면 더 많은 것을 얻으실 수 있을 겁니다. 이 현장에서 어떤 정보라도 얻게된다면 여러분을 찾겠습니다. 하지만 그 전까지 우리는 이 도시를 지켜내야만 합니다.\""
 	},
 	{},
         // ~작업 완료
@@ -562,57 +562,57 @@
         {
                 name: "$4.34 (Waypoint 2)",
                 en: "When the heroes ask to see the acolyte, the High cleric prays to the Three Gods and then answers: \"Renfield is a devoted servant of the gods, yet they are harshly punishing him. I will take you to him, yet be warned: reason no longer dwells within that body...\" The heroes find the acolyte sitting on the floor of his room, bobbing his head and chanting the same four words over and over: \"There wolf, there castle, there wolf, there castle...\" The High cleric speaks again to the party: \"For now, all that we can do is heal his body, waiting and hoping that his mind will recover. Thank you for saving him. May the blessing of the Three be upon you. Farewell.\"",
-                ko: "영웅들이 도련님을 보자고 하면, 고위 성직자는 세 신에게 기도하고 대답한다. \"렌필드는 신들의 헌신적인 종인데, 그들은 그를 가혹하게 벌하고 있다. 내가 너를 그에게 데려갈 것이다. 그러나 경고를 받을 것이다. 이성은 더 이상 그 몸 안에 머물지 않는다.\" 영웅들은 그의 방바닥에 앉아 고개를 까딱거리며 똑같은 네 마디를 반복해서 외치고 있는 아콜리트를 발견한다: \"저기 늑대, 저기 성, 저기 늑대...\" 고위 성직자는 파티에서 다시 말한다: \"지금으로서는 그의 몸을 치유하고 그의 마음이 회복되기를 기다리는 것뿐이다. 구해줘서 고마워 세자의 복이 네게 있기를. 작별\""
+                ko: "영웅들이 그 시종을 만나고자 요청하자, 고위 사제는 신에게 기도를 올린 뒤 대답한다: \"렌필드는 그분들의 헌신적인 종임에도, 세분의 신께선 그를 가혹하게 벌하시는군요. 그에게 데려다 드리지요, 하지만 조심하십시오: 그는 지금 제정신이 아닙니다...\" 영웅들은 그의 방에서 바닥에 앉아있는 렌필드를 발견한다. 그는 머리를 흔들며, 네개의 단어를 반복적으로 읊조리고 있다. \"There wolf, there castle, there wolf, there castle...\" 고위사제는 다시 한 번 일행에게 말한다: \"지금 당장은, 저희가 할 수 있는 일은 그의 몸을 치유하는 것 뿐입니다. 그의 정신이 회복되길 기다리면서 말이지요. 그를 구해주셔서 감사합니다. 세분의 신의 축복이 당신과 함께하기를... 안녕히 가십시오.\""
         },
         {
                 name: "$4.35 (Glass Vial)",
                 en: "Remembering the words of Malak, the hero sips just a few drops of the magical liquid from the vial, and the effects soon set in...",
-                ko: "말락의 말을 기억하면서 영웅은 바이알에서 마법 같은 액체를 몇 방울만 흘리는데, 그 효과는 곧..."
+                ko: "말락의 말을 기억하며, 영웅은 약병에서 마법 물약을 몇 방울 마신다, 그것은 금방 효과를 나타낸다..."
         },
         {
                 name: "$4.36 (Waypoint 3)",
                 en: "The hero, witness of the strange event, decides to relate to Kessler everything about the weird shape leaping away from the alley during the night. When the tale ends, Kessler appears upset and then yells, “Well, that is simply IMPOSSIBLE! What you say would sound strange to most, but for me is it like... well, the sunlight at night; it is pure madness! We must be sure! I cannot tell you more for the moment, but I promise, if you give me more information, I will be able to finally tell you what is really happening. Until then, everything is in your hands!” The heroes start to wonder who is the actual madman in the room, Kessler the fool or themselves...",
-                ko: "그 이상한 사건의 목격자인 영웅은 케슬러와 밤중에 골목에서 뛰어내리는 이상한 모양에 관한 모든 것을 연관시키기로 결심한다. 이 이야기가 끝나자 케슬러는 화가 난 듯하더니 이렇게 소리친다. \"글쎄요, 그건 단순히 IMPOSSIBLE이야! 네 말이 이상하게 들리겠지만, 나한텐... 음, 밤의 햇빛; 그것은 순전히 미친 짓이야! 우리는 확신해야만 해! 지금은 더 말할 수 없지만, 약속할게, 만약 당신이 더 많은 정보를 준다면, 나는 마침내 당신에게 실제로 무슨 일이 일어나고 있는지 말할 수 있을 거야. 그때까지 모든 것이 네 손에 달렸어!\" 영웅들은 누가 진짜 미치광이인지 궁금해하기 시작한다. 케슬러는 바보인지 아니면 그들 자신인지..."
+                ko: "그 이상한 사건을 목격한 영웅은, 케슬러에게 골목에서 사라진 기이한 형체에 관한 모든 것을 이야기하기로 결심한다. 이야기가 끝나자, 케슬러는 화가난듯 소리친다. \"말도 안되. 그건 그냥 불가능해! 밤에 햇빛을 봤다는 소리와 같군; 그냥 미친소리일세! 확실히 해 두자고! 난 당장은 더 해줄 이야기가 없네, 하지만 약속하지. 자네들이 좀 더 정보를 모아오면, 그때야말로 정말로 무슨 일이 있어난 건지 말해 줄 수 있을 걸세. 그 전까진 모든 것은 자네들 손에 달렸네!\" 영웅들은 누가 더 미친건지 궁금해지기 시작한다. 횡설수설 하고 있는 케슬러인지, 아니면 그들 자신인지..."
         },
         {
                 name: "$4.37 (Story Event 2)",
                 en: "Long howls dominate the night, striking fear in the hearts of the citizens of Moonchild.",
-                ko: "긴 울부짖음이 밤을 지배하며, 문차일드 시민들의 가슴속에 공포를 자아낸다."
+                ko: "길게 울부짖는 소리가 밤하늘에 울려퍼지며, 문차일드 시민들을 공포로 몰아넣는다."
         },
         {
                 name: "$4.38 (Story Event 2)",
                 en: "Despite the heroes' and night watch's best efforts, the murderer claims another victim, a woman named Lucy Westenra. This night witnesses Death again, soaring in the air among wild howls. This night calls for more blood...",
-                ko: "영웅들과 야간 경비대의 최선의 노력에도 불구하고, 살인범은 또 다른 희생자인 루시 웨스텐라라는 이름을 가진 여성을 주장한다. 이 밤은 또다시 야생의 울부짖음들 사이에서 공중으로 치솟는 죽음을 목격한다. 이 밤엔 더 많은 피가 필요해"
+                ko: "영웅들과 도시 경비대가 최선을 다했음에도 불구하고, 살인마는 또다른 희생자를 만들어낸다. 그녀의 이름은 루시 웨스튼라이다. 이 밤은 다시 한 번 짐승의 울부짖음과 함께 도시 상공으로 솟아오르는 죽음을 목격한다. 이 밤은 더 많은 피를 요구한다..."
         },
         {
                 name: "$4.39 (Story Event 2)",
                 en: "One of the watchmen calls the hero. He is holding a lightly wounded woman who, gaze fixed upon the moon, whispers, \”Please, carry me to my husband.\” These are the only words she manages to utter before fainting. The soldier adds, \”I found her hidden in the cellar, there in the alley. This is Mina, wife of Harker, the owner of the General Store. Better to carry her there (Waypoint 5). Her husband will be out of his mind by now.\”",
-                ko: "감시원 중 한 명이 영웅을 부른다. 그는 달을 응시하며 속삭이는 가벼운 상처를 입은 여자를 안고 있다. \"제발, 나를 내 남편에게 데려다 줘.\" 실신하기 전에 그녀가 겨우 내뱉은 말은 이것뿐이다. 그 병사는 덧붙인다, \"나는 그녀가 지하실, 저기 골목에 숨겨져 있는 것을 발견했다. 제너럴 스토어의 주인 하커의 아내 미나 입니다. 그녀를 그곳으로 데리고 가는 것이 더 낫다. 그녀의 남편은 지금쯤 제정신이 아닐 것이다.\”"
+                ko: "경비대원 하나가 영웅들을 부른다. 그는 가벼운 상처를 입은 여자 하나를 안고 있다. 그녀는 시선을 달에 고정시킨채 속삭인다. \"제발. 저를 남편에게 데려다 주세요.\" 힘겹게 말을 남긴 그녀는 정신을 잃는다. 경비대원은 덧붙인다. \"저는 이 아가씨가 골목에 있는 지하실에 숨어있는 것을 발견했습니다. 이 아가씨의 이름은 미나입니다. 잡화상의 주인인 하커의 부인이지요. 그녀를 집으로 데려다 주십시오 (Waypoint 5). 그녀의 남편은 지금 아마 제정신이 아닐겁니다.\""
         },
         {
                 name: "$4.40 (Story Event 2)",
-                en: "As the hero walks through town, he is interrupted by images on the wind, an echo perhaps coming from a nearby underground room... a ritual, a stillbeating wolf heart sacrified to trap its spirit in a human host... then a scream of pain... finally a howl!",
-                ko: "영웅은 마을을 걸으면서 바람 위의 이미지들에 의해 방해를 받고, 아마 근처 지하실에서 메아리가 울릴 것이다. 인간의 숙주에 그 정신을 가두기 위해 성찬한 의식, 고요한 늑대의 심장... 그리고 고통의 비명... 드디어 울부짖는다!"
+                en: "As the hero walks through town, he is interrupted by images on the wind, an echo perhaps coming from a nearby underground room... a ritual, a still beating wolf heart sacrified to trap its spirit in a human host... then a scream of pain... finally a howl!",
+                ko: "마을을 걷던 영웅에게 바람이 싣고 온 환상이 보인다. 아마도 근처 어딘가의 지하실일 것이다. 의식이 벌어진다. 펄떡이는 늑대의 심장을 바쳐 인간의 몸에 늑대의 혼을 가두는 의식... 고통의 비명소리가 곧 짐승의 울부짖음으로 변한다.",
         },
         {
                 name: "$4.41 (Story Event 2)",
                 en: "Following a faint trail, the heroes manage to catch a glance of a gigantic beast, similar to a wolf but three times larger, jumping from a nearby roof, followed by a pack of cutthroats!",
-                ko: "희미한 흔적을 따라, 영웅들은 늑대와 비슷하지만 세 배나 더 큰 거대한 짐승을 간신히 한 눈에 잡으며, 근처 지붕에서 뛰어내리고, 그 뒤를 한 무리의 귀여운 짐승들이 따라온다!"
+                ko: "희미한 흔적을 따라, 영웅들은 간신히 그 거대한 야수를 따라잡는다. 야수는 늑대와 비슷하게 생겼지만 몸집이 세배나 크다. 놈이 근처의 지붕에서 뛰어내리자, 한 무리의 암살자들이 그 뒤를 따른다."
         },
         {
                 name: "$4.42 (Ex-Mortis)",
                 en: "The signs, written in blood, leave their runic shape and form understandable letters during the time needed to cast the spell. Once spoken, the necromantic magic manifests as the letters revert to blood runes...",
-                ko: "피로 쓰여진 이 표지판들은 그들의 진부한 모양을 남기고 주문을 외우는 데 필요한 시간 동안 이해할 수 있는 글자를 형성한다. 일단 말을 하면, 글자가 혈류로 되돌아갈 때 신크로맨틱 마법이 나타난다..."
+                ko: "주문을 외는데 필요한 시간 동안, 피로 쓰여진 이 표식들은 룬 형태의 이해 가능한 문자를 남긴다. 그것을 읽자, 문자들이 피의 룬으로 바뀌며 사령술의 힘이 드러난다."
         },
         {
                 name: "$4.43 (Waypoint 5)",
                 en: "The heroes find Mina embraced by Harker, still shaking with fear, but able to tell her tale. \”I was coming back here when I heard a deep growl from the alley. I was scared! I started running away, but then I saw a huge grey wolf with bloodshot eyes. He was about to attack me when I tripped in the darkness and fell into a cellar. I am alive, thanks to the gods' will!\” Harker sees the terror in his wife's eyes and turns to the heroes. \”Please, stop this nightmare! Here, take these items. I hope they help you in your hunt. May the gods be with you!\”",
-                ko: "영웅들은 미나가 하커에게 포옹을 받고, 여전히 공포에 떨면서도 그녀의 이야기를 할 수 있다는 것을 발견한다. \"여기서 돌아오는데 골목에서 깊은 으르렁거리는 소리가 들렸다. 무서웠어! 나는 도망치기 시작했지만, 그때 충혈된 눈을 가진 거대한 회색 늑대를 보았다. 그가 나를 공격하려다가 어둠 속에 걸려 지하실에 떨어졌다. 난 살아있어, 신의 뜻 덕분에!하커는 아내의 눈에서 공포를 보고 영웅들에게 눈을 돌린다. \"제발, 이 악몽을 그만둬! 자, 이 물건들을 가져가세요. 나는 그들이 너의 사냥에 도움이 되기를 바란다. 신들이 함께 있기를!\”"
+                ko: "영웅들은 하커에게 안겨있는 미나를 발견한다. 그녀는 아직 공포에 떨고 있지만, 그녀가 겪은 일에 대한 이야기를 해 준다. \"저는 골목에서 길게 으르렁거리는 소리를 들고는, 집으로 돌아오는 중이었답니다. 저는 겁에 질려있었어요. 저는 걸음을 재촉하기 시작했지만, 곧 제 앞에 충혈된 눈을 가진 거대한 회색 늑대가 나타났지요. 그 괴물이 저를 공격하려던 찰나에, 저는 발을 헛디뎌 지하실로 떨어지고 말았답니다. 세분의 신께서 보호하시어 이렇게 살아남았지요.\" 하커는 공포에 질린 아내의 눈을 보고 영웅들에게 돌아서 말한다. \"부탁드립니다. 이 악몽을 멈춰주세요! 여기 이 물건들을 가져가세요. 이것들이 도움이 되기를 바랍니다. 세분의 신께서 여러분과 함께하기를...\""
         },
         {
                 name: "$4.44 (Story Event 2)",
                 en: "After defeating the enemies, the heroes start examining the body of the slain wolf – but suddenly it turns into a dead man with the same wounds! Inspector Crane stares in disbelief at the shapechange. \"I thought I had seen the most hideous things in my job... it turns out I was wrong! The horrors from old legends are starting to become common things for this town... Damn, here, this is you rewa... \"But his words are silenced by other howls in different areas of the city. \"Please, stay on guard! I fear this night will not end anytime soon...\"",
-                ko: "적들을 물리친 후, 영웅들은 죽은 늑대의 시체를 조사하기 시작하지만, 갑자기 같은 상처를 입은 죽은 사람으로 변한다. 크레인 경감은 형체변경을 못 믿겠다는 듯이 노려본다. \"직장에서 가장 흉측한 것들을 본 줄 알았는데... 알고 보니 내가 틀렸어! 옛날 전설의 공포가 이 마을에 흔한 것이 되기 시작하고 있다... 젠장, 여기, 이건 네가... \"그러나 그의 말은 도시의 다른 지역에서 들려오는 다른 울부짖음으로 인해 침묵하고 있다. \"제발, 경계하라! 나는 이 밤이 곧 끝나지 않을까 걱정된다...\""
+                ko: "적들을 물리친 후, 영웅들은 죽은 늑대의 시체를 조사하기 시작한다 - 급작스레 그 시체는 똑같은 상처를 가진 죽은 남자로 변한다! 크레인 경감은 믿을 수 없다는 눈으로 그 변화를 바라본다. \"저는 많은 끔찍한 사건을 경험했고, 더 심한 일은 없을 것이라 생각했었습니다... 하지만 그건 틀린 생각이었군요. 젠장! 오래된 전설 속에나 등장하던 공포가 이 마을에서 실제가 되었습니다!. 여기, 보상을 받으십...\" 그의 말은 도시의 다른 지역에서 울려퍼진 울부짖는 소리에 의해 중단된다. \"조심하십시오! 이 밤은 쉽게 지나가지 않을 듯 하군요...\""
         },
         {
                 name: "$4.45 (Waypoint 3)",
