@@ -664,49 +664,49 @@
 		en: "What was once a lush garden is now an open grave, where creepers reign over the spoiled marble. At the center of this once beautiful garden there is a corpse impaled on a spear; a grim warning for unexpected visitors. The body wears the tattered uniform of a scout from Moonchild, and black, unearthly crows feast on its remains.",
 		ko: "한 때 무성했던 정원은 이제 덩굴들이 망가진 대리석을 뒤덮고 있는 파헤쳐진 무덤이 되었다. 한때 아름다웠던 이 정원의 중앙에는 창에 꿰뚫려 있는 시체가 있는데, 그것은 마치 초대받지 않는 손님들을 위한 소름끼치는 경고와도 같이 느껴진다. 그 시체는 닳아헤진 제복을 입고 있는데, 그것으로 보아 그는 문차일드의 정찰병으로 보인다. 그의 유해 위로 새까맣고, 섬뜩한 까마귀들이 잔치를 벌인다."
 	},
-	{},
-	// ~작업 완료
-
 	{
 		name: "$5.2 (Waypoint 1)",
 		en: "The hero leaves the body untouched. The eerie, spectral green eyes of the crows gaze upon him, a dark omen of impending doom.",
-		ko: "영웅은 시체를 그대로 둔다. 까마귀들의 섬뜩하고 분광 같은 녹색 눈이 그를 응시하고 있는데, 그것은 임박한 파멸의 어두운 징조였다."
+		ko: "영웅은 시체에 손을 대지 않고 그대로 둔다. 까마귀들이 섬뜩하고 기이한 빛이 나는 녹색 눈으로 그를 응시한다. 마치 곧 닥쳐올 파멸을 예고하는 음울한 징조와도 같이 느껴진다."
 	},
 	{
 		name: "$5.3 (Waypoint 1)",
 		en: "The eldritch crows take flight as the hero frees the half-skeletonized body from the spear.",
-		ko: "영웅이 반스켈레톤으로 된 몸을 창으로부터 해방시키자 까마귀들이 날아간다."
+		ko: "영웅이 여기저기 뼈가 드러난 시체를 창에서 빼내자, 섬뜩한 까마귀들이 날아오른다."
 	},
 	{
 		name: "$5.4 (Day)",
 		en: "Day dawns on the Talon Coast, yet, as Marcus foretold, the sun's rays cannot pierce the shroud of clouds surrounding the castle. Only a grey, crepuscular light tells the heroes that a new day has come.",
-		ko: "아직 마커스가 예언한 대로 탈론 해안에 날이 밝지만 태양 광선은 성을 둘러싼 구름의 장막을 뚫지 못한다. 오직 회색빛의 주름진 빛만이 영웅들에게 새로운 날이 왔음을 알려준다."
+		ko: "탈론 코스트에 새벽이 밝아온다. 하지만, 마커스가 예언한대로, 태양은 성을 감싸고 있는 구름의 장막을 뚫지 못한다. 오직, 회색 빛의 어스름한 빛만이 영웅들에게 새로운 날이 밝았다는 것을 알려준다."
 	},
 	{
 		name: "$5.5 (Waypoint 1)",
 		en: "The same green, ghostly glow seen in the crows' eyes now animate the empty eye-sockets of the dead scout as it rises again and attacks the hero!",
-		ko: "로 다시 영웅을 공격한다 뜬다 그 같은 녹색, 유령 같은 글로 까마귀의 눈에 본 지금은 죽은 스카우트의 빈 eye-sockets를 움직인!"
+		ko: "죽은 정찰병의 시체의 눈구멍에서 까마귀들의 눈에서 보았던 것과 같은 녹색의, 기이한 빛이 움직인다. 그 시체는 다시 일어나 영웅들을 공격한다!"
 	},
 	{
 		name: "$5.6 (Waypoint 1)",
 		en: "The hero manages to find some items on the body...",
-		ko: "영웅은 시체에서 몇 가지 물건을 찾아낸다..."
+		ko: "영웅은 그의 시체에서 몇가지 물품을 찾아낸다..."
 	},
 	{
 		name: "$5.7 (Waypoint 1)",
 		en: "The heroes bury the scout with the proper rituals, ensuring his body will no longer be defiled.",
-		ko: "영웅들은 그의 몸이 더 이상 더럽히지 않도록 적절한 의식과 함께 스카우트를 묻는다."
+		ko: "영웅들은 그의 시체가 더 이상 더렵혀지지 않도록, 적절한 의식을 치르고 정찰병의 시체를 매장한다."
 	},
 	{
 		name: "$5.8 (Waypoint 1)",
 		en: "The heroes bury the scout, but not before taking whatever they deem useful from the body.",
-		ko: "영웅들은 스카우트를 묻지만, 육체에서 유용한 것으로 생각되는 것은 무엇이든지 가져가기 전에 묻지는 않는다."
+		ko: "영웅들은 정찰병의 시체에서 쓸모있어 보이는 물건들은 모두 챙긴 후, 그 시체를 매장한다."
 	},
 	{
 		name: "$5.9 (Story Event 1)",
 		en: "Leaving the macabre courtyard at their backs, the heroes open the gates and find themselves ensorcelled by an obvious illusion. The room they enter is the exact replica of the Throne Room in Twin Wyrms, with the pale-skinned Count Dalv sitting on his throne, sipping something from a goblet. As the heroes enter, the vampire slowly and deliberately spills the blood from the chalice on the floor and addresses the party: \"Ah, I thought that replicating our last encounter would have been more... welcoming to you. After all, although uninvited, you are still guests in my mansion. Well, if nothing else, you will die in the hall that honoured you.\"With a deep, unnatural laugh, the Count rises and prepares for battle, drawing a black blade with reddish, pulsating veins, while his cloak sways as if alive!",
-		ko: "으스스한 뜰을 등지고 영웅들은 대문을 열고 분명한 착각에 사로잡힌 자신을 발견한다. 그들이 들어가는 방은 트윈 와이름스의 트론 룸의 정확한 복제품인데, 창백한 피부색의 달브 백작이 그의 왕좌에 앉아 고블렛에서 무언가를 홀짝거리고 있다. 영웅들이 들어오면서 흡혈귀는 천천히 그리고 의도적으로 바닥에 있는 찰리스에서 피를 쏟으며 파티에서 연설한다: \"아, 나는 우리의 마지막 만남을 복제하는 것이 더 좋았을 거라고 생각했다... 환영한다. 결국, 비록 초대받지 못했지만, 당신은 여전히 내 저택의 손님이다. 뭐, 다른 건 몰라도, 너를 기리는 홀에서 죽을 거야.\"깊고 부자연스러운 웃음과 함께 백작은 일어나 붉은 핏줄과 맥박이 흐르는 검은 날을 그리고 있는 반면, 그의 망토는 마치 살아 있는 것처럼 흔들린다!"
+		ko: "으스스한 안뜰을 지나, 정문을 연 영웅들은, 마치 환각에 빠진듯한 느낌을 받는다. 그들이 들어선 방은 트윈 윔즈의 알현실과 똑같이 닮아있다. 창백한 피부의 달브 백작이 옥좌에 앉아 잔에 담긴 무언가를 홀짝이는 것만을 제외하고는 말이다. 영웅들이 방으로 들어서자, 그 흡혈귀는 천천히 그리고 신중하게, 잔에 담긴 피를 바닥에 흘리며 일행에게 이야기한다. \"아, 난 자네들을 환영하는 뜻에서 우리의 지난 만남을 재현했지. 비록 초대받지 않은 손님이지만, 그래도 자네들은 내 성을 방문한 손님이니까 말이야. 적어도 자네들은 영광에 취했던 바로 그 방에서 죽음을 맞이하게 될 걸세.\" 깊고, 부자연스러운 웃음과 함께, 달브 백작은 맥동하는 붉은 혈관이 박힌 검은 칼을 빼들고 전투를 준비한다. 그의 망토가 마치 살아있는 것처럼 움직인다."
 	},
+	{},
+	// ~작업 완료
+
 	{
 		name: "$5.10 (Story Event 1)",
 		en: "The Count holds his gaze upon the hero possessing the spirit of the wolf, and the vampire speaks in honeyed tones. \"Oh, do you really believe the Moon is on your side? I am the one and only prince of darkness, and the spirit you hold inside will not save you from my wrath! You will die along with your comrades, and your immortal souls will forever roam my castle, eternal tapestries of my victory! Time for you TO DIE!\"",
