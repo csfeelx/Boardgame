@@ -704,54 +704,54 @@
 		en: "Leaving the macabre courtyard at their backs, the heroes open the gates and find themselves ensorcelled by an obvious illusion. The room they enter is the exact replica of the Throne Room in Twin Wyrms, with the pale-skinned Count Dalv sitting on his throne, sipping something from a goblet. As the heroes enter, the vampire slowly and deliberately spills the blood from the chalice on the floor and addresses the party: \"Ah, I thought that replicating our last encounter would have been more... welcoming to you. After all, although uninvited, you are still guests in my mansion. Well, if nothing else, you will die in the hall that honoured you.\"With a deep, unnatural laugh, the Count rises and prepares for battle, drawing a black blade with reddish, pulsating veins, while his cloak sways as if alive!",
 		ko: "으스스한 안뜰을 지나, 정문을 연 영웅들은, 마치 환각에 빠진듯한 느낌을 받는다. 그들이 들어선 방은 트윈 윔즈의 알현실과 똑같이 닮아있다. 창백한 피부의 달브 백작이 옥좌에 앉아 잔에 담긴 무언가를 홀짝이는 것만을 제외하고는 말이다. 영웅들이 방으로 들어서자, 그 흡혈귀는 천천히 그리고 신중하게, 잔에 담긴 피를 바닥에 흘리며 일행에게 이야기한다. \"아, 난 자네들을 환영하는 뜻에서 우리의 지난 만남을 재현했지. 비록 초대받지 않은 손님이지만, 그래도 자네들은 내 성을 방문한 손님이니까 말이야. 적어도 자네들은 영광에 취했던 바로 그 방에서 죽음을 맞이하게 될 걸세.\" 깊고, 부자연스러운 웃음과 함께, 달브 백작은 맥동하는 붉은 혈관이 박힌 검은 칼을 빼들고 전투를 준비한다. 그의 망토가 마치 살아있는 것처럼 움직인다."
 	},
-	{},
-	// ~작업 완료
-
 	{
 		name: "$5.10 (Story Event 1)",
 		en: "The Count holds his gaze upon the hero possessing the spirit of the wolf, and the vampire speaks in honeyed tones. \"Oh, do you really believe the Moon is on your side? I am the one and only prince of darkness, and the spirit you hold inside will not save you from my wrath! You will die along with your comrades, and your immortal souls will forever roam my castle, eternal tapestries of my victory! Time for you TO DIE!\"",
-		ko: "백작은 늑대의 영혼을 소유한 영웅을 바라보며 흡혈귀는 감미로운 어조로 말한다. \"아, 정말 달이 네 편이라고 생각하니? 나는 하나뿐인 어둠의 왕자여, 그대가 안에 품고 있는 영이 그대들을 나의 분노에서 구원하지 못할 것이다! 너는 너의 동지들과 함께 죽을 것이고, 너의 불멸의 영혼은 영원히 내 성을 배회할 것이다, 나의 승리의 영원한 태피스트리! 죽을 시간이야!\""
+		ko: "흡혈귀 백작은 늑대의 영혼을 가진 영웅을 지긋히 바라보며 감미로운 목소리로 말한다. \"오, 자네는 달이 자네의 편이 되어줄거라 진심으로 믿는가? 나만이 유일한 어둠의 지배자다. 네 안의 늑대는 나의 분노로부터 너를 지켜주지 못할거다. 너희들은 모두 죽을 것이고, 그 불멸의 영혼은 영원히 내 성을 떠돌며, 나의 승리를 기념하는 변치않는 기념물이 되겠지! 이제, 죽을 시간이다!\""
 	},
 	{
 		name: "$5.11 (Story Event 1)",
 		en: "The Count looks upon every hero, and then he stops on the bravest one. \"Are you so tired of living? I am the prince of darkness, and the gem you carry will not save you from my wrath! You will die along with your comrades, and your immortal souls will forever roam my castle, eternal tapestries of my victory! Time for you TO DIE!\"",
-		ko: "백작은 모든 영웅을 쳐다보다가 가장 용감한 영웅을 멈췄다. \"살아가는 게 그렇게 지겨워? 나는 어둠의 왕자야, 네가 들고 다니는 보석은 너를 나의 분노에서 구해주지 못할 거야! 너는 너의 동지들과 함께 죽을 것이고, 너의 불멸의 영혼은 영원히 내 성을 배회할 것이다, 나의 승리의 영원한 태피스트리! 죽을 시간이야!\""
+		ko: "백작은 영웅 한 명 한 명을 쳐다보다 가장 용감한 영웅에게 시선을 고정한다. \"삶에 지쳤나? 난 어둠의 지배자고, 네가 가져온 보석은 나의 분노로부터 너를 보호하지 못할거다. 너희들은 모두 죽을 것이고, 그 불멸의 영혼은 영원히 내 성을 떠돌며, 나의 승리를 기념하는 변치않는 기념물이 되겠지! 이제, 죽을 시간이다!\""
 	},
 	{
 		name: "$5.12 (Story Event 2)",
 		en: "A faint glow illuminates the room, and Marcus' voice echoes in the minds of the heroes. \"The gods allowed me to hold back the darkness engulfing the castle. Such sorcery is very powerful, and I cannot resist for long - please, find a way to let the light in, and destroy the unholy beast!\" The heroes immediately look to the heavy barriers blocking the windows of the hall.",
-		ko: "희미한 빛이 방을 비추고, 마커스의 목소리가 영웅들의 마음속에서 메아리친다.\"신들은 성을 에워싸고 있는 어둠을 억누를 수 있게 해주었다. 그런 마법은 매우 강력하고, 나는 오랫동안 저항할 수 없다 - 제발, 빛을 들여보내 줄 방법을 찾아서, 그 불경스러운 짐승을 파괴하라!\" 영웅들은 즉시 홀의 창문을 막고 있는 무거운 장벽을 바라본다."
+		ko: "희미한 빛이 방을 비추고, 마커스의 목소리가 영웅들의 마음속에 메아리친다. \"세분의 신께서 제가 이 성을 뒤덮고 있는 어둠을 억누를 수 있게 허락하셨습니다. 하지만 이 주술은 너무나도 강력하여, 제가 오래동안 버틸 순 없습니다. 부탁드립니다. 빛을 들여보낼 방법을 찾아, 그 부정한 짐승을 파괴하여 주십시오\" 영웅들은 그 순간 홀의 창문들을 막고 있는 두터운 방벽들을 눈치챈다."
 	},
 	{
 		name: "$5.13 (Story Event 2)",
 		en: "When the first barrier falls, the light of the sun pierces the ominous twilight of the hall. Dalv's skin starts to burn, but the Count shivers and his cloak changes shape to shield its master from the deadly shafts of light.",
-		ko: "첫 번째 장벽이 무너지면 태양의 빛이 홀의 불길한 황혼을 뚫는다. 달브의 피부는 타오르기 시작하지만 백작은 몸을 떨며 망토는 그 주인을 치명적인 빛의 축으로부터 보호하기 위해 모양을 바꾼다."
+		ko: "첫번째 방벽이 파괴되고, 태양의 빛이 홀 안의 불길한 황혼을 꽤뚫는다. 달브 백작의 피부가 타오르며, 흡혈귀는 고통에 몸을 떨지만, 그는 그의 망토의 모양을 바꾸어 치명적인 빛줄기로부터 자신을 보호하는 방패로 만든다."
 	},
 	{
 		name: "$5.14 (Waypoint 2)",
 		en: "Beyond the door, the illusion is dispelled, revealing the throne room is actually a ballroom. On the walls, tapestries depict scenes of the heroic deeds of Count Dalv, when he was still human and a valiant warrior. Yet, the room is dominated by a large painting of a beautiful woman, held lifeless in his arms. Beyond the door, the marble of the castle gives way to a dungeon dug into the stone. A part of the floor bears the image of the Three Gods, Aneres, Enomis and Mir, while the rest of it is littered with human bones.",
-		ko: "문 너머에 있는 환상은 없어지고, 왕실의 모습을 드러내는 것은 사실상 무도회장이기 때문이다. 벽에 태피스트리는 달프 백작의 영웅적인 행적을 묘사하고 있는데, 달프는 아직 인간이고 용맹한 전사였다. 그러나, 그 방은 그의 팔에 생명력이 없는 아름다운 여자의 커다란 그림이 지배하고 있다. 문 너머로 성의 대리석이 돌에 파인 지하감옥에 자리를 양보한다. 바닥의 한 부분에는 세 신, 아네레스, 에노미스, 미르의 모습이 그려져 있으며, 나머지 부분에는 사람의 뼈가 흩어져 있다."
+		ko: "문 뒤편의 환상이 사라지고, 알현실이 무도회장으로 변하며 그 진짜 모습을 드러낸다. 벽에는, 달브 백작이 아직 인간이며, 용감한 전사였던 시절 행했던, 영웅적인 행위들을 묘사한 태피스트리가 걸려있다. 하지만 그 보다 눈에 띄는 것은 방안을 가득 채운 그림인데, 그것은 백작이 그 품에 창백하고 아름다운 여성을 안고 있는 그림이다. 문 너머는, 대리석이었던 성의 바닥이 돌 바닥으로 바뀌며 그 길이 미궁으로 이어진다. 바닥에는 사람의 뼈들이 흩어져 있는 가운데, 바닥이 드러난 부분에는 아네레스, 이노미스 그리고 미르의 그림이 그려져있다."
 	},
 	{
 		name: "$5.15 (Story Event 2)",
 		en: "When the second barrier is destroyed, the light of the sun fills the hall like a massive luminous tide. Count Dalv, severely wounded and fuming with rage, screams, \"Curse you! I shall rip the souls from your bodies! You will die in torment for this! You will all suffer!\"",
-		ko: "두 번째 장벽이 파괴되면 태양의 빛이 거대한 광조처럼 홀을 가득 메운다. 달브 백작, 심하게 다치고 분노로 헐떡이며 비명을 지르면서, \"당신을 치료해! 네 몸에서 영혼을 갈기갈기 찢어 버리겠다! 이 일로 괴로워하다가 죽을 거야! 너희들 모두 고통받을 것이다!\""
+		ko: "두번째 방벽이 파괴되고, 태양빛이 홀 안을 거대한 빛의 물결로 가득 채운다. 달브 백작은 심한 상처를 받아 분노로 씩씩대며 소리지른다. \"네놈들을 저주한다! 네놈들의 몸으로부터 영혼을 발래내주마! 너희들은 고통 속에서 죽을 것이다! 너희 모두가!\""
 	},
 	{
 		name: "$5.16 (Story Event 1)",
-		en: "Visibly wounded, the count falls to his knees, supporting himself on his sword, but suddenly, one of the doors bursts open and angry, screaming succubi, the wives of Dalv, enter the room. These sensual, lethal vampire women seemingly float in a whirl of precious silks. Exploiting the commotion, one of the succubi helps Dalv to safety in the corridor, leaving one of his weapons behind. Seeing him escaping to safety, the leader of the wives points her whip to the party, threatening, \"How dare you! Don't try to follow my master, sub-creatures! I am Lilith, and I will make you suffer. 'I will make you slaves to my pleasure!\"",
-		ko: "눈에 띄게 상처를 입은 백작은 무릎을 꿇고 칼에 몸을 받치다가 갑자기 문 하나가 벌컥벌컥 열리며 달프의 아내인 수비가 비명을 지르며 방으로 들어간다. 이 관능적이고 치명적인 흡혈귀 여성들은 겉보기에는 귀중한 비단들이 소용돌이치며 떠다닌다. 소동을 일으키며 수세비 중 하나가 달프가 자신의 무기 중 하나를 남겨둔 채 복도에서 안전을 돕는다. 그가 안전한 곳으로 탈출하는 것을 보고, 부인들의 우두머리가 채찍을 일행에게 가리키며, \"어쩌면 감히! 내 주인인 하위 창녀들을 따라가지 마! 난 릴리스고, 널 고통스럽게 만들거야. '내가 너를 내 기쁨의 노예로 만들겠다!\""
+		en: "Visibly wounded, the count falls to his knees, supporting himself on his sword, but suddenly, one of the doors warnbursts open and angry, screaming succubi, the wives of Dalv, enter the room. These sensual, lethal vampire women seemingly float in a whirl of precious silks. Exploiting the commotion, one of the succubi helps Dalv to safety in the corridor, leaving one of his weapons behind. Seeing him escaping to safety, the leader of the wives points her whip to the party, threatening, \"How dare you! Don't try to follow my master, sub-creatures! I am Lilith, and I will make you suffer. 'I will make you slaves to my pleasure!\"",
+		ko: "눈에 띄게 상처를 입은 백작은 무릎을 꿇는다. 그는 그의 검에 의지해 간신히 버티고 있다. 그때 갑자기, 문 하나가 벌컥 열리며, 분노한 서큐비들이 소리지르며 방 안으로 들어온다. 그녀들은 달브의 아내들이다. 이 관능적이고, 위험하기 짝이 없는 흡혈귀 여성들은 마치 비단 위에서 춤을 추는 것처럼 움직인다. 소란을 틈타, 서큐비 중 하나의 도움을 받아, 백작은 그의 무기를 떨군채, 복도로 퇴각한다. 그가 무사히 몸을 피하는 것을 확인한뒤, 서큐비의 우두머리는 그녀의 채찍으로 일행을 가리키며 위협한다. \"감히 무슨짓을 한거냐! 주인님을 쫓을 생각은 꿈도 꾸지마라. 이 하등한 생물들아!  내 이름을 릴리스, 너희들에게 고통을 안기고, 너희들은 쾌락의 노예로 만들 존재이다\""
 	},
 	{
 		name: "$5.17 (Story Event 1)",
 		en: "The Death of Lilith makes Dalv's castle a safer place, and the heroes are free to run toward Dalv's sepulcher.",
-		ko: "릴리스의 죽음은 달프의 성을 더 안전한 곳으로 만들며, 영웅들은 달프의 자충수를 향해 자유롭게 달려갈 수 있다."
+		ko: "릴리스의 죽음으로 안전이 확보되었고, 영웅들은 더 이상 방해받지 않고 달브의 무덤으로 달려갈 수 있게 되었다."
 	},
 	{
 		name: "$5.18 (Story Event 3)",
 		en: "The heroes reach the sepulcher of the Count. Two joined grottoes protected by a fence of sharp blades lay before them. In one of the caverns is Dalv's resting place: a coffin. In the other, chains and iron bars surround the remains of a dead, bloodless woman. Perhaps she was used as Dalv's last attempt to regain strength. Suddenly, the clattering of bones warns the party of something rising behind them!",
-		ko: "그 영웅들이 세다의 sepulcher에 달한다. 2에 합류했다 작은 동굴들 날카로운 날개의 있는 울타리에 의해 보호된 그들에 있다. 하나를 caverns의에는 Dalv의 안식처:관이다. 다른 하나는, 체인 등으로 죽은, 핏기가 없는 여성의 유해를 둘러싸고 있다. 아마도 그녀는 Dalv의 마지막 시도가 세력을 만회하는 방법으로 사용되었다. 갑자기, 뼈의 울림의 파티 그들 뒤에서 떠오른다고 경고했습니다!"
+		ko: "영웅들은 백작의 무덤에 도착한다. 그들 앞에 날카로운 칼날의 울타리로 보호받고 있는 일련의 두개의 작은 동굴이 나타난다. 그 동굴 중 하나에는 달브가 그의 몸을 복구하기 들어간 관이 있다. 다른 하나에는 철로된 막대와 사슬이 핏기 없는 여성의 시체를 둘러싸고 있다. 아마도 그녀가 달브가 그의 힘을 되찾기 위해 취한 마지막 희생자일 것이다. 갑자기 일행의 뒤에서 뼈들이 달그락 소리가 들려온다. 영웅들은 전투를 준비한다."
 	},
+	{},
+	// ~작업 완료
+
 	{
 		name: "$5.19 (Waypoint 3)",
 		en: "The hero reaches the coffin in the cave, its dark wood warm to the touch. It bears the crest of a red dragon coiled around a winged sword and pulsates with an eldritch glow, perhaps a protection glyph. Yet the Count lies in there, and the hero cannot help but try to open the coffin to end the blasphemous creature once and for all.",
