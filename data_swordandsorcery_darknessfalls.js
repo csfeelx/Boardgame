@@ -599,7 +599,7 @@
 	{
 		name: "$4.42 (Ex-Mortis)",
 		en: "The signs, written in blood, leave their runic shape and form understandable letters during the time needed to cast the spell. Once spoken, the necromantic magic manifests as the letters revert to blood runes...",
-		ko: "주문을 외는데 필요한 시간 동안, 피로 쓰여진 이 표식들은 룬 형태의 이해 가능한 문자를 남긴다. 그것을 읽자, 문자들이 피의 룬으로 바뀌며 사령술의 힘이 드러난다."
+		ko: "피로 쓰여진 이 표식들은 룬 모양에서 이해가능한 문자로 변한다. 그 문자가 나타내는 주문을 외자, 문자들은 다시 피의 룬으로 되돌아가며, 사령술의 힘이 당신을 휘감는다."
 	},
 	{
 		name: "$4.43 (Waypoint 5)",
@@ -749,58 +749,58 @@
 		en: "The heroes reach the sepulcher of the Count. Two joined grottoes protected by a fence of sharp blades lay before them. In one of the caverns is Dalv's resting place: a coffin. In the other, chains and iron bars surround the remains of a dead, bloodless woman. Perhaps she was used as Dalv's last attempt to regain strength. Suddenly, the clattering of bones warns the party of something rising behind them!",
 		ko: "영웅들은 백작의 무덤에 도착한다. 그들 앞에 날카로운 칼날의 울타리로 보호받고 있는 일련의 두개의 작은 동굴이 나타난다. 그 동굴 중 하나에는 달브가 그의 몸을 복구하기 들어간 관이 있다. 다른 하나에는 철로된 막대와 사슬이 핏기 없는 여성의 시체를 둘러싸고 있다. 아마도 그녀가 달브가 그의 힘을 되찾기 위해 취한 마지막 희생자일 것이다. 갑자기 일행의 뒤에서 뼈들이 달그락 소리가 들려온다. 영웅들은 전투를 준비한다."
 	},
-	{},
-	// ~작업 완료
-
 	{
 		name: "$5.19 (Waypoint 3)",
 		en: "The hero reaches the coffin in the cave, its dark wood warm to the touch. It bears the crest of a red dragon coiled around a winged sword and pulsates with an eldritch glow, perhaps a protection glyph. Yet the Count lies in there, and the hero cannot help but try to open the coffin to end the blasphemous creature once and for all.",
-		ko: "영웅은 동굴 안의 관에 닿는데, 그 어두운 나무는 촉감이 닿도록 따뜻하다. 그것은 날개가 달린 검 주위에 코일을 바른 붉은 용의 볏을 가지고 있고 아마 보호 글리프일 것이다. 그러나 백작은 거기에 누워 있고, 영웅은 그 불경스러운 생물을 끝내기 위해 관을 열려고 하지 않을 수 없다."
+		ko: "영웅은 동굴 안에 관에 접근한다. 영웅이 그 관의 검은 나무에 손을 대자 온기가 느껴진다. 관 뚜껑에는 날개가 달린 검 한자루를 휘감고 있는 붉은 용의 문장이 그려져 있다. 그 관은 요동치는 섬뜩한 빛에 둘러싸여 있는데, 아마도 보호의 주술일 것이다. 하지만, 백작이 그 안에 있는 이상, 그 불경한 괴물을 끝장내기 위해서는, 영웅은 그 관을 열지 않을 수 없다."
 	},
 	{
 		name: "$5.20 (Waypoint 3)",
 		en: "Despite his best efforts, the hero cannot defeat the protection spell. Someone else must try again!",
-		ko: "최선을 다했음에도 불구하고 영웅은 보호 주문을 물리칠 수 없다. 다른 누군가가 다시 시도해야 해!"
+		ko: "최선을 다했음에도 불구하고 영웅은 보호의 주술을 깨뜨릴 수 없다. 다른 누군가가 다시 시도해야만 한다!"
 	},
 	{
 		name: "$5.21 (Glass Vial)",
 		en: "Remembering the words of Malak, the hero sips just a few drops of the magical liquid from the vial, and the effects soon set in...",
-		ko: "말락의 말을 기억하면서 영웅은 바이알에서 마법 같은 액체를 몇 방울만 흘리는데, 그 효과는 곧..."
+		ko: "말락의 말을 기억하며, 영웅은 마법의 물약을 몇 방울 마신다. 곧, 그 효과가 나타난다..."
 	},
 	{
 		name: "$5.22 (Waypoint 3)",
 		en: "The protection glyph cannot resist the hero's power and breaks away, opening the coffin and revealing Count Dalv. The wounded vampire lies with his arm crossed, his chest rapidly pulsing to pump the new blood through his grayish skin...",
-		ko: "보호 글리프는 영웅의 힘에 저항하지 못하고 떨어져 나가 관을 열고 달프 백작의 모습을 드러낸다. 상처입은 뱀파이어는 팔을 교차시킨 채 누워있고, 그의 가슴은 빠르게 그의 회색빛 피부를 통해 새로운 피를 뿜어내려고 뛰고 있다..."
+		ko: "영웅의 힘 앞에 보호의 주술은 그 힘을 잃고 박살나버리고, 관이 열리며 달브 백작의 모습이 드러난다. 상처입은 흡혈귀는 그의 양팔을 교차시킨채 누워있는데, 그의 가슴은 그의 회색빛 피부에 새로운 피를 공급하기 위해 빠르게 뛰고있다."
 	},
 	{
 		name: "$5.23 (Ex-Mortis)",
 		en: "The signs, written in blood, leave their runic shape and form understandable letters for the time needed to cast the spell. Once spoken, the necromantic magic manifests as the letters revert to blood runes...",
-		ko: "피로 쓰여진 표지판들은 그들의 진부한 모양을 남기고 주문을 외우는 데 필요한 시간 동안 이해할 수 있는 글자를 형성한다. 일단 말을 하면, 글자가 혈류로 되돌아갈 때 신크로맨틱 마법이 나타난다..."
+		ko: "피로 쓰여진 이 표식들은 룬 모양에서 이해가능한 문자로 변한다. 그 문자가 나타내는 주문을 외자, 문자들은 다시 피의 룬으로 되돌아가며, 사령술의 힘이 당신을 휘감는다."
 	},
 	{
 		name: "$5.24 (Waypoint 3)",
 		en: "Remembering all the evil caused by the Count, the heroes decide to end his cursed unlife. But, as the blade is lifted to destroy the wicked creature, the Count's body becomes a dark cloud, racing to the next cave before becoming physical again, seriously wounded, yet still capable of fierce combat!",
-		ko: "백작에 의해 야기된 모든 악을 기억하면서 영웅들은 그의 저주받은 불멸을 끝내기로 결심한다. 그러나, 사악한 생명체를 파괴하기 위해 칼날이 들어올려지면서 백작의 몸은 먹구름이 되어, 다시 육체가 되기 전에 다음 동굴로 질주하고, 중상을 입었지만, 여전히 격렬한 전투를 할 수 있다!"
+		ko: "백작의 모든 악행을 되새기며, 영웅들은 그의 저주받은 불멸을 끝내기로 결심한다. 하지만, 그 사악한 괴물을 끝장내기 위해 칼을 드는 순간, 백작의 몸은 검은 구름이 되어, 다른 하나의 동굴로 쏜살같이 날아가 다시 본래의 모습으로 돌아온다. 그는 심각한 부상을 입었지만, 여전히 강력한 힘을 가지고 있다!"
 	},
 	{
 		name: "$5.25 (Waypoint 3)",
 		en: "As Dalv lies harmless in his coffin, dark powers lure the hero toward the evil gift of the Count. He whispers his wish into the vampire's ear, in exchange for his unlife... The Count's eyes open and words pours from his pale lips: \"And so, this is what you crave? The night's power? I can make you the most powerful vampire ever, even if it would cost my existence. Yet, there is a price: you will bow to my will one last time – then, I shall grant you my blood and my darkest gift...\"",
-		ko: "달프가 자신의 관 속에 무해하게 누워 있기 때문에 어둠의 힘이 백작의 사악한 선물을 향해 영웅을 유혹한다. 그는 뱀파이어의 귀에 자신의 소원을 속삭인다. 그의 불멸의 대가로... 백작의 눈이 떠지고 창백한 입술에서 말이 쏟아져 나온다: \"그래서, 이게 네가 갈망하는 거야? 밤의 힘? 난 널 가장 강력한 흡혈귀로 만들 수 있어. 내 존재에 돈이 들더라도. 하지만, 대가가 있다: 너는 마지막으로 나의 뜻에 복종할 것이다. 그러면, 나는 너에게 나의 피와 나의 가장 어두운 선물을 주겠다.\""
+		ko: "달브는 무력하게 그의 관에 누워있다. 그 순간, 어둠의 힘이 백작이 선사할 사악한 선물로 영웅을 유혹한다. 그는 흡혈귀의 귀에 그를 놓아주는 대가로 자신의 욕망을 이루어줄 것을 속삭인다... 백작의 눈이 떠지고, 그는 창백한 입술로 이야기한다. \"그래? 그것이 네가 원하는 것인가? 밤의 권능? 난 너를 그 누구보다 강력한 흡혈귀로 만들어 줄 수 있다. 내 불멸의 삶을 포기해서라도 말이지. 하지만 그 대가로, 너는 내 최후의 의지에 복종하게 될 것이다. 그러면, 나는 너에게 나의 피와, 나의 가장 어두운 권능을 하사하겠다."
 	},
 	{
 		name: "$5.26 (Waypoint 3)",
 		en: "The hero drinks the vampire's blood and suddenly falls to the ground, wracked by pain, while the Count recites obscure words. As the words end, Dalv falls toward oblivion while the hero rises, his now pale skin pulsating with new, dark power. The Count whispers his last words to the hero. \"Now the dark gift is within you. Death dies, and from now on you shall dine on empty dishes, drink from empty chalices, and feed only on blood! When you come to accept this, the predator's instinct will set in, and you will truly understand the beauty of the night!\"",
-		ko: "영웅은 흡혈귀의 피를 마시다가 갑자기 고통에 싸여 땅에 떨어지고 백작은 애매한 말을 읊는다. 그 말이 끝나갈 때 달프는 영웅이 일어나는 동안 망각 쪽으로 떨어지며, 이제 그의 창백한 피부는 새롭고 어두운 힘으로 맥을 추고 있다. 백작은 영웅에게 마지막 말을 속삭인다.\"이제 그 어두운 선물은 네 안에 있다. 죽음은 죽고, 이제부터 너는 빈 접시를 먹고, 빈 채리로부터 술을 마시고, 오직 피만을 먹고 살 것이다! 이것을 받아들이게 되면 포식자의 본능이 싹트게 될 것이고, 그대는 진실로 밤의 아름다움을 이해할 것이다!\""
+		ko: "백작이 모호한 단어들을 읊어대는 동안, 영웅은 그 흡혈귀를 피를 마시다 갑작스러운 고통으로 땅바닥에 쓰러진다. 백작의 말이 끝나자 그는 망각 속으로 쓰러지며, 영웅은 새로운, 어둠의 힘으로 맥동하는 창백한 피부를 가진 흡혈귀의 모습으로 다시 일어난다. 백작은 영웅의 귀에 마지막 말을 남긴다. \"이제 어둠의 힘이 네 안에 있다. 죽음은 너를 데려가지 못할 것이며, 이제부터 너는 빈 접시로 식사를 하며, 빈 잔을 마시게 될 것이다. 오직 피만이 네 굶주림을 채워주겠지! 네가 이를 받아들이게 될 때, 네 안에 포식자의 본능이 싹트게 될 것이며, 너는 밤의 아름다움을 진정으로 이해하게 될 것이다!\""
 	},
 	{
 		name: "$5.27 (Ending)",
 		en: "Marcus feels the heroes falling one by one and understands everything is now lost. Preparing to give himself to the darkest night of death, the cleric sees Dalv's castle for what it truly is: a stronghold of evil, a monument to the heroes' failure, and a mausoleum for the extinguished hopes of the Talon Coast.",
-		ko: "마커스는 영웅들이 하나둘씩 쓰러지는 것을 느끼고 이제 모든 것이 사라졌다는 것을 이해한다. 가장 어두운 죽음의 밤에 자신을 바칠 준비를 하면서, 성직자는 달프의 성이 악의 거점, 영웅들의 실패에 대한 기념비, 탈론 해안의 소멸된 희망을 위한 묘지 등 진정한 것으로 본다."
+		ko: "마커스는 영웅들이 하나둘씩 쓰러지는 것을 느끼며, 모든 희망이 사라졌음을 이해한다. 가장 어두운, 죽음의 밤에 자신을 바칠 준비를 하며, 그는 달브의 성이 진정 무엇인지를 깨닫는다. 악의 요새이자, 영웅들의 실패를 기념하는 기념물 그리고 탈론 코스트의 사라진 희망을 위한 묘지임을 말이다."
 	},
+	{},
+	// ~작업 완료 : 25, 26 백작 말투 바꿔야 함
+
 	{
 		name: "$5.28 (Ending)",
 		en: "Struggling in his last moments, the Count barely manages to utter his final words: \"I admit defeat when it is so clear. This day will see my end at last. But you will still be bound to the spell that enslaves your souls! I am free at last, and Death reclaims me – but the Mistress of All grants me time to tell my story. Long ago, I lost my wife, Elizabeth. During a battle, I was presumed dead, and she committed suicide in grief. I returned home to find her lifeless body in a pool of congealing blood... I cursed the gods, swearing I would become so powerful that her death would be undone! It was at this point Darkness touched me, embraced me, and possessed me. Evil in his purest form, nameless and faceless, welcomed me into the night, granting me the dark gift. At first, I only accepted because I desperately wanted Elizabeth back... I thought I was in control... I was a fool. Soon I realized I was but a puppet, a creature of the night who danced on the strings of darkest, eternal evil. I served it to my best abilities during these long years, hiding the fact that I tried to save as many lives as possible in the mean time. But then you came and shattered the darkness' plans. Now my Master is angry. Perhaps you will see me as a meek being. My sins have spelled my doom, and this I cannot change... but now the task in which I failed falls to you. My death will open a portal leading you to the dungeons of the Temple of Doom. Unspeakable horrors will try to stop you, but should you succeed in this quest, you will finally be free... Destroy my Master. This is my last wish. Farewell!\" Tendrils of black magic grasp the now dead body of the vampire, consuming his flesh until only dust remains. Where the body of the Count once lay, a circle of magical runes glows... The last attempt of the Count to redeem himself appears, a portal that will lead to the end of all...",
-		ko: "마지막 순간에 몸부림치며 백작은 겨우 마지막 말을 했다. \"이렇게 분명할 때 패배를 인정한다. 드디어 이 날이 내 종말을 보게 될 것이다. 하지만 당신은 여전히 영혼을 사로잡는 주문에 구속될 것이다! 나는 마침내 자유로워졌고, 죽음은 나를 되찾아 주지만, 만물의 여신은 나에게 내 이야기를 할 시간을 준다. 오래 전에, 나는 내 아내 엘리자베스를 잃었다. 전투 중에 나는 죽은 것으로 추정되었고, 그녀는 슬픔에 빠져 자살했다. 나는 울혈의 웅덩이 속에서 그녀의 생명이 없는 시체를 찾기 위해 집으로 돌아왔다... 나는 신들을 저주하며, 그녀의 죽음이 돌이킬 수 없을 정도로 강해지겠다고 맹세했다! 이때 어둠은 나를 만지고, 껴안고, 나를 홀렸다. 이름이 없고 얼굴도 없는 그의 가장 순수한 모습의 악은 밤으로 나를 환영하며 어두운 선물을 주었다. 처음에는 엘리자베스가 돌아오기를 간절히 원했기 때문에 승낙했을 뿐이다... 내가 통제하고 있는 줄 알았는데... 나는 바보였다. 곧 나는 내가 가장 어둡고 영원한 악의 줄 위에서 춤을 추는 밤의 생물, 꼭두각시에 불과하다는 것을 깨달았다. 나는 이 긴 세월 동안 최선을 다해 그것을 섬기며, 그 비열한 시간에 가능한 한 많은 생명을 구하려 했다는 사실을 감추었다. 그런데 네가 와서 어둠의 계획을 산산조각 냈어. 이제 주인님은 화가 나셨습니다. 아마도 너는 나를 온순한 존재로 볼 것이다. 내 죄악이 내 파멸을 가르쳤으니, 이 일은 바꿀 수 없다... 하지만 이제 내가 실패한 일은 너에게 달려있어. 내 죽음은 당신을 파멸의 신전의 지하감옥으로 인도하는 포탈을 열 것이다. 말할 수 없는 공포가 당신을 막으려 할 것이다, 하지만 당신이 이 탐구에 성공한다면, 당신은 마침내 자유로워질 것이다... 내 사부를 파괴하라. 이것이 나의 마지막 소망이다. 안녕!\" 검은 마법의 촉수들이 먼지만 남을 때까지 그의 살을 먹어 치우며 흡혈귀의 현재 시체를 움켜잡는다. 백작의 몸이 한 번 누워 있는 곳에는 마법의 런들이 원을 그리며 빛을 발한다... 자신을 되찾으려는 백작의 마지막 시도가 나타나고, 모든 것을 끝낼 수 있는 포탈..."
+		ko: "불사의 끝 앞에서 몸부림치며 백작은 힘겹게 마지막 말을 남긴다. \"내 패배를 인정할 수 밖에 없군. 마침내 내게도 최후의 날이 왔는가... 하지만 자네들은 영혼을 구속하는 주문에서 해방될 수 없을 걸세. 죽음이 다시 나를 찾아와, 내가 자유를 얻게 되는 동안 말이지. 만물의 여신께서 내게 과거를 이야기할 시간을 주시는군. 오래전, 나는 내 아내 엘리자베스를 잃었다네. 내가 참가한 전투에서 난 전사한 것으로 알려졌고, 그녀는 슬픔에 빠져 스스로 죽음을 택하고 말았지. 집으로 돌아온 난 말라붙은 피 웅덩이 속에서 시체를 발견했지... 난 신들을 저주했다네. 그리고 맹세했지. 그녀를 되돌릴 수 있을 정도로 강한 존재가 되기로! 이 때가 바로, 어둠의 존재가 내게 접근해, 나를 감싸고, 나를 타락시킨 순간이라네. 그 이름도 얼굴도 없는 그 순수한 악의 존재는 나를 밤의 어둠 속으로 이끌며, 내게 어둠의 힘을 선사했지. 그 순간에는 나는 엘리자베스를 되찾으려는 간절한 소망으로 이를 받아들였다네... 나는 내가 그것을 통제할 수 있다고 생각했지만... 내가 어리석었지. 곧 난 내가 그저 꼭두각시임을 깨달았다네. 불멸의 악이 휘두르는 어둠의 줄에 매여 춤추는 밤의 괴물말일세. 오래동안 난 최선을 다해 그에 뜻에 따랐지. 하지만 난 그 동안, 그가 눈치채지 못하게 가능한 많은 사람을 살리려 애썼다네. 그리고 자네들이 나타나 그 자의 계획을 부수었지. 나의 주인은 몹시 화가 났다네. 아마도 자네들은 날 실패자로 여길테지. 나의 파멸은 나의 죄가 초래한 것이니, 이는 마땅한 일일세. 그리고 내가 실패한 임무는 이제 자네들의 것이 되었네. 나의 죽음으로	  	마지막 순간에 몸부림치며 백작은 겨우 마지막 말을 했다.\"이렇게 분명할 때 패배를 인정한다. 드디어 이 날이 내 종말을 보게 될 것이다. 하지만 당신은 여전히 영혼을 사로잡는 주문에 구속될 것이다! 나는 마침내 자유로워졌고, 죽음은 나를 되찾아 주지만, 만물의 여신은 나에게 내 이야기를 할 시간을 준다. 오래 전에, 나는 내 아내 엘리자베스를 잃었다. 전투 중에 나는 죽은 것으로 추정되었고, 그녀는 슬픔에 빠져 자살했다. 나는 울혈의 웅덩이 속에서 그녀의 생명이 없는 시체를 찾기 위해 집으로 돌아왔다... 나는 신들을 저주하며, 그녀의 죽음이 돌이킬 수 없을 정도로 강해지겠다고 맹세했다! 이때 어둠은 나를 만지고, 껴안고, 나를 홀렸다. 이름이 없고 얼굴도 없는 그의 가장 순수한 모습의 악은 밤으로 나를 환영하며 어두운 선물을 주었다.처음에는 엘리자베스가 돌아오기를 간절히 원했기 때문에 승낙했을 뿐이다...내가 통제하고 있는 줄 알았는데...나는 바보였다.곧 나는 내가 가장 어둡고 영원한 악의 줄 위에서 춤을 추는 밤의 생물, 꼭두각시에 불과하다는 것을 깨달았다. 	나는 이 긴 세월 동안 최선을 다해 그것을 섬기며, 그 비열한 시간에 가능한 한 많은 생명을 구하려 했다는 사실을 감추었다. 그런데 네가 와서 어둠의 계획을 산산조각 냈어.이제 주인님은 화가 나셨습니다.아마도 너는 나를 온순한 존재로 볼 것이다. 내 죄악이 내 파멸을 가르쳤으니, 이 일은 바꿀 수 없다...하지만 이제 내가 실패한 일은 너에게 달려있어.내 죽음은 당신을 파멸의 신전의 지하감옥으로 인도하는 포탈을 열 것이다.말할 수 없는 공포가 당신을 막으려 할 것이다, 하지만 당신이 이 탐구에 성공한다면, 당신은 마침내 자유로워질 것이다...내 사부를 파괴하라.이것이 나의 마지막 소망이다.안녕!\" 검은 마법의 촉수들이 먼지만 남을 때까지 그의 살을 먹어 치우며 흡혈귀의 현재 시체를 움켜잡는다. 백작의 몸이 한 번 누워 있는 곳에는 마법의 런들이 원을 그리며 빛을 발한다... 자신을 되찾으려는 백작의 마지막 시도가 나타나고, 모든 것을 끝낼 수 있는 포탈..."
 	},
 	{},
 
