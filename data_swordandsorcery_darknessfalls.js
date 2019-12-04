@@ -782,35 +782,198 @@
 	{
 		name: "$5.25 (Waypoint 3)",
 		en: "As Dalv lies harmless in his coffin, dark powers lure the hero toward the evil gift of the Count. He whispers his wish into the vampire's ear, in exchange for his unlife... The Count's eyes open and words pours from his pale lips: \"And so, this is what you crave? The night's power? I can make you the most powerful vampire ever, even if it would cost my existence. Yet, there is a price: you will bow to my will one last time – then, I shall grant you my blood and my darkest gift...\"",
-		ko: "달브는 무력하게 그의 관에 누워있다. 그 순간, 어둠의 힘이 백작이 선사할 사악한 선물로 영웅을 유혹한다. 그는 흡혈귀의 귀에 그를 놓아주는 대가로 자신의 욕망을 이루어줄 것을 속삭인다... 백작의 눈이 떠지고, 그는 창백한 입술로 이야기한다. \"그래? 그것이 네가 원하는 것인가? 밤의 권능? 난 너를 그 누구보다 강력한 흡혈귀로 만들어 줄 수 있다. 내 불멸의 삶을 포기해서라도 말이지. 하지만 그 대가로, 너는 내 최후의 의지에 복종하게 될 것이다. 그러면, 나는 너에게 나의 피와, 나의 가장 어두운 권능을 하사하겠다."
+		ko: "달브는 무력하게 그의 관에 누워있다. 그 순간, 어둠의 힘이 백작이 선사할 사악한 선물로 영웅을 유혹한다. 그는 흡혈귀의 귀에 그를 놓아주는 대가로 자신의 욕망을 이루어줄 것을 속삭인다... 백작의 눈이 떠지고, 그는 창백한 입술로 이야기한다. \"그래? 그것이 자네가 원하는 것인가? 밤의 권능? 난 내 불멸의 삶을 포기해서라도 자네를 그 누구보다 강력한 흡혈귀로 만들어 줄 수 있지. 하지만 그 대가로, 자네는 내 마지막 의지에 복종하게 될 것일세. 그러면, 나는 자네에게 나의 피와, 나의 가장 어두운 권능을 넘겨주겠네.\""
 	},
 	{
 		name: "$5.26 (Waypoint 3)",
 		en: "The hero drinks the vampire's blood and suddenly falls to the ground, wracked by pain, while the Count recites obscure words. As the words end, Dalv falls toward oblivion while the hero rises, his now pale skin pulsating with new, dark power. The Count whispers his last words to the hero. \"Now the dark gift is within you. Death dies, and from now on you shall dine on empty dishes, drink from empty chalices, and feed only on blood! When you come to accept this, the predator's instinct will set in, and you will truly understand the beauty of the night!\"",
-		ko: "백작이 모호한 단어들을 읊어대는 동안, 영웅은 그 흡혈귀를 피를 마시다 갑작스러운 고통으로 땅바닥에 쓰러진다. 백작의 말이 끝나자 그는 망각 속으로 쓰러지며, 영웅은 새로운, 어둠의 힘으로 맥동하는 창백한 피부를 가진 흡혈귀의 모습으로 다시 일어난다. 백작은 영웅의 귀에 마지막 말을 남긴다. \"이제 어둠의 힘이 네 안에 있다. 죽음은 너를 데려가지 못할 것이며, 이제부터 너는 빈 접시로 식사를 하며, 빈 잔을 마시게 될 것이다. 오직 피만이 네 굶주림을 채워주겠지! 네가 이를 받아들이게 될 때, 네 안에 포식자의 본능이 싹트게 될 것이며, 너는 밤의 아름다움을 진정으로 이해하게 될 것이다!\""
+		ko: "백작이 모호한 단어들을 읊어대는 동안, 영웅은 그 흡혈귀를 피를 마시다 갑작스러운 고통으로 땅바닥에 쓰러진다. 백작의 말이 끝나자 그는 휘청이며 쓰러지고, 영웅은 새로운, 어둠의 힘으로 맥동하는 창백한 피부를 가진 흡혈귀의 모습으로 다시 일어난다. 백작은 영웅의 귀에 마지막 말을 남긴다. \"이제 어둠의 힘이 자네 안에 있네. 죽음은 자네를 데려가지 못할 것이며, 이제부터 자네는 빈 접시로 식사를 하며, 빈 잔을 마시게 될 것일세. 오직 피만이 그 굶주림을 채워주겠지! 자네가 이를 받아들이게 될 때, 내면에 포식자의 본능이 싹트게 될 것이며, 밤의 아름다움을 진정으로 이해하게 될 것이야!\""
 	},
 	{
 		name: "$5.27 (Ending)",
 		en: "Marcus feels the heroes falling one by one and understands everything is now lost. Preparing to give himself to the darkest night of death, the cleric sees Dalv's castle for what it truly is: a stronghold of evil, a monument to the heroes' failure, and a mausoleum for the extinguished hopes of the Talon Coast.",
 		ko: "마커스는 영웅들이 하나둘씩 쓰러지는 것을 느끼며, 모든 희망이 사라졌음을 이해한다. 가장 어두운, 죽음의 밤에 자신을 바칠 준비를 하며, 그는 달브의 성이 진정 무엇인지를 깨닫는다. 악의 요새이자, 영웅들의 실패를 기념하는 기념물 그리고 탈론 코스트의 사라진 희망을 위한 묘지임을 말이다."
 	},
-	{},
-	// ~작업 완료 : 25, 26 백작 말투 바꿔야 함
-
 	{
 		name: "$5.28 (Ending)",
 		en: "Struggling in his last moments, the Count barely manages to utter his final words: \"I admit defeat when it is so clear. This day will see my end at last. But you will still be bound to the spell that enslaves your souls! I am free at last, and Death reclaims me – but the Mistress of All grants me time to tell my story. Long ago, I lost my wife, Elizabeth. During a battle, I was presumed dead, and she committed suicide in grief. I returned home to find her lifeless body in a pool of congealing blood... I cursed the gods, swearing I would become so powerful that her death would be undone! It was at this point Darkness touched me, embraced me, and possessed me. Evil in his purest form, nameless and faceless, welcomed me into the night, granting me the dark gift. At first, I only accepted because I desperately wanted Elizabeth back... I thought I was in control... I was a fool. Soon I realized I was but a puppet, a creature of the night who danced on the strings of darkest, eternal evil. I served it to my best abilities during these long years, hiding the fact that I tried to save as many lives as possible in the mean time. But then you came and shattered the darkness' plans. Now my Master is angry. Perhaps you will see me as a meek being. My sins have spelled my doom, and this I cannot change... but now the task in which I failed falls to you. My death will open a portal leading you to the dungeons of the Temple of Doom. Unspeakable horrors will try to stop you, but should you succeed in this quest, you will finally be free... Destroy my Master. This is my last wish. Farewell!\" Tendrils of black magic grasp the now dead body of the vampire, consuming his flesh until only dust remains. Where the body of the Count once lay, a circle of magical runes glows... The last attempt of the Count to redeem himself appears, a portal that will lead to the end of all...",
-		ko: "불사의 끝 앞에서 몸부림치며 백작은 힘겹게 마지막 말을 남긴다. \"내 패배를 인정할 수 밖에 없군. 마침내 내게도 최후의 날이 왔는가... 하지만 자네들은 영혼을 구속하는 주문에서 해방될 수 없을 걸세. 죽음이 다시 나를 찾아와, 내가 자유를 얻게 되는 동안 말이지. 만물의 여신께서 내게 과거를 이야기할 시간을 주시는군. 오래전, 나는 내 아내 엘리자베스를 잃었다네. 내가 참가한 전투에서 난 전사한 것으로 알려졌고, 그녀는 슬픔에 빠져 스스로 죽음을 택하고 말았지. 집으로 돌아온 난 말라붙은 피 웅덩이 속에서 시체를 발견했지... 난 신들을 저주했다네. 그리고 맹세했지. 그녀를 되돌릴 수 있을 정도로 강한 존재가 되기로! 이 때가 바로, 어둠의 존재가 내게 접근해, 나를 감싸고, 나를 타락시킨 순간이라네. 그 이름도 얼굴도 없는 그 순수한 악의 존재는 나를 밤의 어둠 속으로 이끌며, 내게 어둠의 힘을 선사했지. 그 순간에는 나는 엘리자베스를 되찾으려는 간절한 소망으로 이를 받아들였다네... 나는 내가 그것을 통제할 수 있다고 생각했지만... 내가 어리석었지. 곧 난 내가 그저 꼭두각시임을 깨달았다네. 불멸의 악이 휘두르는 어둠의 줄에 매여 춤추는 밤의 괴물말일세. 오래동안 난 최선을 다해 그에 뜻에 따랐지. 하지만 난 그 동안, 그가 눈치채지 못하게 가능한 많은 사람을 살리려 애썼다네. 그리고 자네들이 나타나 그 자의 계획을 부수었지. 나의 주인은 몹시 화가 났다네. 아마도 자네들은 날 실패자로 여길테지. 나의 파멸은 나의 죄가 초래한 것이니, 이는 마땅한 일일세. 그리고 내가 실패한 임무는 이제 자네들의 것이 되었네. 나의 죽음으로	  	마지막 순간에 몸부림치며 백작은 겨우 마지막 말을 했다.\"이렇게 분명할 때 패배를 인정한다. 드디어 이 날이 내 종말을 보게 될 것이다. 하지만 당신은 여전히 영혼을 사로잡는 주문에 구속될 것이다! 나는 마침내 자유로워졌고, 죽음은 나를 되찾아 주지만, 만물의 여신은 나에게 내 이야기를 할 시간을 준다. 오래 전에, 나는 내 아내 엘리자베스를 잃었다. 전투 중에 나는 죽은 것으로 추정되었고, 그녀는 슬픔에 빠져 자살했다. 나는 울혈의 웅덩이 속에서 그녀의 생명이 없는 시체를 찾기 위해 집으로 돌아왔다... 나는 신들을 저주하며, 그녀의 죽음이 돌이킬 수 없을 정도로 강해지겠다고 맹세했다! 이때 어둠은 나를 만지고, 껴안고, 나를 홀렸다. 이름이 없고 얼굴도 없는 그의 가장 순수한 모습의 악은 밤으로 나를 환영하며 어두운 선물을 주었다.처음에는 엘리자베스가 돌아오기를 간절히 원했기 때문에 승낙했을 뿐이다...내가 통제하고 있는 줄 알았는데...나는 바보였다.곧 나는 내가 가장 어둡고 영원한 악의 줄 위에서 춤을 추는 밤의 생물, 꼭두각시에 불과하다는 것을 깨달았다. 	나는 이 긴 세월 동안 최선을 다해 그것을 섬기며, 그 비열한 시간에 가능한 한 많은 생명을 구하려 했다는 사실을 감추었다. 그런데 네가 와서 어둠의 계획을 산산조각 냈어.이제 주인님은 화가 나셨습니다.아마도 너는 나를 온순한 존재로 볼 것이다. 내 죄악이 내 파멸을 가르쳤으니, 이 일은 바꿀 수 없다...하지만 이제 내가 실패한 일은 너에게 달려있어.내 죽음은 당신을 파멸의 신전의 지하감옥으로 인도하는 포탈을 열 것이다.말할 수 없는 공포가 당신을 막으려 할 것이다, 하지만 당신이 이 탐구에 성공한다면, 당신은 마침내 자유로워질 것이다...내 사부를 파괴하라.이것이 나의 마지막 소망이다.안녕!\" 검은 마법의 촉수들이 먼지만 남을 때까지 그의 살을 먹어 치우며 흡혈귀의 현재 시체를 움켜잡는다. 백작의 몸이 한 번 누워 있는 곳에는 마법의 런들이 원을 그리며 빛을 발한다... 자신을 되찾으려는 백작의 마지막 시도가 나타나고, 모든 것을 끝낼 수 있는 포탈..."
+		ko: "불사의 끝 앞에서 몸부림치며 백작은 힘겹게 마지막 말을 남긴다. \"내 패배를 인정할 수 밖에 없군. 마침내 내게도 최후의 날이 왔는가... 하지만 자네들은 영혼을 구속하는 주문에서 해방될 수 없을 걸세. 죽음이 다시 나를 찾아와, 내가 자유를 얻게 되는 동안 말이지. 만물의 여신께서 내게 과거를 이야기할 시간을 주시는군. 오래전, 나는 내 아내 엘리자베스를 잃었다네. 내가 참가한 전투에서 난 전사한 것으로 알려졌고, 그녀는 슬픔에 빠져 스스로 죽음을 택하고 말았지. 집으로 돌아온 난 말라붙은 피 웅덩이 속에서 그녀의 시체를 발견했지... 난 신들을 저주했다네. 그리고 맹세했지. 그녀를 되돌릴 수 있을 정도로 강한 존재가 되기로! 이 때가 바로, 어둠의 존재가 내게 접근해, 나를 감싸고, 나를 타락시킨 순간이라네. 그 이름도 얼굴도 없는 그 순수한 악의 존재는 나를 밤의 어둠 속으로 이끌며, 내게 어둠의 힘을 선사했지. 그 때, 난 오직 엘리자베스를 되찾으려는 간절한 소망으로 이를 받아들였다네... 나는 내가 그것을 통제할 수 있다고 생각했지만... 내가 어리석었지. 곧 난 내가 그저 꼭두각시임을 깨달았다네. 불멸의 악이 휘두르는 어둠의 줄에 매여 춤추는 밤의 괴물말일세. 오래동안 난 최선을 다해 그에 뜻에 따랐지. 하지만 난 그 동안, 그가 눈치채지 못하게 가능한 많은 사람을 살리려 애썼다네. 그리고 자네들이 나타나 그 자의 계획을 부수었지. 나의 주인은 몹시 화가 났다네. 아마도 자네들은 날 나약한 자로 여길테지. 나의 파멸은 나의 죄가 초래한 것이니, 이는 마땅한 일일세. 그리고 이제 내가 실패한 임무는 자네들의 것이 되었네. 내가 죽으면 파멸의 신전의 미궁으로 이어지는 차원문이 열릴걸세. 말할 수 없는 공포가 자네들을 막으려 들겠지, 하지만 이 여정을 끝마치면 자네들은 마침내 자유의 몸이 될걸세... 내 주인을 파괴해주게. 내 마지막 소망일세. 이제 작별이군.\" 검은 마법의 덩굴손들이 이제는 시체가 된 흡혈귀의 몸을 타고 오르며 그 살점을 먹어치워 먼지만을 남긴다. 백작의 시체가 놓여있던 장소에는 빛나는 마법의 룬들이 원을 이루고 있다... 속죄를 위한 백작의 마지막 시도인 그 차원문은 영웅들을 모든 것의 끝으로 이끌 것이다..."
 	},
 	{},
 
-	// ~ 40 페이지. > 41 페이지
-
+	// QUEST VI
 	{
 		name: "ACT II - QUEST VI : Cemetery Gates : Introduction",
 		en: "After meeting with Marcus, the party decides to enter the portal opened upon the death of Count Dalv. Black magical tendrils painfully envelop the Heroes, teleporting them to a distant land, far away from the count's castle. The cold stone is lit by weak torches, and the damp, pungent air of the undergound, are all the Heroes see and feel. Without another hint, the party parys to the gods to help them in their quest, and begins exploring the gloomy dungeon forking just ahead.",
-		ko: "마커스와 만난 후, 일행은 달브 백작이 죽자 열린 포탈에 들어가기로 결정한다. 검은 마법의 힘줄은 히어로들을 고통스럽게 감싸고, 그들을 백작의 성에서 멀리 떨어진 먼 땅으로 텔레포트로 보낸다. 차가운 돌은 약한 횃불로 밝혀져 있고, 축축하고 톡 쏘는 듯한 언더가운 공기는 모두 영웅들이 보고 느끼는 것이다. 다른 힌트도 없이 일행은 신들에게 그들의 탐구에 도움을 주기 위해 애쓰고, 바로 앞에 있는 우울한 지하감옥에 대한 탐색을 시작한다."
+		ko: "마커스와 재회 후, 일행은 달브 백작이 죽음으로 만들어낸 차원문으로 들어가기로 한다. 검은 마법의 덩굴손들이 영웅들을 고통스럽게 옥죄고, 백작의 성으로 부터 멀리 떨어진 땅으로 순간 이동 시킨다. 희미한 횃불이 차가운 돌을 비추고, 땅 속의 축축하고 톡 쏘는 듯한 냄새가 나는 공기가 느껴진다. 어떤 단서도 없이, 일행은 그저 신들이 그들의 여정을 도와주길 기도하며, 눈앞에 뻗어있는 음울한 미궁을 탐색하기 시작한다." 
 	},
+	{
+		name: "$6.1 (Waypoint 1)",
+		en: "Ominous statues representing several different creatures are scattered along the corridor, and the flickering flames create strange shadow plays, so the hero almost believes he is the focus of the statues' gaze.",
+		ko: "각기 다른 여러가지 괴물 모양의 불길한 석상들이 복도를 따라 흩어져있고, 깜빡이는 불꽃이 기이한 그림자의 연극을 만들어낸다. 이 때문에 마치 석상들이 영웅을 주시하고 있다는 느낌이 든다."
+	},
+	{
+		name: "$6.2 (Waypoint 2)",
+		en: "Something about the corridor's wall tickles the hero's instincts.",
+		ko: "영웅의 본능이 복도의 벽에 무언가가 있음을 알린다."
+	},
+	{
+		name: "$6.3 (Waypoint 2)",
+		en: "The peculiar architecture of these catacombs plays tricks with the eyes, seemingly creating secret passages where in fact there are none...",
+		ko: "이 무덤의 기이한 구조는 착시를 일으키는데, 실제로는 존재하지 않는 비밀 통로를 만들어내는 듯 하다."
+	},
+	{
+		name: "$6.4 (Waypoint 1)",
+		en: "The noise of cracking stone transforms the strange feeling into grim reality! The statues crumble, revealing undead creatures beneath their shattered marble skins!",
+		ko: "돌이 깨지는 소리와 함께, 우려했던 일이 현실로 다가온다! 석상들이 부수어지며, 조각난 대리석 피부 아래에 숨어 있던 불사의 괴물들이 깨어난다."
+	},
+	{
+		name: "$6.5 (Waypoint 2)",
+		en: "Even in the dim light, the hero notices a strange pattern of cracks in the wall. Under his touch, the stone crumbles to reveal a small funerary alcove full of treasures!",
+		ko: "희미한 불빛 속에서도 영웅은 용케도 벽의 균열들이 이상한 패턴을 그리고 있다는 것을 눈치챈다. 그가 손을 대자, 돌 벽이 부수어지며 보물로 가득찬 작은 장례용 벽감이 드러난다."
+	},
+	{
+		name: "$6.6 (Story Event 1)",
+		en: "The heroes reach a large tomb with a great golden sarcophagus in the center and mummified remains along the walls. The gilded coffin is carved with scenes of a great hero fending off a demonic shadow with the help of his magical weapons. Part of the carving is ruined, but the rest hints of something precious and powerful entombed here.",
+		ko: "영웅들은 중앙에 거대한 황금 석관이 있는 큰 무덤에 도달한다. 그 방에는 벽을 따라 미라가 된 시체들이 있다. 금박이 입혀진 관은 위대한 영웅이 그의 마법의 검으로 그림자 악마를 막아내고 있는 부조가 새겨져있다. 그것의 일부는 손상되었지만, 이 부조는 관 안에 귀중하고 강력한 무언가가 묻혀있다는 느낌을 준다."
+	},
+	{
+		name: "$6.7 (Story Event 1)",
+		en: "The hero ignores the sarcophagus, indifferent to any trap or treasure it may contain. His aim is on the true goal of his quest: destroy the nameless evil clutching these lands in its wicked grasp and finally gain his freedom!",
+		ko: "영웅은 석관을 무시하고, 그것이 담고 있는 어떤 함정이나 보물에도 무관심하다. 그의 목표는 그의 탐구의 진정한 목표다: 악랄한 손아귀에 이 땅을 움켜쥔 이름 없는 악마를 파괴하고 마침내 자유를 쟁취하는 것이다!"
+	},
+	{
+		name: "$6.8 (Story Event 1)",
+		en: "The lid moves slightly, only to return to place with a thump, due to the magical guardian glyph engraved in it. With that, Marcus states gravely, \"Whatever is buried here, treasures or creatures, nothing will be removed easily.We should consider it a wise decision to leave the tomb undisturbed...\"",
+		ko: "뚜껑이 살짝 움직이면서 쿵쿵거리며 제자리로 돌아오는데, 그 속에 새겨진 마법의 수호 글리프 때문이다. 그것으로 마커스는 진지하게 \"보물이나 생물이든 이곳에 묻히는 것은 무엇이나 쉽게 제거될 수 없을 것이다.무덤을 방해를 받지 않고 방치하는 것이 현명한 결정이라고 생각해야 한다...\""
+	},
+	{
+		name: "$6.9 (Waypoint 3)",
+		en: "Something on the ground catches the hero's eye...",
+		ko: "지상의 무언가가 영웅의 눈을 사로잡는다..."
+	},
+	{
+		name: "$6.10 (Waypoint 3)",
+		en: "Even after a thorough search, the pile of bones seems to hide nothing special, except perhaps, for the sheer number of them.",
+		ko: "샅샅이 뒤진 후에도 뼈 더미는 아마도 그 엄청난 수의 뼈들을 제외하고는 특별한 것을 숨기는 것 같지 않다."
+	},
+	{
+		name: "$6.11 (Story Event 1)",
+		en: "The heroes acknowledge the tomb’s sanctity and ask Marcus to bless the sarcophagus in order to seal it with the will of the gods, ensuring no one will ever open it again.",
+		ko: "영웅들은 무덤의 신성함을 인정하고 마커스에게 신들의 의지로 봉인하기 위해 석관을 축복해 달라고 부탁하여 아무도 다시는 무덤을 열지 못하게 한다."
+	},
+	{
+		name: "$6.12 (Waypoint 3)",
+		en: "Among dozens of skulls cluttering a corner of the room, the hero finds one with a strangely polished cranial bone. As he pushes the bone, the skull reveals itself to be a locking mechanism, which opens a secret door! The adjacent wall recedes to reveal a parallel cave... but a strange clicking noise heralds the arming of a hidden trap!",
+		ko: "방 한구석을 어지럽히는 수십 개의 두개골 중에서 영웅은 이상하게 윤이 나는 두개골을 가진 두개골을 발견한다. 그가 뼈를 밀자, 두개골은 비밀의 문을 여는 잠금 장치임을 드러낸다! 인접한 담이 뒤로 물러서서 평행 동굴을 드러낸다... 하지만 이상한 딸깍거리는 소리는 숨겨진 함정의 무장을 예고한다!"
+	},
+	{
+		name: "$6.13 (Story Event 1)",
+		en: "Despite his best efforts, the hero cannot open the sarcophagus. Furthermore, the attempt weakens the hero, leaving him strangely tired – a dark omen of things to come...",
+		ko: "그의 최선의 노력에도 불구하고, 영웅은 석관을 열 수 없다. 게다가, 그 시도는 영웅을 약하게 만들고, 이상하게도 피곤하게 만든다. - 앞으로 일어날 일에 대한 어두운 징조..."
+	},
+	{
+		name: "$6.14 (Glass Vial)",
+		en: "Remembering the words of Malak, the hero sips just a few drops of the magical liquid from the vial, and the effects soon set in...",
+		ko: "말락의 말을 기억하면서 영웅은 바이알에서 마법 같은 액체를 몇 방울만 흘리는데, 그 효과는 곧..."
+	},
+	{
+		name: "$6.15 (Story Event 1)",
+		en: "Once opened, the sarcophagus reveals a gruesome sight: several tomb beetles eternally eating away the putrid skin of a creature of indistinct shape. Apparently sustained by the sarcophagus itself, the creature is kept between life and death, it is an almost endless torture of pain and undeath. A torture that the hero has just ended...",
+		ko: "석관이 열리면, 몇몇 무덤 딱정벌레들은 불분명한 모양의 생명체의 푸트껍질을 영원히 먹어 치우는 섬뜩한 광경을 드러낸다. 분명히 석관 자체에 의해 지속되는 이 생물은 생사를 가르는 사이에 간직되어 있는 것으로, 그것은 거의 끝없는 고통과 불멸의 고문이다. 영웅의 고문이 방금 끝났어"
+	},
+	{
+		name: "$6.16 (Waypoint 4)",
+		en: "The hero notices a ceremonial sword stuck in the center of the farthest wall...",
+		ko: "영웅은 가장 먼 벽의 중앙에 예식용 칼이 꽂혀 있는 것을 알아차린다..."
+	},
+	{
+		name: "$6.17 (Story Event 1)",
+		en: "The creature, slowly regenerating, rises from the tomb. Its undead gaze slithers over the heroes, and then its unnatural voice utters rasping words. \"You carry what once was mine! Give me back the Book of the Dead, and great wealth will be yours.Deny it to me, and you will perish in pain!\"",
+		ko: "천천히 재생된 그 생물은 무덤에서 솟아난다. 그것의 언데드 시선은 영웅들 위로 미끌어지다가 부자연스러운 목소리가 거친 말을 내뱉는다. \"옛날 내 것을 가지고 다니잖아! 죽은 자의 책을 돌려주시오. 그러면 큰 재물은 그대의 것이 될 것이오.그것을 나에게 부정하라, 그러면 너는 고통으로 죽게 될 것이다!\""
+	},
+	{
+		name: "$6.18 (Waypoint 4)",
+		en: "The sword is actually a lever! Once it is lowered, a loud noise of stone scraping on stone echoes through in the dungeon. The hero understands the lever will only work when held in place: letting go causes a reverse in the stony rhythm.",
+		ko: "칼은 사실 지렛대야! 일단 내리면 돌에 긁히는 큰 소리가 지하감옥에서 메아리친다. 영웅은 레버가 제자리에 고정되어 있을 때에만 작동한다는 것을 이해한다: 놓아두면 돌 같은 리듬에 역효과를 일으킨다."
+	},
+	{
+		name: "$6.19 (Story Event 1)",
+		en: "The creature, slowly regenerating, rises from the tomb. Its undead gaze slithers over the heroes, and then it unexpectedly attacks with lightning speed!",
+		ko: "천천히 재생된 그 생물은 무덤에서 솟아난다. 그것의 끊임없는 시선은 영웅들 위를 미끄러지듯 움직이다가, 뜻밖에도 번개 같은 속도로 공격한다!"
+	},
+	{
+		name: "$6.20 (Quest Enemy)",
+		en: "Heavy shuffling steps herald the presence of a huge, decomposing ogre! A red magical flame burns in its empty eye sockets, marking the flaking flesh underneath. The powerful hulk advances toward the heroes, ready to dole out death.",
+		ko: "무거운 발걸음은 거대하고 부패한 오가의 존재를 예고한다. 텅 빈 눈구멍에서 붉은 마법의 불꽃이 타오르며, 그 밑의 살점을 표시한다. 힘센 헐크는 죽음을 각오하고 영웅들을 향해 나아간다."
+	},
+	{
+		name: "$6.21 (Story Event 1)",
+		en: "As the creature grasps the book, huge black flames spread around it, engulfing both the tome and the undead creature. It speaks again, apparently unaffected by of the dark fire. \"You have submitted to my power, and for this I will spare you from my anger.\" Then, the creature invokes a magical weapon out of thin air and tosses it at the feet of the hero: \"This is your reward. Never cross my path again, or you will pay. Now, it is time for me to repay the pain to those who chained me!\" The creature then disappears into the black flames.",
+		ko: "그 생물이 책을 갈면서 거대한 검은 불꽃이 그 주위에 퍼져 토미와 언데드 생물을 둘 다 집어삼켰다. 그것은 분명 어두운 불의 영향을 받지 않은 채 다시 말한다. \"너는 내 권능에 복종하였으니, 이를 위하여 나는 너를 나의 분노에서 구해 주겠다.\" 그러자 이 생물은 허공에서 마법의 무기를 발사하여 영웅의 발치에 대고 토스한다: \"이것은 당신의 보상이다.다시는 내 길을 건너지 마라, 그렇지 않으면 대가를 치르게 될 것이다.이제 나를 사슬로 묶은 자들에게 그 고통을 갚아야 할 때야!\" 그 후 그 생물은 검은 불꽃 속으로 사라진다."
+	},
+	{
+		name: "$6.22 (Waypoint 5)",
+		en: "There is a ceremonial shield on one of the walls...",
+		ko: "한쪽 벽에는 의식용 방패가 달려 있다..."
+	},
+	{
+		name: "$6.23 (Story Event 2)",
+		en: "Suddenly the minds of the heroes are blinded by visions of failure, a defeat shaped by burning cities and the screams of the dying. Then, all at once, the vision warps into an ancient skull, its eyes lit by an unearthly purple glow. The skull utters a painful echo in the mind: \"YOU WILL FAIL.\" It disappears under a robe covered by magical runes. Powerful as the will of the heroes may be, this vision tests them to their utmost.",
+		ko: "갑자기 영웅들의 마음은 불타는 도시들과 죽어가는 사람들의 비명소리에 의해 형성된 패배, 실패의 환영에 눈이 멀어진다. 그러자, 그 시력은 순식간에 고대 두개골 속으로 휘몰아치는데, 그 눈은 때아닌 보라색 빛으로 빛난다. 해골은 마음속에서 고통스러운 메아리를 내뱉는다: \"실패하게 될 것이다.마법의 런에 가려진 겉옷 밑으로 사라진다. 영웅들의 의지가 강할지 모르지만, 이 비전은 그들을 최대한으로 시험한다."
+	},
+	{
+		name: "$6.24 (Story Event 3)",
+		en: "The dungeon rooms give way to a courtyard dotted with gravestones. Connected to the courtyard, a pyramid rises before the party: a temple of evil doom, surrounded by putrid swamps as far as the eye can see. A ghostly white mist seeps from the temple's entrance, covering the ground of the gloomy, spooky graveyard. The temple's door is surrounded by a weird magical halo. As the heroes approach, green bolts of eldritch energy shoot from the door and hit the graves of several long-dead knights. At once, the earth beneath the graves trembles, and the walking dead rise, powerful death knights surrounded by the same magical veil that envelops the temple's door. The skeletal knights leave their graves and assail the party!",
+		ko: "지하감옥들은 비석이 점점이 있는 뜰로 자리를 양보한다. 뜰과 연결되어 있는 피라미드는 파티 앞에 솟아 있다. 사악한 파멸의 신전, 눈이 보이는 곳까지 퍼트린 늪에 둘러싸여 있다. 음침하고 으스스한 묘지 땅을 덮으며 신전의 입구에서 유령처럼 하얀 안개가 스며든다. 그 절의 문은 이상한 마법의 광채에 둘러싸여 있다. 영웅들이 다가오자 문에서 초록빛의 루크릿치 에너지가 뿜어져 나와 여러 장수의 기사들의 무덤을 덮쳤다. 단번에 무덤 밑의 땅이 덜덜 떨리고, 걸어가는 죽은 듯이 솟아오르고, 신전의 문을 감싸는 마법의 베일에 둘러싸인 강력한 죽음의 기사들. 골격 기사들은 무덤을 떠나 일행을 공격한다!"
+	},
+	{
+		name: "$6.25 (Waypoint X)",
+		en: "These finely carved tombstones bear the coat of arms of the Knights of the Rose. Marcus believes that the empty graves of the Knights are still under the power of the Three Gods. He turns to the party and states, \"Despite the evil all around us, these graves are still sacred ground, and the gods may help us!\"",
+		ko: "이 정교하게 조각된 비석에는 장미 기사단의 팔코트가 달려 있다. 마커스는 기사단의 텅 빈 무덤이 아직도 세 신의 지배하에 있다고 믿는다. 그는 파티와 주위로 눈을 돌리며 \"주위의 악에도 불구하고, 이 무덤들은 여전히 신성한 땅이며, 신들이 우리를 도울지도 모른다!\""
+	},
+	{
+		name: "$6.26 (Story Event 3)",
+		en: "The Death Knight falls under the blows of the heroes, and the green flames in his eyes fade as the bones fall to the ground. Marcus observes the bones and then says: \"The seal! The Knights must be connected to the seal that bars the Temple's entrance!\"",
+		ko: "데스 나이트는 영웅들의 주먹에 쓰러지고, 뼈들이 땅에 떨어지자 눈 속의 푸르른 불길은 사그라든다. 마커스는 뼈들을 관찰한 다음 이렇게 말한다: \"물개! 기사단은 사원의 입구를 막는 봉인과 연결되어 있어야 한다!\""
+	},
+	{
+		name: "$6.27 (Waypoint 5)",
+		en: "The shield is actually a lever! Once it is pushed, the wall disappears and opens the way!",
+		ko: "방패는 사실 레버야! 일단 밀리면, 벽은 사라지고 길을 열어!"
+	},
+	{
+		name: "$6.28 (Story Event 3)",
+		en: "As the bones fall to the ground, the green flames become stronger, and the skeleton rises once again as a Death Knight. Marcus yells, \"The necromantic sorcery animating this creature is too powerful! Without the gods' help, these knights will know no rest! If we can take the bones back to their tomb, I can try to dispel the necromantic powers that bind them and leave the knight to his final rest!\"",
+		ko: "뼈가 땅으로 떨어지면서 초록빛 불꽃이 거세지고, 그 해골은 다시 데스 나이트로 떠오른다. 마커스는 소리친다, \"이 생명체를 애니메이션화하는 신약 마법은 너무 강력하다! 신들의 도움 없이는 이 기사들은 휴식을 알 수 없을 거야! 만약 우리가 뼈를 그들의 무덤으로 가져갈 수 있다면, 나는 그들을 묶는 신적 힘을 떨쳐버리고 그 기사는 그의 마지막 안식처에 남겨둘 수 있을 거야!\""
+	},
+	{
+		name: "$6.29 (Ex-Mortis)",
+		en: "The signs, written in blood, change their runic shape and form understandable letters for the time needed to cast the spell. Once spoken, the necromantic magic manifests itself as the letters revert to blood runes.",
+		ko: "표지판들은 피로 써서 드는 시간은 주문을 제기하기 위해 필요한 그들의 룬 문자의 모양과 형태 이해할 수 있는 편지를 바꾼다. 한번 뱉으로 편지를 혈액 runes로 개종, 강령술의 마술이 나타난다."
+	},
+	{
+		name: "$6.30 (Story Event 3)",
+		en: "As soon as the bones touch the ground beside the tombstone, Marcus recites a spell breaking the necromantic magic. The green flames disappear from the skull, and the Knight fades to his final rest.",
+		ko: "비석 옆의 땅에 뼈가 닿는 순간 마커스는 신약 마법을 깨뜨리는 주문을 읊는다. 녹색 불꽃은 두개골에서 사라지고, 기사는 그의 마지막 휴식으로 사라진다."
+	},
+	{
+		name: "$6.31 (Story Event 3)",
+		en: "Once the sorcery is dispelled, the magic halo fades away and the temple's door suddenly opens from the inside... A Death Knight wielding a wicked scythe steps out from the gloom. The guardian of the temple has arrived. This grim reaper is poised to deliver death, single-mindedly determined to bar the way to any living being.",
+		ko: "일단 마법이 없어지면 마법의 후광은 사라지고 안에서 갑자기 신전의 문이 열리게 된다... 악랄한 사경을 휘두르는 죽음의 기사가 어둠 속에서 발을 내딛는다. 절의 수호신이 도착했다. 이 암울한 리퍼는 어떤 생명에 대해서도 길을 막겠다는 독단적인 각오로 죽음을 맞이할 태세다."
+	},
+	{
+		name: "$6.32 (Ending)",
+		en: "When the last undead guardian falls, the heroes are finally free to enter the dark passage and face the unknown dangers yet to come in that Temple of Doom...",
+		ko: "마지막 언데드 후견인이 쓰러지면 영웅들은 마침내 자유롭게 어둠의 통로로 들어가 아직 그 둠의 신전에 들어오지 못한 알 수 없는 위험에 직면하게 된다..."
+	},
+	{
+		name: "$6.33 (Ending)",
+		en: "The perpetual darkness of the dungeon triumphs and snuffs the sparks of life from the heroes. The Champions of Twin Wyrm are defeated, becoming restless entities condemned to forever roam this nameless labyrinth.",
+		ko: "영원한 지하감옥의 어둠은 영웅들로부터 삶의 불꽃을 일구어내고 승리한다. 트윈 와이름의 챔피언들은 패배했고, 이 이름없는 미로를 영원히 돌아다녀야 하는 안절부절못하는 존재가 되었다."
+	},
+
+
 	{
 		name: "",
 		en: "",
