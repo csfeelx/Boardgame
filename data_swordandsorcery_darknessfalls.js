@@ -840,43 +840,46 @@
 	{
 		name: "$6.7 (Story Event 1)",
 		en: "The hero ignores the sarcophagus, indifferent to any trap or treasure it may contain. His aim is on the true goal of his quest: destroy the nameless evil clutching these lands in its wicked grasp and finally gain his freedom!",
-		ko: "영웅은 석관을 무시하고, 그것이 담고 있는 어떤 함정이나 보물에도 무관심하다. 그의 목표는 그의 탐구의 진정한 목표다: 악랄한 손아귀에 이 땅을 움켜쥔 이름 없는 악마를 파괴하고 마침내 자유를 쟁취하는 것이다!"
+		ko: "영웅은 석관을 무시한다. 그는 그 안에 함정이 있든, 보물이 있든 관심이 없다. 그는 그의 여정을 완수하는 것에만 관심이 있다. 바로 이 땅에 그 마수를 뻗고 있는 이름없는 악을 물리치고, 자유를 쟁취하는 것 말이다!"
 	},
 	{
 		name: "$6.8 (Story Event 1)",
 		en: "The lid moves slightly, only to return to place with a thump, due to the magical guardian glyph engraved in it. With that, Marcus states gravely, \"Whatever is buried here, treasures or creatures, nothing will be removed easily.We should consider it a wise decision to leave the tomb undisturbed...\"",
-		ko: "뚜껑이 살짝 움직이면서 쿵쿵거리며 제자리로 돌아오는데, 그 속에 새겨진 마법의 수호 글리프 때문이다. 그것으로 마커스는 진지하게 \"보물이나 생물이든 이곳에 묻히는 것은 무엇이나 쉽게 제거될 수 없을 것이다.무덤을 방해를 받지 않고 방치하는 것이 현명한 결정이라고 생각해야 한다...\""
+		ko: "그 속에 새겨진 수호 문자의 힘 때문에 석관의 뚜껑은 덜커덩하는 소리와 함께 살짝 움직여 제자리로 돌아간다. 그것을 보고 마커스는 심각한 표정으로 말한다. \"그 안에 묻힌것이 보물이든 괴물이든 쉽게 제거하긴 어려울듯 합니다. 이 무덤에 손을 대지 않는 것이 현명한 판단일 듯 합니다...\""
 	},
 	{
 		name: "$6.9 (Waypoint 3)",
 		en: "Something on the ground catches the hero's eye...",
-		ko: "지상의 무언가가 영웅의 눈을 사로잡는다..."
+		ko: "땅바닥에 있는 무언가가 영웅의 시선을 사로잡는다..."
 	},
 	{
 		name: "$6.10 (Waypoint 3)",
 		en: "Even after a thorough search, the pile of bones seems to hide nothing special, except perhaps, for the sheer number of them.",
-		ko: "샅샅이 뒤진 후에도 뼈 더미는 아마도 그 엄청난 수의 뼈들을 제외하고는 특별한 것을 숨기는 것 같지 않다."
+		ko: "뼈들이 쌓여있는 더미를 샅샅이 뒤졌으나, 그 수가 어마어마하다는 것 외에는 특별한 것이 없어 보인다."
 	},
 	{
 		name: "$6.11 (Story Event 1)",
 		en: "The heroes acknowledge the tomb’s sanctity and ask Marcus to bless the sarcophagus in order to seal it with the will of the gods, ensuring no one will ever open it again.",
-		ko: "영웅들은 무덤의 신성함을 인정하고 마커스에게 신들의 의지로 봉인하기 위해 석관을 축복해 달라고 부탁하여 아무도 다시는 무덤을 열지 못하게 한다."
+		ko: "영웅들은 그 무덤의 신성함을 인정하고, 마커스에게 신의 가호를 빌어 그 석관을 봉인하도록한다. 그 누구도 다시는 그것을 열지 못할 것이다."
 	},
 	{
 		name: "$6.12 (Waypoint 3)",
 		en: "Among dozens of skulls cluttering a corner of the room, the hero finds one with a strangely polished cranial bone. As he pushes the bone, the skull reveals itself to be a locking mechanism, which opens a secret door! The adjacent wall recedes to reveal a parallel cave... but a strange clicking noise heralds the arming of a hidden trap!",
-		ko: "방 한구석을 어지럽히는 수십 개의 두개골 중에서 영웅은 이상하게 윤이 나는 두개골을 가진 두개골을 발견한다. 그가 뼈를 밀자, 두개골은 비밀의 문을 여는 잠금 장치임을 드러낸다! 인접한 담이 뒤로 물러서서 평행 동굴을 드러낸다... 하지만 이상한 딸깍거리는 소리는 숨겨진 함정의 무장을 예고한다!"
+		ko: "영웅은 방 구석에 널려있는 수십개의 두개골 중에서 유난히 윤이나는 머리뼈를 발견한다. 그가 그 뼈를 밀자, 그것이 비밀 문을 여는 잠금 장치라는 사실이 드러난다! 근처의 벽이 밀려나가며 여러 동굴로 이어지는 입구들이 나타난다... 하지만, 수상한 딸깍거리는 소리가 들려온다. 숨겨진 함정이 발동된 듯 하다."
 	},
 	{
 		name: "$6.13 (Story Event 1)",
 		en: "Despite his best efforts, the hero cannot open the sarcophagus. Furthermore, the attempt weakens the hero, leaving him strangely tired – a dark omen of things to come...",
-		ko: "그의 최선의 노력에도 불구하고, 영웅은 석관을 열 수 없다. 게다가, 그 시도는 영웅을 약하게 만들고, 이상하게도 피곤하게 만든다. - 앞으로 일어날 일에 대한 어두운 징조..."
+		ko: "영웅은 온 힘을 다해보지만, 석관은 열리지 않는다. 그에 더해 그 시도는 그에게 이상한 피로를 느끼게 한다. 마치 다가올 일에 대한 불길한 징조와도 같이..."
 	},
 	{
 		name: "$6.14 (Glass Vial)",
 		en: "Remembering the words of Malak, the hero sips just a few drops of the magical liquid from the vial, and the effects soon set in...",
-		ko: "말락의 말을 기억하면서 영웅은 바이알에서 마법 같은 액체를 몇 방울만 흘리는데, 그 효과는 곧..."
+		ko: "말락의 말을 기억하며, 영웅은 약병에서 마법 물약을 몇 방울 마신다, 그것은 금방 효과를 나타낸다..."
 	},
+        {},
+        // ~ 작업 완료
+
 	{
 		name: "$6.15 (Story Event 1)",
 		en: "Once opened, the sarcophagus reveals a gruesome sight: several tomb beetles eternally eating away the putrid skin of a creature of indistinct shape. Apparently sustained by the sarcophagus itself, the creature is kept between life and death, it is an almost endless torture of pain and undeath. A torture that the hero has just ended...",
