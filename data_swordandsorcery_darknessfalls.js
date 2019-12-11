@@ -877,39 +877,39 @@
 		en: "Remembering the words of Malak, the hero sips just a few drops of the magical liquid from the vial, and the effects soon set in...",
 		ko: "말락의 말을 기억하며, 영웅은 약병에서 마법 물약을 몇 방울 마신다, 그것은 금방 효과를 나타낸다..."
 	},
-        {},
-        // ~ 작업 완료
-
 	{
 		name: "$6.15 (Story Event 1)",
 		en: "Once opened, the sarcophagus reveals a gruesome sight: several tomb beetles eternally eating away the putrid skin of a creature of indistinct shape. Apparently sustained by the sarcophagus itself, the creature is kept between life and death, it is an almost endless torture of pain and undeath. A torture that the hero has just ended...",
-		ko: "석관이 열리면, 몇몇 무덤 딱정벌레들은 불분명한 모양의 생명체의 푸트껍질을 영원히 먹어 치우는 섬뜩한 광경을 드러낸다. 분명히 석관 자체에 의해 지속되는 이 생물은 생사를 가르는 사이에 간직되어 있는 것으로, 그것은 거의 끝없는 고통과 불멸의 고문이다. 영웅의 고문이 방금 끝났어"
+		ko: "석관이 열리자 섬뜩한 광경이 드러난다. 무덤풍뎅이 몇 마리가 정체를 알 수 없는 생물의 썩은 살점을 영원토록 먹어치우고 있는 광경이다. 보아하니 이 생물은 석관이 가진 힘에 의해 삶과 죽음 사이에 놓인채로 영원히 끝나지 않는 고문을 받고 있는 듯 하다. 그리고 영웅은 방금 그 고문을 끝낸 셈이다."
 	},
 	{
 		name: "$6.16 (Waypoint 4)",
 		en: "The hero notices a ceremonial sword stuck in the center of the farthest wall...",
-		ko: "영웅은 가장 먼 벽의 중앙에 예식용 칼이 꽂혀 있는 것을 알아차린다..."
+		ko: "영웅은 건너편 벽의 중앙에 예식용 검이 꽂혀 있는 것을 눈치챈다..."
 	},
 	{
 		name: "$6.17 (Story Event 1)",
 		en: "The creature, slowly regenerating, rises from the tomb. Its undead gaze slithers over the heroes, and then its unnatural voice utters rasping words. \"You carry what once was mine! Give me back the Book of the Dead, and great wealth will be yours.Deny it to me, and you will perish in pain!\"",
-		ko: "천천히 재생된 그 생물은 무덤에서 솟아난다. 그것의 언데드 시선은 영웅들 위로 미끌어지다가 부자연스러운 목소리가 거친 말을 내뱉는다. \"옛날 내 것을 가지고 다니잖아! 죽은 자의 책을 돌려주시오. 그러면 큰 재물은 그대의 것이 될 것이오.그것을 나에게 부정하라, 그러면 너는 고통으로 죽게 될 것이다!\""
+		ko: "그 생물은 천천히 되살아나며 무덤에서 일어난다. 그 불사의 존재의 시선이 영웅들 사이로 미끄러지듯 나아간다. 그리고 그것은 귀에 거슬리는 부자연스러운 목소리로 말한다. \"네가 가지고 있는 그것은 나의 것이다. 그 죽은 자의 책을 나에게 돌려다오, 그리하면 거대한 부가 너의 것이 될 것이다. 이를 거절한다면, 너는 고통 속에서 죽게 될 것이다!\""
 	},
 	{
 		name: "$6.18 (Waypoint 4)",
 		en: "The sword is actually a lever! Once it is lowered, a loud noise of stone scraping on stone echoes through in the dungeon. The hero understands the lever will only work when held in place: letting go causes a reverse in the stony rhythm.",
-		ko: "칼은 사실 지렛대야! 일단 내리면 돌에 긁히는 큰 소리가 지하감옥에서 메아리친다. 영웅은 레버가 제자리에 고정되어 있을 때에만 작동한다는 것을 이해한다: 놓아두면 돌 같은 리듬에 역효과를 일으킨다."
+		ko: "그 검은 사실 손잡이였다! 이를 당기자, 돌과 돌이 긁히는 큰 소음이 미궁 속에 메아리친다. 영웅은 그 손잡이가 당기고 있을 때만 작동한다는 것을 깨닫는다. 손잡이를 놓으면 돌이 원래대로 돌아가며 내는 소음이 들린다."
 	},
 	{
 		name: "$6.19 (Story Event 1)",
 		en: "The creature, slowly regenerating, rises from the tomb. Its undead gaze slithers over the heroes, and then it unexpectedly attacks with lightning speed!",
-		ko: "천천히 재생된 그 생물은 무덤에서 솟아난다. 그것의 끊임없는 시선은 영웅들 위를 미끄러지듯 움직이다가, 뜻밖에도 번개 같은 속도로 공격한다!"
+		ko: "그 생물은 천천히 되살아나며 무덤에서 일어난다. 그 불사의 존재의 시선이 영웅들 사이로 미끄러지듯 나아간다. 그리고 그것은 갑자기 번개와 같은 속도로 영웅들을 공격한다!"
 	},
 	{
 		name: "$6.20 (Quest Enemy)",
 		en: "Heavy shuffling steps herald the presence of a huge, decomposing ogre! A red magical flame burns in its empty eye sockets, marking the flaking flesh underneath. The powerful hulk advances toward the heroes, ready to dole out death.",
-		ko: "무거운 발걸음은 거대하고 부패한 오가의 존재를 예고한다. 텅 빈 눈구멍에서 붉은 마법의 불꽃이 타오르며, 그 밑의 살점을 표시한다. 힘센 헐크는 죽음을 각오하고 영웅들을 향해 나아간다."
+		ko: "무거운 발걸음으로 비틀거리며 거대하고 반쯤 섞어버린 오우거가 나타난다! 놈의 비어있는 눈 구덩이 속에서 붉은 마법의 화염이 타오르며 주변의 살점이 떨어져 나가고 있다. 그 강력한 괴수는 영웅들을 향해 전진한다. 그들에게 죽음을 선사하기 위하여."
 	},
+	{},
+        // ~ 작업 완료
+
 	{
 		name: "$6.21 (Story Event 1)",
 		en: "As the creature grasps the book, huge black flames spread around it, engulfing both the tome and the undead creature. It speaks again, apparently unaffected by of the dark fire. \"You have submitted to my power, and for this I will spare you from my anger.\" Then, the creature invokes a magical weapon out of thin air and tosses it at the feet of the hero: \"This is your reward. Never cross my path again, or you will pay. Now, it is time for me to repay the pain to those who chained me!\" The creature then disappears into the black flames.",
