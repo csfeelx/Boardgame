@@ -907,86 +907,255 @@
 		en: "Heavy shuffling steps herald the presence of a huge, decomposing ogre! A red magical flame burns in its empty eye sockets, marking the flaking flesh underneath. The powerful hulk advances toward the heroes, ready to dole out death.",
 		ko: "무거운 발걸음으로 비틀거리며 거대하고 반쯤 섞어버린 오우거가 나타난다! 놈의 비어있는 눈 구덩이 속에서 붉은 마법의 화염이 타오르며 주변의 살점이 떨어져 나가고 있다. 그 강력한 괴수는 영웅들을 향해 전진한다. 그들에게 죽음을 선사하기 위하여."
 	},
-	{},
-        // ~ 작업 완료
-
 	{
 		name: "$6.21 (Story Event 1)",
 		en: "As the creature grasps the book, huge black flames spread around it, engulfing both the tome and the undead creature. It speaks again, apparently unaffected by of the dark fire. \"You have submitted to my power, and for this I will spare you from my anger.\" Then, the creature invokes a magical weapon out of thin air and tosses it at the feet of the hero: \"This is your reward. Never cross my path again, or you will pay. Now, it is time for me to repay the pain to those who chained me!\" The creature then disappears into the black flames.",
-		ko: "그 생물이 책을 갈면서 거대한 검은 불꽃이 그 주위에 퍼져 토미와 언데드 생물을 둘 다 집어삼켰다. 그것은 분명 어두운 불의 영향을 받지 않은 채 다시 말한다. \"너는 내 권능에 복종하였으니, 이를 위하여 나는 너를 나의 분노에서 구해 주겠다.\" 그러자 이 생물은 허공에서 마법의 무기를 발사하여 영웅의 발치에 대고 토스한다: \"이것은 당신의 보상이다.다시는 내 길을 건너지 마라, 그렇지 않으면 대가를 치르게 될 것이다.이제 나를 사슬로 묶은 자들에게 그 고통을 갚아야 할 때야!\" 그 후 그 생물은 검은 불꽃 속으로 사라진다."
+		ko: "그 불사의 존재는 죽음의 책을 움켜준다. 거대한 검은 화염이 주변에 퍼지며, 그 존재와 책을 휘감는다. 하지만 그는 검은 불꽃에 영향을 받지 않는 것으로 보인다. 그가 다시 이야기한다. \"네가 나의 힘 앞에 무릎꿇었으니, 너를 놓아주겠다.\" 그 후, 그는 허공에서 마법 무기 하나를 꺼내 영웅의 발치에 떨어뜨린다. \"이것이 너에게 주는 보상이다. 다시는 내 앞에 나타나지 마라. 그렇지 않으면 그 대가를 치르게 될 것이다. 이제, 나를 구속했던 자들에게 복수할 시간왔노라!\" 그리고 그는 검은 화염 속으로 사라진다."
 	},
 	{
 		name: "$6.22 (Waypoint 5)",
 		en: "There is a ceremonial shield on one of the walls...",
-		ko: "한쪽 벽에는 의식용 방패가 달려 있다..."
+		ko: "한쪽 벽에 예식용 방패가 매달려 있다..."
 	},
 	{
 		name: "$6.23 (Story Event 2)",
 		en: "Suddenly the minds of the heroes are blinded by visions of failure, a defeat shaped by burning cities and the screams of the dying. Then, all at once, the vision warps into an ancient skull, its eyes lit by an unearthly purple glow. The skull utters a painful echo in the mind: \"YOU WILL FAIL.\" It disappears under a robe covered by magical runes. Powerful as the will of the heroes may be, this vision tests them to their utmost.",
-		ko: "갑자기 영웅들의 마음은 불타는 도시들과 죽어가는 사람들의 비명소리에 의해 형성된 패배, 실패의 환영에 눈이 멀어진다. 그러자, 그 시력은 순식간에 고대 두개골 속으로 휘몰아치는데, 그 눈은 때아닌 보라색 빛으로 빛난다. 해골은 마음속에서 고통스러운 메아리를 내뱉는다: \"실패하게 될 것이다.마법의 런에 가려진 겉옷 밑으로 사라진다. 영웅들의 의지가 강할지 모르지만, 이 비전은 그들을 최대한으로 시험한다."
+		ko: "영웅들은 갑작스레 떠오르는 이미지들때문에 정신을 차릴 수 없다. 그 이미지는 불타는 도시와, 죽어가는 사람들의 비명소리로 가득한, 영웅들의 패배, 실패에 대한 이미지들이다. 그리고 갑자기 그 이미지는 기이한 보라 빛으로 일렁이는 눈을 가진 고대의 두개골로 변한다. 그것의 목소리가 영웅들의 머리 속에서 고통스럽게 메아리 친다. \"너희는 실패할 것이다.\" 그것은 마법의 룬이 그려진 로브 아래로 사라진다. 비록 영웅들의 의지는 굳건하지만, 그 이미지들은 영웅들을 극한으로 몰아붙인다."
 	},
 	{
 		name: "$6.24 (Story Event 3)",
 		en: "The dungeon rooms give way to a courtyard dotted with gravestones. Connected to the courtyard, a pyramid rises before the party: a temple of evil doom, surrounded by putrid swamps as far as the eye can see. A ghostly white mist seeps from the temple's entrance, covering the ground of the gloomy, spooky graveyard. The temple's door is surrounded by a weird magical halo. As the heroes approach, green bolts of eldritch energy shoot from the door and hit the graves of several long-dead knights. At once, the earth beneath the graves trembles, and the walking dead rise, powerful death knights surrounded by the same magical veil that envelops the temple's door. The skeletal knights leave their graves and assail the party!",
-		ko: "지하감옥들은 비석이 점점이 있는 뜰로 자리를 양보한다. 뜰과 연결되어 있는 피라미드는 파티 앞에 솟아 있다. 사악한 파멸의 신전, 눈이 보이는 곳까지 퍼트린 늪에 둘러싸여 있다. 음침하고 으스스한 묘지 땅을 덮으며 신전의 입구에서 유령처럼 하얀 안개가 스며든다. 그 절의 문은 이상한 마법의 광채에 둘러싸여 있다. 영웅들이 다가오자 문에서 초록빛의 루크릿치 에너지가 뿜어져 나와 여러 장수의 기사들의 무덤을 덮쳤다. 단번에 무덤 밑의 땅이 덜덜 떨리고, 걸어가는 죽은 듯이 솟아오르고, 신전의 문을 감싸는 마법의 베일에 둘러싸인 강력한 죽음의 기사들. 골격 기사들은 무덤을 떠나 일행을 공격한다!"
+		ko: "미궁의 방들은 묘비들이 서 있는 안뜰로 이어진다. 그 앞으로 피라미드 하나가 솟아있다. 악이 도사리고 있는 그 파멸의 신전은 끝이 보이지 않는 악취나는 늪에 둘러 싸여있다. 그 입구에서 흘러나오고 있는 유령같은 하얀 안개가 음울하고 으스스한 묘지를 뒤덮고 있다. 신전의 문은 기이한 마법의 광륜으로 둘러싸여있다. 영웅들이 다가가자, 문에서 발사된 섬뜩한 초록 광선이 오래전에 죽은 기사들의 무덤들을 향해 떨어진다. 그러자, 무덤이 흔들리며 죽은 자가 되살아난다. 그 강력한 죽음의 기사들은 신전의 문을 둘러싸고 있는 것과 같은 마법의 힘에 둘러싸여 있다. 무덤에서 일어난 그 해골 기사들은 곧 일행을 공격한다!"
 	},
 	{
 		name: "$6.25 (Waypoint X)",
 		en: "These finely carved tombstones bear the coat of arms of the Knights of the Rose. Marcus believes that the empty graves of the Knights are still under the power of the Three Gods. He turns to the party and states, \"Despite the evil all around us, these graves are still sacred ground, and the gods may help us!\"",
-		ko: "이 정교하게 조각된 비석에는 장미 기사단의 팔코트가 달려 있다. 마커스는 기사단의 텅 빈 무덤이 아직도 세 신의 지배하에 있다고 믿는다. 그는 파티와 주위로 눈을 돌리며 \"주위의 악에도 불구하고, 이 무덤들은 여전히 신성한 땅이며, 신들이 우리를 도울지도 모른다!\""
+		ko: "이 정교하게 조각된 비석들에는 장미 기사단의 문장이 그려져있다. 마커스는 그 비어있는 무덤들이 아직 신들의 힘 아래에 있다고 믿는다. 그는 일행을 향해 돌아서 이야기한다. \"우리를 둘러싼 모든 악에도 불구하고, 이 무덤들은 여전히 신성함을 간직하고 있습니다, 신들께서 우리를 도우실지도 모릅니다!\""
 	},
 	{
 		name: "$6.26 (Story Event 3)",
 		en: "The Death Knight falls under the blows of the heroes, and the green flames in his eyes fade as the bones fall to the ground. Marcus observes the bones and then says: \"The seal! The Knights must be connected to the seal that bars the Temple's entrance!\"",
-		ko: "데스 나이트는 영웅들의 주먹에 쓰러지고, 뼈들이 땅에 떨어지자 눈 속의 푸르른 불길은 사그라든다. 마커스는 뼈들을 관찰한 다음 이렇게 말한다: \"물개! 기사단은 사원의 입구를 막는 봉인과 연결되어 있어야 한다!\""
+		ko: "영웅들이 죽음의 기사를 쓰러뜨리자, 그것의 눈에서 초록색 화염이 사그라들며 뼈들이 바닥으로 떨어진다. 마커스는 그 뼈들을 관찰하고는 말을 꺼낸다. \"봉인! 이 기사들은 신전 입구를 막고 있는 봉인과 연결되어 있음이 틀림없습니다!\""
 	},
 	{
 		name: "$6.27 (Waypoint 5)",
 		en: "The shield is actually a lever! Once it is pushed, the wall disappears and opens the way!",
-		ko: "방패는 사실 레버야! 일단 밀리면, 벽은 사라지고 길을 열어!"
+		ko: "그 방패는 사실 손잡이였다! 이를 당기자, 벽이 사라지며 새로운 길이 열린다!"
 	},
 	{
 		name: "$6.28 (Story Event 3)",
 		en: "As the bones fall to the ground, the green flames become stronger, and the skeleton rises once again as a Death Knight. Marcus yells, \"The necromantic sorcery animating this creature is too powerful! Without the gods' help, these knights will know no rest! If we can take the bones back to their tomb, I can try to dispel the necromantic powers that bind them and leave the knight to his final rest!\"",
-		ko: "뼈가 땅으로 떨어지면서 초록빛 불꽃이 거세지고, 그 해골은 다시 데스 나이트로 떠오른다. 마커스는 소리친다, \"이 생명체를 애니메이션화하는 신약 마법은 너무 강력하다! 신들의 도움 없이는 이 기사들은 휴식을 알 수 없을 거야! 만약 우리가 뼈를 그들의 무덤으로 가져갈 수 있다면, 나는 그들을 묶는 신적 힘을 떨쳐버리고 그 기사는 그의 마지막 안식처에 남겨둘 수 있을 거야!\""
+		ko: "뼈들이 땅에 떨어지자, 초록색 화염이 거세어지며, 뼈들이 모여 다시 한 번 죽음의 기사가 되어 일어난다. 마커스가 소리친다. \"저들을 조종하고 있는 사령술의 힘이 너무나도 강합니다! 이 기사들은 신들의 도움없이는 쓰러지지 않을겁니다! 우리가 이 뼈들을 그들의 무덤으로 가져갈 수 있다면, 제가 그들을 묶고 있는 주술을 해제하여 이 기사들에게 영원한 안식을 줄 수 있을겁니다!\""
 	},
 	{
 		name: "$6.29 (Ex-Mortis)",
 		en: "The signs, written in blood, change their runic shape and form understandable letters for the time needed to cast the spell. Once spoken, the necromantic magic manifests itself as the letters revert to blood runes.",
-		ko: "표지판들은 피로 써서 드는 시간은 주문을 제기하기 위해 필요한 그들의 룬 문자의 모양과 형태 이해할 수 있는 편지를 바꾼다. 한번 뱉으로 편지를 혈액 runes로 개종, 강령술의 마술이 나타난다."
+		ko: "피로 쓰여진 이 표식들은 룬 모양에서 이해가능한 문자로 변한다. 그 문자가 나타내는 주문을 외자, 문자들은 다시 피의 룬으로 되돌아가며, 사령술의 힘이 발현된다."
 	},
 	{
 		name: "$6.30 (Story Event 3)",
 		en: "As soon as the bones touch the ground beside the tombstone, Marcus recites a spell breaking the necromantic magic. The green flames disappear from the skull, and the Knight fades to his final rest.",
-		ko: "비석 옆의 땅에 뼈가 닿는 순간 마커스는 신약 마법을 깨뜨리는 주문을 읊는다. 녹색 불꽃은 두개골에서 사라지고, 기사는 그의 마지막 휴식으로 사라진다."
+		ko: "뼈들이 묘비 근처의 땅에 닿자마자, 마커스는 사령술의 힘을 깨뜨리는 주문을 읊는다. 두개골에서 초록색 화염이 사라지고, 그 기사는 영원한 안식 속으로 스러진다."
 	},
 	{
 		name: "$6.31 (Story Event 3)",
 		en: "Once the sorcery is dispelled, the magic halo fades away and the temple's door suddenly opens from the inside... A Death Knight wielding a wicked scythe steps out from the gloom. The guardian of the temple has arrived. This grim reaper is poised to deliver death, single-mindedly determined to bar the way to any living being.",
-		ko: "일단 마법이 없어지면 마법의 후광은 사라지고 안에서 갑자기 신전의 문이 열리게 된다... 악랄한 사경을 휘두르는 죽음의 기사가 어둠 속에서 발을 내딛는다. 절의 수호신이 도착했다. 이 암울한 리퍼는 어떤 생명에 대해서도 길을 막겠다는 독단적인 각오로 죽음을 맞이할 태세다."
+		ko: "주술이 사라지자, 신전의 문을 둘러싼 마법의 광륜이 사라지고, 갑작스럽게 문이 열린다... 끔찍한 벌낫으로 무장한 죽음의 기사 하나가 어둠 속에서 걸어나온다. 신전의 수호자가 나타난 것이다. 이 공포의 사신은 오직 하나의 목적만을 가지고 있다. 그것은 바로 그들을 죽음으로 인도함으로써, 살아있는 자들이 신전에 들어오는 것을 막는 것이다."
 	},
 	{
 		name: "$6.32 (Ending)",
 		en: "When the last undead guardian falls, the heroes are finally free to enter the dark passage and face the unknown dangers yet to come in that Temple of Doom...",
-		ko: "마지막 언데드 후견인이 쓰러지면 영웅들은 마침내 자유롭게 어둠의 통로로 들어가 아직 그 둠의 신전에 들어오지 못한 알 수 없는 위험에 직면하게 된다..."
+		ko: "마지막 불사의 수호자가 쓰러지고, 영웅들은 마침내 신전 안의 어두운 통로로 들어갈 수 있게 된다. 그리고 그들은 파멸의 신전 안에서 정체불명의 새로운 위험과 마주치게 된다..."
 	},
+        {},
+        // ~ 작업 완료
+
 	{
 		name: "$6.33 (Ending)",
 		en: "The perpetual darkness of the dungeon triumphs and snuffs the sparks of life from the heroes. The Champions of Twin Wyrm are defeated, becoming restless entities condemned to forever roam this nameless labyrinth.",
 		ko: "영원한 지하감옥의 어둠은 영웅들로부터 삶의 불꽃을 일구어내고 승리한다. 트윈 와이름의 챔피언들은 패배했고, 이 이름없는 미로를 영원히 돌아다녀야 하는 안절부절못하는 존재가 되었다."
 	},
+        {},
 
-
-	{
-		name: "",
-		en: "",
-		ko: ""
-	},
-	{},
-
+        // QUEST VII
 	{
 		name: "ACT II - QUEST VII : temple of Doom! : Introduction",
 		en: "Finally, the entrance to the temple, a pryramid of fear, the dominion of the nameless evil, lies within reach. Just before stepping through the threshold, all the Soul Gems light up and each hero has a vision of his god appearing as an ethereal presence, silent and grave; the divine avatars. Each avatar bestows items to the hero he communicates with, holy gifts for the imminent battle. Then, the vision fades as the gods nod in benevolent farewell.(See <b>Emporium Special Quest Rules</b>). Marcus witnesses the scene, then kneels down and prays. Then the cleric utters solemn words. \"The gods are with us. Beyound that door you will find your freedom and the salavation of the Talon Coast! We are not alone at the end of this journey! Holy gods, please be our guides, before and after this last endeavor. We are your soldiers serving the light, forever fighting brave and proud!\" With these words, and bathed in the benevolent light of the Three, the Heroes step into the darkness of the temple of doom...",
 		ko: "마침내 공포의 프리스트인, 이름 없는 악의 지배자인 신전의 입구가 손에 닿을 수 있는 곳에 놓여 있다. 문턱을 통과하기 직전에 모든 영혼 보석들이 빛을 발하고 각각의 영웅들은 그의 신이 침묵하고 무덤인 신성한 아바타로 나타나는 비전을 가지고 있다. 각각의 아바타는 그가 소통하는 영웅에게 아이템을 주고, 곧 다가올 전투를 위한 성스러운 선물을 준다. 그러자 신들이 자애로운 작별인사를 하며 고개를 끄덕이면서 비전이 희미해진다.(<b>엠포리엄 특별 퀘스트 규칙 </b> 참조) 마커스는 그 광경을 목격하고 나서 무릎을 꿇고 기도한다. 그러자 성직자는 엄숙한 말을 내뱉는다.\"신들은 우리와 함께 있다. 저 문을 지키면, 당신은 당신의 자유와 탈론 코스트의 숭배를 찾을 수 있을 것이다. 우리는 이 여정의 끝에 혼자가 아니다! 성하, 부디 우리의 가이드가 되어 주시옵소서. 이 마지막 노력을 하기 전과 후에. 우리는 빛에 봉사하는 너희의 병사들이야, 영원히 용감하고 자랑스러운 싸움을 하고 있어!\" 이런 말과 함께, 세자의 자애로운 빛에 목욕을 한 영웅들은 파멸의 신전의 어둠 속으로 발을 들여놓는다..."
 	},
+        {
+                name: "$7.1 (Waypoint 1)",
+                en: "Torches light the marble room, casting cruel twisting shadows. The heroes can feel the danger increasing at every step...",
+                ko: "토치는 잔인하게 비틀어진 그림자를 드리우며 대리석 방을 비추고 있다. 영웅들은 모든 단계에서 위험이 증가하는 것을 느낄 수 있다..."
+        },
+        {
+                name: "$7.2 (Story Event 1)",
+                en: "Finally, the heroes reach a large area dominated by a circular ornament on the floor, surrounded by runes and several strange obelisks. After a moment, an unnatural voice speaks from the darkness. \"Ye intruders beware! A crushing death and endless grief await you!\" A creature emerges before the party. The undead creature floats in mid-air within a living tunic made of dark shadows. Bone protrusions grow from its back like grim wings, and its skeletal countenance is the very face of evil. In a blink, its empty orbits flare with malevolent fire and, aiming a dragon bone staff, the Death Lord and its guards issue a mortal challenge to the heroes!",
+                ko: "마침내 영웅들은 런과 몇 개의 이상한 오벨리스크로 둘러싸인 마루의 원형 장식이 지배하는 넓은 지역에 도달한다. 잠시 후 어둠 속에서 부자연스러운 목소리가 말한다. \"침입자 주의! 참혹한 죽음과 끝없는 슬픔이 당신을 기다리고 있다!파티 앞에 생물이 나타난다. 죽은 생물은 어두운 그림자로 만들어진 살아있는 튜닉 안에서 공중에서 떠다닌다. 뼈의 돌출은 등으로부터 음침한 날개처럼 자라나며, 골격의 안색은 바로 악의 얼굴이다. 눈 깜짝할 사이에, 그 텅 빈 궤도는 악의적인 불로 불타고, 용골 지팡이를 겨누고, 죽음의 신과 그 호위병들은 영웅들에게 치명적인 도전을 한다!"
+        },
+        {
+                name: "$7.3 (Story Event 1)",
+                en: "\"I can feel the power within you! Do you really think it can make you strong enough to defeat me? If so, be brave and challenge me! Come and attack me, if you dare, fool! I'm the eternal evil. Pain and sorrow are my arms. The black shadow that obscures the world is my cape. No one can defeat me!\"",
+                ko: "\"내면의 힘이 느껴져! 그게 날 이길 만큼 널 강하게 만들 수 있다고 생각해? 그렇다면 용기를 내서 나에게 도전해 보라! 덤벼라, 덤벼라, 멍청아! 나는 영원한 악이다. 아픔과 슬픔이 내 팔이다. 세상을 가린 검은 그림자가 내 망토다. 아무도 날 이길 수 없어!\""
+        },
+        {
+                name: "$7.4 (Story Event 1)",
+                en: "\"Come closer and attack me if you dare, fools! I'm the eternal evil. Pain and sorrow are my arms. The black shadow that obscures the world is my cape. No one can defeat me!\"",
+                ko: "\"더 가까이 와서 감히 덤벼라, 바보들아! 나는 영원한 악이다. 아픔과 슬픔이 내 팔이다. 세상을 가린 검은 그림자가 내 망토다. 아무도 날 이길 수 없어!\""
+        },
+        {
+                name: "$7.5 (Waypoint X)",
+                en: "The hero enters what appears to be the sacrificial chamber of the temple, dominated by a huge bone obelisk. In its center, a young boy is trapped in the very walls of the structure. Black tendrils whip out of the obelisk and meld into the young boy's veins, feeding on his very soul. Marcus falls on his knees as he recognizes the boy. \"That's prince Rygar, the son of the late King Rastan! They are using his body as a catalyst for powerful sorcery!\"",
+                ko: "영웅은 거대한 뼈 오벨리스크가 지배하는 신전의 제물로 보이는 곳으로 들어간다. 그 중심부에는 어린 소년이 바로 그 건물의 벽에 갇혀 있다. 검은 힘줄이 오벨리스크에서 튀어나와 어린 소년의 정맥 속으로 녹아들어, 바로 그 영혼을 먹고 산다. 마커스는 그 소년을 알아보자 무릎을 꿇는다.\"저 사람은 고 라스탄왕의 아들 료가 왕자다! 그들은 그의 몸을 강력한 주술의 촉매로 사용하고 있다!\""
+        },
+        {
+                name: "$7.6 (Story Event 1)",
+                en: "The last blow cleaves the skull of the Undead Lord, and the rest of its skeleton crumbles in a pile of bones upon the ground. Immediately, three red trails of magical light touch the bones, and the creature begins to regenerate! Marcus traces one of the trails back to a scarlet gem set into the throne in the main chamber, so he speaks to the party. \"That aberration is immortal! Almost like you, its soul is imprisoned in three blood gems! You must destroy them!\"",
+                ko: "마지막 일격은 언데드 주님의 두개골을 가르고, 나머지 뼈는 땅 위에 있는 뼈 더미 속에서 부스러진다. 즉시, 세 개의 붉은 빛의 흔적이 뼈에 닿으면, 그 생물은 재생되기 시작한다! 마커스는 오솔길 중 하나를 본실의 왕좌에 세운 주홍색 보석으로 거슬러 올라간다.그래서 그는 일행에게 말한다.\"그 변태는 불멸이다! 너처럼 영혼은 세 개의 피의 보석에 갇혀 있어! 그들을 파괴해야 한다!\""
+        },
+        {
+                name: "$7.7 (Waypoint X)",
+                en: "The obelisk trapping prince Rygar is shrouded in a strange purple mist, which turns into a crystal barrier at the slightest touch.",
+                ko: "오벨리스크를 추적하는 왕자인 라이가르는 이상한 보라색 안개에 싸여 있는데, 이 안개들은 아주 작은 손길에도 수정 장벽으로 변한다."
+        },
+        {
+                name: "$7.8 (Story Event 1)",
+                en: "More due to the immense willpower of the hero than to the physical blow itself, the blood gem cracks, and dark red fluid seeps out of it, somehow healing the hero.",
+                ko: "육체적인 타격 자체보다는 영웅의 엄청난 의지력에 더하여 그 속에서 피 보석이 갈라지고 검붉은 액체가 스며나와 어떻게든 영웅을 치유한다."
+        },
+        {
+                name: "$7.9 (Waypoint 2)",
+                en: "Beyond the door, the hero reaches one of the arcane crypts belonging to the Undead Lord. In the room, the air is searing, and rivers of lava erupt with tall flames. A blood-red gem hovers in the air, surrounded by the raging fire, over an altar on the opposite side of the room (Story Event 2). As the hero enters the room, undead guardians rise to protect the blood gem.",
+                ko: "문 너머에 영웅은 언데드 주(Undead Lord)에 속한 아칸소 지하실 중 하나에 도달한다. 방안에는 공기가 스며들고 있고, 용암의 강물은 높은 불꽃과 함께 분출한다. 피빛 보석이 맹렬한 불길에 휩싸여 방 반대편에 있는 제단 위로 공중에서 맴돈다(스토리 이벤트 2). 영웅이 방에 들어서자 언데드 보호자들이 일어나 피 보석을 보호한다."
+        },
+        {
+                name: "$7.10 (Story Event 2)",
+                en: "The crimson gemstone floats within the grasp of the hero. The flames reflect on its surface, darkening the black blood inside, as evil a substance as that the Undead Lord is made of. The hero just has to reach out and destroy the artifact.",
+                ko: "진홍색의 원석은 영웅의 손아귀 안에 떠 있다. 불길은 그 표면에 반사되어 안에 있는 검은 피를 언데드 로스로 만들어진 것만큼 사악한 물질처럼 어둡게 한다. 영웅은 그저 손을 뻗어 유물을 파괴하기만 하면 된다."
+        },
+        {
+                name: "$7.11 (Waypoint X)",
+                en: "The blow has no visible effect on the black crystal, which soon returns to mist. None of the following attacks have any effect either, so the hero fully understands that the barrier cannot be destroyed in this way.",
+                ko: "그 타격은 곧 안개로 돌아오는 검은 수정에는 가시적인 효과가 없다. 다음의 공격들 중 어느 것도 영향을 미치지 않기 때문에 영웅은 장벽이 이런 식으로 파괴될 수 없다는 것을 충분히 이해한다."
+        },
+        {
+                name: "$7.12 (Waypoint 3)",
+                en: "Beyond the door, the hero enters one of the arcane crypts belonging to the Undead Lord. Inside the room, ice envelops everything, and the frigid temperature numbs both body and soul. A blood-red gem floats over an altar on the opposite side of the room, almost shivering in the cold air around it (Story Event 3). As the hero enters the room, undead guardians rise to protect the blood gem.",
+                ko: "문 너머에 영웅은 언데드 주(Undead Lord)에 속한 아칸소 지하실 중 한 곳으로 들어간다. 방 안에는 얼음이 모든 것을 감싸고 있고, 추운 온도는 몸과 영혼을 모두 수치로 만든다. 피빛 보석이 방 맞은편에 있는 제단 위로 떠서, 그 주변의 차가운 공기 속에서 거의 떨고 있다(스토리 이벤트 3). 영웅이 방에 들어서자 언데드 보호자들이 일어나 피 보석을 보호한다."
+        },
+        {
+                name: "$7.13 (Story Event 2)",
+                en: "Under the hero's blow, the gem cracks and then explodes. The blood dissolves into crimson mist and heals the hero while severely damaging the Undead Lord.",
+                ko: "영웅의 일격에 보석은 갈라졌다가 폭발한다. 그 피는 진홍빛 안개로 용해되어 영웅을 치유하는 동시에 언데드 주님을 심하게 해친다."
+        },
+        {
+                name: "$7.14 (Story Event 3)",
+                en: "The blood gem floats in a small whirlwind, so close to the hero. The cold blurs the vision of blood inside the stone, almost crystallizing the red fluid. The hero has just to reach out into the cold current and destroy the artifact.",
+                ko: "피 보석은 작은 회오리바람에 떠서 영웅과 아주 가깝다. 추위는 돌 안에 있는 피의 시야를 흐리게 하여 붉은 액체를 거의 결정화시킨다. 영웅은 차가운 물살에 손을 뻗쳐 유물을 파괴하기만 하면 된다."
+        },
+        {
+                name: "$7.15 (Glass Vial)",
+                en: "The hero drinks the whole potion, and the effects set in one last time.",
+                ko: "영웅은 물약을 통째로 마시고, 효과는 마지막으로 한 번 정해진다."
+        },
+        {
+                name: "$7.16 (Ex-Mortis)",
+                en: "The signs, written in blood, change their runic shape and form understandable letters for the time needed to cast the spell. Once spoken, the necromantic magic manifests itself as the letters revert to blood runes...",
+                ko: "피로 쓰여진 표지판들은 그들의 진부한 모양을 바꾸고 주문을 걸기 위해 필요한 시간 동안 이해할 수 있는 글자를 형성한다. 일단 말을 하면, 글자가 혈류로 되돌아갈 때 신크로맨틱 마법이 모습을 드러낸다..."
+        },
+        {
+                name: "$7.17 (Story Event 3)",
+                en: "The hero's power shatters the crystal, almost as if it was made of ice. The dense red fluid seeps out and turns to a crimson mist that heals the hero's wounds while severely damaging the Undead Lord.",
+                ko: "영웅의 힘은 거의 얼음으로 만들어진 것처럼 수정체를 산산조각 낸다. 빽빽한 붉은 액체가 스며나와 영웅의 상처를 치유하면서 언데드 주님을 심하게 해치는 진홍빛 안개로 변한다."
+        },
+        {
+                name: "$7.18 (Story Event 1)",
+                en: "Wracked by pain as unholy as its own existence, the Undead Lord.",
+                ko: "자신의 존재만큼이나 불효한 고통에 휩싸인 언데드 로드."
+        },
+        {
+                name: "$7.19 (Ex-Mortis)",
+                en: "The Undead Lord laughs as it hears the necromantic runes read from the book. \"Bwahaha! You fool! You dare to use the Ex-Mortis against me? I am the one and only Lord of Death, and the necromantic magic of that artifact is powerless against me! You, instead, will suffer the consequences of your foolishness!\" Disabled by pain, the hero starts sweating his own blood. Drops of the vital fluid touch the ground and form a crimson whirlwind that coalesces into an undead monster, poised to attack the hero!",
+                ko: "언데드 로드(Undead Lord)는 책에서 읽은 신대성 런의 소리를 들으며 웃는다. \"브와하하하! 이 등신아! 나한테 감히 엑모티스를 이용하려고? 나는 유일하고 유일한 죽음의 신이고, 그 공예의 신묘마법은 내게 무력하다! 그대신 그대들은 그대들의 어리석음의 결과를 겪게 될 것이다!\" 고통으로 불구, 영웅은 자신의 피를 흘리기 시작한다. 활력 있는 액체의 방울이 땅에 닿아 시들지 않은 괴물로 합쳐지는 진홍빛 회오리바람을 일으키며 영웅을 공격할 태세를 갖추고 있다!"
+        },
+        {
+                name: "S7.20 (Story Event 1)",
+                en: "...immediately teleports to its throne while casting an energy wave that pushes the heroes away from it. Suffering and furious due to the loss of the gem, the monster growls, \"You accursed wretches. You will never defeat me! The ritual will soon be complete, and nothing will survive my dominion. You will all die! Abyssal Gate!\" The arcane invocation causes the very walls of the temple to writhe as the whole hall submits to the dark will of its master! A dark portal is created, and undead monsters erupt from it! The heroes suddenly understand that their only hope rests in the destruction of the last two blood gems hidden somewhere in the other rooms of the temple.",
+                ko: "...영웅들을 그 자리에서 밀어내는 에너지 파동을 일으키면서 즉시 왕좌로 전보한다. 보석을 잃어버려 고통스럽고 격노한 괴물은 으르렁거리며 \"너희들은 얼버무렸다. 넌 절대 날 이길 수 없어! 그 의식은 곧 완성될 것이고, 내 지배에서 살아남는 것은 아무것도 없을 것이다. 모두 죽을 거야! 애비살 게이트!\" 그 아칸소 발명은 전체 홀이 주인의 어두운 의지에 복종할 때 바로 그 성전의 벽이 몸부림치게 한다! 어두운 포탈이 만들어지고, 거기서 언데드 몬스터들이 분출한다! 영웅들은 갑자기 그들의 유일한 희망이 절의 다른 방 어딘가에 숨겨져 있는 마지막 두 개의 피 보석을 파괴하는 데 있다는 것을 이해한다."
+                },
+        {
+                name: "$7.21 (Ex-Mortis)",
+                en: "As the necromantic runes are read, the Undead Lord falls to the ground screaming in pain, while waves of dark bolts from the book strike its body. The evil orbits of its skull gaze upon the reader, and the monster yells, \"Nooooo! I am the one and only Lord of Death! You are nothing! Klaatu, Barada, Nikto!\" The arcane words detonate the book in a violent vortex of black magic. The dark bolts dissolve, but the Lich has lost its magical defenses, and its darkened and chipped bones reveal its vulnerability!",
+                ko: "신약성 런이 읽히면서 언데드 로드(Undead Lord)는 고통에 비명을 지르며 땅에 쓰러지고, 책에서 흘러나온 어두운 볼트의 파도는 몸에 부딪친다. 그 두개골의 사악한 궤도는 독자를 응시하고, 괴물은 소리친다, \"누우오! 나는 유일하고 유일한 죽음의 신이다! 넌 아무것도 아니야! 클라투, 바라다, 니코!\" 불가사의한 단어들이 검은 마법의 격렬한 소용돌이 속에서 책을 폭발시킨다. 어두운 볼트는 용해되지만, 리치는 마법의 방어를 잃었고, 어둡고 갈라진 뼈들은 그 취약성을 드러낸다!"
+        },
+        {
+                name: "$7.22 (Story Event 1)",
+                en: "...immediately teleports to one corner of the throne room, maddened by the pain. Fueled by its suffering and anger, the creature again casts its spell. \"I cannot be vanquished. You cannot defeat me. Abyssal Gate!\" Once again, a dark portal appears in the room and undead soldiers spew forth, obeying the will of their dark master.",
+                ko: "...즉시 고통으로 더러워진 채 왕실의 한쪽 구석으로 텔레포트를 한다 고통과 분노에 힘입어 이 생물은 다시 주문을 외운다. \"나는 패배할 수 없다. 넌 날 이길 수 없어. 애비살 게이트!\" 다시 한 번 어두운 포탈이 방 안에 나타나 언데드 병사들이 어둠의 주인의 뜻에 복종하며 내뱉었다."
+        },
+        {
+                name: "$7.23 (Story Event 1)",
+                en: "For the first time, the hero feels the calm of the wolf spirit fade away, giving way to a wilder call... the hero closes his eyes and opens his mind to the primeval instinct and primordial fury of the beast! The wolf spirit leaves the hero's body and coalesces into a pack of spiritual wolves, ready to fight at his side!",
+                ko: "영웅은 처음으로 늑대정신의 고요함이 사라져가는 것을 느끼고, 호령에게 자리를 양보한다... 영웅은 눈을 감고 그 짐승의 원시적인 본능과 원초적인 분노에 마음을 연다! 늑대정신은 영웅의 몸을 떠나 영적인 늑대 무리 속으로 합쳐져서, 자기 곁에서 싸울 준비를 한다!"
+        },
+        {
+                name: "$7.24 (Story Event 1)",
+                en: "Before their very eyes, the ethereal form of the Lord of Death dissolves, leaving behind the mortal skeleton of the Lich! Without the blood gems protecting it, the undead lord knows it is in danger, so it assumes a more aggressive attitude toward the heroes. \"I will annihilate each of you with the most painful death, and then I will resurrect you, just to kill you again and again! Timeless suffering will reward your foul deeds and stupidity!\" With a quick gesture, the Lich casts its pendant to the ground, once again opening a dark portal to summon its dreadful ally: the ghost of Sir Vorn, the most lethal Death Knight who ever existed! As the faithful undead knight advances, the Lich teleports itself into another room, north of the Temple.",
+                ko: "그들의 바로 눈앞에서 죽음의 신전의 이타적 형태는 리히의 인간적인 몰골을 남기고 분해된다! 피 보석이 그것을 보호하지 않는다면, 언데드 영주는 그것이 위험에 처해 있다는 것을 알기 때문에, 영웅들에 대한 더 공격적인 태도를 가정한다. \"가장 고통스러운 죽음과 함께 너희 모두를 섬멸시키고, 그 다음에 너희를 부활시키겠다, 단지 너희를 죽이기 위해서! 때아닌 고통은 너의 반칙과 어리석음에 보답할 것이다!\" 빠른 몸짓으로 리치는 자신의 펜던트를 땅에 던지며, 무시무시한 동맹군을 소환하기 위해 다시 한 번 어두운 포탈을 열었는데, 그것은 바로 지금까지 존재했던 가장 치명적인 데스 나이트인 본 경의 유령이다! 충실한 언데드 기사가 나아가자 리치는 자신을 신전의 북쪽인 다른 방으로 전보한다."
+        },
+        {
+                name: "$7.25 (Story Event 1)",
+                en: "The hero realizes the tendrils are woven from the same dark matter that forms the Lich's cloak and that their ravenous feeding on the boy might be tied to the Undead Lord's power.",
+                ko: "영웅은 힘줄이 리히의 망토를 형성하는 것과 같은 암흑 물질로 짜여져 있고, 소년에게 그들의 요란한 먹이가 언데드 주군의 힘에 묶여 있을지도 모른다는 것을 깨닫는다."
+        },
+        {
+                name: "$7.26 (Story Event 1)",
+                en: "The deadly encounter burns into the vampire hero's heart, igniting a power hitherto unknown. The utter hatred toward his enemy instantly summons a succubus! Almost instinctively, the hero commands the seductive demoness to grasp an enemy and drag it into the hellish gate from whence she emerged! The summoning, however, shocks the hero, rendering the Dark Gift's power dormant.",
+                ko: "그 치명적인 만남은 그 뱀파이어 영웅의 가슴에 불타고, 알려지지 않은 힘을 점화시킨다. 그의 적에 대한 완전한 증오심은 즉각적으로 성공회를 소집한다! 거의 본능적으로, 영웅은 유혹적인 악마에게 언제 그녀가 나타났는지부터 적을 잡고 지옥 같은 문으로 끌고 가라고 명령한다! 하지만 이번 소환은 영웅에게 충격을 주어 다크 선물의 힘을 잠재웠다."
+        },
+        {
+                name: "$7.27 (Night)",
+                en: "All at once, the heroes' souls darken, as if each of them had lost a part of themselves. The eldritch sorcery of the Undead Lord grows in power and now, thanks to the temple’s architecture, he can block the gods' powers from this place! The dark voice of the Undead Lord echoes in the halls as he laughs in triumph. \"Power! Unlimited power! Not even the gods can help you now. The ritual is almost over. Soon I will be the only god, and your meaningless lives will cease!\"",
+                ko: "영웅들의 영혼은 저마다 자기 일부를 잃은 듯 한꺼번에 어두워진다. 언데드 신의 마법은 세력이 커져서 이제 신전의 건축 덕분에 이곳에서 신들의 힘을 막을 수 있다! 언데드 영주의 어두운 목소리가 의기양양하게 웃으며 복도에 메아리친다. \"파워! 무제한 전력! 이제 신들도 널 도울 수 없어 의식이 거의 끝났다. 곧 나만이 유일한 신이 될 것이고, 너의 무의미한 삶은 멈출 것이다!\""
+        },
+        {
+                name: "$7.28 (Story Event 1)",
+                en: "In the last, desperate battle, the heroes understand that they will only prevail with the power of the gods. Directed by Marcus, the party joins their Soul Gems, summoning the Holy Three: Aneres, Enomis and Mir. In answer to their devout prayer, a wave of mystical energy rises from the ancient, forgotten shrine in the antechamber of the throne room and crashes through the temple, destroying several of the undead! The energy grows brighter and brighter, blinding the Undead Lord, but soon the light disappears as the structure of the temple severs the connection to the gods, and the holy shrine crumbles to dust. The heroes suddenly feel their hearts go empty and understand they are now alone in this decisive battle.",
+                ko: "마지막, 필사적인 전투에서 영웅들은 신들의 힘으로만 승리할 것이라는 것을 이해한다. 마커스가 지휘하는 이 파티는 그들의 소울 젬에 합류하여 아네레스, 에노미스, 미르 등 3개 성당을 소환한다. 그들의 독실한 기도에 답하여, 고대, 잊혀진 왕실의 사당으로부터 신비로운 기운이 솟아올라 사원을 뚫고 추락하여 언데드 몇 명을 파괴한다! 그 기운은 점점 밝아져 언데드 주님을 눈이 멀게 하지만 곧 신전의 구조가 신들과의 연결을 통과하면서 빛이 사라지고, 성스러운 사당은 흙먼지로 무너진다. 영웅들은 갑자기 가슴이 허전해지는 것을 느끼고 이 결정적인 전투에서 이제 혼자라는 것을 이해한다."
+        },
+        {
+                name: "$7.29 (Story Event 1)",
+                en: "After meaningless attempts to sever the eldritch tendrils from the young prince's body, the party understands that the only way to free Rygar without killing him is to end the unholy existence of the Undead Lord!",
+                ko: "어린 왕자의 몸에서 료가르를 떼어내려는 무의미한 시도 끝에, 당은 그를 죽이지 않고 료가를 자유롭게 하는 유일한 방법은 언데드 주님의 불경스러운 존재를 끝내는 것이라고 이해한다!"
+        },
+        {
+                name: "$7.30 (Story Event 1)",
+                en: "Tough times demand tough hearts and tough decisions. Terrible as it may be, killing Prince Rygar may be the only way to sever the Undead Lord's power and save the Kingdom. With this thought in mind, the hero sinks his blade in the boy's heart, and the Undead Lord screams hideously in pain!",
+                ko: "힘든 시간은 힘든 마음과 힘든 결정을 요구한다. 끔찍한 일이지만, 라이거 왕자를 죽이는 것만이 언데드 주군의 권력을 끊고 왕국을 구할 수 있는 유일한 방법일지도 모른다. 이런 생각을 염두에 두고 영웅은 소년의 가슴 속에 칼날을 가라앉히고, 언데드 로드는 고통 속에 숨어 비명을 지른다!"
+        },
+        {
+                name: "$7.31 (Ending)",
+                en: "After countless hits, the Lich’s body breaks apart and falls to pieces! The bone splinters around the temple crumble to dust and fade to black smoke that dissolves in the air. The battle is over, and the power of the gods returns to this once-dark temple. Silence falls on the lands of the Talon Coast. The silence of peace?",
+                ko: "무수한 타격을 받은 리치의 몸은 산산조각으로 부서져 산산조각이 난다! 사원의 뼈 조각은 흙먼지로 부서지고 공기 중에 용해되는 검은 연기로 희미해진다. 전투는 끝났고, 신들의 힘은 한 번 어두운 이 신전으로 돌아온다. 타론 해안의 땅에 침묵이 내린다. 평화의 침묵?"
+        },
+        {
+                name: "$7.32 (Ending)",
+                en: "Marcus enters the throne room, carrying the weakened body of Prince Rygar. \"As King Rastan before him, Prince Rygar will reign! Under his guidance the kingdom will know prosperity and peace! Only the gods know what the future holds for us, but thanks to you, Keepers of the Kingdom, even the unknown appears much less menacing!\"",
+                ko: "마커스는 약해진 료가 왕자의 몸을 안고 왕실로 들어간다. \"라스탄왕처럼 라이거 왕자가 군림할 것이다! 그의 지도 아래 왕국은 번영과 평화를 알게 될 것이다! 신들만이 미래가 우리에게 무엇을 가져다 줄지 알고 있지만, 왕국의 키퍼들 덕분에 미지의 것조차 훨씬 덜 위협적으로 보인다!\""
+        },
+        {
+                name: "$7.33 (Ending)",
+                en: "Marcus enters the throne room, carrying the dead body of Prince Rygar. \"As King Rastan before him, Prince Rygar gave his life for the kingdom. May his death be an example for all of us. Without a King, only the gods know what the future holds for us. But thanks to you, even the unknown appears much less menacing!\"",
+                ko: "마커스는 료가 왕자의 시체를 안고 왕실로 들어간다. \"라스탄왕처럼 라이거 왕자는 왕국을 위해 목숨을 바쳤다. 그의 죽음이 우리 모두에게 본보기가 되기를. 왕이 없으면 신만이 미래가 우리에게 어떤 영향을 미칠지 안다. 하지만 네 덕분에, 알려지지 않은 것조차 위협적이지 않은 것 같아!\""
+        },
+        {
+                name: "$7.34 (Ending)",
+                en: "And so, the strength of the heroes failed and Evil overtook the world. The Undead Lord's sorcery burned and severed the magical tie binding the heroes' souls to the mortal world. Their lifeless bodies fell, their Soul Gems integrated into of an evil crown made of pain and death. The Undead Lord devoured the souls of each champion and grew in power beyond any mortal, challenging the gods themselves. The last chapter of the chronicles ends as Death itself marches on, poised to lay waste to the lands of the Talon Coast.",
+                ko: "그래서 영웅들의 힘은 실패했고 악은 세계를 지배했다. 언데드 로드의 마법은 영웅들의 영혼을 인간 세계에 결속시키는 마법의 넥타이를 불태우고 끊어버렸다. 그들의 생명이 없는 육체는 떨어지고 그들의 영혼은 고통과 죽음으로 만들어진 사악한 왕관에 통합되었다. 언데드 로드(Undead Lord)는 각 챔피언의 영혼을 집어삼키고, 그 어떤 인간도 넘어 권력에서 성장하면서 신들 자신에게도 도전장을 내밀었다. 연대기의 마지막 장은 죽음 자체가 행진하면서 끝이 나고, 탈론해안의 땅에 쓰레기를 버릴 태세였다."
+        },
+        {
+                name: "$7.35 (Ending)",
+                en: "With the Undead Lord's demise, the heroes are finally free from the sorcery that guided their souls and their destiny. But the immense power of immortality given by the Soul Gem remains... and no one will ever know if this is a gift from the gods or from High Priest Claudius, who first summoned the heroes. Each hero is now free to choose his own path, either returning to eternal rest or facing new challenges as a powerful immortal in the service of the gods. You are at one with all living things. You have power beyond imagination. Use it well. Immortal Hero!",
+                ko: "언데드 로드의 죽음과 함께 영웅들은 마침내 그들의 영혼과 운명을 인도한 마법으로부터 자유로워진다. 하지만 소울 젬이 주는 엄청난 불멸의 힘은 여전해... 그리고 이것이 신들의 선물인지 아니면 영웅들을 처음 소환한 클라우디우스 제사장의 선물인지 아무도 모를 것이다. 각 영웅은 이제 자신의 길을 자유롭게 선택할 수 있게 되었으며, 영원한 안식으로 돌아가거나 신들을 섬기는 데 있어서 강력한 불멸의 모습으로 새로운 도전에 직면하게 되었다. 너는 모든 생명체와 하나가 되어 있다. 너는 상상을 초월하는 힘을 가지고 있다. 잘 써. 불멸의 영웅!"
+        },
 ];
