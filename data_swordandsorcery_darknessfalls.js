@@ -44,7 +44,7 @@
 	},
 	{
 		name: "$1.8 (Waypoint 2)",
-		en: "You take a closer look and immediately notice the name of King Rastan has been recently carved, while Rygar - the missing son - is absent, almost as if representing the feeble, yet living, hope of his people. The noble pride of Count Dalv seems untarnished by his role as ruler without a crown.",
+		en: "You take a closer look and immediately notice the name of King Rastan has been recently carved, while 라이가 - the missing son - is absent, almost as if representing the feeble, yet living, hope of his people. The noble pride of Count Dalv seems untarnished by his role as ruler without a crown.",
 		ko: "자세히 살펴보자 당신은 곧바로 라스탄 왕의 이름이 최근에 새겨졌다는 것을 알 수 있다. 실종된 그의 아들인 라이가의 이름은 목록에 없는데, 그것은 마치 그의 백성들의 미약한 희망대로 그가 아직 살아있기 원하는 것을 나타내는 듯 하다. 달브 백작은 그가 섭정으로서 최고 권력자가 되었음에도 불구하고 귀족으로서의 긍지를 잊지 않은 듯 하다."
 	},
 	{
@@ -797,7 +797,7 @@
 	{
 		name: "$5.28 (Ending)",
 		en: "Struggling in his last moments, the Count barely manages to utter his final words: \"I admit defeat when it is so clear. This day will see my end at last. But you will still be bound to the spell that enslaves your souls! I am free at last, and Death reclaims me – but the Mistress of All grants me time to tell my story. Long ago, I lost my wife, Elizabeth. During a battle, I was presumed dead, and she committed suicide in grief. I returned home to find her lifeless body in a pool of congealing blood... I cursed the gods, swearing I would become so powerful that her death would be undone! It was at this point Darkness touched me, embraced me, and possessed me. Evil in his purest form, nameless and faceless, welcomed me into the night, granting me the dark gift. At first, I only accepted because I desperately wanted Elizabeth back... I thought I was in control... I was a fool. Soon I realized I was but a puppet, a creature of the night who danced on the strings of darkest, eternal evil. I served it to my best abilities during these long years, hiding the fact that I tried to save as many lives as possible in the mean time. But then you came and shattered the darkness' plans. Now my Master is angry. Perhaps you will see me as a meek being. My sins have spelled my doom, and this I cannot change... but now the task in which I failed falls to you. My death will open a portal leading you to the dungeons of the Temple of Doom. Unspeakable horrors will try to stop you, but should you succeed in this quest, you will finally be free... Destroy my Master. This is my last wish. Farewell!\" Tendrils of black magic grasp the now dead body of the vampire, consuming his flesh until only dust remains. Where the body of the Count once lay, a circle of magical runes glows... The last attempt of the Count to redeem himself appears, a portal that will lead to the end of all...",
-		ko: "불사의 끝 앞에서 몸부림치며 백작은 힘겹게 마지막 말을 남긴다. \"내 패배를 인정할 수 밖에 없군. 마침내 내게도 최후의 날이 왔는가... 하지만 자네들은 영혼을 구속하는 주문에서 해방될 수 없을 걸세. 죽음이 다시 나를 찾아와, 내가 자유를 얻게 되는 동안 말이지. 만물의 여신께서 내게 과거를 이야기할 시간을 주시는군. 오래전, 나는 내 아내 엘리자베스를 잃었다네. 내가 참가한 전투에서 난 전사한 것으로 알려졌고, 그녀는 슬픔에 빠져 스스로 죽음을 택하고 말았지. 집으로 돌아온 난 말라붙은 피 웅덩이 속에서 그녀의 시체를 발견했지... 난 신들을 저주했다네. 그리고 맹세했지. 그녀를 되돌릴 수 있을 정도로 강한 존재가 되기로! 이 때가 바로, 어둠의 존재가 내게 접근해, 나를 감싸고, 나를 타락시킨 순간이라네. 그 이름도 얼굴도 없는 그 순수한 악의 존재는 나를 밤의 어둠 속으로 이끌며, 내게 어둠의 힘을 선사했지. 그 때, 난 오직 엘리자베스를 되찾으려는 간절한 소망으로 이를 받아들였다네... 나는 내가 그것을 통제할 수 있다고 생각했지만... 내가 어리석었지. 곧 난 내가 그저 꼭두각시임을 깨달았다네. 불멸의 악이 휘두르는 어둠의 줄에 매여 춤추는 밤의 괴물말일세. 오래동안 난 최선을 다해 그에 뜻에 따랐지. 하지만 난 그 동안, 그가 눈치채지 못하게 가능한 많은 사람을 살리려 애썼다네. 그리고 자네들이 나타나 그 자의 계획을 부수었지. 나의 주인은 몹시 화가 났다네. 아마도 자네들은 날 나약한 자로 여길테지. 나의 파멸은 나의 죄가 초래한 것이니, 이는 마땅한 일일세. 그리고 이제 내가 실패한 임무는 자네들의 것이 되었네. 내가 죽으면 파멸의 신전의 미궁으로 이어지는 차원문이 열릴걸세. 말할 수 없는 공포가 자네들을 막으려 들겠지, 하지만 이 여정을 끝마치면 자네들은 마침내 자유의 몸이 될걸세... 내 주인을 파괴해주게. 내 마지막 소망일세. 이제 작별이군.\" 검은 마법의 덩굴손들이 이제는 시체가 된 흡혈귀의 몸을 타고 오르며 그 살점을 먹어치워 먼지만을 남긴다. 백작의 시체가 놓여있던 장소에는 빛나는 마법의 룬들이 원을 이루고 있다... 속죄를 위한 백작의 마지막 시도인 그 차원문은 영웅들을 모든 것의 끝으로 이끌 것이다..."
+		ko: "불사의 끝 앞에서 몸부림치며 백작은 힘겹게 마지막 말을 남긴다. \"내 패배를 인정할 수 밖에 없군. 마침내 내게도 최후의 날이 왔는가... 하지만 자네들은 영혼을 구속하는 주문에서 해방될 수 없을 걸세. 죽음이 다시 나를 찾아와, 내가 자유를 얻게 되는 동안 말이지. 만물의 여신께서 내게 과거를 이야기할 시간을 주시는군. 오래전, 나는 내 아내 엘리자베스를 잃었다네. 내가 참가한 전투에서 난 전사한 것으로 알려졌고, 그녀는 슬픔에 빠져 스스로 죽음을 택하고 말았지. 집으로 돌아온 난 말라붙은 피 웅덩이 속에서 그녀의 시체를 발견했지... 난 신들을 저주했다네. 그리고 맹세했지. 그녀를 되돌릴 수 있을 정도로 강한 존재가 되기로! 이 때가 바로, 어둠의 존재가 내게 접근해, 나를 감싸고, 나를 타락시킨 순간이라네. 그 이름도 얼굴도 없는 그 순수한 악의 존재는 나를 밤의 어둠 속으로 이끌며, 내게 어둠의 힘을 선사했지. 그 때, 난 오직 엘리자베스를 되찾으려는 간절한 소망으로 이를 받아들였다네... 나는 내가 그것을 통제할 수 있다고 생각했지만... 내가 어리석었지. 곧 난 내가 그저 꼭두각시임을 깨달았다네. 불멸의 악이 휘두르는 어둠의 줄에 매여 춤추는 밤의 괴물말일세. 오래동안 난 최선을 다해 그에 뜻에 따랐지. 하지만 난 그 동안, 그가 눈치채지 못하게 가능한 많은 사람을 살리려 애썼다네. 그리고 자네들이 나타나 그 자의 계획을 부수었지. 나의 주인은 몹시 화가 났다네. 아마도 자네들은 날 나약한 자로 여길테지. 나의 파멸은 나의 죄가 초래한 것이니, 이는 마땅한 일일세. 그리고 이제 내가 실패한 임무는 자네들의 것이 되었네. 내가 죽으면 파멸의 신전의 미궁으로 이어지는 차원문이 열릴걸세. 말할 수 없는 공포가 자네들을 막으려 들겠지, 하지만 이 여정을 끝마치면 자네들은 마침내 자유의 몸이 될걸세... 내 주인을 파괴해주게. 내 마지막 소망일세. 이제 작별이군.\" 검은 마법의 촉수들이 이제는 시체가 된 흡혈귀의 몸을 타고 오르며 그 살점을 먹어치워 먼지만을 남긴다. 백작의 시체가 놓여있던 장소에는 빛나는 마법의 룬들이 원을 이루고 있다... 속죄를 위한 백작의 마지막 시도인 그 차원문은 영웅들을 모든 것의 끝으로 이끌 것이다..."
 	},
 	{},
 
@@ -805,7 +805,7 @@
 	{
 		name: "ACT II - QUEST VI : Cemetery Gates : Introduction",
 		en: "After meeting with Marcus, the party decides to enter the portal opened upon the death of Count Dalv. Black magical tendrils painfully envelop the Heroes, teleporting them to a distant land, far away from the count's castle. The cold stone is lit by weak torches, and the damp, pungent air of the undergound, are all the Heroes see and feel. Without another hint, the party parys to the gods to help them in their quest, and begins exploring the gloomy dungeon forking just ahead.",
-		ko: "마커스와 재회 후, 일행은 달브 백작이 죽음으로 만들어낸 차원문으로 들어가기로 한다. 검은 마법의 덩굴손들이 영웅들을 고통스럽게 옥죄고, 백작의 성으로 부터 멀리 떨어진 땅으로 순간 이동 시킨다. 희미한 횃불이 차가운 돌을 비추고, 땅 속의 축축하고 톡 쏘는 듯한 냄새가 나는 공기가 느껴진다. 어떤 단서도 없이, 일행은 그저 신들이 그들의 여정을 도와주길 기도하며, 눈앞에 뻗어있는 음울한 미궁을 탐색하기 시작한다." 
+		ko: "마커스와 재회 후, 일행은 달브 백작이 죽음으로 만들어낸 차원문으로 들어가기로 한다. 검은 마법의 촉수들이 영웅들을 고통스럽게 옥죄고, 백작의 성으로 부터 멀리 떨어진 땅으로 순간 이동 시킨다. 희미한 횃불이 차가운 돌을 비추고, 땅 속의 축축하고 톡 쏘는 듯한 냄새가 나는 공기가 느껴진다. 어떤 단서도 없이, 일행은 그저 신들이 그들의 여정을 도와주길 기도하며, 눈앞에 뻗어있는 음울한 미궁을 탐색하기 시작한다." 
 	},
 	{
 		name: "$6.1 (Waypoint 1)",
@@ -983,62 +983,62 @@
         {
                 name: "$7.1 (Waypoint 1)",
                 en: "Torches light the marble room, casting cruel twisting shadows. The heroes can feel the danger increasing at every step...",
-                ko: "토치는 잔인하게 비틀어진 그림자를 드리우며 대리석 방을 비추고 있다. 영웅들은 모든 단계에서 위험이 증가하는 것을 느낄 수 있다..."
+                ko: "횃불의 불빛이 끔찍하게 뒤틀린 그림자를 드리우며, 대리석으로 만들어진 방을 비춘다. 영웅들은 매걸음마다 위험 속으로 발을 딛고 있다는 것을 느낄 수 있다..."
         },
         {
                 name: "$7.2 (Story Event 1)",
                 en: "Finally, the heroes reach a large area dominated by a circular ornament on the floor, surrounded by runes and several strange obelisks. After a moment, an unnatural voice speaks from the darkness. \"Ye intruders beware! A crushing death and endless grief await you!\" A creature emerges before the party. The undead creature floats in mid-air within a living tunic made of dark shadows. Bone protrusions grow from its back like grim wings, and its skeletal countenance is the very face of evil. In a blink, its empty orbits flare with malevolent fire and, aiming a dragon bone staff, the Death Lord and its guards issue a mortal challenge to the heroes!",
-                ko: "마침내 영웅들은 런과 몇 개의 이상한 오벨리스크로 둘러싸인 마루의 원형 장식이 지배하는 넓은 지역에 도달한다. 잠시 후 어둠 속에서 부자연스러운 목소리가 말한다. \"침입자 주의! 참혹한 죽음과 끝없는 슬픔이 당신을 기다리고 있다!파티 앞에 생물이 나타난다. 죽은 생물은 어두운 그림자로 만들어진 살아있는 튜닉 안에서 공중에서 떠다닌다. 뼈의 돌출은 등으로부터 음침한 날개처럼 자라나며, 골격의 안색은 바로 악의 얼굴이다. 눈 깜짝할 사이에, 그 텅 빈 궤도는 악의적인 불로 불타고, 용골 지팡이를 겨누고, 죽음의 신과 그 호위병들은 영웅들에게 치명적인 도전을 한다!"
+                ko: "마침내, 영웅들은 광장에 도착한다. 그곳은 룬과, 기이한 첨탑들로 둘러싸여 있고, 바닥에는 원형 장식물이 가득하다. 잠시 후, 어둠 속에서 부자연스러운 목소리가 울려퍼진다. \"너희 침입자들에게 경고한다! 끔찍한 죽음과 영원한 슬픔이 너희를 기다린다!\" 이와 함께 거대한 괴물 하나가 일행 앞에 나타난다. 암흑의 그림자로 만들어진 살아있는 로브를 입고 있는 불사의 괴물이 허공에 떠 있다. 그것의 등에서 뼈가 튀어나와 마치 사신의 날개처럼 펼쳐지고, 그 해골만 남은 얼굴에는 사악하기 그지없는 표정이 드러난다. 눈 깜박할 사이에 사악한 불꽃의 원이 그려지고, 용의 뼈로 만들어진 지팡이로 영웅들을 겨누고 있는 죽음의 군주와 그의 호위병들이 엄청난 기세로 영웅들에게 덤벼든다!"
         },
         {
                 name: "$7.3 (Story Event 1)",
                 en: "\"I can feel the power within you! Do you really think it can make you strong enough to defeat me? If so, be brave and challenge me! Come and attack me, if you dare, fool! I'm the eternal evil. Pain and sorrow are my arms. The black shadow that obscures the world is my cape. No one can defeat me!\"",
-                ko: "\"내면의 힘이 느껴져! 그게 날 이길 만큼 널 강하게 만들 수 있다고 생각해? 그렇다면 용기를 내서 나에게 도전해 보라! 덤벼라, 덤벼라, 멍청아! 나는 영원한 악이다. 아픔과 슬픔이 내 팔이다. 세상을 가린 검은 그림자가 내 망토다. 아무도 날 이길 수 없어!\""
+                ko: "난 네 안에 있는 힘을 느낄 수 있다! 넌 네가 정말로 나를 이길 수 있을 만큼 강하다고 생각하나? 그렇다면 나에게 도전하라! 이리 와서 나를 공격해보라. 감히 네가 그럴 수 있다면 말이지. 어리석은 놈! 나는 영웡한 악이다! 고통과 슬픔이 나의 수족이다. 이 세상을 뒤덮고 있는 검은 그림자가 나의 망토이다. 그 누구도 나를 이길 순 없다!\""
         },
         {
                 name: "$7.4 (Story Event 1)",
                 en: "\"Come closer and attack me if you dare, fools! I'm the eternal evil. Pain and sorrow are my arms. The black shadow that obscures the world is my cape. No one can defeat me!\"",
-                ko: "\"더 가까이 와서 감히 덤벼라, 바보들아! 나는 영원한 악이다. 아픔과 슬픔이 내 팔이다. 세상을 가린 검은 그림자가 내 망토다. 아무도 날 이길 수 없어!\""
+                ko: "\"이리 와서 나를 공격해보라. 감히 네가 그럴 수 있다면 말이지. 어리석은 놈들! 나는 영웡한 악이다! 고통과 슬픔이 나의 수족이다. 이 세상을 뒤덮고 있는 검은 그림자가 나의 망토이다. 그 누구도 나를 이길 순 없다!\""
         },
         {
                 name: "$7.5 (Waypoint X)",
                 en: "The hero enters what appears to be the sacrificial chamber of the temple, dominated by a huge bone obelisk. In its center, a young boy is trapped in the very walls of the structure. Black tendrils whip out of the obelisk and meld into the young boy's veins, feeding on his very soul. Marcus falls on his knees as he recognizes the boy. \"That's prince Rygar, the son of the late King Rastan! They are using his body as a catalyst for powerful sorcery!\"",
-                ko: "영웅은 거대한 뼈 오벨리스크가 지배하는 신전의 제물로 보이는 곳으로 들어간다. 그 중심부에는 어린 소년이 바로 그 건물의 벽에 갇혀 있다. 검은 힘줄이 오벨리스크에서 튀어나와 어린 소년의 정맥 속으로 녹아들어, 바로 그 영혼을 먹고 산다. 마커스는 그 소년을 알아보자 무릎을 꿇는다.\"저 사람은 고 라스탄왕의 아들 료가 왕자다! 그들은 그의 몸을 강력한 주술의 촉매로 사용하고 있다!\""
+                ko: "영웅은 제물을 바치는 방으로 보이는 장소로 들어간다. 그곳에는 뼈로 만들어진 거대한 첨탑이 서 있다. 그 안에의 중앙에는 어린 소년 하나가 갖혀있다. 첨탑에서 튀어나온 검은 촉수들이 그 소년의 혈관으로 녹아들어, 그의 영혼을 빨아들이고 있다. 마커스는 그 소년을 알아보고는 무릎을 꿇는다. \"저 분은 라스탄 선왕의 아들이신 라이가 왕자입니다! 놈들은 왕자님의 육체를 촉매로 이용해 강력한 주술을 부리고 있었습니다!\""
         },
         {
                 name: "$7.6 (Story Event 1)",
                 en: "The last blow cleaves the skull of the Undead Lord, and the rest of its skeleton crumbles in a pile of bones upon the ground. Immediately, three red trails of magical light touch the bones, and the creature begins to regenerate! Marcus traces one of the trails back to a scarlet gem set into the throne in the main chamber, so he speaks to the party. \"That aberration is immortal! Almost like you, its soul is imprisoned in three blood gems! You must destroy them!\"",
-                ko: "마지막 일격은 언데드 주님의 두개골을 가르고, 나머지 뼈는 땅 위에 있는 뼈 더미 속에서 부스러진다. 즉시, 세 개의 붉은 빛의 흔적이 뼈에 닿으면, 그 생물은 재생되기 시작한다! 마커스는 오솔길 중 하나를 본실의 왕좌에 세운 주홍색 보석으로 거슬러 올라간다.그래서 그는 일행에게 말한다.\"그 변태는 불멸이다! 너처럼 영혼은 세 개의 피의 보석에 갇혀 있어! 그들을 파괴해야 한다!\""
+                ko: "최후의 일격이 불사의 군주의 두개골을 가르자, 그의 골격을 이루던 나머지 뼈들이 무너져 내려 바닥에 쌓인다. 그와 동시에, 세 개의 붉은 빛 줄기가가 쌓여있는 놈의 뼈로 이어지고, 그 괴물은 재생되기 시작한다! 마커스는 그 빛줄기 중 하나를 추적해 중앙 홀에 있는 옥좌에 박혀있는 진홍빛 보석을 찾아내고, 일행에게 소리친다. \"그 흉측한 괴물은 불사의 존재입니다! 여러분과 유사하게 놈의 영혼은 세 개의 피의 보석 안에 담겨 있습니다! 여러분은 그것들을 파괴해야만 합니다!\""
         },
         {
                 name: "$7.7 (Waypoint X)",
                 en: "The obelisk trapping prince Rygar is shrouded in a strange purple mist, which turns into a crystal barrier at the slightest touch.",
-                ko: "오벨리스크를 추적하는 왕자인 라이가르는 이상한 보라색 안개에 싸여 있는데, 이 안개들은 아주 작은 손길에도 수정 장벽으로 변한다."
+                ko: "라이가 왕자를 가두고 있는 첨탑은 기이한 보랏빛 안개에 둘러싸여있다. 그 안개는 살짝 건드리기만 해도 수정으로 만들어진 장벽으로 변한다."
         },
         {
                 name: "$7.8 (Story Event 1)",
                 en: "More due to the immense willpower of the hero than to the physical blow itself, the blood gem cracks, and dark red fluid seeps out of it, somehow healing the hero.",
-                ko: "육체적인 타격 자체보다는 영웅의 엄청난 의지력에 더하여 그 속에서 피 보석이 갈라지고 검붉은 액체가 스며나와 어떻게든 영웅을 치유한다."
+                ko: "물리적인 충격보다는 영웅의 강력한 의지의 힘으로 인해, 피의 보석은 갈라지고 그 안에서 검붉은 액체가 스며나온다. 왜 그런지 모르겠지만 이 액체는 영웅을 치유한다."
         },
         {
                 name: "$7.9 (Waypoint 2)",
                 en: "Beyond the door, the hero reaches one of the arcane crypts belonging to the Undead Lord. In the room, the air is searing, and rivers of lava erupt with tall flames. A blood-red gem hovers in the air, surrounded by the raging fire, over an altar on the opposite side of the room (Story Event 2). As the hero enters the room, undead guardians rise to protect the blood gem.",
-                ko: "문 너머에 영웅은 언데드 주(Undead Lord)에 속한 아칸소 지하실 중 하나에 도달한다. 방안에는 공기가 스며들고 있고, 용암의 강물은 높은 불꽃과 함께 분출한다. 피빛 보석이 맹렬한 불길에 휩싸여 방 반대편에 있는 제단 위로 공중에서 맴돈다(스토리 이벤트 2). 영웅이 방에 들어서자 언데드 보호자들이 일어나 피 보석을 보호한다."
+                ko: "문을 지나, 영웅은 불사의 군주의 숨겨진 무덤 중 하나에 도착한다. 방 안의 공기는 타들어가고 있고, 용암의 강은 거대한 화염을 분출한다. 방의 반대편에 있는 제단 위에 피처럼 붉은 빛의 보석이 타오르는 불꽃에 둘러싸인 채 공중에 떠 있다(Story Event 2). 영웅이 방에 들어서자, 피의 보석을 지키는 불사의 수호병들이 깨어난다."
         },
         {
                 name: "$7.10 (Story Event 2)",
                 en: "The crimson gemstone floats within the grasp of the hero. The flames reflect on its surface, darkening the black blood inside, as evil a substance as that the Undead Lord is made of. The hero just has to reach out and destroy the artifact.",
-                ko: "진홍색의 원석은 영웅의 손아귀 안에 떠 있다. 불길은 그 표면에 반사되어 안에 있는 검은 피를 언데드 로스로 만들어진 것만큼 사악한 물질처럼 어둡게 한다. 영웅은 그저 손을 뻗어 유물을 파괴하기만 하면 된다."
+                ko: "진홍빛 보석이 영웅의 손바닥 위에 떠 있다. 붗꽃이 보석의 표면에 반사되자 그 안에 있는 검은 피가 눈에 들어온다. 마치 불사의 군주를 구성하고 있는 그것과 같은, 사악한 물질이다. 영웅은 그저 그 유물을 파괴하기만 하면 된다."
         },
         {
                 name: "$7.11 (Waypoint X)",
                 en: "The blow has no visible effect on the black crystal, which soon returns to mist. None of the following attacks have any effect either, so the hero fully understands that the barrier cannot be destroyed in this way.",
-                ko: "그 타격은 곧 안개로 돌아오는 검은 수정에는 가시적인 효과가 없다. 다음의 공격들 중 어느 것도 영향을 미치지 않기 때문에 영웅은 장벽이 이런 식으로 파괴될 수 없다는 것을 충분히 이해한다."
+                ko: "공격은 눈에 띄는 효과를 내지 못하고 검은 수정은 곧 안개로 되돌아간다. 이어지는 공격들도 효과가 없기는 마찬가지였기에, 영웅은 이런 방법으로는 장벽을 부술 수 없다는 것을 완벽히 이해한다."
         },
         {
                 name: "$7.12 (Waypoint 3)",
                 en: "Beyond the door, the hero enters one of the arcane crypts belonging to the Undead Lord. Inside the room, ice envelops everything, and the frigid temperature numbs both body and soul. A blood-red gem floats over an altar on the opposite side of the room, almost shivering in the cold air around it (Story Event 3). As the hero enters the room, undead guardians rise to protect the blood gem.",
-                ko: "문 너머에 영웅은 언데드 주(Undead Lord)에 속한 아칸소 지하실 중 한 곳으로 들어간다. 방 안에는 얼음이 모든 것을 감싸고 있고, 추운 온도는 몸과 영혼을 모두 수치로 만든다. 피빛 보석이 방 맞은편에 있는 제단 위로 떠서, 그 주변의 차가운 공기 속에서 거의 떨고 있다(스토리 이벤트 3). 영웅이 방에 들어서자 언데드 보호자들이 일어나 피 보석을 보호한다."
+                ko: "문을 지나, 영웅은 불사의 군주의 숨겨진 무덤 중 하나에 도착한다. 방 안의 모든 것이 얼음에 뒤덮혀있고, 몹시 차가운 공기가 영웅의 육체와 영혼을 얼어붙게 한다. 방의 반대편에 있는 제단 위에 피처럼 붉은 빛의 보석이 그것을 둘러싼 차가운 공기 속에서 진동하고 있다(Story Event 3). 영웅이 방에 들어서자, 피의 보석을 지키는 불사의 수호병들이 깨어난다."
         },
         {
                 name: "$7.13 (Story Event 2)",
