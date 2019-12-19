@@ -1018,7 +1018,7 @@
         {
                 name: "$7.8 (Story Event 1)",
                 en: "More due to the immense willpower of the hero than to the physical blow itself, the blood gem cracks, and dark red fluid seeps out of it, somehow healing the hero.",
-                ko: "물리적인 충격보다는 영웅의 강력한 의지의 힘으로 인해, 피의 보석은 갈라지고 그 안에서 검붉은 액체가 스며나온다. 왜 그런지 모르겠지만 이 액체는 영웅을 치유한다."
+                ko: "물리적인 충격보다는 영웅의 강력한 의지의 힘으로 인해, 피의 보석은 갈라지고 그 안에서 검붉은 액체가 스며나온다. 이유는 모르지만 이 액체는 영웅을 치유한다."
         },
         {
                 name: "$7.9 (Waypoint 2)",
@@ -1028,7 +1028,7 @@
         {
                 name: "$7.10 (Story Event 2)",
                 en: "The crimson gemstone floats within the grasp of the hero. The flames reflect on its surface, darkening the black blood inside, as evil a substance as that the Undead Lord is made of. The hero just has to reach out and destroy the artifact.",
-                ko: "진홍빛 보석이 영웅의 손바닥 위에 떠 있다. 붗꽃이 보석의 표면에 반사되자 그 안에 있는 검은 피가 눈에 들어온다. 마치 불사의 군주를 구성하고 있는 그것과 같은, 사악한 물질이다. 영웅은 그저 그 유물을 파괴하기만 하면 된다."
+                ko: "진홍빛 보석이 영웅의 손바닥 위에 떠 있다. 붗꽃이 보석의 표면에 반사되자 그 안에 있는 검은 피가 눈에 들어온다. 마치 불사의 군주를 구성하고 있는 그것과 같은, 사악한 물질이다. 영웅은 이제 손을 뻗어 그 유물을 파괴하기만 하면 된다."
         },
         {
                 name: "$7.11 (Waypoint X)",
@@ -1043,53 +1043,56 @@
         {
                 name: "$7.13 (Story Event 2)",
                 en: "Under the hero's blow, the gem cracks and then explodes. The blood dissolves into crimson mist and heals the hero while severely damaging the Undead Lord.",
-                ko: "영웅의 일격에 보석은 갈라졌다가 폭발한다. 그 피는 진홍빛 안개로 용해되어 영웅을 치유하는 동시에 언데드 주님을 심하게 해친다."
+                ko: "영웅의 일격에 보석은 갈라져 폭발한다. 그 안의 피가 진홍빛 안개가 되어 흩어지고, 그 안개는 영웅을 치유하는 동시에 불사의 군주에게 심각한 피해를 입힌다."
         },
         {
                 name: "$7.14 (Story Event 3)",
                 en: "The blood gem floats in a small whirlwind, so close to the hero. The cold blurs the vision of blood inside the stone, almost crystallizing the red fluid. The hero has just to reach out into the cold current and destroy the artifact.",
-                ko: "피 보석은 작은 회오리바람에 떠서 영웅과 아주 가깝다. 추위는 돌 안에 있는 피의 시야를 흐리게 하여 붉은 액체를 거의 결정화시킨다. 영웅은 차가운 물살에 손을 뻗쳐 유물을 파괴하기만 하면 된다."
+                ko: "피의 보석은 작은 회오리바람 안에 떠 있고, 영웅은 가까이 다가간다. 돌 안의 피가 주변의 냉기로 얼어붙어 붉은 수정과도 같은 상태가 된다. 영웅은 이제 그 냉기의 소용돌이 속으로 손을 뻗어 그 유물을 파괴하기만 하면 된다."
         },
         {
                 name: "$7.15 (Glass Vial)",
                 en: "The hero drinks the whole potion, and the effects set in one last time.",
-                ko: "영웅은 물약을 통째로 마시고, 효과는 마지막으로 한 번 정해진다."
+                ko: "영웅은 남은 물약을 전부 마셔버리고, 마지막으로 다시 한 번 물약이 효과를 발휘한다."
         },
         {
                 name: "$7.16 (Ex-Mortis)",
                 en: "The signs, written in blood, change their runic shape and form understandable letters for the time needed to cast the spell. Once spoken, the necromantic magic manifests itself as the letters revert to blood runes...",
-                ko: "피로 쓰여진 표지판들은 그들의 진부한 모양을 바꾸고 주문을 걸기 위해 필요한 시간 동안 이해할 수 있는 글자를 형성한다. 일단 말을 하면, 글자가 혈류로 되돌아갈 때 신크로맨틱 마법이 모습을 드러낸다..."
+                ko: "피로 쓰여진 이 표식들은 룬 모양에서 이해가능한 문자로 변한다. 그 문자가 나타내는 주문을 외자, 문자들은 다시 피의 룬으로 되돌아가며, 사령술의 힘이 당신을 휘감는다."
         },
         {
                 name: "$7.17 (Story Event 3)",
                 en: "The hero's power shatters the crystal, almost as if it was made of ice. The dense red fluid seeps out and turns to a crimson mist that heals the hero's wounds while severely damaging the Undead Lord.",
-                ko: "영웅의 힘은 거의 얼음으로 만들어진 것처럼 수정체를 산산조각 낸다. 빽빽한 붉은 액체가 스며나와 영웅의 상처를 치유하면서 언데드 주님을 심하게 해치는 진홍빛 안개로 변한다."
+                ko: "영웅의 강력한 힘은 마치 얼음 조각을 부수듯 그 수정을 박살낸다. 짙은 붉은 액체가 스며나와 진홍빛 안개로 변해, 영웅을 치유하는 동시에 불사의 군주에게 심각한 피해를 입힌다."
         },
         {
                 name: "$7.18 (Story Event 1)",
                 en: "Wracked by pain as unholy as its own existence, the Undead Lord.",
-                ko: "자신의 존재만큼이나 불효한 고통에 휩싸인 언데드 로드."
+                ko: "자신의 존재 만큼이나 부정한 고통에 몸부림치며, 불사의 군주는..."
         },
         {
                 name: "$7.19 (Ex-Mortis)",
                 en: "The Undead Lord laughs as it hears the necromantic runes read from the book. \"Bwahaha! You fool! You dare to use the Ex-Mortis against me? I am the one and only Lord of Death, and the necromantic magic of that artifact is powerless against me! You, instead, will suffer the consequences of your foolishness!\" Disabled by pain, the hero starts sweating his own blood. Drops of the vital fluid touch the ground and form a crimson whirlwind that coalesces into an undead monster, poised to attack the hero!",
-                ko: "언데드 로드(Undead Lord)는 책에서 읽은 신대성 런의 소리를 들으며 웃는다. \"브와하하하! 이 등신아! 나한테 감히 엑모티스를 이용하려고? 나는 유일하고 유일한 죽음의 신이고, 그 공예의 신묘마법은 내게 무력하다! 그대신 그대들은 그대들의 어리석음의 결과를 겪게 될 것이다!\" 고통으로 불구, 영웅은 자신의 피를 흘리기 시작한다. 활력 있는 액체의 방울이 땅에 닿아 시들지 않은 괴물로 합쳐지는 진홍빛 회오리바람을 일으키며 영웅을 공격할 태세를 갖추고 있다!"
+                ko: "사령술 주문을 들은 불사의 군주는 웃음을 터트린다. \"하하하! 이 멍청한 녀석! 감히 내게 죽음의 책을 사용하려 해? 내가 바로 죽음의 군주다, 그 유물의 힘은 내게 소용없어! 넌 너의 어리석음에 대한 대가를 치르게 될 것이다!\" 영웅은 고통에 휩싸여 피를 흘리기 시작한다. 땅에 떨어진 피들이 진홍빛 회오리를 만들며 서로 융합되 불사의 괴물로 변해 영웅에게 달려든다!"
         },
         {
                 name: "S7.20 (Story Event 1)",
                 en: "...immediately teleports to its throne while casting an energy wave that pushes the heroes away from it. Suffering and furious due to the loss of the gem, the monster growls, \"You accursed wretches. You will never defeat me! The ritual will soon be complete, and nothing will survive my dominion. You will all die! Abyssal Gate!\" The arcane invocation causes the very walls of the temple to writhe as the whole hall submits to the dark will of its master! A dark portal is created, and undead monsters erupt from it! The heroes suddenly understand that their only hope rests in the destruction of the last two blood gems hidden somewhere in the other rooms of the temple.",
-                ko: "...영웅들을 그 자리에서 밀어내는 에너지 파동을 일으키면서 즉시 왕좌로 전보한다. 보석을 잃어버려 고통스럽고 격노한 괴물은 으르렁거리며 \"너희들은 얼버무렸다. 넌 절대 날 이길 수 없어! 그 의식은 곧 완성될 것이고, 내 지배에서 살아남는 것은 아무것도 없을 것이다. 모두 죽을 거야! 애비살 게이트!\" 그 아칸소 발명은 전체 홀이 주인의 어두운 의지에 복종할 때 바로 그 성전의 벽이 몸부림치게 한다! 어두운 포탈이 만들어지고, 거기서 언데드 몬스터들이 분출한다! 영웅들은 갑자기 그들의 유일한 희망이 절의 다른 방 어딘가에 숨겨져 있는 마지막 두 개의 피 보석을 파괴하는 데 있다는 것을 이해한다."
+                ko: "... 주문을 외워 힘의 파동을 발산해 영웅들을 밀어낸 뒤, 눈깜짝할 사이에 옥좌로 이동 한다. 보석을 잃고 고통과 분노에 휩쌓인 그 괴물은 으르렁거린다. \"이 저주받은 벌레놈들. 네놈들은 절대 날 이길 수 없다! 의식은 곧 끝날 것이고, 그렇게 되면 내 지배하에, 살아있는 것은 그 무엇도 남지 않을 것이다, 네놈들은 모두 죽게 될 것이다! 심연의 관문!\" 불사의 군주가 주문은 외자 그의 사악한 의지에 따라 신전의 벽들이 비틀린다! 어둠의 관문이 생겨나고, 그 안에서 불사의 괴물들이 쏟아져나온다! 영웅들은 순간적으로 그들의 마지막 희망은, 신전의 다른 방 어딘가에 숨겨진 나머지 두개의 보석을 파괴하는 것 뿐임을 깨닫는다."
                 },
         {
                 name: "$7.21 (Ex-Mortis)",
                 en: "As the necromantic runes are read, the Undead Lord falls to the ground screaming in pain, while waves of dark bolts from the book strike its body. The evil orbits of its skull gaze upon the reader, and the monster yells, \"Nooooo! I am the one and only Lord of Death! You are nothing! Klaatu, Barada, Nikto!\" The arcane words detonate the book in a violent vortex of black magic. The dark bolts dissolve, but the Lich has lost its magical defenses, and its darkened and chipped bones reveal its vulnerability!",
-                ko: "신약성 런이 읽히면서 언데드 로드(Undead Lord)는 고통에 비명을 지르며 땅에 쓰러지고, 책에서 흘러나온 어두운 볼트의 파도는 몸에 부딪친다. 그 두개골의 사악한 궤도는 독자를 응시하고, 괴물은 소리친다, \"누우오! 나는 유일하고 유일한 죽음의 신이다! 넌 아무것도 아니야! 클라투, 바라다, 니코!\" 불가사의한 단어들이 검은 마법의 격렬한 소용돌이 속에서 책을 폭발시킨다. 어두운 볼트는 용해되지만, 리치는 마법의 방어를 잃었고, 어둡고 갈라진 뼈들은 그 취약성을 드러낸다!"
+                ko: "사령술 주문이 효과를 발휘하고 책에서 뿜어져 나온 검은 마력이 놈의 몸을 꽤뚫자, 불사의 군주는 고통에 비명지르며 바닥에 쓰러진다, 악의에 가득찬 눈으로 주문을 외운 영웅을 쏘아보며 괴물은 소리친다. \"안되!!!! 내가 바로 죽음의 군주다! 넌 아무것도 아니야! 클라아투, 바라다, 니크토!\" 그 주문은 죽음의 책을 폭발시켜 보라색 소용돌이로 만든다. 책에서 나온 검은 마력은 사라졌지만, 리치는 마법의 방어막을 잃었고, 놈의 그슬리고 갈라진 뼈들은 약점을 드러낸다!"
         },
         {
                 name: "$7.22 (Story Event 1)",
                 en: "...immediately teleports to one corner of the throne room, maddened by the pain. Fueled by its suffering and anger, the creature again casts its spell. \"I cannot be vanquished. You cannot defeat me. Abyssal Gate!\" Once again, a dark portal appears in the room and undead soldiers spew forth, obeying the will of their dark master.",
-                ko: "...즉시 고통으로 더러워진 채 왕실의 한쪽 구석으로 텔레포트를 한다 고통과 분노에 힘입어 이 생물은 다시 주문을 외운다. \"나는 패배할 수 없다. 넌 날 이길 수 없어. 애비살 게이트!\" 다시 한 번 어두운 포탈이 방 안에 나타나 언데드 병사들이 어둠의 주인의 뜻에 복종하며 내뱉었다."
+                ko: "... 고통에 미쳐 알현실의 한쪽 구석으로 순간 이동한다. 고통과 분노를 연료삼아, 그 괴물은 다시 한 번 주문을 외운다. \"나는 패배하지 않는다. 너희는 날 이길 수 없어. 심연의 관문!\" 다시 한 번, 방 안에 어둠의 관문이 생겨나고, 그들의 사악한 주인의 의지에 따르는 불사의 병사들이 쏟아져 나온다."
         },
+        {},
+        // ~ 작업 완료
+
         {
                 name: "$7.23 (Story Event 1)",
                 en: "For the first time, the hero feels the calm of the wolf spirit fade away, giving way to a wilder call... the hero closes his eyes and opens his mind to the primeval instinct and primordial fury of the beast! The wolf spirit leaves the hero's body and coalesces into a pack of spiritual wolves, ready to fight at his side!",
