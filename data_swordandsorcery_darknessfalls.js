@@ -1078,7 +1078,7 @@
         {
                 name: "S7.20 (Story Event 1)",
                 en: "...immediately teleports to its throne while casting an energy wave that pushes the heroes away from it. Suffering and furious due to the loss of the gem, the monster growls, \"You accursed wretches. You will never defeat me! The ritual will soon be complete, and nothing will survive my dominion. You will all die! Abyssal Gate!\" The arcane invocation causes the very walls of the temple to writhe as the whole hall submits to the dark will of its master! A dark portal is created, and undead monsters erupt from it! The heroes suddenly understand that their only hope rests in the destruction of the last two blood gems hidden somewhere in the other rooms of the temple.",
-                ko: "... 주문을 외워 힘의 파동을 발산해 영웅들을 밀어낸 뒤, 눈깜짝할 사이에 옥좌로 이동 한다. 보석을 잃고 고통과 분노에 휩쌓인 그 괴물은 으르렁거린다. \"이 저주받은 벌레놈들. 네놈들은 절대 날 이길 수 없다! 의식은 곧 끝날 것이고, 그렇게 되면 내 지배하에, 살아있는 것은 그 무엇도 남지 않을 것이다, 네놈들은 모두 죽게 될 것이다! 심연의 관문!\" 불사의 군주가 주문은 외자 그의 사악한 의지에 따라 신전의 벽들이 비틀린다! 어둠의 관문이 생겨나고, 그 안에서 불사의 괴물들이 쏟아져나온다! 영웅들은 순간적으로 그들의 마지막 희망은, 신전의 다른 방 어딘가에 숨겨진 나머지 두개의 보석을 파괴하는 것 뿐임을 깨닫는다."
+                ko: "... 주문을 외워 힘의 파동을 발산해 영웅들을 밀어낸 뒤, 눈깜짝할 사이에 옥좌로 이동 한다. 보석을 잃고 고통과 분노에 휩쌓인 그 괴물은 으르렁거린다. \"이 저주받은 벌레놈들. 네놈들은 절대 날 이길 수 없다! 의식은 곧 끝날 것이고, 그렇게 되면 내 지배하에, 살아있는 것은 그 무엇도 남지 않을 것이다, 네놈들은 모두 죽게 될 것이다! 열려라! 심연의 문!\" 불사의 군주가 주문은 외자 그의 사악한 의지에 따라 신전의 벽들이 비틀린다! 어둠의 관문이 생겨나고, 그 안에서 불사의 괴물들이 쏟아져나온다! 영웅들은 순간적으로 그들의 마지막 희망은, 신전의 다른 방 어딘가에 숨겨진 나머지 두개의 보석을 파괴하는 것 뿐임을 깨닫는다."
                 },
         {
                 name: "$7.21 (Ex-Mortis)",
@@ -1088,7 +1088,7 @@
         {
                 name: "$7.22 (Story Event 1)",
                 en: "...immediately teleports to one corner of the throne room, maddened by the pain. Fueled by its suffering and anger, the creature again casts its spell. \"I cannot be vanquished. You cannot defeat me. Abyssal Gate!\" Once again, a dark portal appears in the room and undead soldiers spew forth, obeying the will of their dark master.",
-                ko: "... 고통에 미쳐 알현실의 한쪽 구석으로 순간 이동한다. 고통과 분노를 연료삼아, 그 괴물은 다시 한 번 주문을 외운다. \"나는 패배하지 않는다. 너희는 날 이길 수 없어. 심연의 관문!\" 다시 한 번, 방 안에 어둠의 관문이 생겨나고, 그들의 사악한 주인의 의지에 따르는 불사의 병사들이 쏟아져 나온다."
+                ko: "... 고통에 미쳐 알현실의 한쪽 구석으로 순간 이동한다. 고통과 분노를 연료삼아, 그 괴물은 다시 한 번 주문을 외운다. \"나는 패배하지 않는다. 너희는 날 이길 수 없어. 열려라! 심연의 문!\" 다시 한 번, 방 안에 어둠의 관문이 생겨나고, 그들의 사악한 주인의 의지에 따르는 불사의 병사들이 쏟아져 나온다."
         },
         {},
         // ~ 작업 완료
@@ -1096,22 +1096,22 @@
         {
                 name: "$7.23 (Story Event 1)",
                 en: "For the first time, the hero feels the calm of the wolf spirit fade away, giving way to a wilder call... the hero closes his eyes and opens his mind to the primeval instinct and primordial fury of the beast! The wolf spirit leaves the hero's body and coalesces into a pack of spiritual wolves, ready to fight at his side!",
-                ko: "영웅은 처음으로 늑대정신의 고요함이 사라져가는 것을 느끼고, 호령에게 자리를 양보한다... 영웅은 눈을 감고 그 짐승의 원시적인 본능과 원초적인 분노에 마음을 연다! 늑대정신은 영웅의 몸을 떠나 영적인 늑대 무리 속으로 합쳐져서, 자기 곁에서 싸울 준비를 한다!"
+                ko: "처음에는, 조용히 융합되어 있던 늑대의 영혼이 깨어나 야성적으로 울부짖는 것이 느껴진다. 영웅은 그의 눈을 감고, 짐승의 원시적인 본능과 분노에 마음을 연다. 늑대의 영혼은 영웅의 육체를 떠나 늑대 영혼의 무리에 합류해, 영웅의 곁에서 싸울 준비를 한다."
         },
         {
                 name: "$7.24 (Story Event 1)",
                 en: "Before their very eyes, the ethereal form of the Lord of Death dissolves, leaving behind the mortal skeleton of the Lich! Without the blood gems protecting it, the undead lord knows it is in danger, so it assumes a more aggressive attitude toward the heroes. \"I will annihilate each of you with the most painful death, and then I will resurrect you, just to kill you again and again! Timeless suffering will reward your foul deeds and stupidity!\" With a quick gesture, the Lich casts its pendant to the ground, once again opening a dark portal to summon its dreadful ally: the ghost of Sir Vorn, the most lethal Death Knight who ever existed! As the faithful undead knight advances, the Lich teleports itself into another room, north of the Temple.",
-                ko: "그들의 바로 눈앞에서 죽음의 신전의 이타적 형태는 리히의 인간적인 몰골을 남기고 분해된다! 피 보석이 그것을 보호하지 않는다면, 언데드 영주는 그것이 위험에 처해 있다는 것을 알기 때문에, 영웅들에 대한 더 공격적인 태도를 가정한다. \"가장 고통스러운 죽음과 함께 너희 모두를 섬멸시키고, 그 다음에 너희를 부활시키겠다, 단지 너희를 죽이기 위해서! 때아닌 고통은 너의 반칙과 어리석음에 보답할 것이다!\" 빠른 몸짓으로 리치는 자신의 펜던트를 땅에 던지며, 무시무시한 동맹군을 소환하기 위해 다시 한 번 어두운 포탈을 열었는데, 그것은 바로 지금까지 존재했던 가장 치명적인 데스 나이트인 본 경의 유령이다! 충실한 언데드 기사가 나아가자 리치는 자신을 신전의 북쪽인 다른 방으로 전보한다."
+                ko: "그들의 눈 앞에서, 죽음의 군주의 영체가 무너져내리고, 부수어질 수 있는 골격이 노출된다. 피의 보석에 보호없이는 자신이 무적이 아님을 알기에, 놈은 영웅들에게 더욱 공격적인 태도를 취한다. \"한 놈도 빠짐없이, 네 놈들 모두에게 가장 고통스러운 죽음을 안겨주마, 그리고 너희들을 되살려 다시 죽여주마! 너희들은 영원히 고통 받을 것이다. 그 멍청하고 어리석은 행동의 대가로 말이지!\" 리치는 빠르게 자신의 펜던트를 땅에 던져, 다시 한 번 어둠의 관문을 열고 그의 가장 공포스러운 부하를 소환한다. 바로 이제까지 존재했던 죽음의 기사 중 가장 강력한 기사인, 보른 경의 유령이다! 충직한 불사의 기사가 영웅들에게 다가오는 동시에, 리치는 신전의 북쪽에 있는 다른 방으로 순간 이동한다."
         },
         {
                 name: "$7.25 (Story Event 1)",
                 en: "The hero realizes the tendrils are woven from the same dark matter that forms the Lich's cloak and that their ravenous feeding on the boy might be tied to the Undead Lord's power.",
-                ko: "영웅은 힘줄이 리히의 망토를 형성하는 것과 같은 암흑 물질로 짜여져 있고, 소년에게 그들의 요란한 먹이가 언데드 주군의 힘에 묶여 있을지도 모른다는 것을 깨닫는다."
+                ko: "영웅은 그 촉수들이 리치의 망토를 구성하고 있는 것과 같은 암흑의 물질로 이루어져있다는 것과, 그것들이 소년의 힘을 게걸스레 빨아들여, 불사의 군주의 것으로 만들고 있다는 것을 깨닫는다."
         },
         {
                 name: "$7.26 (Story Event 1)",
                 en: "The deadly encounter burns into the vampire hero's heart, igniting a power hitherto unknown. The utter hatred toward his enemy instantly summons a succubus! Almost instinctively, the hero commands the seductive demoness to grasp an enemy and drag it into the hellish gate from whence she emerged! The summoning, however, shocks the hero, rendering the Dark Gift's power dormant.",
-                ko: "그 치명적인 만남은 그 뱀파이어 영웅의 가슴에 불타고, 알려지지 않은 힘을 점화시킨다. 그의 적에 대한 완전한 증오심은 즉각적으로 성공회를 소집한다! 거의 본능적으로, 영웅은 유혹적인 악마에게 언제 그녀가 나타났는지부터 적을 잡고 지옥 같은 문으로 끌고 가라고 명령한다! 하지만 이번 소환은 영웅에게 충격을 주어 다크 선물의 힘을 잠재웠다."
+                ko: "그 위험한 만남은 흡혈귀가 된 영웅의 심장에 불을 붙여, 지금까지 알지 못했던 새로운 힘을 이끌어낸다. 그는 적을 향한 순수한 증오의 힘으로 순식간에 서큐버스를 소환한다! 거의 본능적으로, 영웅은 그 매혹적인 여악마에게 적을 붙들어 그녀가 나타난 지옥의 관문으로 끌고가라는 명령을 내린다. 하지만, 그 소환은 영웅에게 충격을 남겨, 일시적으로 어둠의 힘을 잃게 한다."
         },
         {
                 name: "$7.27 (Night)",
