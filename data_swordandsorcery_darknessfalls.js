@@ -1090,9 +1090,6 @@
                 en: "...immediately teleports to one corner of the throne room, maddened by the pain. Fueled by its suffering and anger, the creature again casts its spell. \"I cannot be vanquished. You cannot defeat me. Abyssal Gate!\" Once again, a dark portal appears in the room and undead soldiers spew forth, obeying the will of their dark master.",
                 ko: "... 고통에 미쳐 알현실의 한쪽 구석으로 순간 이동한다. 고통과 분노를 연료삼아, 그 괴물은 다시 한 번 주문을 외운다. \"나는 패배하지 않는다. 너희는 날 이길 수 없어. 열려라! 심연의 문!\" 다시 한 번, 방 안에 어둠의 관문이 생겨나고, 그들의 사악한 주인의 의지에 따르는 불사의 병사들이 쏟아져 나온다."
         },
-        {},
-        // ~ 작업 완료
-
         {
                 name: "$7.23 (Story Event 1)",
                 en: "For the first time, the hero feels the calm of the wolf spirit fade away, giving way to a wilder call... the hero closes his eyes and opens his mind to the primeval instinct and primordial fury of the beast! The wolf spirit leaves the hero's body and coalesces into a pack of spiritual wolves, ready to fight at his side!",
@@ -1101,7 +1098,7 @@
         {
                 name: "$7.24 (Story Event 1)",
                 en: "Before their very eyes, the ethereal form of the Lord of Death dissolves, leaving behind the mortal skeleton of the Lich! Without the blood gems protecting it, the undead lord knows it is in danger, so it assumes a more aggressive attitude toward the heroes. \"I will annihilate each of you with the most painful death, and then I will resurrect you, just to kill you again and again! Timeless suffering will reward your foul deeds and stupidity!\" With a quick gesture, the Lich casts its pendant to the ground, once again opening a dark portal to summon its dreadful ally: the ghost of Sir Vorn, the most lethal Death Knight who ever existed! As the faithful undead knight advances, the Lich teleports itself into another room, north of the Temple.",
-                ko: "그들의 눈 앞에서, 죽음의 군주의 영체가 무너져내리고, 부수어질 수 있는 골격이 노출된다. 피의 보석에 보호없이는 자신이 무적이 아님을 알기에, 놈은 영웅들에게 더욱 공격적인 태도를 취한다. \"한 놈도 빠짐없이, 네 놈들 모두에게 가장 고통스러운 죽음을 안겨주마, 그리고 너희들을 되살려 다시 죽여주마! 너희들은 영원히 고통 받을 것이다. 그 멍청하고 어리석은 행동의 대가로 말이지!\" 리치는 빠르게 자신의 펜던트를 땅에 던져, 다시 한 번 어둠의 관문을 열고 그의 가장 공포스러운 부하를 소환한다. 바로 이제까지 존재했던 죽음의 기사 중 가장 강력한 기사인, 보른 경의 유령이다! 충직한 불사의 기사가 영웅들에게 다가오는 동시에, 리치는 신전의 북쪽에 있는 다른 방으로 순간 이동한다."
+                ko: "그들의 눈 앞에서, 죽음의 군주의 영체가 무너져내리고, 파괴될 수 있는 실체가 있는 골격이 노출된다. 피의 보석에 보호없이는 더 이상 무적이 아님을 알기에, 그 괴물은 영웅들에게 더욱 공격적인 태도를 취한다. \"한 놈도 빠짐없이, 네 놈들 모두에게 가장 고통스러운 죽음을 안겨주마, 그 후에는 너희들을 되살려 다시 죽여주지! 너희들은 영원히 고통 받을 것이다. 그 멍청하고 어리석은 행동의 대가로 말이다!\" 리치는 빠르게 자신의 펜던트를 땅에 던져, 다시 한 번 어둠의 관문을 열고 그의 가장 공포스러운 부하를 소환한다. 바로 이제까지 존재했던 죽음의 기사 중 가장 강력한 기사인, 보른 경의 유령이다! 충직한 불사의 기사가 영웅들에게 다가오는 동시에, 리치는 신전의 북쪽에 있는 다른 방으로 순간 이동한다."
         },
         {
                 name: "$7.25 (Story Event 1)",
@@ -1111,51 +1108,51 @@
         {
                 name: "$7.26 (Story Event 1)",
                 en: "The deadly encounter burns into the vampire hero's heart, igniting a power hitherto unknown. The utter hatred toward his enemy instantly summons a succubus! Almost instinctively, the hero commands the seductive demoness to grasp an enemy and drag it into the hellish gate from whence she emerged! The summoning, however, shocks the hero, rendering the Dark Gift's power dormant.",
-                ko: "그 위험한 만남은 흡혈귀가 된 영웅의 심장에 불을 붙여, 지금까지 알지 못했던 새로운 힘을 이끌어낸다. 그는 적을 향한 순수한 증오의 힘으로 순식간에 서큐버스를 소환한다! 거의 본능적으로, 영웅은 그 매혹적인 여악마에게 적을 붙들어 그녀가 나타난 지옥의 관문으로 끌고가라는 명령을 내린다. 하지만, 그 소환은 영웅에게 충격을 남겨, 일시적으로 어둠의 힘을 잃게 한다."
+                ko: "새로운 위협은 흡혈귀가 된 영웅의 심장을 자극해, 지금까지 알지 못했던 새로운 힘을 이끌어낸다. 그는 적을 향한 순수한 증오의 힘으로 눈 깜짝할 사이에 서큐버스를 소환해, 그 매혹적인 여악마에게 적을 붙들어 그녀가 나타난 지옥의 관문으로 끌고가라는 명령을 내린다. 하지만, 그 소환의 여파로 영웅은 일시적으로 어둠의 힘을 잃게 된다."
         },
         {
                 name: "$7.27 (Night)",
                 en: "All at once, the heroes' souls darken, as if each of them had lost a part of themselves. The eldritch sorcery of the Undead Lord grows in power and now, thanks to the temple’s architecture, he can block the gods' powers from this place! The dark voice of the Undead Lord echoes in the halls as he laughs in triumph. \"Power! Unlimited power! Not even the gods can help you now. The ritual is almost over. Soon I will be the only god, and your meaningless lives will cease!\"",
-                ko: "영웅들의 영혼은 저마다 자기 일부를 잃은 듯 한꺼번에 어두워진다. 언데드 신의 마법은 세력이 커져서 이제 신전의 건축 덕분에 이곳에서 신들의 힘을 막을 수 있다! 언데드 영주의 어두운 목소리가 의기양양하게 웃으며 복도에 메아리친다. \"파워! 무제한 전력! 이제 신들도 널 도울 수 없어 의식이 거의 끝났다. 곧 나만이 유일한 신이 될 것이고, 너의 무의미한 삶은 멈출 것이다!\""
+                ko: "갑자기, 영웅들의 영혼이 빛을 잃는다. 마치 그 일부를 잃은것만 같다. 불사의 군주의 섬뜩한 주술이 점점 강해져, 그 괴물은 자신의 힘에 신전의 힘을 더해 이 장소에서 신들의 힘을 차단할 수 있게 된다. 홀 안에 불사의 군주의 사악한, 승리의 웃음 소리가 메아리 친다. \"힘! 끝 없는 힘! (Unlimited power!) 이제는 신들조차 너희를 도울 수 없다. 의식이 끝나간다. 곧 나는 유일무이한 신이 될 것이며, 너희의 의미없는 삶은 끝날 것이다!\"",
         },
         {
                 name: "$7.28 (Story Event 1)",
                 en: "In the last, desperate battle, the heroes understand that they will only prevail with the power of the gods. Directed by Marcus, the party joins their Soul Gems, summoning the Holy Three: Aneres, Enomis and Mir. In answer to their devout prayer, a wave of mystical energy rises from the ancient, forgotten shrine in the antechamber of the throne room and crashes through the temple, destroying several of the undead! The energy grows brighter and brighter, blinding the Undead Lord, but soon the light disappears as the structure of the temple severs the connection to the gods, and the holy shrine crumbles to dust. The heroes suddenly feel their hearts go empty and understand they are now alone in this decisive battle.",
-                ko: "마지막, 필사적인 전투에서 영웅들은 신들의 힘으로만 승리할 것이라는 것을 이해한다. 마커스가 지휘하는 이 파티는 그들의 소울 젬에 합류하여 아네레스, 에노미스, 미르 등 3개 성당을 소환한다. 그들의 독실한 기도에 답하여, 고대, 잊혀진 왕실의 사당으로부터 신비로운 기운이 솟아올라 사원을 뚫고 추락하여 언데드 몇 명을 파괴한다! 그 기운은 점점 밝아져 언데드 주님을 눈이 멀게 하지만 곧 신전의 구조가 신들과의 연결을 통과하면서 빛이 사라지고, 성스러운 사당은 흙먼지로 무너진다. 영웅들은 갑자기 가슴이 허전해지는 것을 느끼고 이 결정적인 전투에서 이제 혼자라는 것을 이해한다."
+                ko: "목숨을 건 전투 속에서, 마침내 영웅들은 신들의 도움을 받아야만 승리할 수 있다는 것을 깨닫는다. 마커스의 인도에 따라, 일행은 그들의 소울젬을 연결하여 신성한 신들 : 아네레스, 에노미스 그리고 미르를 소환한다. 그들의 독실한 기도에 대한 응답으로, 알현실 옆 대기실에 있던 고대의 잊혀진 성소로부터 신비한 마법의 힘의 파동이 쏟아져 나와 신전을 뒤흔들며, 여러 불사의 괴물들을 파괴한다! 그 힘은 점점 강해지고 밝아지며, 불사의 군주의 눈을 멀게한다. 하지만 곧 신전의 힘이 신들과의 연결을 단절시키고, 빛이 사라짐과 동시에 성소는 부서져 가루가 된다. 그 순간 영웅들은 공허함을 느끼며, 결국 자신들의 힘만으로 이 최후의 전투에 맞서야 한다는 것을 깨닫는다."
         },
         {
                 name: "$7.29 (Story Event 1)",
                 en: "After meaningless attempts to sever the eldritch tendrils from the young prince's body, the party understands that the only way to free Rygar without killing him is to end the unholy existence of the Undead Lord!",
-                ko: "어린 왕자의 몸에서 료가르를 떼어내려는 무의미한 시도 끝에, 당은 그를 죽이지 않고 료가를 자유롭게 하는 유일한 방법은 언데드 주님의 불경스러운 존재를 끝내는 것이라고 이해한다!"
+                ko: "왕자의 몸에서 그 섬뜩한 촉수들을 떼어내려는 시도가 무위로 돌아가고, 일행은 라이가 왕자를 자유롭게 할 유일한 방법은 불사의 군주의 그 부정한 존재 자체를 끝장 내는 것 뿐임을 깨닫는다."
         },
         {
                 name: "$7.30 (Story Event 1)",
                 en: "Tough times demand tough hearts and tough decisions. Terrible as it may be, killing Prince Rygar may be the only way to sever the Undead Lord's power and save the Kingdom. With this thought in mind, the hero sinks his blade in the boy's heart, and the Undead Lord screams hideously in pain!",
-                ko: "힘든 시간은 힘든 마음과 힘든 결정을 요구한다. 끔찍한 일이지만, 라이거 왕자를 죽이는 것만이 언데드 주군의 권력을 끊고 왕국을 구할 수 있는 유일한 방법일지도 모른다. 이런 생각을 염두에 두고 영웅은 소년의 가슴 속에 칼날을 가라앉히고, 언데드 로드는 고통 속에 숨어 비명을 지른다!"
+                ko: "역경을 극복하기 위해서는 굳센 의지로 힘든 결정을 내려야 할 때도 있다. 끔찍한 일이 되겠지만, 라이가 왕자의 목숨을 끊는 것 만이 불사의 군주가 왕자로 부터 힘을 얻는 것을 막고, 왕국을 구하는 유일한 방법일 수 있다. 이러한 생각으로, 영웅은 소년의 심장에 그의 칼을 박아 넣는다. 그러자 불사의 군주가 고통에 몸부림치며 소름끼치는 비명을 지른다!"
         },
         {
                 name: "$7.31 (Ending)",
                 en: "After countless hits, the Lich’s body breaks apart and falls to pieces! The bone splinters around the temple crumble to dust and fade to black smoke that dissolves in the air. The battle is over, and the power of the gods returns to this once-dark temple. Silence falls on the lands of the Talon Coast. The silence of peace?",
-                ko: "무수한 타격을 받은 리치의 몸은 산산조각으로 부서져 산산조각이 난다! 사원의 뼈 조각은 흙먼지로 부서지고 공기 중에 용해되는 검은 연기로 희미해진다. 전투는 끝났고, 신들의 힘은 한 번 어두운 이 신전으로 돌아온다. 타론 해안의 땅에 침묵이 내린다. 평화의 침묵?"
+                ko: "셀수 없이 이어지는 공격에 리치의 몸이 부서져 산산조각난다! 흩어진 뼈 조각들은 먼지가 되어 검은 연기를 이루어 허공으로 흩어진다. 전투는 끝났다. 그리고 이 어둠의 신전에 다시 한 번 신들의 힘이 되돌아 온다. 탈론 코스트에 침묵이 찾아온다. 마침내 평화가 찾아온 것일까?"
         },
         {
                 name: "$7.32 (Ending)",
                 en: "Marcus enters the throne room, carrying the weakened body of Prince Rygar. \"As King Rastan before him, Prince Rygar will reign! Under his guidance the kingdom will know prosperity and peace! Only the gods know what the future holds for us, but thanks to you, Keepers of the Kingdom, even the unknown appears much less menacing!\"",
-                ko: "마커스는 약해진 료가 왕자의 몸을 안고 왕실로 들어간다. \"라스탄왕처럼 라이거 왕자가 군림할 것이다! 그의 지도 아래 왕국은 번영과 평화를 알게 될 것이다! 신들만이 미래가 우리에게 무엇을 가져다 줄지 알고 있지만, 왕국의 키퍼들 덕분에 미지의 것조차 훨씬 덜 위협적으로 보인다!\""
+                ko: "마커스는 쇠약해진 라이가 왕자를 안고 알현실로 들어온다. \"라스탄 선왕께서 그리하셨듯이, 라이가 왕자께서 이 땅을 다스리게 될 것입니다! 그의 통치하에 왕국은 평화 속에서 번영할 것입니다! 오직 신들만이 우리에게 다가올 미래를 아시겠지요. 여러분께 감사 인사를 올립니다. 왕국의 수호자들이시여. 그대들 덕에 어떤 위협이 닥쳐와도 두렵지 않을 겁니다!\""
         },
         {
                 name: "$7.33 (Ending)",
                 en: "Marcus enters the throne room, carrying the dead body of Prince Rygar. \"As King Rastan before him, Prince Rygar gave his life for the kingdom. May his death be an example for all of us. Without a King, only the gods know what the future holds for us. But thanks to you, even the unknown appears much less menacing!\"",
-                ko: "마커스는 료가 왕자의 시체를 안고 왕실로 들어간다. \"라스탄왕처럼 라이거 왕자는 왕국을 위해 목숨을 바쳤다. 그의 죽음이 우리 모두에게 본보기가 되기를. 왕이 없으면 신만이 미래가 우리에게 어떤 영향을 미칠지 안다. 하지만 네 덕분에, 알려지지 않은 것조차 위협적이지 않은 것 같아!\""
+                ko: "마커스는 라이가 왕자의 시체를 안고 왕실로 들어온다. \"라스탄 선왕께서 그리하셨듯이, 라이가 왕자께선 왕국을 위해 그 목숨을 바치셨습니다. 부디 그의 죽음이 우리 모두에게 모범이 되기를... 왕이 없다면 오직 신들만이 우리에게 다가올 미래를 아시겠지요. 하지만 여러분께 감사 인사를 올립니다. 왕국의 수호자들이시여. 그대들 덕에 어떤 위협이 닥쳐와도 두렵지 않을 겁니다!\""
         },
         {
                 name: "$7.34 (Ending)",
                 en: "And so, the strength of the heroes failed and Evil overtook the world. The Undead Lord's sorcery burned and severed the magical tie binding the heroes' souls to the mortal world. Their lifeless bodies fell, their Soul Gems integrated into of an evil crown made of pain and death. The Undead Lord devoured the souls of each champion and grew in power beyond any mortal, challenging the gods themselves. The last chapter of the chronicles ends as Death itself marches on, poised to lay waste to the lands of the Talon Coast.",
-                ko: "그래서 영웅들의 힘은 실패했고 악은 세계를 지배했다. 언데드 로드의 마법은 영웅들의 영혼을 인간 세계에 결속시키는 마법의 넥타이를 불태우고 끊어버렸다. 그들의 생명이 없는 육체는 떨어지고 그들의 영혼은 고통과 죽음으로 만들어진 사악한 왕관에 통합되었다. 언데드 로드(Undead Lord)는 각 챔피언의 영혼을 집어삼키고, 그 어떤 인간도 넘어 권력에서 성장하면서 신들 자신에게도 도전장을 내밀었다. 연대기의 마지막 장은 죽음 자체가 행진하면서 끝이 나고, 탈론해안의 땅에 쓰레기를 버릴 태세였다."
+                ko: "그리하여, 영웅들은 실패했고, 악이 세계를 집어삼켰다. 불사의 군주의 마법이 영웅들의 영혼을 현세와 이어주는 마법의 끈을 불태워 잘랐다. 영웅들의 영혼 잃은 육체가 쓰러졌고, 그들의 소울 젬은 고통과 죽음으로 만들어진 악의 왕관을 장식하게 되었다. 불사의 군주는 영웅들의 영혼을 집어삼키고 그 어떤 필멸자도 맞설 수 없는, 신들에게조차 도전할 수 있는 강대한 힘을 얻는다. 연대기의 마지막 장은 죽음 그 자체가 탈론 코스트 전역을 폐허로 만들 행진을 시작하는 것으로 끝난다."
         },
         {
                 name: "$7.35 (Ending)",
                 en: "With the Undead Lord's demise, the heroes are finally free from the sorcery that guided their souls and their destiny. But the immense power of immortality given by the Soul Gem remains... and no one will ever know if this is a gift from the gods or from High Priest Claudius, who first summoned the heroes. Each hero is now free to choose his own path, either returning to eternal rest or facing new challenges as a powerful immortal in the service of the gods. You are at one with all living things. You have power beyond imagination. Use it well. Immortal Hero!",
-                ko: "언데드 로드의 죽음과 함께 영웅들은 마침내 그들의 영혼과 운명을 인도한 마법으로부터 자유로워진다. 하지만 소울 젬이 주는 엄청난 불멸의 힘은 여전해... 그리고 이것이 신들의 선물인지 아니면 영웅들을 처음 소환한 클라우디우스 제사장의 선물인지 아무도 모를 것이다. 각 영웅은 이제 자신의 길을 자유롭게 선택할 수 있게 되었으며, 영원한 안식으로 돌아가거나 신들을 섬기는 데 있어서 강력한 불멸의 모습으로 새로운 도전에 직면하게 되었다. 너는 모든 생명체와 하나가 되어 있다. 너는 상상을 초월하는 힘을 가지고 있다. 잘 써. 불멸의 영웅!"
+                ko: "불사의 군주의 소멸과 함께, 영웅들은 마침내 그들의 영혼과 운명을 인도하던 주문으로 부터 자유를 얻는다. 하지만 소울 젬이 부여한 강대한 불멸의 힘은 여전히 남아있다... 그리고 이것이 신들의 뜻인지, 영웅들을 소환했던 클로디어스 대사제의 뜻인지는 그 누구도 알지 못할 것이다. 영웅들은 이제 각자 자신의 길을 선택할 수 있게 되었다. 영원한 안식으로 돌아갈 것인지, 아니면 신들에게 봉사하는 강력한 불멸자로서 새로운 도전을 맞이할 것인지... 당신은 살아있는 모든 것과 하나가 되었고, 당신의 힘은 상상할 수 없는 경지에 이르렀다. 이 힘을 유용히 사용할지어다. 불멸의 영웅이여!"
         },
 ];
