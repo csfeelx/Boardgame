@@ -1,0 +1,130 @@
+﻿<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0 user-scalable=0">
+    <title>Gloom Haven</title>
+    <script src="./jquery-3.3.1.min.js"></script>
+    <script src="./gloomhaven.js"></script>
+    <script>
+        // 변수
+        var datTranslation = data_gloomhaven; // 데이터
+        var winDialog; // 팝업윈도우
+
+        // onload
+        window.onload = function () {
+            // 준비
+            winDialog = $(document).find("#winDialog")[0];
+            winDialog.name = $(winDialog).find("#name")[0];
+            winDialog.detail = $(winDialog).find("#detail")[0];
+
+            // 배치
+            var winButton = $(document).find("#winButton")[0];
+            for (var ii = 0 ; ii < datTranslation.Expansion.length ; ii++) {
+                // 준비
+                var data = datTranslation.Expansion[ii];
+
+                // 배치
+                if (data.title == null && data.name == null) {
+                    var cat = document.createElement("div");
+                    winButton.appendChild(cat);
+                    cat.innerHTML = "<br>";
+                } else if (data.title != null) { // 카테고리
+                    var cat = document.createElement("div");
+                    winButton.appendChild(cat);
+                    cat.innerHTML = "<b>" + data.title + "<b>";
+                } else { // 버튼
+                    var button = winButton.appendChild(document.createElement("button"));
+                    winButton.appendChild(document.createElement("div"));
+                    button.no = ii;
+                    button.innerHTML = data.name;
+                    button.onclick = function (ev) { openDialog(ev.target, ev.target.no); }
+                }
+            }
+        }
+
+        // openDialog
+        function openDialog(btn, no) {
+            // 토글
+            if (winDialog.no == no && $(winDialog).css("display") != "none") {
+                $(winDialog).css("display", "none");
+                return;
+            }
+
+            // 준비
+            var data_current = datTranslation.Expansion[no];
+
+            // 제목 입력
+            winDialog.cat = "scenario";
+            winDialog.no = no;
+            winDialog.name.innerHTML = "<b>" + data_current.name + "</b>";
+
+            // 내용 정리
+            var str = data_current.text + "<br><br>";
+            winDialog.detail.innerHTML = str;
+
+            // 붙이고 가시
+            $(btn).after(winDialog);
+            $(winDialog).css("display", "inline-block");
+        }
+
+        // onEvent
+        function onBtn(tag) {
+            // 준비
+            var inp = document.getElementById("inp" + tag);
+            var btn = document.getElementById("btn" + tag);
+            var val = inp.value;
+            var data_current = datTranslation[tag][val - 1];
+
+            // 토글
+            if (winDialog.cat == tag && winDialog.no == val && $(winDialog).css("display") != "none") {
+                $(winDialog).css("display", "none");
+                return;
+            }
+
+            // 제목 입력
+            winDialog.cat = tag;
+            winDialog.no = val;
+            winDialog.name.innerHTML = "<b>" + tag + "Event #" + val + "</b>";
+
+            // 내용 정리
+            var str = data_current + "<br><br>";
+            winDialog.detail.innerHTML = str;
+
+            // 붙이고 가시
+            $(btn).after(winDialog);
+            $(winDialog).css("display", "inline-block");
+        }
+    </script>
+</head>
+
+<body>
+    <div>
+        <div>
+            <b>City Event : </b>
+            <input id="inpCity" type="text" style="width: 100px" />
+            <button id="btnCity" onclick="onBtn('City')">Go</button>
+        </div>
+        <div>
+            <b>Road Event : </b>
+            <input id="inpRoad" type="text" style="width: 100px" />
+            <button id="btnRoad" onclick="onBtn('Road')">Go</button>
+        </div>
+        <div>
+            <b>Personal Event : </b>
+            <input id="inpPersonal" type="text" style="width: 100px" />
+            <button id="btnPersonal" onclick="onBtn('Personal')">Go</button>
+        </div>
+    </div>
+    <br />
+    <div id="winDialog" style="display: none; padding: 10px">
+        <div id="border" style="outline: solid 1px black; padding: 10px">
+            <div id="name"></div>
+            <div id="detail" style="padding: 10px 0px 10px 10px"></div>
+            <button style="width: 100%" onclick="$(winDialog).css('display', 'none');">close</button>
+        </div>
+    </div>
+    <div id="winButton"></div>
+</body>
+</html>
