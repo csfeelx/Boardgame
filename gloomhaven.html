@@ -11,6 +11,7 @@
         // 변수
         var datTranslation = data_gloomhaven; // 데이터
         var winDialog; // 팝업윈도우
+        var btnA, btnB, winResult, resultA, resultB; // 선택과 결과
 
         // onload
         window.onload = function () {
@@ -18,6 +19,11 @@
             winDialog = $(document).find("#winDialog")[0];
             winDialog.name = $(winDialog).find("#name")[0];
             winDialog.detail = $(winDialog).find("#detail")[0];
+            btnA = $(document).find("#btnA")[0];
+            btnB = $(document).find("#btnB")[0];
+            winResult = $(document).find("#winResult")[0];
+            resultA = $(document).find("#resultA")[0];
+            resultB = $(document).find("#resultB")[0];
 
             // 배치
             var winButton = $(document).find("#winButton")[0];
@@ -67,6 +73,11 @@
             // 붙이고 가시
             $(btn).after(winDialog);
             $(winDialog).css("display", "inline-block");
+
+            // 선택과 결과 불가시
+            $(btnA).css("display", "none");
+            $(btnB).css("display", "none");
+            $(winResult).css("display", "none");
         }
 
         // onEvent
@@ -75,7 +86,7 @@
             var inp = document.getElementById("inp" + tag);
             var btn = document.getElementById("btn" + tag);
             var val = inp.value;
-            var data_current = datTranslation[tag][val - 1];
+            var data_current = datTranslation[tag][val];
 
             // 토글
             if (winDialog.cat == tag && winDialog.no == val && $(winDialog).css("display") != "none") {
@@ -89,12 +100,33 @@
             winDialog.name.innerHTML = "<b>" + tag + "Event #" + val + "</b>";
 
             // 내용 정리
-            var str = data_current + "<br><br>";
+            var str = data_current.front + "<br><br>";
             winDialog.detail.innerHTML = str;
+            resultA.innerHTML = "<b>> A</b><br><br>" + data_current.back_a;
+            resultB.innerHTML = "<b>> B</b><br><br>" + data_current.back_b;
+
+            // 선택과 결과 가시
+            $(btnA).css("display", "inline-block");
+            $(btnB).css("display", "inline-block");
+            $(winResult).css("display", "none");
 
             // 붙이고 가시
             $(btn).after(winDialog);
             $(winDialog).css("display", "inline-block");
+        }
+        function onAB(what) {
+            // 결과창 가시
+            $(winResult).css("display", "inline-block");
+
+            // 결과 가시
+            if (what == "A") {
+                $(resultA).css("display", "inline-block");
+                $(resultB).css("display", "none");
+            } else {
+                $(resultA).css("display", "none");
+                $(resultB).css("display", "inline-block");
+            }
+            
         }
     </script>
 </head>
@@ -112,9 +144,9 @@
             <button id="btnRoad" onclick="onBtn('Road')">Go</button>
         </div>
         <div>
-            <b>Personal Event : </b>
-            <input id="inpPersonal" type="text" style="width: 100px" />
-            <button id="btnPersonal" onclick="onBtn('Personal')">Go</button>
+            <b>Rift Event : </b>
+            <input id="inpRift" type="text" style="width: 100px" />
+            <button id="btnRift" onclick="onBtn('Rift')">Go</button>
         </div>
     </div>
     <br />
@@ -122,7 +154,13 @@
         <div id="border" style="outline: solid 1px black; padding: 10px">
             <div id="name"></div>
             <div id="detail" style="padding: 10px 0px 10px 10px"></div>
+            <button id="btnA" style="width: 100%" onclick="onAB('A')">A</button>
+            <button id="btnB" style="width: 100%" onclick="onAB('B')">B</button>
             <button style="width: 100%" onclick="$(winDialog).css('display', 'none');">close</button>
+            <div id="winResult" style="padding: 10px 0px 10px 10px">
+                <div id="resultA">asdasd</div>
+                <div id="resultB">dfsdfsf</div>
+            </div>
         </div>
     </div>
     <div id="winButton"></div>
