@@ -27,9 +27,9 @@
 
             // 배치
             var winButton = $(document).find("#winButton")[0];
-            for (var ii = 0 ; ii < datTranslation.Expansion.length ; ii++) {
+            for (var ii = 0; ii < datTranslation.length; ii++) {
                 // 준비
-                var data = datTranslation.Expansion[ii];
+                var data = datTranslation[ii];
 
                 // 배치
                 if (data.title == null && data.name == null) {
@@ -52,68 +52,60 @@
 
         // openDialog
         function openDialog(btn, no) {
+            // 준비
+            var data_current = datTranslation[no];
+            
             // 토글
             if (winDialog.no == no && $(winDialog).css("display") != "none") {
                 $(winDialog).css("display", "none");
                 return;
             }
 
-            // 준비
-            var data_current = datTranslation.Expansion[no];
+            // 분기
+            switch (data_current.category) {
+                case "scenario":
+                    // 제목 입력
+                    winDialog.cat = "scenario";
+                    winDialog.no = no;
+                    winDialog.name.innerHTML = "<b>" + data_current.name + "</b>";
 
-            // 제목 입력
-            winDialog.cat = "scenario";
-            winDialog.no = no;
-            winDialog.name.innerHTML = "<b>" + data_current.name + "</b>";
+                    // 내용 정리
+                    var str = data_current.text + "<br><br>";
+                    winDialog.detail.innerHTML = str;
 
-            // 내용 정리
-            var str = data_current.text + "<br><br>";
-            winDialog.detail.innerHTML = str;
+                    // 붙이고 가시
+                    $(btn).after(winDialog);
+                    $(winDialog).css("display", "inline-block");
 
-            // 붙이고 가시
-            $(btn).after(winDialog);
-            $(winDialog).css("display", "inline-block");
+                    // 선택과 결과 불가시
+                    $(btnA).css("display", "none");
+                    $(btnB).css("display", "none");
+                    $(winResult).css("display", "none");
+                    break;
+                case "event":
+                    // 제목 입력
+                    winDialog.cat = "event";
+                    winDialog.no = no;
+                    winDialog.name.innerHTML = "<b>" + data_current.name + "</b>";
 
-            // 선택과 결과 불가시
-            $(btnA).css("display", "none");
-            $(btnB).css("display", "none");
-            $(winResult).css("display", "none");
-        }
+                    // 내용 정리
+                    var str = data_current.front + "<br><br>";
+                    winDialog.detail.innerHTML = str;
+                    resultA.innerHTML = "<b>> A</b><br><br>" + data_current.back_a;
+                    resultB.innerHTML = "<b>> B</b><br><br>" + data_current.back_b;
 
-        // onEvent
-        function onBtn(tag) {
-            // 준비
-            var inp = document.getElementById("inp" + tag);
-            var btn = document.getElementById("btn" + tag);
-            var val = inp.value;
-            var data_current = datTranslation[tag][val];
+                    // 선택과 결과 가시
+                    $(btnA).css("display", "inline-block");
+                    $(btnB).css("display", "inline-block");
+                    $(winResult).css("display", "none");
 
-            // 토글
-            if (winDialog.cat == tag && winDialog.no == val && $(winDialog).css("display") != "none") {
-                $(winDialog).css("display", "none");
-                return;
+                    // 붙이고 가시
+                    $(btn).after(winDialog);
+                    $(winDialog).css("display", "inline-block");
+                    break;
             }
-
-            // 제목 입력
-            winDialog.cat = tag;
-            winDialog.no = val;
-            winDialog.name.innerHTML = "<b>" + tag + "Event #" + val + "</b>";
-
-            // 내용 정리
-            var str = data_current.front + "<br><br>";
-            winDialog.detail.innerHTML = str;
-            resultA.innerHTML = "<b>> A</b><br><br>" + data_current.back_a;
-            resultB.innerHTML = "<b>> B</b><br><br>" + data_current.back_b;
-
-            // 선택과 결과 가시
-            $(btnA).css("display", "inline-block");
-            $(btnB).css("display", "inline-block");
-            $(winResult).css("display", "none");
-
-            // 붙이고 가시
-            $(btn).after(winDialog);
-            $(winDialog).css("display", "inline-block");
         }
+
         function onAB(what) {
             // 결과창 가시
             $(winResult).css("display", "inline-block");
@@ -126,30 +118,12 @@
                 $(resultA).css("display", "none");
                 $(resultB).css("display", "inline-block");
             }
-            
+
         }
     </script>
 </head>
 
 <body>
-    <div>
-        <div>
-            <b>City Event : </b>
-            <input id="inpCity" type="text" style="width: 100px" />
-            <button id="btnCity" onclick="onBtn('City')">Go</button>
-        </div>
-        <div>
-            <b>Road Event : </b>
-            <input id="inpRoad" type="text" style="width: 100px" />
-            <button id="btnRoad" onclick="onBtn('Road')">Go</button>
-        </div>
-        <div>
-            <b>Rift Event : </b>
-            <input id="inpRift" type="text" style="width: 100px" />
-            <button id="btnRift" onclick="onBtn('Rift')">Go</button>
-        </div>
-    </div>
-    <br />
     <div id="winDialog" style="display: none; padding: 10px">
         <div id="border" style="outline: solid 1px black; padding: 10px">
             <div id="name"></div>
