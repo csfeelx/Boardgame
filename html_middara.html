@@ -24,6 +24,15 @@
             for (var ii = 0 ; ii < datTranslation.length ; ii++) {
                 // 준비
                 var data = datTranslation[ii];
+
+                // 빈칸?
+                if (data.name == null) {
+                    var blank = winButton.appendChild(document.createElement("div"));
+                    blank.innerHTML = "<br>"
+                    continue;
+                }
+
+                // 상자 등록
                 var button = winButton.appendChild(document.createElement("button"));
                 winButton.appendChild(document.createElement("div"));
                 button.no = ii;
