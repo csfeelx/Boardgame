@@ -11,6 +11,7 @@
         // 변수
         var datTranslation = data_middara; // 데이터
         var winDialog; // 팝업윈도우
+        var bShowEn = false; // 원문보기
 
         // onload
         window.onload = function () {
@@ -18,6 +19,8 @@
             winDialog = $(document).find("#winDialog")[0];
             winDialog.name = $(winDialog).find("#name")[0];
             winDialog.ko = $(winDialog).find("#ko")[0];
+            winDialog.toggle = $(winDialog).find("#toggle")[0];
+            winDialog.en = $(winDialog).find("#en")[0];
 
             // 배치
             var winButton = $(document).find("#winButton")[0];
@@ -55,6 +58,23 @@
 			winDialog.no = no;
             winDialog.name.innerHTML = data_current.name;
             winDialog.ko.innerHTML = data_current.ko;
+            if (data_current.en != null) {
+                $(winDialog.toggle).css("display", "inline-block");
+                winDialog.en.innerHTML = data_current.en;
+                $(winDialog.en).css("display", "inline-block");
+            } else {
+                $(winDialog.toggle).css("display", "none");
+                $(winDialog.en).css("display", "none");
+            }
+
+            // 원문보기
+            if (data_current.en != null && bShowEn == true) {
+                $(winDialog.en).css("display", "inline-block");
+                winDialog.toggle.innerHTML = "숨김";
+            } else {
+                $(winDialog.en).css("display", "none");
+                winDialog.toggle.innerHTML = "원문 보기";
+            }
 
             // 붙이고 가시
             $(btn).after(winDialog);
@@ -62,8 +82,21 @@
         }
 
         function onClickCheckBox() {
+            // 변수
+            bShowEn = !bShowEn
+
             // 조건검사
             if ($(winDialog).css("display") == "none") { return; }
+            if ($(winDialog.toggle).css("display") == "none") { return; }
+
+            // 원문보기
+            if (bShowEn == true) {
+                $(winDialog.en).css("display", "inline-block");
+                winDialog.toggle.innerHTML = "숨김";
+            } else {
+                $(winDialog.en).css("display", "none");
+                winDialog.toggle.innerHTML = "원문 보기";
+            }
         }
     </script>
 </head>
@@ -73,7 +106,10 @@
         <div id="border" style="outline: solid 1px black; padding: 10px">
             <div id="name"></div>
             <div id="ko" style="padding: 30px 0px 20px 10px"></div>
-            <button style="width:100%" onclick="$(winDialog).css('display', 'none');">close</button>
+            <button type="checkbox" id="toggle" style="width:100%" onclick="onClickCheckBox()">원문 보기</button>
+            <br />
+            <div id="en" style="padding: 30px 0px 20px 10px"></div>
+            <button style="width:100%" onclick="$(winDialog).css('display', 'none');">닫기</button>
         </div>
     </div>
     <div id="winButton"></div>
