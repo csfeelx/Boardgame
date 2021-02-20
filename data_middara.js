@@ -244,6 +244,58 @@
 		name: "SIDE QUEST: CAVE SICKLE EXTERMINATION (49) 케이브 시클 박멸",
 		ko: "\"장담하건대, 가축은 시작일 뿐입니다! 이대로 케이브 시클들을 방치한다면, 다음엔 사람들이 끌려가게 될 겁니다!\"<br/><br/> 지크는 이야기를 듣기 위해 속도를 늦추며, 손을 들어 친구들을 멈추게 했다. 일레니아의 거리는 사람들로 붐비고 있었고, 일행이 걸음을 멈추고 길을 막자 그 뒤를 걷던 사람들이 눈을 흘겼다.<br/><br/> 지크는 그들을 무시한 채 이야기의 주인공을 찾았다. 그는 근처 노점의 가판대 뒤에서 있었다. 그는 검은 피부의 키가 큰 남자로, 밧줄처럼 두껍게 꼰 검은 머리카락을 늘어뜨리고 있었다.<br/><br/> 가판대에는 '오믹의 해충 방제'라는 간판이 자랑스럽게 걸려있었고, 각종 도구와 함정 그리고 여러 가지 색깔의 액체가 담긴 병들이 잔뜩 쌓여있었다. 오믹은 꼴이 말이 아니었는데, 그는 한쪽 눈에 붕대를 감은 채 목발에 기대있었으며, 옷 밖으로 드러난 피부에는 온통 작은 상처와 긁힌 자국이 가득했다.<br/><br/> \"하!\" 한 여자가 비웃으며 지나갔다. \"정말로 그 해충들이 문제라면, 진작에 위에서 나섰겠지.\"<br/><br/> 지크의 옆에 있던 나이팅게일도 마침내 그를 눈치챈 듯했다. 그녀도 이야기를 듣기 위해 돌아섰다.<br/><br/> 지크는 앞장서서 그에게 다가갔다. \"무슨 일이지?\" 그가 물었다.<br/><br/> 오믹이 고개를 들었다. 그의 눈은 잠시 지크의 담배를 응시했다. 그는 그저 자신의 노점 진열대에 부착된 그림을 가리켰다. \"케이브 시클에 대해 들어본 적 있나?\"<br/><br/> 지크는 고개를 끄덕였다. \"물론이지.\"<br/><br/> 나이팅게일은 그 삽화를 응시했다. \"그들이 어째서 일레니아를 위협한다는 거예요?\"<br/><br/> 오믹은 그의 두 손을 가판대 위에 얹었다. \"이 도시 아래에는 거대한 동굴이 있고, 그중 많은 굴에 놈들이 들끓고 있지. 놈들은 도시가 생길 무렵부터 골칫거리였다네.\"<br/><br/> \"오.\" 나이팅게일은 무덤덤하게 말했다.<br/><br/> \"솔직히, 지금 나로서는 어떻게 해야 할지 모르겠군. 지난번에 난 다리를 잃을 뻔했지.\" 그는 잠시 반쯤 몸을 일으켜 일행에게 다친 다리를 보여주었다. \"누군가 어떻게 하지 않으면 놈들의 둥지가 곧 지상까지 뻗어 나올걸세. 이건 단지 시간문제일 뿐이야.\"<br/><br/> 두 사람의 뒤에서 레미가 까치발을 들고 그들의 어깨 너머로 가판대를 바라보며 말했다. \"우리는 이것들과 마주친 적 있어요. 날카로운 가시를 가진 독을 뱉는 거대한 벌레 말이죠... 정확히 뭘 해야 하는 건가요?\"<br/><br/> 오믹은 씩 웃었다. \"그렇게 어렵진 않을걸세. 다리만 다치지 않았다면 내가 직접 했겠지.\" 그는 가판대 아래에 손을 넣어 단단히 묶인 보따리 하나를 꺼내 가판대 위에 쿵 하고 올려놓았다. \"이 벌레 폭탄을 둥지 깊숙한 곳에 던져 넣으면 그걸로 충분할 걸세. 그 후엔 자네들을 위한 보상이 있을걸세.\"<br/><br/> 나이팅게일은 그에게서 눈을 돌려, 루크를 바라보며 웃었다. \"네가 우리는 볼트에 다시 들어가기 전에 좀 더 현장 경험을 쌓을 필요가 있다고 했었지?\"<br/><br/> \"내가 아니라고 하면, 그의 부탁을 거절이라도 하려고?\" 루크는 나이팅게일이 흥분을 이기지 못하는 것을 보며 눈살을 찌푸렸다.<br/><br/> \"그럴 리가! 자. 케이브 시클을 해치우러 가보실까!\""
 	},
+	{
+		name: "* LOA ALTAR (50): 로아의 제단",
+		ko: "도시에서 멀지 않은 곳에 숲으로 들어가는 길이 있다. 남쪽에서 조용히 흐르는 물소리가 들려온다. 당신이 공터로 들어가자 작은 연못 하나가 당신을 맞이한다. 쓰러진 나무로 된 자연의 다리 너머에 수상한 흙더미가 보인다. 그보다 더 동쪽에는 땅의 로아 한 쌍이 보인다. 놈들이 어떻게 나올지는 몰라도, 다행히 아직은 거리가 있다. 수풀 사이로 오래된 폐허에 서 있는 받침대가 보인다. 수정을 돌려놓고 오는 일은 그리 어렵지 않을 것이다. 그렇지 않은가?"
+	},
+	{
+		name: "* LOA ALTAR - SOMETHING JUST MOVED 둘째 문단 (51)",
+		ko: "당신은 숲을 둘러보다 연못 근처에 있는 무언가를 눈치챈다. 정체를 알 수 없는 괴물이 물속에서 튀어나와 일행 중 한 명을 끌고 들어가려 한다!<br/>...",
+		en: "As you look around the forest, you notice something in the nearby pond. A creature you don't recongnize bursts from the water and attempts to pull one of you in!<br/>..."
+	},
+	{
+		name: "* LOA ALTAR - SOMETHING JUST MOVED B (51)",
+		ko: "그 괴물은 희생자를 물속으로 끌고 내려간다. 너무 순식간에 벌어진 일이라 속수무책으로 강까지 끌려가 버리고 만다.<br/>...",
+		en: "The creature drags them down into the water. It happens so fast that they are unable to regain their footing until they are deep into the river.<br/>..."
+	},
+	{
+		name: "* LOA ALTAR - BLUE OBJECTIVE 첫째 문단 (51)",
+		ko: "텅 빈 제단이 수정을 기다리고 있다.<br/>...",
+		en: "An empty altar awaits its crystal.<br/>..."
+	},
+	{
+		name: "* LOA ALTAR - BLUE OBJECTIVE 둘째 문단 (51)",
+		ko: "당신이 해냈다! 수정은 원래 자리로 돌아갔다. 주위를 살펴보자, 로아들은 이제 진정된 듯하다.<br/>...<br/>이제 돌아갈 일만 남았다.<br/>...<br/>당신이 제단에서 물러나려 할 때, 뒤에서 으르렁거리는 소리가 들렸고, 당신은 깜짝 놀라 뒤를 돌아본다. 자신의 영역을 침범당해 화가 난 게버던 한 마리가 당신 눈앞에 있다.<br/>...<br/>놈은 소리 높여 울부짖으며, 주위의 동료들을 불러모은다.<br/>...",
+		en: "You did it! The Loa crystal has been placed back on the pedestal, and by the looks of things, the Loas have calmed down too.<br/>...<br/>Now you can all get out of here.<br/>...<br/>You step down from altar, but a growl startles you, causing you to spin on your heels. Behind you, a Gevaudan is displeased that you've trespassed on its territory.<br/>...<br/>It howls, calling for the rest of its pack.<br/>..."
+	},
+	{
+		name: "* LOA ALTAR - RED OBJECTIVE 둘째 문단 (51)",
+		ko: "당신은 재빠르게 절벽 아래를 훑어본다. 약 10미터 아래에 무언가 반짝이는 것이 박혀있다.<br/>...<br/>당신은 절벽에 박혀있던 작은 물체를 뽑아내는 데 성공한다.<br/>...",
+		en: "You quickly glance over the edge of the cliff. About 20 feet down you see a small outcropping with something shiny embedded in the side of the cliff wall.<br/>...<br/>You're able to pull a small object free from the cliff side.<br/>..."
+	},
+	{
+		name: "* LOA ALTAR - GREEN OBJECTIVE 둘째 문단 (52)",
+		ko: "어째서 이 글을 보았는가. 당신은 지시받은 내용만을 봐야 한다는 규칙을 지키지 않았다.",
+		en: "This is only used to make you think it does something new. Cheater."
+	},
+	{
+		name: "* LOA ALTAR - BLUE TOTEM (52)",
+		ko: "당신은 나무 뿌리에 얽혀잇는 무언가를 발견한다.<br/>...<br/>당신은 무언가 부서지는 소릴 듣고, 그 소리의 주인이 땅의 로아가 아니길 바라며 뒤를 돌아본다. 다행인지 불행인지, 그것은 지하에 있는 둥지에서 튀어나온 케이브 시클 한 무리였다!<br/>...",
+		en: "You find something entangled in the roots of the tree.<br/>...<br/>You hear a crash and peak back, hoping it isn't an Earth Loa. Instead, you're greeted with some Cave Sickles who have burst from their underground lair!<br/>..."
+	},
+	{
+		name: "* LOA ALTAR - RED TOTEM (52)",
+		ko: "당신은 썩어가는 고대 생명체의 사체를 발견한다.<br/>...",
+		en: "You find the decomposing corpse of some ancient creature.<br/>..."
+	},
+	{
+		name: "LOA PROBLEMS: SOLVED! (52): 로아의 습격: 해결!",
+		ko: "썰드는 일행이 그와 만났던 바로 그 자리에서 기다리고 있었다. 건물 벽에 기대어 신문을 읽고 있던 그는 일행을 발견하고는 황급히 일어섰다.<br/><br/> \"돌아오셨군요!\" 그는 지크와 나이팅게일을 향해 공손하게 허리를 숙였다. \"어떻게 되었나요?\" 그도 일행의 의기양양한 모습을 눈치챘으리라.<br/><br/> \"물론, 확실히 처리했어요.\" 나이팅게일은 싱긋 웃었다. \"로아들의 습격은 더 이상 없을 거예요. 안심하셔도 돼요.\"<br/><br/> 루크는 그에게 자세한 이야기를 해주었다. 일행이 해치지 않은 로아가 몇이었는가 까지도.<br/><br/> 썰드는 나이팅게일에게 보상으로 약속했던 금화를 넘겨주었다. \"정말 감사합니다. 공주님!\" 그는 지크에게도 말했다. \"더 이상 제 실수로 인해 고통받는 사람이 없게 되어 얼마나 다행인지 모르겠습니다. 저에게 정말 큰일을 해주셨습니다.\" 그는 남은 금화를 자신의 주머니에 돌려 넣었다. \"제가 모두에게 알리겠습니다. 아르센 가문과 정 가문 사람들은 갓 시민이 된 분들이라도 일레니아 사람들의 어려움을 못 본 척하지 않는다는 것을요. 약속드리겠습니다.\" 그는 기쁨에 차 소리를 지르며 자리를 떠나갔다.<br/><br/> 레미는 자신의 날개로 나이팅게일의 옆구리를 쿡 찔렀다. \"그렇게 칭찬받았다고 너무 자만하기는 없기야. 알았지?\"<br/><br/> 나이팅게일의 얼굴에서는 미소가 떠나지 않았다. \"왜? 우린 끝내주게 잘했잖아!\""
+	},
+	{
+		name: "THE EVERLASTING LOA PROBLEM (52): 멈추지 않을 로아의 습격",
+		ko: "썰드는 일행이 그와 만났던 바로 그 자리에서 기다리고 있었다. 건물 벽에 기대어 신문을 읽고 있던 그는 일행을 발견하고는 황급히 일어섰다.<br/><br/> \"돌아오셨군요!\" 그는 지크와 나이팅게일을 향해 공손하게 허리를 숙였다. 일행의 안색을 살핀 그의 표정이 변했다. \"일이 잘 풀리지 않았군요.\"<br/><br/> 나이팅게일은 썰드에게 수정을 던졌고, 그것을 낚아챈 그는 자신의 손에 들린 물건을 바라보며 공포에 사로잡혔다. \"오...\"<br/><br/> \"노력해봤지만...\" 나이팅게일이 말했다. \"우리... 우리는 그렇게 많은 로아가 있으리라곤 생각 못 했어요. 미안해요.\"<br/><br/> 그는 자세를 고치고 수정을 그의 주머니에 집어넣었다. \"여러분이 최선을 다하셨다는 걸 압니다. 모두 바쁘실 텐데도 제 부탁을 들어주셔서 감사합니다.\" 썰드는 나이팅게일에게 작은 금화 주머니를 내밀었다. \"적지만, 애써주신 것에 대한 보답입니다. 여러분은 이걸 받으실 자격이 있습니다.\""
+	},
 ];
 
 /*
@@ -252,5 +304,10 @@
         {
                 name: "",
                 ko: ""
+        },
+	{
+                name: "",
+                ko: "",
+		en: ""
         },
 */
