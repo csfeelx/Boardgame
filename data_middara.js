@@ -296,6 +296,98 @@
 		name: "THE EVERLASTING LOA PROBLEM (52): 멈추지 않을 로아의 습격",
 		ko: "썰드는 일행이 그와 만났던 바로 그 자리에서 기다리고 있었다. 건물 벽에 기대어 신문을 읽고 있던 그는 일행을 발견하고는 황급히 일어섰다.<br/><br/> \"돌아오셨군요!\" 그는 지크와 나이팅게일을 향해 공손하게 허리를 숙였다. 일행의 안색을 살핀 그의 표정이 변했다. \"일이 잘 풀리지 않았군요.\"<br/><br/> 나이팅게일은 썰드에게 수정을 던졌고, 그것을 낚아챈 그는 자신의 손에 들린 물건을 바라보며 공포에 사로잡혔다. \"오...\"<br/><br/> \"노력해봤지만...\" 나이팅게일이 말했다. \"우리... 우리는 그렇게 많은 로아가 있으리라곤 생각 못 했어요. 미안해요.\"<br/><br/> 그는 자세를 고치고 수정을 그의 주머니에 집어넣었다. \"여러분이 최선을 다하셨다는 걸 압니다. 모두 바쁘실 텐데도 제 부탁을 들어주셔서 감사합니다.\" 썰드는 나이팅게일에게 작은 금화 주머니를 내밀었다. \"적지만, 애써주신 것에 대한 보답입니다. 여러분은 이걸 받으실 자격이 있습니다.\""
 	},
+	{
+		name: "* BOMBING THE SICKLES (54): 둥지 폭파 작전",
+		ko: "해충 사냥꾼의 정보에 따라 당신은 도시 근교의 작은 동굴에 도착한다. 동굴 안쪽의 어둠 속에서 무언가 움직이는 소리가 들려온다. 소리로 판단하건대 그 수가 매우 많아 보인다. 경계를 늦추지 않는 것이 좋을 것이다. 일단 안으로 들어가면 동굴 구석 어디에서 그 교활한 벌레들이 튀어나올지 모를 일이다."
+	},
+	{
+		name: "* BOMBING THE SICKLES - BLUE OBJECTIVE 둘째 문단 (55)",
+		ko: "구덩이 아래를 내려다보면 저 아래에 흐르는 물이 보인다. 한번 내려가면 다시 올라올 수 없을 것이며, 몸을 젖는 일을 피할 수 없을 것이다. 다른 길을 찾아보는 것도 좋은 생각이리라.<br/>...",
+		en: "Peering down into the chasm, you see water far below. Going this way will likely be a wet, one-way trop. Hopefully there's another way to the Cave Sickle nest.<br/>..."
+	},
+	{
+		name: "* BOMBING THE SICKLES - BLUE TOTEM (55)",
+		ko: "바위 주변에는 또 다른 한 쌍의 케이브 시클이 있었다!<br/>...<br/>그리고, 당신의 뒤편 땅속에서 케이블 시클 두 마리가 더 튀어나온다.<br/>...<br/>남쪽에서도 세 번째 한 쌍이 모습을 드러낸다. 다행히도 그들은 아직 구덩이 너머에 있다.<br/>...<br/>구덩이 너머로는 아래로 내려가는 통로가 보인다. 아마도 케이브 시클의 둥지로 이어지리라.",
+		en: "Around the rock formation you find another pair of Cave Sickles!<br/>...<br/>Behind you, two more of the creatures come up from the depths.<br/>...<br/>To the south, you see yet a third pair crawl into view. Luckily they seem to be on the other side of a large gap.<br/>...<br/>The corridor continues beyond the other side of the pit. It seems to head towards the Cave Sickle nest."
+	},
+	{
+		name: "* BOMBING THE SICKLES - RED TOTEM (55)",
+		ko: "당신은 케이브 시클이 있을 것에 대비해 기습할 생각으로 재빠르게 모퉁이를 돌았다. 당신의 예상은 반만 맞았다. 그곳에는 썩어가는 사체들뿐이었다. 그 몸뚱이 아래에서 당신을 쓸만한 것을 발견한다.<br/>...",
+		en: "You slide around the corner with your weapons drawn expecting to find more Cave Sickles... and you do. but their corpses seem to be rotting away. Behind their bodies you're greeted by the sweet sight of Loot.<br/>..."
+	},
+	{
+		name: "* BOMBING THE SICKLES - GREEN TOTEM (55)",
+		ko: "저 아래 깊숙한 곳에 물이 보인다. 그쪽은 전부 침수되어 있는 듯하다. 하지만 당신은 그 너머에 있는 더 깊은 곳으로 내려가는 길을 눈치챈다. 그 길이 놈들의 둥지로 이어질지는 확실치 않지만, 직접 확인해 볼 수 있을 것이다. 그때, 당신은 그림자 속에서 당신을 응시하는 빛나는 눈동자들을 눈치챈다.<br/>...",
+		en: "Deeper within the cave you see water. It looks like the whole cavern is flooded in that direction. However, you also notice that it continues down deeper into the cave. It's doubtful that their is a nest down that way, but id doesn't mean you cant go check it out anyway. You also see glowing eyes peering at you from the shadows.<br/>..."
+	},
+	{
+		name: "* BOMBING THE SICKLES - YELLOW TOTEM (55)",
+		ko: "이 동굴을 더 깊이 내려갈수록, 더 많은 케이브 시클과 마주치는 듯하다.<br/>...",
+		en: "The deeper this cave goes, the more Cave Sickles you seem to run into.<br/>..."
+	},
+	{
+		name: "* DANK GROTTO (56): 어두운 동굴",
+		ko: "당신은 아래로 낙하해 물속에 떨어진 뒤, 조심스럽게 날카로운 바위를 피하여 물 밖으로 나와 주변을 살핀다. 하지만 당신이 방향을 가늠하기도 전에 매복해 있던 물의 로아들이 당신을 덮친다."
+	},
+	{
+		name: "* DANK GROTTO - BLUE LOOT (57)",
+		ko: "...<br/>당신의 뒤에서 물이 튄다. 당신은 또 다른 물의 로아에 대비해 무기를 뽑아 들고 돌아선다. 하지만 아무것도 보이지 않는다. 당신은 어깨를 으쓱하고는 금화를 챙긴다.",
+		en: "...<br/>Behind you, water splashes. You turn with your weapon drawn, afraid you'll find more Water Loas. However, you don't see anything. You shrug and pocket the loot."
+	},
+	{
+		name: "* DANK GROTTO - BLUE OBJECTIVE (57)",
+		ko: "당신이 물건에 손을 대는 순간, 딸깍하는 소리가 동굴 속에 울려 퍼지더니 곧 천장이 무너져 내린다. 당신은 재빨리 뛰어 몸을 피한다.<br/>...<br/>실패하면, 당신은 떨어지는 바위에 깔려 정신을 잃는다.<br/>...",
+		en: "As you grab the Loot, a clicking sound echoes through the Grotto. The ceiling collapses, forcing you to jump out of the way.<br/>...<br/>If you fail, you are crushed by falling rocks and Defeated.<br/>..."
+	},
+	{
+		name: "* DANK GROTTO - BLUE TOTEM (57)",
+		ko: "동굴 한쪽 구석에 더 깊은 곳으로 이어지는 작은 통로가 있다.<br/>...<br/>갑자기 통로 안쪽에서 케이브 시클 한 마리가 튀어나온다.<br/>...",
+		en: "In the far corner of the cavern, a small passage leads further down into the cave.<br/>...<br/>From the depths of the passage, a Cave Sickle scurries onto the rocky platform.<br/>..."
+	},
+	{
+		name: "* DANK GROTTO - RED TOTEM (57)",
+		ko: "두 개의 암벽 사이 좁은 틈을 통해 쓸만한 물건이 보인다.<br/>...",
+		en: "In the back of a tight spot between two rock formations, you see some Loot.<br/>..."
+	},
+	{
+		name: "* DANK GROTTO - GREEN TOTEM (57)",
+		ko: "케이브 시클 한 마리가 소란을 피해 숨어있다.<br/>...",
+		en: "A Cave Sickle is hiding from the ruckus.<br/>..."
+	},
+	{
+		name: "* SICKLES UPON SICKLES (58): 케이브 시클의 파도",
+		ko: "역겨운 냄새가 당신을 덮친다. 놈들의 둥지가 바로 앞에 있음이 틀림없다. 당신은 놈들의 둥지를 지키는 전사 케이브 시클에 대해 들어 본 적이 있다. 놈들은 일반적인 케이브 시클보다 더 강하다고 한다. 당신은 그 이야기가 헛소문이기를 바란다."
+	},
+	{
+		name: "* SICKLES UPON SICKLES - SURPRISED CAVE SICKLES 둘째 문단 (59)",
+		ko: "일행은 좁은 통로를 네발로 기어가다 마침내 몸을 일으킬만한 공간으로 빠져나온다. 재빨리 주변을 살펴보자 케이브 시클 두 마리가 보인다. 놈들은 당신의 급작스러운 등장에 놀란 듯하다.",
+		en: "The four of you crawl on hands and knees until the tight passage opens up causing you to spill on to the floor below. You look around and see that you are standing around a pair of startled Cave Sickles."
+	},
+	{
+		name: "* SICKLES UPON SICKLES - GREEN LOOT (59)",
+		ko: "당신이 상자를 열자 수많은 독침이 당신을 덮친다. 이런 장소에 함정을 설치한 자는 대체 누구란 말인가?<br/>...",
+		en: "A barrage of darts shoot from the chest as you open it. Who'd put a trapped chest in here?<br/>..."
+	},
+	{
+		name: "* SICKLES UPON SICKLES - BLUE OBJECTIVE 첫째 문단 (59)",
+		ko: "여기가 바로 당신이 찾던 그 지점이다!<br/>...",
+		en: "This looks like the spot!<br/>..."
+	},
+	{
+		name: "* SICKLES UPON SICKLES - BLUE OBJECTIVE 둘째 문단 (59)",
+		ko: "폭탄이 설치되었다!<br/>...",
+		en: "The bomb is set!<br/>..."
+	},
+	{
+		name: "* SICKLES UPON SICKLES - RED OBJECTIVE 둘째 문단 (59)",
+		ko: "...<br/>무시무시한 파괴음이 동굴 안에 울려 퍼진다. 당신 동쪽의 바위가 박살 나며 그 파편이 구덩이 깊은 곳으로 떨어져 내린다. 거대한 케이브 시클이 내지르는 귀를 찢을 듯한 괴성이 동굴을 뒤흔든다.<br/>...",
+		en: "...<br/>A horrible crashing sound rings through the cavern. The rocks to your east blow out, sending debris plummeting down into the depths below. A large Cave Sickle screeches, sending an ear piercing sound throughout the cave.<br/>..."
+	},
+	{
+		name: "* SICKLES UPON SICKLES - GREEN OBJECTIVE 둘째 문단 (59)",
+		ko: "폭탄은 주기적으로 높은 신호음을 낸다. 멀리서 더 많은 케이브 시클이 다가오는 소리가 들린다.<br/>...",
+		en: "The bomb emits a periodic high pitched beep. In the distance you hear more Cave Sickles.<br/>..."
+	},
 ];
 
 /*
