@@ -220,7 +220,7 @@
 		ko: "화이트 볼트 깊은 곳으로 들어간 당신은 한 무리의 케이브 시클과 마주친다. 땅이 울리는 소리에 당신은 전진을 멈추고, 무기를 뽑아 들어 전투에 대비한다. 저 멀리 무너진 기둥 주변에서 무언가가 움직이는 것이 보인다. 땅의 로아 하나가 휘청거리며 다가온다. 당신은 동료들과 눈으로 재빨리 의견을 나눈 뒤 전투에 뛰어든다. 저 공포스러운 바위 괴물과의 거리가 좁혀지기 전에 케이브 시클들을 처리할 수 있다면 훨씬 유리한 상황이 될 것이다."
 	},
 	{
-		name: "* INTO THE GLOOM - ACHIEVEMENT NOT QUITE UNKILLABLE! (36): 그렇게 쓰러트리기 어렵진 않았어!",
+		name: "* INTO THE GLOOM - ACHIEVEMENT. NOT QUITE UNKILLABLE! (36): 그렇게 쓰러트리기 어렵진 않았어!",
 		ko: "...<br/>땅의 로아는 당신의 힘 앞에 부서진다!<br/>...",
 		en: "...<br/>The Earth Loa crumbles before your might!<br/>..."
 	},
@@ -396,10 +396,148 @@
 		ko: "폭탄은 주기적으로 높은 신호음을 낸다. 멀리서 더 많은 케이브 시클이 다가오는 소리가 들린다.<br/>...",
 		en: "The bomb emits a periodic high pitched beep. In the distance you hear more Cave Sickles.<br/>..."
 	},
-
+	{
+		name: "* RETRACING THEIR STEPS (60): 발자취를 되짚어가다",
+		ko: "볼트는 지난번 왔을 때 보다 더 폐허가 되어 있다. 당신이 떠난 후 일부 구역이 무너진 듯하다. 바닥에 부서진 돌조각들이 흩어져 있고, 떨어진 바위가 길을 막고 있기도 하여, 목적지로 내려가는 길이 전보다 다소 험난해졌다. 서쪽에 제단이 있는 방으로 이어지는 길이 보이지만, 근처의 바닥 대부분이 붕괴되어 있다. 이상한 광경이 눈에 들어온다. 출구 근처에서 애니메이트 하나가 경련을 일으키고 있다. 무너져 내린 갑옷 안쪽에서 눈에 띄지 않으려야 않을 수가 없는 붉은 빛이 뿜어져 나온다. 하지만 놈은 싸움을 준비하고 있는 것으로 보이진 않는다. 북쪽으로는 케이브 시클들이 뭔지 모를 작업에 열중해있다."
+	},
+	{
+		name: "* RETRACING THEIR STEPS - ACHIEVEMENT. DEATH FROM ABOVE 둘째 문단 (61): 하늘에서 죽음이",
+		ko: "당신의 속도가 실린 강력한 공격은 괴물을 돌바닥 위로 내동댕이친다. 이 잔인하고 정확한 공격은 그로 인해 훼손되지 않은 추가 전리품을 남긴다.<br/>...<br/>추가로, 당신의 친구들은 당신의 용감무쌍한 모습에 사기가 충만해진다.<br/>...",
+		en: "Your mighty blow coupled with your momentum sends the creature splattering across the stone floor. The sheer brutality of the kill sends more gold than normal spilling across the ground!<br/>...<br/>In addition, your brave stunt inspires your team.<br/>..."
+	},
+	{
+		name: "* RETRACING THEIR STEPS - SPECIAL ENCOUNTER RULES. I DON'T TRUST THE ARMOR 둘째 문단 (61): 저 갑옷이 의심스러워",
+		ko: "당신이 12 이상의 피해를 줬다면, 갑옷 더미는 충격에 의해 날아가 구덩이에 떨어진다.<br/>...",
+		en: "If you dealt 12 or more damage, the pile of Armor is sent flying off the side of the platform.<br/>..."
+	},
+	{
+		name: "* RETRACING THEIR STEPS - SPECIAL ENCOUNTER RULES. I DON'T TRUST THE ARMOR 셋째 문단 (61): 저 갑옷이 의심스러워",
+		ko: "그 갑옷은 동굴의 돌바닥 위에서 끼익 소리를 내며 온몸을 비튼다. 그리고는 갑자기 벌떡 일어나 당신을 향해 뛰어든다. 당신은 이런 일을 예상하지 못했다.<br/>...<br/>(해골)이 나오면, 그 괴물은 구덩이로 떨어진다.<br/>...",
+		en: "The armor squeals and writhes on the stone floor of the cave, Suddenly, the suit of metal stands and jumps through the air in your direction. The leap is impressive and unexpected.<br/>...<br/>If the (해골) is rolled, the creature dies trying to get to you.<br/>..."
+	},
+	{
+		name: "* RETRACING THEIR STEPS - BLUE OBJECTIVE (61)",
+		ko: "파란 목적 토큰은 동굴 벽에 기대어 앉아있는 애니메이트를 나타낸다.<br/>...",
+		en: "The Blue Objective represents an Animate sitting against the cave walls.<br/>..."
+	},
+	{
+		name: "* RETRACING THEIR STEPS - BLUE OBJECTIVE 둘째 문단 (61)",
+		ko: "당신이 다가가자 그 갑옷 더미는 이에 반응해 움직이기 시작한다. 당신은 그것이 공격해올 거라 생각하고 긴장하지만, 그것은 곧 움직임을 멈춘다.<br/>...",
+		en: "The pile of armor begins to shift when you get close. You tense, thinking that it will Attack. Instead, it goes still and continues to rest.<br/>..."
+	},
+	{
+		name: "* RETRACING THEIR STEPS - BLUE TOTEM (61)",
+		ko: "그림자 속에서 후드를 쓴 존재가 모습을 드러낸다.<br/>...<br/>그리고 어둠 속에서 쿵쾅거리는 소리가 들려온다. 땅의 로아가 당신에게 돌진해오고 있다. 버티고 서서 놈에게 맞서겠다면 A를 읽는다. 재빠르게 피하겠다면 B를 읽는다.",
+		en: "A hooded figure emerges from the shadows.<br/>...<br/>Then, pounding steps alert you to an Earth Loa charging from the darkness! If you choose to brace for the Attack, read A. If you attempt to roll out of the way, read B."
+	},
+	{
+		name: "* RETRACING THEIR STEPS - BLUE TOTEM A (61)",
+		ko: "당신은 돌진해오는 땅의 로아에 맞서 충격에 대비한다. 놈은 온 힘을 다해 당신에게 달려든다.<br/>...<br/>당신이 힘 체크에 실패했다면, 당신은 땅의 로아의 공격에 맞아 바닥에 쓰러진다.<br/>...",
+		en: "You brace yourself for a violent clash with the charging Earth Loa. The creature slams into you with all its might.<br/>...<br/>If you failed the Strength Check, the Attack from the Earth Loa knocks you to the ground.<br/>..."
+	},
+	{
+		name: "* RETRACING THEIR STEPS - BLUE TOTEM B (61)",
+		ko: "거대한 괴물이 당신을 향해 돌진해오고, 당신은 놈과 부딪히기 직전에 재빠르게 피해 보려 한다.<br/>...<br/>당신이 통과했다면, 당신은 재빠르게 돌진을 피해냈고, 그 괴물은 당신을 지나쳐가 버린다.<br/>...<br/>그 공간이 위험 지역이었다면, 괴물은 구덩이에 떨어져 죽는다.<br/>...<br/>당신이 민첩 체크에 실패했다면, 당신은 땅의 로아에게 치어버린다.<br/>...",
+		en: "As the huge creature barrels in you direction, you attempt to jump out of its way at the last moment.<br/>...<br/>If you pass, the creature tumbles past you as you roll out of the way.<br/>...<br/>If this space is Dangerous Terrain, it tumbles off the edge and is Defeated.<br/>...<br/>If you failed the Agility Check, the Earth Loa catches you mid roll.<br/>..."
+	},
+	{
+		name: "* AN ALTERNATE PATH (62): 대체 경로",
+		ko: "서리의 안내로 동굴의 복잡한 길을 통과한 끝에 당신은 익숙한 장소에 도착한다. 아까 장소와 마찬가지로 무너진 바위들이 지형을 바꿔 놓아 지나가는 길을 더 험난한 게 만들어 놓았다. 다행히도 이곳의 지반은 대부분 온전하다. 전방에 한 쌍의 애니메이트가 당신을 눈치채고 무기를 들어 올린다."
+	},
+	{
+		name: "* AN ALTERNATE PATH - ACHIEVEMENT. PROOF OF PROWESS 둘째 문단 (63): 용맹의 증명",
+		ko: "당신의 발아래 쓰러져 죽어가는 애니메이트는 대체 무슨 일이 생긴 건지 혼란스러운 듯하다.<br/>...",
+		en: "The Animate looks almost confused as it falls dead at your feet.<br/>..."
+	},
+	{
+		name: "* AN ALTERNATE PATH - GREEN LOOT (63)",
+		ko: "당신이 상자를 열자 그것은 반응할 틈도 주지 않고 순식간에 폭발한다.<br/>...",
+		en: "The chest explodes as soon as you open it giving you no time to react!<br/>..."
+	},
+	{
+		name: "* AN ALTERNATE PATH - BLUE OBJECTIVE 둘째 문단 (63)",
+		ko: "서리는 갑자기 멈춰서 마법의 에너지로 당신을 뒤로 밀쳐낸다. 찰나의 순간, 천장이 무너지며 커다란 바위가 운하로 떨어져, 주변을 온통 물과 돌투성이로 만든다. 당신은 입에 들어간 시큼한 물을 뱉어내고, 근처에 떠 있는 서리를 바라본다. 그녀는 고개를 가로저으며 먼 길을 돌아가야 할 것 같다고 말한다. 당신 뒤편의 벽이 무너져 내려 새로운 길이 열렸다. 서리는 그곳을 가리키며 고개를 끄덕여 그곳으로 나아가야 함을 알려준다. 구덩이 너머로 케이브 시클 몇 마리가 보인다.<br/>...",
+		en: "Suri stops abruptly and shoves you back with a gust of magical energy as a large chunk of the ceiling falls into the canal, sending water and rubble all around. You spit out a mouthful of stale water and find Suri floating nearby. She shakes her head and tells you that it looks like you'll have to go the long way back. Behind you, a wall was knocked free and sent flying into the abyss. Suri points and nods, confirming the new path is the one to take. You peer across the chasm and see Cave Sickles on the neighboring platform.<br/>..."
+	},
+	{
+		name: "* AN ALTERNATE PATH - BLUE TOTEM (63)",
+		ko: "소수의 케이브 시클들이 그 구역을 차지하고 있다.<br/>...",
+		en: "A handful of Cave Sickles occupy the area.<br/>..."
+	},
+	{
+		name: "* AN ALTERNATE PATH - RED TOTEM (63)",
+		ko: "모퉁이에 다가가자 케이브 시클이 움직이는 소리가 들린다, 하지만 당신이 모퉁이를 돌았을 때, 그곳에 있던 것은 땅의 로아였다. 당신은 분명히 케이브 시클의 소리를 들었기 때문에 잠시 혼란이 밀려온다. 아마도 그들은 나중에 모습을 드러낼 것이다.<br/>...",
+		en: "As you approach the corner of the wall you hear more Cave Sickles, but when you turn the corner, you find yourself staring up at an Earth Loa. A moment of confusion washes over you as you swear that there are still more Cave Sickles somewhere on the platform. Perhaps they'll show themselves later.<br/>..."
+	},
+	{
+		name: "* AN ALTERNATE PATH - GREEN TOTEM (63)",
+		ko: "하얀 기둥 사이로 언뜻 물로 이루어진 형상이 보인다.<br/>...",
+		en: "Through the white pillars you catch fleeting glimpses of watery forms.<br/>..."
+	},
+	{
+		name: "* AN ALTERNATE PATH - YELLOW TOTEM (63)",
+		ko: "한 쌍의 애니메이트가 당신의 앞길을 막는다.<br/>...",
+		en: "Two more Animates block your path.<br/>..."
+	},
+	{
+		name: "MARCHING FORTH (63): 앞으로 나아가다",
+		ko: "레미는 그녀의 친구들 위에서 날고 있었다. 그들은 모두 매우 지쳐, 발을 끌며 앞으로 나아가고 있었다. 다행히 이 구역은 그녀가 날 수 있을 만큼 높았다.<br/><br/> \"이곳이야!\" 서리가 벽에 있는 작은 구멍을 가리켰고, 허공에 보라색 불빛이 깜빡거렸다. \"그들이 너희를 따라잡고 있어!\"<br/><br/> 긴박한 상황임에도 서리의 목소리는 쾌활하게 들렸다. 레미는 급작스럽게 비행을 멈추고, 반쯤 주저앉으며 착륙했다.<br/><br/> 나이팅게일은 몸을 굴리는 깔끔한 동작 한 번으로 그녀 앞에 있는 구멍을 통과했다.<br/><br/> 레미는 그 뒤를 따랐다. 그녀의 날개가 거친 돌벽에 쓸렸다. 다행히도, 일행은 서리가 안내한 길을 통해 워든이 지키고 있던 문을 우회할 수 있었다."
+	},
+	{
+		name: "* FINDING THEIR WAY (64): 길 찾기",
+		ko: "서리는 손을 들어 당신에게 멈추라는 신호를 보낸다. 그녀는 휙 하고 사라졌다가 잠시 후 나타난다. 그녀는 다음 구역으로 가는 문을 열기 위해서는 열쇠가 필요하고, 강력한 괴물이 그것을 지키고 있다고 경고한다. 그녀의 경고에도 불구하고 당신은 계속 전진한다. 곧 당신은 모퉁이를 돌아 제단이 있는 방에 도착한다. 애니메이트 하나가 제단 앞에 서 있고, 그 주변에는 케이블 시클 몇 마리가 보인다. 그 거대한 괴물은 위협적으로 도끼를 치켜든 채 날카로운 소리를 내며 당신을 향해 달려든다."
+	},
+	{
+		name: "* FINDING THEIR WAY - ACHIEVEMENT. LIKE A BLUR 둘째 문단 (65): 연기와도 같은",
+		ko: "당신은 너무하다 싶을 정도로 빠르다.<br/>...",
+		en: "You're so fast it's unfair.<br/>..."
+	},
+	{
+		name: "* FINDING THEIR WAY - BLUE OBJECTIVE (65)",
+		ko: "이 토큰은 잠겨있는 커다란 쌍여닫이문을 나타낸다.<br/>...",
+		en: "This token represents a large set of locked double doors.<br/>..."
+	},
+	{
+		name: "* FINDING THEIR WAY - BLUE OBJECTIVE 둘째 문단 (65)",
+		ko: "괴물은 죽어가며 분노에 찬 비명을 질러댄다.<br/>...",
+		en: "The creature wails in fury as it dies.<br/>..."
+	},
+	{
+		name: "* FINDING THEIR WAY - BLUE OBJECTIVE A 첫째 문단 (65)",
+		ko: "열쇠는 그것을 지키던 자와 함께 구덩이로 떨어진다.<br/>...",
+		en: "The key falls into the pit with the Warden.<br/>..."
+	},
+	{
+		name: "* FINDING THEIR WAY - BLUE OBJECTIVE B (65)",
+		ko: "당신은 그 괴물의 사체에서 열쇠고리를 챙긴다.<br/>...",
+		en: "You take the keyring from the creatures remains.<br/>..."
+	},
+	{
+		name: "* FINDING THEIR WAY - BLUE TOTEM (65)",
+		ko: "인상적인 쌍여닫이문 앞에 나무꾼을 닮은 거대한 형체가 있다.<br/>...<br/>워든(The Warden *관리인, 교도소장)은 그 허리에 커다란 열쇠고리를 차고 있다. 저 문을 통과하려면 바로 이것이 필요할 듯하다. 워든을 처치하는 대신, 당신은 놈에게서 열쇠를 훔쳐볼 수 있다.<br/>...",
+		en: "A huge lumbering figure sulks in front of an imposing set of double doors.<br/>...<br/>The Warden has a large keyring on it's side. It looks like you'll need these keys to get through those doors. Instead of killing the Warden, you could try to steal the keys from it.<br/>..."
+	},
+	{
+		name: "* FINDING THEIR WAY - BLUE TOTEM 둘째 문단 (65)",
+		ko: "당신은 침착하게 워든의 방어를 뚫고 들어가 놈의 벨트에서 열쇠고리를 낚아챈다.<br/>...",
+		en: "You feign wide and dive past the Warden's defenses, snagging the keys from its belt.<br/>..."
+	},
+	{
+		name: "* FINDING THEIR WAY - RED TOTEM (65)",
+		ko: "남쪽에 쓸모 있어 보이는 몇 가지 물건과, 그 곁을 지키고 있는 땅의 로아가 보인다.<br/>...",
+		en: "To the south, an Earth Loa forms near a pile of loot.<br/>..."
+	},
 	{
 		name: "MAIN QUEST: BACK TO THE VAULTS (66): 볼트 재도전",
 		ko: "\"아무도 없어. 가자!\" 선두에 선 루크가 서두르며 말했다.<br/><br/> 첨탑에는 경비병이 많았지만, 일행은 그들의 시선이 닿지 않는 특별한 경로를 통해 나아갔다. 당당히 들어가 볼 수도 있었지만, 지크는 그들이 볼트로 들어가는 허가를 받지 못할 거라 주장했다. 나이팅게일의 가족과 마찬가지로 그의 가족들 역시 그들이 그토록 위험한 행동을 하게 두진 않을 것이다.<br/><br/> 그들은 결국 문에 도착했다. 돌벽으로 위장한 얇은 판을 열자 두꺼운 철문이 드러났다. 그 존재를 알고 있지 않았다면, 루크 역시 눈치채지 못했을 것이다. 그 원형 문에는 그들이 이전에 남긴 흔적이 그대로 남아있었다.<br/><br/> \"좋아!\" 나이팅게일은 문에 달린 철봉을 두드렸다. \"이거 열게 도와줘.\"<br/><br/> 일행은 모두 문 앞에 모여 철봉을 잡아당겼다. 부식된 금속 경첩이 흔들거렸다. 나이팅게일과 레미도 온 힘을 다하고 있었지만, 루크는 그다지 도움이 된다는 느낌을 받지 못했다. 잠시 동안 끙끙댄 결과 문이 삐걱거리며 안쪽으로 열렸다.<br/><br/> 나이팅게일은 그녀의 무기를 뽑아 들고, 가장 먼저 문안에 발을 들였다. \"자 출발하-\"<br/><br/> 루크가 그녀의 뿔을 붙잡아 멈춰 세웠고, 나이팅게일은 화가 나서 그를 쏘아보았다.<br/><br/> \"야! 무슨 짓이야.\" 나이팅게일이 소리쳤다.<br/><br/> \"넌 더 이상 앞장서지 마.\" 루크가 말했다. \"난 네 기사야. 널 안전하게 지킬 의무가 있다고.\" 그는 그녀를 뒤로 밀어낸 뒤 자신의 무기를 뽑아 들었다.<br/><br/> 나이팅게일은 입을 삐죽거렸다. \"넌 아직 내 기사가 아니야. 정식으로 작위를 받은 것도 아니니까 말이야.\"<br/><br/> \"나도 이렇게 말하긴 싫지만, 좋은 생각이야.\" 지크는 나이팅게일을 지나쳐 루크의 뒤를 따랐다. \"네가 죽기라도 한다면, 감당 못 할 일들이 벌어질 테니까.\"<br/><br/> 나이팅게일은 가장 마지막으로 문을 통과했다. 일행은 문을 닫은 뒤 어둠 속으로 출발했다.<br/><br/> 루크는 혼잣말로 서리를 불러냈고, 잠시 후 루크의 부적에서 자주색과 보라색 빛이 뿜어져 나왔다. 빛 속에서 다른 세계의 존재가 형태를 갖추고, 공중에 모습을 드러냈다.<br/><br/> \"다시 만나서 반가워.\" 서리가 일행을 반겼다. \"이번에는 굉장히 좋아 보이네!\" 다른 세상의 소녀는 일행 사이를 춤추듯 날아다니며 모두의 얼굴을 살핀 뒤, 놀란 듯 말했다.<br/><br/> 루크가 고개를 끄덕였다. \"네 덕분이야, 서리. 다시 한번 볼트 탐색을 도와줄 수 있겠어?\"<br/><br/> \"네가 어디로 가려는 지에 달려 있겠지.\"<br/><br/> 나이팅게일이 앞으로 나서며 말했다. 그녀의 꼬리가 조바심에 휘둘리고 있었다. \"네가 어제 우리와 만났던 곳에서 멀지 않은 커다란 방이야. 절벽 근처에 받침대가 있는. 찾아 줄 수 있어?\"<br/><br/> \"그게 네가 원하는 거야, 루크?\" 서리가 물었다.<br/><br/> 루크는 나이팅게일의 창백한 얼굴을 바라보며 망설이다가 말했다. \"그래. 맞아.\"<br/><br/> 서리는 공중에서 몸을 뒤집으며 과장되게 고개를 숙였다. \"그렇다면, 저를 따라오세요.\" 그녀는 희미한 잔상과 함께 사라졌고, 공중에 반짝이는 빛이 나타나 길을 안내하기 시작했다.<br/><br/> 하지만 얼마 지나지 않아, 일행 전방의 어둠 속에서 괴물이 그 모습을 드러내었다."
+	},
+	{
+		name: "LEAD THE WAY (66): 길을 안내하다",
+		ko: "\"이 길이 맞는 거 확실해?\" 나이팅게일이 이 질문은 하는 것이 벌써 열 번째였다. 그녀는 몹시 초조해 보였다. \"다 똑같은 복도로 보이는데.\"<br/><br/> \"이 길이 맞아.\" 서리는 짜증이 난 것 같진 않았다. 나이팅게일이 같은 질문을 몇 번을 반복하던 그녀의 말투는 변하지 않았다.<br/><br/> \"그 장소를 다시 찾아가는 게 왜 그리도 중요한 건데, 나이팅게일?\" 루크가 물었다.<br/><br/> 나이팅게일은 자신의 행동을 의심하는 것은 그녀의 기사가 할 일이 아님을 확실히 하기 위해 입을 열었지만, 말을 꺼내기 직전에 자제력을 되찾았다. 그녀는 루크를 좋아했다. 그에게 그토록 날카롭게 굴 이유가 없었다. \"그 받침대 위에 무언가 중요한 것이 있는 게 분명해. 어쩌면 우리의 기념할만한 첫 번째 발견물이 될지도 몰라!\"<br/><br/> \"이쯤에서 주변을 확인해 보는 게 좋겠어.\" 레미는 나이팅게일 옆으로 다가와 그녀의 어깨를 으쓱했다. \"내 생각에는 이 근처였던 것 같아.\"<br/><br/> \"네 말이 맞아.\" 서리는 높이가 낮은 문 하나를 가리키며 말했다. \"너희가 찾던 방은 바로 저 너머에 있어.\""
+	},
+	{
+		name: "THE DOOR IS STILL LOCKED... (70): 문은 여전히 잠겨있다...",
+		ko: "괴물이 단말마와 함께 어둠 속으로 떨어지자 나이팅게일은 자신감이 솟구치는 것을 느꼈다.<br/><br/> 하지만 그때 서리가 말했다. \"문은 여전히 잠겨있어. 그가 열쇠를 가지고 있었고.\"<br/><br/> \"뭐?\" 나이팅게일이 몸을 돌려 서리를 노려보았다. \"지금 나한테 하는 말이야?\"<br/><br/> 지크는 괴물이 떨어진 어둠 속을 바라보며 말했다. \"젠장. 빌어먹을... 어쩌면 루크가 문을 부술 수 있지 않을까?\"<br/><br/> 레미는 문으로 다가가 그것을 조사했다. \"내가 자물쇠를 딸께. 지금은 우리를 노리는 괴물이 없으니 시간만 있으면 열 수 있을 거야.\"<br/><br/> 한참의 시간이 흐른 뒤, 일행은 문을 통과했다."
 	},
 ];
 
