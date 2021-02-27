@@ -12,15 +12,27 @@
         var datTranslation = data_middara; // 데이터
         var winDialog; // 팝업윈도우
         var bShowEn = false; // 원문보기
+        var iProgress = 80; // 진행도
 
         // onload
         window.onload = function () {
             // 준비
+            divProgress = $(document).find("#divProgress")[0];
             winDialog = $(document).find("#winDialog")[0];
             winDialog.name = $(winDialog).find("#name")[0];
             winDialog.ko = $(winDialog).find("#ko")[0];
             winDialog.toggle = $(winDialog).find("#toggle")[0];
             winDialog.en = $(winDialog).find("#en")[0];
+
+            // 진행도
+            console.log(divProgress)
+            var prog = parseInt((iProgress / 482) * 1000) / 10
+            var today = new Date();
+            var startday = new Date(2021, 2, 4)
+            var daypassed = today.getDate() - startday.getDate();
+            divProgress.innerHTML =
+                "<b>진행도: " + iProgress + " / 482 (" + (prog) + "%)</b><br/>"
+                + "2021.2.4. 시작 후 " + daypassed + "일 경과 (목표 작업량: " + (daypassed * 3) + " 페이지)";
 
             // 배치
             var winButton = $(document).find("#winButton")[0];
@@ -31,7 +43,11 @@
                 // 빈칸?
                 if (data.name == null) {
                     var blank = winButton.appendChild(document.createElement("div"));
-                    blank.innerHTML = "<br>"
+                    if (data.note != null) {
+                        blank.innerHTML = data.note + "<br>"
+                    } else {
+                        blank.innerHTML = "<br>"
+                    }
                     continue;
                 }
 
@@ -44,6 +60,7 @@
             }
         }
 
+        // 다이얼로그 열기
         function openDialog(btn, no) {
 			// 토글
 			if (winDialog.no == no && $(winDialog).css("display") != "none") { 
@@ -81,6 +98,7 @@
             $(winDialog).css("display", "inline-block");
         }
 
+        // 원문 보기 버튼
         function onClickCheckBox() {
             // 변수
             bShowEn = !bShowEn
@@ -102,6 +120,8 @@
 </head>
 
 <body>
+    <div id="divProgress">.</div>
+    <br/>
     <div id="winDialog" style="display: none; padding: 10px">
         <div id="border" style="outline: solid 1px black; padding: 10px">
             <div id="name"></div>
