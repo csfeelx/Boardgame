@@ -28,11 +28,15 @@
             console.log(divProgress)
             var prog = parseInt((iProgress / 482) * 1000) / 10
             var today = new Date();
-            var startday = new Date(2021, 2, 4)
-            var daypassed = today.getDate() - startday.getDate();
+            var startday = new Date(2021, 1, 4);
+            var goalday = new Date(2021, 1, 4);
+            goalday.setDate(goalday.getDate() + 193);
+            var daypassed = today.getDate() - startday.getDate() + 1;
             divProgress.innerHTML =
                 "<b>진행도: " + iProgress + " / 482 (" + (prog) + "%)</b><br/>"
-                + "2021.2.4. 시작 후 " + daypassed + "일 경과 (목표 작업량: " + (daypassed * 3) + " 페이지)";
+                + "경과: " + daypassed + "일 (2021. 2. 4. 시작)<br/>"
+                + "목표 작업량: " + (daypassed * 2.5) + " 페이지<br/>"
+                + "추정 완료일: " + goalday.toLocaleDateString();
 
             // 배치
             var winButton = $(document).find("#winButton")[0];
