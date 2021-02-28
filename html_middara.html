@@ -25,13 +25,13 @@
             winDialog.en = $(winDialog).find("#en")[0];
 
             // 진행도
-            console.log(divProgress)
             var prog = parseInt((iProgress / 482) * 1000) / 10
             var today = new Date();
             var startday = new Date(2021, 1, 4);
             var goalday = new Date(2021, 1, 4);
             goalday.setDate(goalday.getDate() + 193);
-            var daypassed = today.getDate() - startday.getDate() + 1;
+            var daypassed = parseInt((today.getTime() - startday.getTime()) / 86400000) + 1;
+            console.log(today, today.getDate(), daypassed)
             divProgress.innerHTML =
                 "<b>진행도: " + iProgress + " / 482 (" + (prog) + "%)</b><br/>"
                 + "경과: " + daypassed + "일 (2021. 2. 4. 시작)<br/>"
