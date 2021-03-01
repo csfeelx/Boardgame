@@ -12,7 +12,7 @@
         var datTranslation = data_middara; // 데이터
         var winDialog; // 팝업윈도우
         var bShowEn = false; // 원문보기
-        var iProgress = 80; // 진행도
+        var iProgress = 84; // 진행도
 
         // onload
         window.onload = function () {
@@ -28,15 +28,22 @@
             var prog = parseInt((iProgress / 482) * 1000) / 10
             var today = new Date();
             var startday = new Date(2021, 1, 4);
-            var goalday = new Date(2021, 1, 4);
-            goalday.setDate(goalday.getDate() + 193);
             var daypassed = parseInt((today.getTime() - startday.getTime()) / 86400000) + 1;
-            console.log(today, today.getDate(), daypassed)
+            var target_prog = daypassed * 2.5;
+            var gap_prog = iProgress - target_prog;
+            var str_gap = (gap_prog >= 0) ? "+" + gap_prog : gap_prog;
+            var goalday = new Date(2021, 1, 4);
+            goalday.setDate(goalday.getDate() + 193 - parseInt(gap_prog / 2.5));
+            //var goalday_3perday = new Date(2021, 1, 4);
+            //goalday_3perday.setDate(goalday_3perday.getDate() + 161);
+
             divProgress.innerHTML =
-                "<b>진행도: " + iProgress + " / 482 (" + (prog) + "%)</b><br/>"
+                "<b>진행: " + iProgress + " / 482 (" + (prog) + "%)</b><br/>"
                 + "경과: " + daypassed + "일 (2021. 2. 4. 시작)<br/>"
-                + "목표 작업량: " + (daypassed * 2.5) + " 페이지<br/>"
-                + "추정 완료일: " + goalday.toLocaleDateString();
+                + "목표: " + target_prog + " 페이지 (" + str_gap + ")<br/>"
+                + "완료: " + goalday.toLocaleDateString();
+                //+ "목표 작업량: " + (daypassed * 2.5) + " (" + (daypassed * 3) + ") 페이지<br/>"
+                //+ "추정 완료일: " + goalday.toLocaleDateString() + " (" + goalday_3perday.toLocaleDateString() + ")";
 
             // 배치
             var winButton = $(document).find("#winButton")[0];
