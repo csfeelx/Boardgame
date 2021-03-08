@@ -12,7 +12,7 @@
         var datTranslation = data_middara; // 데이터
         var winDialog; // 팝업윈도우
         var bShowEn = false; // 원문보기
-        var iProgress = 92; // 진행도
+        var iProgress = 93; // 진행도
 
         // onload
         window.onload = function () {
@@ -34,7 +34,7 @@
             var gap_prog = iProgress - target_prog;
             var str_gap = (gap_prog >= 0) ? "+" + gap_prog : gap_prog;
             var goalday = new Date(2021, 1, 4);
-            goalday.setDate(goalday.getDate() + Math.ceil(482 / pageperday) - parseInt(gap_prog / pageperday));
+            goalday.setDate(goalday.getDate() + (Math.ceil(482 / pageperday) - parseInt(gap_prog / pageperday)));
             
             divProgress.innerHTML =
                 "<b>진행: " + iProgress + " / 482 (" + (prog) + "%)</b><br/>"
