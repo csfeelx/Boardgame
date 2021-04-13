@@ -12,7 +12,7 @@
         var datTranslation = data_middara; // 데이터
         var winDialog; // 팝업윈도우
         var bShowEn = false; // 원문보기
-        var iProgress = 119; // 진행도
+        var iProgress = 132; // 진행도
 
         // onload
         window.onload = function () {
@@ -36,14 +36,14 @@
             var goalday = new Date(2021, 1, 4);
             goalday.setDate(goalday.getDate() + (Math.ceil(482 / pageperday) - parseInt(gap_prog / pageperday)));
             
-            /*divProgress.innerHTML =
+            divProgress.innerHTML =
                 "<b>진행: " + iProgress + " / 482 (" + (prog) + "%)</b><br/>"
                 + "경과: " + daypassed + "일 (2021. 2. 4. 시작)<br/>"
                 + "목표: " + target_prog + " 페이지 (" + str_gap + ")<br/>"
-                + "예정: " + goalday.toLocaleDateString();*/
-            divProgress.innerHTML =
-                "<b>진행: " + iProgress + " / 482 (" + (prog) + "%)</b><br/>"
-                + "경과: " + daypassed + "일 (2021. 2. 4. 시작)<br/>";
+                + "예정: " + goalday.toLocaleDateString();
+            //divProgress.innerHTML =
+            //    "<b>진행: " + iProgress + " / 482 (" + (prog) + "%)</b><br/>"
+            //    + "경과: " + daypassed + "일 (2021. 2. 4. 시작)<br/>";
                 
             // 배치
             var winButton = $(document).find("#winButton")[0];
