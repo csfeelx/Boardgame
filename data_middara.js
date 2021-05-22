@@ -1843,6 +1843,11 @@
 		en: "An explosion deep within the mine startles you. You imagine another Cave Sickle exploding and shrug. The blast displaces a nearby boulder, sending it rolling off the cliff beside it.<br/>..."
 	},
 	{
+		name: "* THROUGH THE RUBBLE - SPECIAL ENCOUNTER RULES. CRAZY GIRL 에라타 (206)",
+		ko: "(수정 후) At the start of the second round, if the Living Oblation is still alive, read the following hidden text:",
+		en: "(수정 전) At the start of the second round, read the following hidden text:"
+	},
+	{
 		name: "* THROUGH THE RUBBLE - SPECIAL ENCOUNTER RULES. CRAZY GIRL 둘째 문단 (206)",
 		ko: "리빙 오블래이션은 소리를 지르며 당신을 향해 다이너마이트 몇 개를 던진다.<br/>...",
 		en: "The Living Oblation screams in your direction and throws a handful of Dynamite.<br/>..."
