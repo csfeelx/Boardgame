@@ -2247,6 +2247,40 @@
 		name: "INDEPENDENT BRAVERY (256): 용감한 두 사람",
 		ko: "브리즈는 나이팅게일을 뼈가 흩어져 있는 좁은 통로로 안내했다. 많은 뼈에 아직 살점들이 붙어있었다. 나이팅게일은 코를 막으며 목구멍에서 올라오는 담즙을 삼켰다. 사체 중 일부는 동물이었지만, 대부분은 그렇지 않았다. <i>알라나는 대체 얼마나 많은 사람을 살해한 걸까?</i><br/><br/> <i><b>셀 수 없이.</b></i> 말루마의 목소리는 부자연스럽게 가늘게 들렸다. 마치 저 멀리서 그녀에게 말을 걸고 있는 것처럼 느껴졌다. <i><b>이 길은 추천할 수 없군.</b></i><br/><br/> 짜증이 난 나이팅게일은 얼굴을 찌푸린 뒤, 작은 목소리로 불평했다. \"내가 덫에 걸려 죽는 건 네 위대한 계획에는 없는 거지? 이곳에 뛰어내릴 사람이 없다면 넌 여기에 갇히게 될 테니까.\"<br/><br/> \"응?\" 브리즈가 나이팅게일을 향해 고개를 돌렸다.<br/><br/> \"오. 아무것도 아니에요.\" 나이팅게일은 재빨리 말했다. 브리즈는 분명 나이팅게일이 조금 미쳤다고 생각했거나, 아니면 자신이 인간에 대해서는 모르는 게 많다고 생각했을 것이다. 어떤 경우든, 나이팅게일은 그녀의 새로운 님프 친구가 가끔 자신이 말루마와 언쟁을 벌이는 것을 너무 이상하게 생각하지 않기만을 바랐다.<br/><br/> 브리즈가 그녀의 기행에 더 관심을 두기 전에, 나이팅게일은 화제를 돌리기로 마음을 먹었다. \"이곳은 영 불안한걸요. 그러니까, 알라나와 마주치면 정말 위험하다는 것은 알지만, 이 길은 안전해 보이지 않아요.\"<br/><br/> \"안전한 길?\" 브리즈가 물었다. 두 사람이 여정이 계속될수록 그녀의 얼굴은 창백해지고 있었다. 그녀의 말투는 여전히 결의에 차 있었지만, 지하 깊이 내려갈수록 그녀는 약해지는 것처럼 보였다. \"여기에 안전한 것은 없어. 하지만 이 길을 통하면 조금이라도 죽음을 피할 수 있을 거야.\"<br/><br/> \"그것참. 위로가 되네요.\" 나이팅게일은 중얼거렸다.<br/><br/> \"알라나가 평소대로 행동한다면, 그녀는 함정에 걸린 먹잇감을 찾으러 갈 거야.\" 브리즈가 말을 이었다. \"그녀가 자리를 비운 동안 그녀의 은신처는 무방비가 될 거야. 우리는 그녀 몰래 숨어 들어가 갇혀있는 사람들을 구출해야 해. 그 후에 네 친구들과 만나면 우리가 수적으로 유리하게 될 거야.\"<br/><br/> \"그녀의 은신처로 가는 중이라고요?\" 나이팅게일은 몸을 떨었다. \"이 시체들이 설명되는군요.\"<br/><br/> \"그래.\" 브리즈는 눈길을 돌렸다. \"이들 중 많은 이는 내 부족의 일원이야. 그녀는 정말로 많은 사람을 죽였어...\"<br/><br/> 나이팅게일은 입을 다물었다. 잠시 후, 그들은 크고 어두운 공간에 들어섰다. 그녀는 야광석을 들어 올리고 주변을 살피려 애썼지만, 겨우 알아볼 수 있는 것은 천장뿐이었다. 그 장소는 거대한 돔의 형태였고, 아래층에는 썩은 책들이 꽂혀있는 책장들이 늘어서 있었다. 바닥에도 쓰레기가 가득했고, 알라나의 웜이 지나간 것이 분명한 거대한 구덩이가 있었다.<br/><br/> 방의 한쪽 구석에서 인간의 모습을 한 무언가가 그들을 기다리고 있었다. 불빛을 비추어본 나이팅게일은 안도의 한숨을 쉬었다. 그것은 게이트키퍼였다.<br/><br/> \"락슈미!\" 나이팅게일은 힘차게 손을 흔들며 외쳤다. \"다시 만나서 반가-\"<br/><br/> 그녀가 돌아섰다. 그녀는 게이트키퍼였지만 락슈미가 아니었다. 이 새로운 게이트키퍼는 밝은 금속으로 만들어져 있었고, 그녀의 눈은 검붉은 구멍 같았다. 그녀는 눈 한번 깜빡이지 않은 채 나이팅게일을 응시했다.<br/><br/> 브리즈는 겁에 질려 뒤로 물러나, 한쪽 손으로 땅을 내리쳤다. 시멘트를 뚫고 나온 나무가 급속도로 자라나 단단한 방벽을 만들어냈다.<br/><br/> 나이팅게일은 팔을 들어 올리며 뒤로 물러섰다. \"잠깐만. 우리는 당신을 해칠 생각이 없어요.\"<br/><br/> 대답 대신, 게이트키퍼는 비명을 질러댔다. 그것을 비명이라 부를 수 있다면 말이다. 그것은 마치 죽어가는 엔진의 항의처럼 들렸다. 비명이 잦아들며, 게이트키퍼는 한 쌍의 기묘한 인형들을 떨어뜨렸다. 그것은 주인의 모습을 흉내 내 만들어진 것 같았고, 여러 개의 작은 비늘 칼을 들고 있었다. 갑작스럽게 움직이기 시작한 인형들은 나이팅게일을 향해 전진해왔다."
 	},
+	{
+		name: "* GATEKEEPERS OF GEHENNA (257): 게헤나의 게이트키퍼",
+		ko: "저스티스는 흥분을 참지 못하고 앞장서서 달린다. 그녀가 모퉁이를 돌자, 기묘한 마리오네트들이 그녀를 맞이한다. 놈들은 돌바닥 위를 통통 튀며 그녀에게 다가온다. 그녀는 앞에 있는 방에 괴물이 가득한 것을 보고 멈칫한다. 그녀의 지나친 열정이 그녀를 위험에 몰아넣은 것 같다. 다른 장소에서, 나이팅게일 역시 곤경에 처해있다. 그녀는 그녀의 새로운 친구와 함께 싸움을 준비한다."
+	},
+	{
+		name: "* GATEKEEPERS OF GEHENNA - ACHIEVEMENT. POPPET BE GONE (258)",
+		ko: "저들은 단지 인형일 뿐이다!<br/>...",
+		en: "They're only dolls!<br/>..."
+	},
+	{
+		name: "* GATEKEEPERS OF GEHENNA - BLUE OBJECTIVE 둘째 문단 (258)",
+		ko: "당신이 손을 뻗어 상자를 열자, 이상한 딸깍 소리가 들린다. 근처의 함정이 발동한 것이 틀림없다. 당신은 재빨리 주변을 살피며 소리의 출처를 찾는다. 당신은 방 북쪽에 있는 오래된 책장 뒤에서, 책 사이에 있는 구멍을 통해 마법 에너지가 당신을 향해 뿜어져 나오는 것을 눈치챈다.<br/>...<br/>그 마법 폭발은 그것이 지나가는 길에 있는 모든 것을 태우며 파괴한다.<br/>...",
+		en: "You reach down to open the chest, then you hear a strange clicking sound signaling the triggering of a nearby trap. You look around quick enough to notice the origin of the clicking sound. Behind an old book case on the north side of the room, you see a hole between the books shoot a blast of magical energy in your direction.<br/>...<br/>The magical blast sears and destroys everything in it's path.<br/>..."
+	},
+	{
+		name: "* GATEKEEPERS OF GEHENNA - BLUE TOTEM 첫째 문단 (259)",
+		ko: "모퉁이를 돌자 쓸만한 물건이 눈에 들어온다.<br/>...<br/>하지만, 당신이 그것을 자세히 보기 위해 다가갔을 때, 함정이 발동한다. 천장에서 바위가 쏟아져 내린다. 당신은 바위를 피하기 위해 재빨리 움직인다.<br/>...",
+		en: "You see some loot as you round the corner.<br/>...<br/>As you move closer to inspect it, however, you trigger a trap, sending rocks down from the ceiling. You quickly act to avoid being crushed.<br/>..."
+	},
+	{
+		name: "* GATEKEEPERS OF GEHENNA - BLUE TOTEM 둘째 문단 (259)",
+		ko: "온몸에 묻은 먼지를 털어낸 뒤, 당신은 주변을 살핀다. 당신은 작고 어두운 방 안에 갇혔지만, 그 방에는 당신 혼자만 있는 것이 아니었다.<br/>...",
+		en: "After wiping the dust from yourself, you take in your surroundings. You've been sealed inside of a small dark room, but you're not alone.<br/>..."
+	},
+	{
+		name: "* GATEKEEPERS OF GEHENNA - RED TOTEM 첫째 문단 (259)",
+		ko: "한쪽 구석에 누구의 손도 닿지 않은 듯한 상자 하나가 놓여있다.<br/>...",
+		en: "A chest sits undisturbed in the small corner.<br/>..."
+	},
+	{
+		name: "* GATEKEEPERS OF GEHENNA - RED TOTEM 둘째 문단 (259)",
+		ko: "당신은 상자 건너편 책장에 있는 책 사이에 구멍이 뚫려 있는 것을 눈치챈다. 이 상자는 함정으로 보인다. 어쩌면 당신은 이 함정을 유리하게 이용할 수 있을지도 모른다...",
+		en: "You notice a hole between the books on the shelf across from the chest. It's likely the chest is trapped. Perhaps whatever comes out of this hole could be used to your advantage..."
+	},
 ];
 
 /*
