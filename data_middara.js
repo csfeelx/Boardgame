@@ -238,6 +238,14 @@
 		name: "GROTESQUE EFFIGY: 그로테스크 에피지",
 		ko: "부패한 과실<br/><br/> 미드다라에 지각있는 식물이 그로테스크 에피지 하나뿐인 것은 아니지만, 놈들은 분명 가장 위험한 식물 중 하나일 것이다. 이 이동이 가능한 나무는, 놈들이 마주치는 모든 것을 어떠한 경고도 없이 공격한다. 놈들은 부주의하거나 조심성이 없는 생물들을 덮쳐, 뿌리를 이용해 묶어두었다가, 몸통으로 집어삼킨다.<br/><br/> 그로테스크 에피지의 뿌리는 땅속 깊은 곳에 뻗어 있으며, 수백 미터에 걸쳐 뻗어 나갈 수 있다. 이 뿌리는 언제든 땅 위로 솟구쳐 나와, 놈들의 희생자를 공격할 수 있다. 또한 놈들은 이 뿌리로 자신의 몸통을 끌어당겨 엄청난 거리를 이동할 수 있다. 그로테스크 에피지를 물리치는 첫 번째 단계는 보통 이 뿌리들을 파괴하는 것이다.<br/><br/> 때때로 그로테스크 에피지는 희생자를 먹어 치우는 대신 그들을 놈의 껍질로 둘러싼다. 그리고 그 불운한 희생자를 살려둔 채 천천히 그들의 혈관에 자신의 수액을 주입해, 그들의 혈액과 교체해간다. 다행히도 희생자들은 그 과정에서 살아남지 못하지만, 에피지 드라이어드로 변하게 된다. 그들은 나무껍질과 독이 흐르는 송곳니를 가진 사악한 괴물이 되고 마는 것이다.<br/><br/> 에피지 드라이어드의 목적은 단 하나뿐 그것으로 보인다. 바로 새로운 그로테스크 에피지를 만들어내는 것이다. 놈이 자신의 창조자와 분리되는 순간, 드라이어드 에피지는 그것을 감염시킬 목적으로 적절한 나무를 찾기 시작한다. 적절한 나무를 발견하면, 놈은 그것의 잎을 뜯어내고, 나뭇가지를 갉아내고, 나무의 수액에 독을 주입한다. 간혹 그 강력한 발톱으로 땅을 파 나무의 뿌리를 드러낸 뒤 그곳에 독을 주입하기도 한다.<br/><br/> 드라이어드 에피지는 그 나무의 내부가 충분히 썩었다는 것을 확신할 때까지 며칠에서 몇 주 동안 같은 방식으로 잔인한 고문을 계속한다. 그리고 마침내 준비가 되면 놈은 썩은 나무의 몸통을 파고들며, 놈의 의식이 나무와 융합돼 새로운 그로테스크에피지가 태어나는 것이다.<br/><br/> 자연학자들은 그로테스크 에피지가 자연적으로 발생한 것인지, 아니면 마법에 의해 만들어진 것인지 확신하지 못한다. 하지만, 놈들의 기원이 어떤 것이든, 중요한 것은 놈들이 일레니아의 깊은 숲과 늪을 가로지르는 사람들에게 매우 위협적인 존재라는 것이다."
 	},
+	{
+		name: "* ALANA: 알라나",
+		ko: "타락한 님프<br/><br/> 알라나는 그녀의 자매가 죽음을 앞두고 몸부림치는 것을 지켜보았다. 재키는 온몸을 비틀었다. 그녀의 입술에서는 피와 같은 진득한 수액이 흘러내렸다. 그녀의 피부는 땅에 떨어져 짓밟히고 썩어가는 과일마냥 멍들고, 시들어 있었다. 그녀는 알라나를 향해 한쪽 손을 뻗었다. 그녀의 손가락은 오그라들어 발톱 같아 보였다.<br/><br/> \"나 여기 있어.\" 알라나는 그녀의 손을 맞잡으며 말했다. \"넌 혼자가 아니야.\" 하지만 알라나에게 재키는 더 이상 사람으로도 느껴지지 않았다. 알라나가 아무리 조심해도 그녀의 손이 으스러져 검은 수액이 배어 나오는 것을 막을 수 없었다. 재키는 숨을 헐떡였다. 그녀는 무언가를 말하려 했지만, 알라나는 알아들을 수 없었다.<br/><br/> 알라나는 그녀가 처음으로 싹을 틔운 이후로 15년 동안 그녀와 함께했다. 알라나 역시 그녀와 같은 나이였기에, 그녀는 썩어가는 기분이 어떤지를 알고 있었다. 그녀에게도 죽음이 찾아오는 날은 멀지 않았으리라. 그녀는 동료들에게 둘러싸인 채 그녀의 최악의 적 앞에서 무력하게 스러지게 될 것이다.<br/><br/> <i>우리의 삶은 너무 짧아. 이건 공평치 않아.</i> 이런 생각이 그녀의 머릿속을 맴돌았다. 떨쳐내려 해도 그럴 수가 없었다. 재키가 손을 뻗어 알라나의 손목을 붙잡았다. 재키의 눈이 고통으로 휘둥그레져 있었다. 그녀는 왜 그냥 죽어 버리지 않는 걸까?<br/><br/> 하지만 재키는 끈질겼다. 그녀는 몸부림치며 뒹굴었다. 알라나는 더 이상 참을 수 없었다. 그녀의 쩍 벌린 입, 썩어버린 치아, 그리고 말라비틀어진 피부의 추악함이 그녀와 함께했던 아름다운 추억들을 더렵혔다. 알라나는 그녀를 이런 모습으로 기억하고 싶지 않았다. 재키가 그녀에게 다시 한번 손을 뻗었을 때, 그녀는 일어서서 한 걸음 뒤로 물러섰다.<br/><br/> 그녀는 더 이상 견딜 수 없었다.<br/><br/> 알라나는 자매들에게 재키가 숨을 거둘 때까지 그녀의 옆을 지켰다고 말했지만, 자신을 속일 수는 없었다. 그녀는 가장 친한 친구를 혼자 죽게 만든 뒤, 저녁 내내 눈물을 흘렸다. 결국, 그녀는 친구의 마지막을 지킬 수 있을 만큼 용감하지 못했다.<br/><br/> <i>난 그렇게 죽지 않을 거야. 난 그럴 준비가 되어 있지 않아.</i> 그녀는 생각했다."
+	},
+	{
+		name: "* CASITHUS: 캐시터스",
+		ko: "지배된 웜<br/><br/> 님프 사회는 알라나에게 그녀가 타고난 수명을 받아들이고, 죽음을 축하받아야 할 일처럼 받아들이기를 원했다.<br/><br/> 알라나는 거절했다. 그녀는 그것을 막을 방법을 찾아보았다. 그녀는 미드다라의 인간들을 연구했고, 그들이 가진 것을 갈망했다. 결코, 나이를 먹지 않는 영원한 삶을 말이다.<br/><br/> 그녀의 끈질긴 연구는 그녀를 오래된 전설로 이끌었다. 알라나는 20년 넘게 살아온 운이 좋은 장로 중 하나에게 그 이야기를 들을 수 있었다. 그것은 장로가 그녀의 모친에게서 들은 것으로, 고대의 님프 마을과 그것을 배신한 한 님프에 대한 이야기였다. 이야기에 따르면 무리에서 추방된 님프 하나가 포레스트 웜에게 그녀의 몸을 맡겼다. 웜은 그녀를 미치게 만들었고, 그녀는 자신의 마을로 돌아와 자매들을 먹어 치운 뒤, 스스로 목숨을 끊었다.<br/><br/> 이상적인 결과는 아니었지만 훌륭한 방법이었다. 알라나는 그녀가 진작에 이 방법을 깨닫지 못했었다는 것을 믿을 수가 없을 정도였다. 웜들은 쉽게 눈에 띄지는 않지만, 믿을 수 없을 정도의 긴 수명으로 유명했다. 그녀의 혈관에 웜의 생명력을 받아들일 수만 있다면 그녀는 님프의 기대 수명을 뛰어넘어 10년 혹은 20년을 넘게 삶을 연장할 수 있을 거라 확신했다.<br/><br/> 알라나는 계획을 세웠고, 그 해가 지나가기 전에 유대를 맺기에 적절한 웜을 발견했다. 그녀는 그 웜에게 캐시터스라는 이름을 붙인 뒤, 몇 달 동안 그것을 길들였다. 곧 웜은 그녀의 애완동물과 다름없게 되었다.<br/><br/> 어느 날 밤, 알라나는 몰래 마을을 빠져나가다가 웜과 함께 자매들에게 붙들렸다. 그녀의 계획을 두려워한 그들은 알라나를 가두었다. 자매들은 그녀를 죽을 때까지 가두어둘 것이며, 그녀의 죄에도 불구하고 그녀의 씨앗을 나길 수 있도록 자비를 보여줄 것이라 했다.<br/><br/> 알라나는 자매들의 배신을 믿을 수 없었다. 그녀의 자매들은 장로들에게 세뇌당해, 그녀의 계획을 방해하고 그녀를 죽이려고 하는 것이다. 며칠도 지나지 않아 알라나는 자신이 시들어가는 것을 느꼈다.<br/><br/> 그녀는 매일같이 캐시터스 목 놓아 불렀고, 마침내 웜은 그녀의 부름에 응답했다. 캐시터스가 그녀에게 와 그녀를 감옥에서 해방한 뒤, 그들을 막으려 했던 님프들을 도살했다. 그녀가 자유를 찾고 얼마 지나지 않아, 그녀는 계획을 마무리했다. 알라나와 캐시터스는 융합되었다."
+	},
 	{},
 	{},
 	{
@@ -2310,12 +2318,12 @@
 		ko: "방의 뒤쪽 구석에서 그로테스크에피지가, 바닥의 균열 속에서 솟아 나온 놈의 뱀 같은 뿌리를 휘두르며, 저스티스를 위협하고 있다. 일단은 놈의 공격을 피해 저스티스를 구하는 것이 최선일 것이다. 한편, 루크는 다가오는 위협에 맞서 각오를 다진다. 그에게는 레미를 보호해야 하는 의무가 있으며, 그는 그 의무를 저버릴 생각이 조금도 없다."
 	},
 	{
-		name: "* DANGERS IN THE DARK - SPECIAL ENCOUNTER RULES. A FRIEND IN NEED 둘째 문단",
+		name: "* DANGERS IN THE DARK - SPECIAL ENCOUNTER RULES. A FRIEND IN NEED 둘째 문단 (265)",
 		ko: "루크의 곁에는 패드릭이 있다. 그는 다른 이들이 돌아올 때까지 루크를 도와 레미를 지킬 것이다.<br/>...",
 		en: "Rook has Padric to help him defend Remi until the other return.<br/>..."
 	},
 	{
-		name: "* DANGERS IN THE DARK - SPECIAL ENCOUNTER RULES. A FRIEND IN THE DARK 둘째 문단",
+		name: "* DANGERS IN THE DARK - SPECIAL ENCOUNTER RULES. A FRIEND IN THE DARK 둘째 문단 (265)",
 		ko: "홀로 적에게 맞서야 하는 루크를 위해, 서리가 이 세계에 모습을 드러내 도움을 주고자 한다.<br/>...",
 		en: "With nobody else to help Rook, Suri decides to appear and lend a hand.<br/>..."
 	},
@@ -2325,47 +2333,47 @@
 		en: "Justice's eyes flutter open as she realizes what's happening. She pulls at your shirt and screams that you have to go back for the book. She points frantically in the directions you came from as she breaks from your hold. She dropped the Book of Gehenna back where she was knocked unconscious, and she's not leaving without it.<br/>..."
 	},
 	{
-		name: "* DANGERS IN THE DARK - SPECIAL ENCOUNTER RULES. COMING TO 넷째 문단",
+		name: "* DANGERS IN THE DARK - SPECIAL ENCOUNTER RULES. COMING TO 넷째 문단 (265)",
 		ko: "결의에 찬 표정으로, 저스티스는 자신의 힘으로 책을 가지고 이곳을 빠져나갈 결심을 한다.<br/>...",
 		en: "With a look of determination, Justice recomposes herself.<br/>..."
 	},
 	{
-		name: "* DANGERS IN THE DARK - BLUE OBJECTIVE 첫째 문단",
+		name: "* DANGERS IN THE DARK - BLUE OBJECTIVE 첫째 문단 (266)",
 		ko: "루크는 더 많은 괴물이 자신을 향해 오고 있다는 것을 잘 알고 있지만, 레미는 여전히 움직일 수 없는 상황이다. 그는 가능한 한 오래 버텨야만 한다.<br/>...",
 		en: "Rook is keenly aware that there are more creatures in the dark heading in his direction, but Remi is still too injured to be moved. He'll have to hold out as long as possible.<br/>..."
 	},
 	{
-		name: "* DANGERS IN THE DARK - BLUE OBJECTIVE. 2 Time Tokens",
+		name: "* DANGERS IN THE DARK - BLUE OBJECTIVE. 2 Time Tokens (266)",
 		ko: "멀리서, 곤충들이 윙윙대는 소리가 점점 크게 들려온다.<br/>...",
 		en: "In the distance, a skittering sound grows steadily louder.<br/>..."
 	},
 	{
-		name: "* DANGERS IN THE DARK - BLUE OBJECTIVE. 4 Time Tokens",
+		name: "* DANGERS IN THE DARK - BLUE OBJECTIVE. 4 Time Tokens (266)",
 		ko: "남쪽에서 들려오는 커다란 쿵쾅거리는 소리가 당신의 주의를 끈다.<br/>...",
 		en: "A loud pounding from the south draws your attention.<br/>..."
 	},
 	{
-		name: "* DANGERS IN THE DARK - BLUE OBJECTIVE. 6 Time Tokens",
+		name: "* DANGERS IN THE DARK - BLUE OBJECTIVE. 6 Time Tokens (266)",
 		ko: "북쪽 계단 위의 벽에 뚫린 구멍을 통해 당신을 향한 시선이 느껴진다.<br/>...",
 		en: "To the north and up the stairs you see something peering from a hole in the wall.<br/>..."
 	},
 	{
-		name: "* DANGERS IN THE DARK - BLUE OBJECTIVE. 8 Time Tokens",
+		name: "* DANGERS IN THE DARK - BLUE OBJECTIVE. 8 Time Tokens (266)",
 		ko: "끔찍한 시체 하나가 당신의 시야에 들어온다.<br/>...",
 		en: "A horrible corpse shambles into view.<br/>..."
 	},
 	{
-		name: "* DANGERS IN THE DARK - RED OBJECTIVE 둘째 문단",
+		name: "* DANGERS IN THE DARK - RED OBJECTIVE 둘째 문단 (266)",
 		ko: "레버를 당기자 멀리서 딸깍하는 소리가 들린다.<br/>...",
 		en: "You pull the lever and hear a clicking sound far in the distance.<br/>..."
 	},
 	{
-		name: "* DANGERS IN THE DARK - BLUE TOTEM",
+		name: "* DANGERS IN THE DARK - BLUE TOTEM (266)",
 		ko: "모퉁이를 돌자 죽어있는 애니메이트 하나가 보인다.<br/>...",
 		en: "Slumped against the corner, you see a dead Animate.<br/>..."
 	},
 	{
-		name: "* DANGERS IN THE DARK - RED TOTEM",
+		name: "* DANGERS IN THE DARK - RED TOTEM (266)",
 		ko: "방의 한쪽 구석에 레버가 있다. 그 옆에는 단상(platform)과 아래를 향한 화살표가 조잡하게 그려져 있다.<br/>...",
 		en: "A lever sits in the corner of this room. It seems to have a crude drawing of a platform and an arrow pointing down.<br/>..."
 	},
