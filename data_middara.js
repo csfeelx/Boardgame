@@ -330,6 +330,10 @@
 		ko: "당신은 통로를 지나 마침내 땅속 깊은 곳에 있는 놈의 은신처에 도착한다. 인간과 괴물의 시체가 사방에 널려 있고 죽음의 악취가 가득하다. 놈에게 가기 위해서는 눈앞에 있는 구덩이를 넘어야만 한다. 블라이드 테러는 당신을 보고 두려워하긴커녕, 으르렁대며 당신을 위협한다."
 	},
 	{
+		name: "* BLIGHT FOUND! - ERRATA (7)",
+		ko: "We appended a clarification to the second form. the Hidden Text for <b>Terrorizer (B)</b> now adds:<br><br>\"All tokens that were on the Blighted Terror do not carry over to the Blighted Brute.\""
+	},
+	{
 		name: "* BLIGHT FOUND! - TERRORIZER A (7)",
 		ko: "블라이드 테러는 비명을 지르며 절벽에서 떨어진다. 하지만 이곳은 놈의 은신처이고, 놈은 쉽게 죽어줄 생각이 없다. 놈은 절벽에 난 틈을 움켜잡고 매달려, 살아남기 위해 몸부림친다.<br/>...<br/>(해골)이 나오면, 괴물은 어둠 속으로 떨어져 죽음을 맞이한다. 특수 인카운터 규칙 <b>THE FALLEN</b> 을 읽는다. 그렇지 않으면, 괴물은 끝내 절벽에서 기어 올라온다.<br/>...<br/>그러고 나서, 블라이드 테러가 모험가에 의해 구덩이로 밀려났다면, 놈은 자신을 밀어뜨린 모험가에게 달려든다.<br/>...<br/>체크에 성공하면, 그 모험가는 블라이드 테러의 맹공을 성공적으로 피한다. 체크에 실패하면, 그 모험가는 끝없는 어둠 속으로 내던져져 패배한다.",
 		en: "The Blighted Terror screams as its sent over the edge. But the creature knows its own lair and won't be killed so easily. It claws at the side of the gap in an attempt to not fall to its death.<br/>...<br/>If the (해골) is rolled, the Blighted Terror is Defeated by plummeting to its death and the players read the Special Encounter rule <b>The Fallen.</b> Otherwise, the creature is able to pull itself back to its feet.<br/>...<br/>Then, if the Blighted Terror was moved into a pit by an Adventurer, it snarls towards the Adventurer who knocked him into the pit.<br/>...<br/>If they pass, they successfully dodge the Blighted Brute's whips, if they fail, they are thrown into the abyss and Defeated."
@@ -1377,6 +1381,10 @@
 		ko: "아이즐링과 나이팅게일이 당신과 대적한다. 두 사람은 동굴 입구에 자리 잡았다. 살아남은 괴물들이 여전히 주변을 맴돌고 있다. 놈들은 누가 희생자가 되든 신경 쓰지 않을 것이다. 말루마로부터 나이팅게일을 해방할 방법을 찾을 때까지는 그녀를 해쳐서는 안 된다는 것을 깨달은 당신의 입에서 욕이 절로 나온다."
 	},
 	{
+		name: "* BOSS FIGHT: AISLING -  ERRATA (131)",
+		ko: "The rules for Nightingale, Maluma Possessed didn't give enough detail on how players should determine her Icons and stats. We've appended the rule to include the following sentence:<br><br>\"To determine Nightingale, Maluma Possessed's stats, treat the Nightingale Adventurer card as the summoner, and use her equipped weapons symbol abilities as the scaling symbol abilities.\""
+	},
+	{
 		name: "* BOSS FIGHT: AISLING - SPECIAL ENCOUNTER.AISLING'S UNCERTAINTY.PURPLE (132)",
 		ko: "아이즐링이 던진 도축칼은 빗나가지만, 칼에 연결된 사슬이 그녀의 목표물의 목을 옥죈다.<br/>...",
 		en: "Aisling's thrown cleavers missed their mark but the chains are still able to wrap tightly around her last target's neck.<br/>..."
@@ -1881,6 +1889,10 @@
 		ko: "잠시 후, 당신은 이상한 광경을 보게 된다. 다이너마이터 더미가 타오르는 불꽃 옆에 놓여있다. 한 쌍의 케이브 시클이 자신이 위험에 처해있는 것도 모른 채 다이너마이트 막대를 가지고 놀고 있다. 당신은 케이브 시클이 자폭하는 모습을 멍하니 지켜본다. 폭발로 광산이 흔들리며 벌레의 고기와 껍질이 사방에 흩어진다. 그 소란으로 더 많은 케이브 시클이 모여든다. 놈들은 동족의 죽음이 당신의 책임이라 여기는 듯하다. 혼란스러운 상황 속에서 바닥에 놓여있던 또 하나의 다이너마이트에 불이 붙었다."
 	},
 	{
+		name: "* THROUGH THE RUBBLE -  ERRATA (206)",
+		ko: "The Hidden Text for \"Crazy Girl\" event should only trigger if you haven't already killed the Living Oblation. It now says:<br><br>\"<b>Crazy Girl:</b> At the start of the second round, if the Living Oblation is still alive, read the following hidden text:\""
+	},
+	{
 		name: "* THROUGH THE RUBBLE - SPECIAL ENCOUNTER RULES. TRACKING TIME 첫째 문단 (206)",
 		ko: "이 동굴 어딘가에 더 많은 다이너마이트가 있음이 분명하다. 그것들은 언제든 케이브 시클에의해 폭발할지 모른다. 그로 인해 동굴이 무너져 길이 막히지 않기만을 바랄 뿐이다.<br/>...",
 		en: "It's likely that more Dynamite is somewhere in this cave just waiting to be set off by Cave Sickles. Hopefully they don't seal the mine.<br/>..."
@@ -1889,11 +1901,6 @@
 		name: "* THROUGH THE RUBBLE - SPECIAL ENCOUNTER RULES. TRACKING TIME. B (206)",
 		ko: "광산 깊은 곳에서 폭발이 일어나 당신을 놀라게 한다. 당신은 또 다른 케이브 시클이 폭발을 일으키는 것을 상상하고는 어깨를 으쓱한다. 그 폭발로 근처의 바위를 흔들려 절벽에서 떨어져 내린다.<br/>...",
 		en: "An explosion deep within the mine startles you. You imagine another Cave Sickle exploding and shrug. The blast displaces a nearby boulder, sending it rolling off the cliff beside it.<br/>..."
-	},
-	{
-		name: "* THROUGH THE RUBBLE - SPECIAL ENCOUNTER RULES. CRAZY GIRL 에라타 (206)",
-		ko: "(수정 후) At the start of the second round, if the Living Oblation is still alive, read the following hidden text:",
-		en: "(수정 전) At the start of the second round, read the following hidden text:"
 	},
 	{
 		name: "* THROUGH THE RUBBLE - SPECIAL ENCOUNTER RULES. CRAZY GIRL 둘째 문단 (206)",
@@ -2418,6 +2425,10 @@
 		ko: "당신의 눈앞에, 두렵기 짝이 없는 뒤틀린 웜이 나타났다. 놈의 덩치는 거의 2층 높이에 다다른다. 그 머리 위에는 더러운 드레드락과 붉은 눈동자, 그리고 날카로운 이빨을 드러낸 채, 씩 웃고 있는, 제정신이 아닌 듯한 소녀가 타고 있다. 당신은 이런 무시무시한 괴물을 물리칠 수 있을지 확신이 서진 않지만, 충분한 피해를 준다면 놈은 물러날 수도 있다. 방의 동쪽에는 바윗덩어리 하나가 계단 위에 위태롭게 놓여있다. 당신은 이를 유리하게 이용할 수 있을 것이다."
 	},
 	{
+		name: "* CAN OF WURMS -  ERRATA (272)",
+		ko: "We don't specify which Adventurer's you can and cannot user. The intent is that any Adventurer's narratively present can be chosen. Their is a new Special Enounter Rule that says:<br><br>\"<b>Outbound Party:</b> When playing this encounter, you must choose four party members from among any party members available who aren't Injured or Nightingale. (As shie is not narratively present.)\""
+	},
+	{
 		name: "* CAN OF WURMS - SPECIAL ENCOUNTER RULES. SURI, A FRIEND MADE MANIFEST 둘째 문단 (272)",
 		ko: "부상 당한 친구들을 위해, 서리는 이 세계에 모습을 드러내 도움을 주고자 한다.<br/>...",
 		en: "With so many of her friends injured, Suri decides to appear and lend a hand.<br/>..."
@@ -2479,32 +2490,36 @@
 		ko: "브리즈가 감옥 문을 열기 위해 애를 쓰는 동안 당신은 새로운 위협에 직면한다. 시험해봐야 할 열쇠가 아주 많기 때문에, 당신은 브리즈가 올바른 열쇠를 찾을 때까지 괴물들을 막아내야만 한다. 동굴 안쪽 더 깊은 곳에는 블라이드 가디언들이 지키고 있는 다른 감옥이 있다. 놈들은 당신에게 관심이 없는 것 같다. 당장은 말이다."
 	},
 	{
+		name: "* CRITICAL TIMING -  ERRATA (281)",
+		ko: "The Hidden Text for \"4 Time Tokens\" should have a caveat to make it clear how the Spawns work. The Special Rule now says the following:<br><br>\"<b>4 Time Tokens:</b> More monsters arrive in response to your noisy escape! Spawn 2 Animates on an unoccupied space adjacent to the Gatekeeper who is closest to an Adventurer. If there are no Gatekeepers currently on the board, Spawn the Animates on the westside of Tile UM26 instead.\""
+	},
+	{
 		name: "* CRITICAL TIMING - SPECIAL ENCOUNTER RULES. WE HAVE TO HURRY 둘째 문단 (281)",
 		ko: "알라나가 그녀의 포로들에게로 돌아왔다! 그녀는 몹시 기분이 몹시 좋지 않다.<br/>...",
 		en: "Alana has returned to find her prisoners escaping! She is NOT pleased.<br/>..."
 	},
 	{
-		name: "* CRITICAL TIMING - SPECIAL ENCOUNTER RULES. TIME SENSITIVE. 2 Time tokens (281)",
+		name: "* CRITICAL TIMING - SPECIAL ENCOUNTER RULES. TIME SENSITIVE. 2 Time Tokens (281)",
 		ko: "또 다른 게이트키퍼가 나타나 당신의 탈출을 막는다.<br/>...",
 		en: "Another one of those strange key girls appears, blocking your exit.<br/>..."
 	},
 	{
-		name: "* CRITICAL TIMING - SPECIAL ENCOUNTER RULES. TIME SENSITIVE. 3 Time tokens (281)",
+		name: "* CRITICAL TIMING - SPECIAL ENCOUNTER RULES. TIME SENSITIVE. 3 Time Tokens (281)",
 		ko: "다행이도, 또 다른 괴물이 나타나진 않았지만, 서둘러야 한다. 리치 웜은 언제든 돌아올 수 있다.",
 		en: "Luckily, no more monsters arrive, but the urgency remains. The Lich Wurm could be back at any moment."
 	},
 	{
-		name: "* CRITICAL TIMING - SPECIAL ENCOUNTER RULES. TIME SENSITIVE. 4 Time tokens (281)",
+		name: "* CRITICAL TIMING - SPECIAL ENCOUNTER RULES. TIME SENSITIVE. 4 Time Tokens (281)",
 		ko: "당신이 일으킨 소란에 반응해 더 많은 괴물이 모습을 드러낸다!<br/>...",
 		en: "More monsters arrive in response to your noisy escape!<br/>..."
 	},
 	{
-		name: "* CRITICAL TIMING - SPECIAL ENCOUNTER RULES. TIME SENSITIVE. 5 Time tokens (281)",
+		name: "* CRITICAL TIMING - SPECIAL ENCOUNTER RULES. TIME SENSITIVE. 5 Time Tokens (281)",
 		ko: "다행히도, 또 다른 괴물이 나타나진 않았지만, 서둘러야 한다. 리치 웜은 언제든 돌아올 수 있다.",
 		en: "Luckily, no more monsters arrive, but the urgency remains. The Lich Wurm could be back at any moment."
 	},
 	{
-		name: "* CRITICAL TIMING - SPECIAL ENCOUNTER RULES. TIME SENSITIVE. 6 Time tokens (281)",
+		name: "* CRITICAL TIMING - SPECIAL ENCOUNTER RULES. TIME SENSITIVE. 6 Time Tokens (281)",
 		ko: "한 무리의 프레거가 싸움터로 다가온다!<br/>...",
 		en: "A pack of Fragors scurry into the fray!<br/>..."
 	},
@@ -2607,6 +2622,10 @@
 		ko: "그 거대한 나무는 늪의 중앙에 자리 잡고 있다. 그것의 뿌리가 사방으로 뒤틀리며 뻗어 나간다. 늪의 반대편에는 게이트키퍼 둘이 보인다. 아마도 그들 역시 당신이 찾고 있는 열쇠를 원하는 듯하다."
 	},
 	{
+		name: "* GROWING DESTINY - ERRATA (307)",
+		ko: "The Interaction between the Water Loas, Gatekeepers, Poppets, Grotesque Effigy, and Roots was incorrectly explained in the encounter special rules. Additionally, the Gatekeeper on UM6 should be labeled 2 not 1. The following Special Encounter Rules have been appended.<br><br>\"<b>Rival Collectors:</b> The Gatekeepers treat all other figures as opponents and are treated as opponents by all other figures. The Gatekeepers Ignore Roots and Their poppets wont move on to or adjacent to a space containing a root token.<br><br>And<br><br>\"<b>Loas in the Swamps:</b> The loas treat the Grotesque Effigy as an opponent and count as allies for the purpose of Flanking it."
+	},
+	{
 		name: "* GROWING DESTINY - BLUE LOOT (307)",
 		ko: "...<br/>만약 성공하면, 당신은 상자 아래에 숨겨진 공간을 발견해 추가로 <b>20</b> 금화를 얻는다! 불행히도, 숨겨져 있던 함정도 동작한다. 충격파가 당신을 쓰러뜨린다.<br/>...",
 		en: "...<br/>If you pass, you find a false bottom in the chest and the party Gains an additional <b>20</b> Gold! Unfortunately, there is also a trap inside of the false bottom. A shockwave ripples through the air sending you sprawling.<br/>..."
@@ -2659,4 +2678,8 @@
                 ko: "",
 		en: ""
         },
+	{
+		name: "# ERRATA (423)",
+		ko: "This encounter was not up to our standards. The Special Encounter Rule Obscene Rescindo, Coffinbound Soul was not clear enough. More importantly, the Intelligent card didn't function well in encounter. To properly address this we've updated this special rule to be clear and added a new command card version of the Obscene Rescindo. Additionally, the Special Enounter Rule Budge was tweaked to be more thematic for the story at hand."
+	},
 */
