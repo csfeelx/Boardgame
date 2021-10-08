@@ -12,7 +12,7 @@
         var datTranslation = data_middara; // 데이터
         var winDialog; // 팝업윈도우
         var bShowEn = false; // 원문보기
-        var iProgress = 324-5-1; // 진행도
+        var iProgress = 359; // 진행도
 
         // onload
         window.onload = function () {
@@ -25,7 +25,7 @@
             winDialog.en = $(winDialog).find("#en")[0];
 
             // 진행도
-            var pageperday = 1;
+            var pageperday = 1.5;
             var prog = parseInt((iProgress / 482) * 1000) / 10
             var today = new Date();
             var startday = new Date(2021, 1, 4);
