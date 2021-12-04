@@ -11,7 +11,11 @@
         // 변수
         var datTranslation = data_folklore; // 데이터
         var winDialog; // 팝업윈도우
-        var bShowEn = false; // 원문보기
+        var winSub; // 하위윈도우
+        var arBtnSub = []; // 하위버튼 배열
+        var divBlank; // 빈 엘리먼트 (줄넘김)
+        var btnClose;
+        var winButton = $(document).find("#winButton")[0];
 
         // onload
         window.onload = function () {
@@ -21,9 +25,15 @@
             winDialog.ko = $(winDialog).find("#ko")[0];
             winDialog.toggle = $(winDialog).find("#toggle")[0];
             winDialog.en = $(winDialog).find("#en")[0];
+            winSub = $(document).find("#winSub")[0];
+            winSub.ko = $(winSub).find("#ko_sub")[0];
+            winSub.toggle = $(winSub).find("#toggle_sub")[0];
+            winSub.en = $(winSub).find("#en_sub")[0];
+            divBlank = $(document).find("#divBlank")[0];
+            btnClose = $(winDialog).find("#close")[0];
+            winButton = $(document).find("#winButton")[0];
     
             // 배치
-            var winButton = $(document).find("#winButton")[0];
             for (var ii = 0 ; ii < datTranslation.length ; ii++) {
                 // 준비
                 var data = datTranslation[ii];
@@ -72,52 +82,99 @@
                 $(winDialog.en).css("display", "none");
             }
 
-            // 원문보기
-            if (data_current.en != null && bShowEn == true) {
-                $(winDialog.en).css("display", "inline-block");
-                winDialog.toggle.innerHTML = "숨김";
-            } else {
-                $(winDialog.en).css("display", "none");
-                winDialog.toggle.innerHTML = "원문 보기";
+            // 하위 숨김
+            for (var ii = 0; ii < arBtnSub.length; ii++) {
+                $(arBtnSub[ii]).css("display", "none");
+                $(winButton).after(arBtnSub[ii]);
+                $(winButton).after(divBlank);
             }
+            $(winSub).css("display", "none");
+            winSub.no = -1;
 
+            // 하위
+            if (data_current.sub != null) {
+                // 버튼 존재 확인
+                if (arBtnSub.length < data_current.sub.length) {
+                    for (var ii = 0; ii < data_current.sub.length; ii++) {
+                        if (arBtnSub[ii] == null) {
+                            arBtnSub[ii] = document.createElement("button");
+                            $(arBtnSub[ii]).css("width", "100%");
+                        }
+                    }
+                }
+
+                // 버튼 가시 제어 및 부착
+                for (var ii = 0; ii < arBtnSub.length; ii++) {
+                    if (ii < data_current.sub.length) {
+                        $(arBtnSub[ii]).css("display", "inline-block");
+                        arBtnSub[ii].innerHTML = data_current.sub[ii].name;
+                        $(btnClose).before(arBtnSub[ii]);
+                        arBtnSub[ii].data = data_current.sub[ii];
+                        arBtnSub[ii].no = ii;
+                        arBtnSub[ii].onclick = function (ev) { openSub(ev.target.data, ev.target.no, ev.target); }
+                    } else {
+                        $(arBtnSub[ii]).css("display", "none");
+                    }
+                }
+
+                // 빈칸
+                $(btnClose).before(divBlank);
+
+                // 숨김
+                $(winSub).css("display", "none");
+                winSub.no = -1;
+            }
+            
             // 붙이고 가시
             $(btn).after(winDialog);
             $(winDialog).css("display", "inline-block");
         }
 
-        // 원문 보기 버튼
-        function onClickCheckBox() {
-            // 변수
-            bShowEn = !bShowEn
-
-            // 조건검사
-            if ($(winDialog).css("display") == "none") { return; }
-            if ($(winDialog.toggle).css("display") == "none") { return; }
-
-            // 원문보기
-            if (bShowEn == true) {
-                $(winDialog.en).css("display", "inline-block");
-                winDialog.toggle.innerHTML = "숨김";
-            } else {
-                $(winDialog.en).css("display", "none");
-                winDialog.toggle.innerHTML = "원문 보기";
+        // 서브 열기 버튼
+        function openSub(data, no, btn) {
+            // 토글
+            if (winSub.no == no && $(winSub).css("display") != "none") {
+                $(winSub).css("display", "none");
+                return;
             }
+
+            // 정보 입력
+            winSub.no = no;
+            winSub.ko.innerHTML = data.ko;
+            if (data.en != null) {
+                $(winSub.toggle).css("display", "inline-block");
+                winSub.en.innerHTML = data.en;
+                $(winSub.en).css("display", "inline-block");
+            } else {
+                $(winSub.toggle).css("display", "none");
+                $(winSub.en).css("display", "none");
+            }
+
+            // 붙이고 가시
+            $(btn).after(winSub);
+            $(winSub).css("display", "inline-block");
         }
     </script>
 </head>
 
 <body>
-    <div id="winDialog" style="display: none; padding: 10px">
+    <div id="winDialog" style="display: none; width:100%; padding: 10px">
         <div id="border" style="outline: solid 1px black; padding: 10px">
             <div id="name"></div>
             <div id="ko" style="padding: 30px 0px 20px 10px"></div>
-            <button type="checkbox" id="toggle" style="width:100%" onclick="onClickCheckBox()">원문 보기</button>
             <br />
             <div id="en" style="padding: 30px 0px 20px 10px"></div>
-            <button style="width:100%" onclick="$(winDialog).css('display', 'none');">닫기</button>
+            <button id="close" style="width:100%" onclick="$(winDialog).css('display', 'none');">닫기</button>
+        </div>
+    </div>
+    <div id="winSub" style="display: none; width:100%; margin-top:10px; margin-bottom:10px">
+        <div id="border_sub" style="outline: solid 1px gray; padding: 10px">
+            <div id="ko_sub" style="padding: 30px 0px 20px 10px"></div>
+            <br />
+            <div id="en_sub" style="padding: 30px 0px 20px 10px"></div>
         </div>
     </div>
     <div id="winButton"></div>
+    <div id="divBlank"><br/></div>
 </body>
 </html>
