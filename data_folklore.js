@@ -34,387 +34,387 @@
 	},
 	{
 		name: "RE#FC01 DAY - ANCIENT DEVICE: 고대 장치",
-		ko: "우리는 우연히, 몇몇 노인들이 톱니바퀴와 다이얼이 달린 고대의 금속 상자를 연구하고 있는 야영지에 도착했다. 우리는 그들이 그 장치를 분석할 수 있도록 도움을 주고자 했다.<br/><br/>...<br/>성공: 당신은 그들 중 신비주의자 한 명에게 깊은 인상을 주었고 ..."
+		ko: "우리는 우연히, 몇몇 노인들이 톱니바퀴와 다이얼이 달린 고대의 금속 상자를 연구하고 있는 야영지에 도착했다. 우리는 그들이 그 장치를 분석할 수 있도록 도움을 주고자 했다.<br/><br/>One character may pass ARCHEOLOGY 6.<br/>성공: 당신은 그들 중 신비주의자 한 명에게 깊은 인상을 주고 gain the Mystic Companion."
 	},
 	{
 		name: "RE#FC01 NIGHT - PREDATORS: 포식자",
-		ko: "전방에서 들려오는 으르릉거리는 소리로 우리는 늑대인간들이 다가오고 있다는 것을 눈치챘다.<br/><br/>놈들에게서 몸을 숨기기를 원한다면, ..."
+		ko: "전방에서 들려오는 으르릉거리는 소리로 우리는 늑대인간들이 다가오고 있다는 것을 눈치챘다.<br/><br/>놈들에게서 몸을 숨기기를 원한다면, the Leader must pass TRICKERY 5. If you fail or do not wish to make the skill check, skirmish with a Werewolf."
 	},
 	{
 		name: "RE#FC02 DAY - BANSHEE: 밴시",
-		ko: "우리가 해 질 녘 길 위를 걷고 있을 때, 허공에 밴시의 끔찍한 비명 소리가 울려 퍼졌다. 나는 그 무시무시한 통곡을 견뎌내기 위해 애를 썼다!<br/><br/>..."
+		ko: "우리가 해 질 녘 길 위를 걷고 있을 때, 허공에 밴시의 끔찍한 비명 소리가 울려 퍼졌다. 나는 그 무시무시한 통곡을 견뎌내기 위해 애를 썼다!<br/><br/>The Leader becomes DERANGED 6."
 	},
 	{
 		name: "RE#FC02 NIGHT - FULL MOON: 만월",
-		ko: "밤하늘의 구름이 걷히며 웅장한 보름달이 그 모습을 드러내었다.<br/><br/>..."
+		ko: "밤하늘의 구름이 걷히며 웅장한 보름달이 그 모습을 드러내었다.<br/><br/>LYCANTHROPIC characters who end up skirmishing with the group must set their skirmish counters to 3."
 	},
 	{
 		name: "RE#FC03 DAY - BHAGAVAD GITA: 바가바드 기타 (*역주: 힌두교 경전의 시편)",
-		ko: "우리는 조용히 나무 그루터기 위에 앉아 거대한 책을 읽고 있는 한 여행자와 마주쳤다.<br/><br/>... 그가 그 언어를 해독하고 그 책의 비밀을 알아내는 것을 돕는다.<br/>..."
+		ko: "우리는 조용히 나무 그루터기 위에 앉아 거대한 책을 읽고 있는 한 여행자와 마주쳤다.<br/><br/>그가 그 언어를 해독하고 그 책의 비밀을 알아내는 것을 돕기 위해 one character may attempt to pass ARCHEOLOGY 8.<br/>성공: Take this card and give it to the Alchemist to gain a permanent +1 to ARCHEOLOGY, then remove this card from the game.<br/><br/>KEEP THIS CARD"
 	},
 	{
 		name: "RE#FC03 NIGHT - BUMPS IN THE ROAD: 울퉁불퉁한 길",
-		ko: "어둡고 구름 낀 밤이었다. 길을 밝혀줄 별빛도 달빛도 없었기에 우리는 힘겨운 여행을 해야만 했다.<br/><br/>...<br/>실패: 당신은 도로에 널린 잔해에 걸려 넘어진다. ..."
+		ko: "어둡고 구름 낀 밤이었다. 길을 밝혀줄 별빛도 달빛도 없었기에 우리는 힘겨운 여행을 해야만 했다.<br/><br/>All characters must pass AWARENESS 6.<br/>성공: Gain +1 AWARENESS until the start of the next chapter.<br/>실패: 당신은 도로에 널린 잔해에 걸려 넘어진다. Receive 1d4 (SNARE) Damage."
 	},
 	{
 		name: "RE#FC04 DAY - BLACK CAT: 검은 고양이",
-		ko: "검은 고양이 한 마리가 우리의 앞길을 막아섰다. 그 고양이의 커다란 황금빛 눈은 마치 빛을 내뿜는 것처럼 보였다. 놈은 나를 향해 심술궂게 울어대더니 사라져 버렸다.<br/><br/>..."
+		ko: "검은 고양이 한 마리가 우리의 앞길을 막아섰다. 그 고양이의 커다란 황금빛 눈은 마치 빛을 내뿜는 것처럼 보였다. 놈은 나를 향해 심술궂게 울어대더니 사라져 버렸다.<br/><br/>The Leader is SPOOKED 7."
 	},
 	{
 		name: "RE#FC04 NIGHT - NIGHT SPIRIT: 밤의 영혼",
-		ko: "우리의 귀에 희미한 신음이 들려왔다. 곧 그 소리는 귀가 아플 정도로 커졌다. 붉게 타오르는 눈을 가진 희미한 영체가 우리의 눈앞에 나타났다.<br/><br/>..."
+		ko: "우리의 귀에 희미한 신음이 들려왔다. 곧 그 소리는 귀가 아플 정도로 커졌다. 붉게 타오르는 눈을 가진 희미한 영체가 우리의 눈앞에 나타났다.<br/><br/>Skirmish with a Poltergeist."
 	},
 	{
 		name: "RE#FC05 DAY - BURNED TO CINDERS: 재가 된 시체",
-		ko: "그을린 흙더미에서 연기가 피어올랐다. 불에 탄 신발로 그것이 사람이 타고 남은 흔적이라는 것을 알 수 있었다.<br/><br/>...<br/>성공: 당신은 잔해에서 아이템 하나를 찾아냈다.<br/>실패: 당신은 악의 상징 위로 발을 들였고, 그것이 당신을 태워 ..."
+		ko: "그을린 흙더미에서 연기가 피어올랐다. 불에 탄 신발로 그것이 사람이 타고 남은 흔적이라는 것을 알 수 있었다.<br/><br/>One character must pass AWARENESS 6.<br/>성공: 당신은 잔해에서 아이템 하나를 찾아냈다.<br/>실패: 당신은 악의 상징 위로 발을 들였고, 그것이 당신을 태워 2d4 (SNARE) Damage."
 	},
 	{
 		name: "RE#FC05 NIGHT - DARK NIGHT: 어두운 밤",
-		ko: "달이 두꺼운 구름 뒤로 그 모습을 숨겼기에 주변은 칠흑과도 같이 어두웠다. 우리는 조심하기 위해 발걸음을 늦추었다.<br/><br/>..."
+		ko: "달이 두꺼운 구름 뒤로 그 모습을 숨겼기에 주변은 칠흑과도 같이 어두웠다. 우리는 조심하기 위해 발걸음을 늦추었다.<br/><br/>Skill checks are -1 until the start of the next chapter.<br/><br/>KEEP IN PLAY"
 	},
 	{
 		name: "RE#FC06 DAY - SNAKE WHISPERER: 뱀과 속삭이는 자",
-		ko: "길옆 덤불에서 커다란 뱀 한 마리가 나타났다. 놈은 화가 난 듯 나를 향해 빠르게 미끄러져 왔다.<br/><br/>...<br/>성공: 당신은 그 파충류를 진정시키고 ...<br/>실패: 당신은 놈에게 공격받아 ..."
+		ko: "길옆 덤불에서 커다란 뱀 한 마리가 나타났다. 놈은 화가 난 듯 나를 향해 빠르게 미끄러져 왔다.<br/><br/>The Leader must pass ECOLOGY 7.<br/>성공: 당신은 그 파충류를 진정시키고 gain the Cobra Companion. <br/>실패: 놈이 당신을 공격해 you lose 1d6 Vita and become SICKENED 7."
 	},
 	{
 		name: "RE#FC06 NIGHT - CAMPSITE: 야영지",
-		ko: "우리는 나무 숲 속에 숨겨진 야영지를 발견했다.<br/><br/>...<br/>1-3: 야영지는 공격을 받아 파괴된 지 얼마 되지 않았다. 이곳을 공격한 괴물들이 여전히 근처에 있었다. ...<br/>4-6: 일행은 안전하게 휴식을 취한다. ..."
+		ko: "우리는 나무 숲 속에 숨겨진 야영지를 발견했다.<br/><br/>Roll a d6:<br/>1-3: 야영지는 공격을 받아 파괴된 지 얼마 되지 않았다. 이곳을 공격한 괴물들이 여전히 근처에 있었다. Skirmish with a Werewolf.<br/>4-6: 일행은 안전하게 휴식을 취한다. All characters gain 2 Vita."
 	},
 	{
 		name: "RE#FC07 DAY - CAPTIVES: 사로잡힌 사람들",
-		ko: "우리가 집 근처를 지나갈 때 그 안에서 희미한 비명 소리가 들려왔다. 집 안으로 들어가자 아무도 보이지 않았지만 살려달라는 소리가 더욱 크게 들려왔다.<br/><br/>...<br/>성공: 당신은 사로잡힌 사람들을 구하고 ...<br/>실패: 당신은 너무 늦고 말았다. 그들은 이미 희생된 후였다. ..."
+		ko: "우리가 집 근처를 지나갈 때 그 안에서 희미한 비명 소리가 들려왔다. 집 안으로 들어가자 아무도 보이지 않았지만 살려달라는 소리가 더욱 크게 들려왔다.<br/><br/>The Leader must pass AWARENESS 6.<br/>성공: 당신은 사로잡힌 사람들을 구하고 become FAVORED.<br/>실패: 당신은 너무 늦고 말았다. 그들은 이미 희생된 후였다. Skirmish with a Stregha."
 	},
 	{
 		name: "RE#FC07 NIGHT - FLEDGLINGS: 흡혈귀",
-		ko: "우리가 길 위를 걷고 있을 때 마을 사람 몇 명이 다가왔다. 그들과 가까워지자 우리는 그들의 피부가 매우 창백하고, 목에는 생긴 지 얼마 되지 않는 물린 자국이 남아있는 것을 눈치챘다. 이 흡혈귀가 된 지 얼마 되지 않은 자들은 지독한 굶주림을 참지 못하고 우리를 공격해 왔다.<br/><br/>..."
+		ko: "우리가 길 위를 걷고 있을 때 마을 사람 몇 명이 다가왔다. 그들과 가까워지자 우리는 그들의 피부가 매우 창백하고, 목에는 생긴 지 얼마 되지 않는 물린 자국이 남아있는 것을 눈치챘다. 이 흡혈귀가 된 지 얼마 되지 않은 자들은 지독한 굶주림을 참지 못하고 우리를 공격해 왔다.<br/><br/>Skirmish with Vampires."
 	},
 	{
 		name: "RE#FC08 DAY - CHAPEL: 예배당",
-		ko: "우리는 길 근처에서 오래된 석조 예배당을 발견했다. 그 건물은 잘 보존되어 있었지만, 신앙심 깊은 자의 축복을 받을 필요가 있었다.<br/><br/>... 예배당을 복구하고 ... "
+		ko: "우리는 길 근처에서 오래된 석조 예배당을 발견했다. 그 건물은 잘 보존되어 있었지만, 신앙심 깊은 자의 축복을 받을 필요가 있었다.<br/><br/>예배당을 복구하기 위해 one character may pass FAITH 6. 성공하면 gain a Holy Water token or a Prayer."
 	},
 	{
 		name: "RE#FC08 NIGHT - HUNGER: 굶주림",
-		ko: "피의 갈증에 시달리던 이들이 참을 수 없는 허기에 자제력을 잃기 시작했다.<br/><br/>..."
+		ko: "피의 갈증에 시달리던 이들이 참을 수 없는 허기에 자제력을 잃기 시작했다.<br/><br/>Anybody with BLOODLUST must pass FAITH 7 or be forced to skirmish with the group."
 	},
 	{
 		name: "RE#FC09 DAY - CUT OFF!: 봉쇄!",
-		ko: "길이 위험해짐에 따라 마을로 사이의 교역로가 봉쇄되고 말았다.<br/><br/>..."
+		ko: "길이 위험해짐에 따라 마을로 사이의 교역로가 봉쇄되고 말았다.<br/><br/>The Market is unavailable in all towns until the start of the next story."
 	},
 	{
 		name: "RE#FC09 NIGHT - DEATH ABOVE: 하늘에서 덮쳐오는 죽음",
-		ko: "우리의 머리 위로 박쥐떼가 밤하늘을 가득 채우며 날아갔다. 곧 놈들은 우리의 피 냄새에 이끌려 되돌아왔다. 흡혈박쥐들이 공격해온다!<br/><br/>..."
+		ko: "우리의 머리 위로 박쥐떼가 밤하늘을 가득 채우며 날아갔다. 곧 놈들은 우리의 피 냄새에 이끌려 되돌아왔다. 흡혈박쥐들이 공격해온다!<br/><br/>Skirmish with a Bat Swarm. Afterwards, one random character becomes filled with BLOODLUST 5."
 	},
 	{
 		name: "RE#FC10 DAY - DEATH HIMSELF: 죽음의 화신",
-		ko: "질주하는 마차가 우리를 향해 달려왔다. 이 세상의 것이 아닌 듯한 그 검은 마차를 몰고 있는 것은, 불운한 희생자들을 끌고 가기 위해 온 죽음 그 자체였다.<br/><br/>... 심장 마비를 견뎌내기 위해 ..."
+		ko: "질주하는 마차가 우리를 향해 달려왔다. 이 세상의 것이 아닌 듯한 그 검은 마차를 몰고 있는 것은, 불운한 희생자들을 끌고 가기 위해 온 죽음 그 자체였다.<br/><br/>A random living character 는 심장 마비를 견뎌내기 위해 must pass NERVE 4. If they fail, they are reduced to 1 Vita!"
 	},
 	{
 		name: "RE#FC10 NIGHT - HAIL TO THE MOON: 달을 경배하라",
-		ko: "우리는 한 무리의 로브 입은 사람들과 마주쳤다. 그들은 보름달을 향해 기도하고 있었다. 우리는 분쟁을 피해 몰래 지나치기로 했다.<br/><br/>... 그들은 일행의 존재를 눈치채고 ..."
+		ko: "우리는 한 무리의 로브 입은 사람들과 마주쳤다. 그들은 보름달을 향해 기도하고 있었다. 우리는 분쟁을 피해 몰래 지나치기로 했다.<br/><br/>All characters must pass TRICKERY 3. If any character fails, 일행은 그들에게 들켜버렸고 must skirmish with Moon Priests."
 	},
 	{
 		name: "RE#FC11 DAY - EYE OF THE STORM: 폭풍의 눈",
-		ko: "우박을 동반한 거센 폭풍이 우리를 덮쳤다. 우리는 피할 곳을 찾아야만 했다!<br/><br/>...<br/>성공: 당신은 피난처를 찾아내고 ...<br/>..."
+		ko: "우박을 동반한 거센 폭풍이 우리를 덮쳤다. 우리는 피할 곳을 찾아야만 했다!<br/><br/>All characters must pass ECOLOGY 5.<br/>성공: 당신은 피난처를 찾아내고 gain 8 Lore.<br/>실패: You lose 1d6 Vita."
 	},
 	{
 		name: "RE#FC11 NIGHT - MAN'S BEST FRIEND: 인간의 가장 좋은 친구",
-		ko: "우리는 길가에서 상처 입은 개 한 마리를 발견했다.<br/><br/>...<br/>1-3: 그것은 개가 아닌, 미친 늑대이다. 당신은 놈에게 물려 ...<br/>4-6: 당신은 그 개의 상처를 돌봐주었다. 녀석은 당신에게 고마워하는 것 같다. ..."
+		ko: "우리는 길가에서 상처 입은 개 한 마리를 발견했다.<br/><br/>The Leader rolls a d6:<br/>1-3: 그것은 개가 아닌, 미친 늑대이다. 당신은 놈에게 물려 4 Damage and become SICKENED 6.<br/>4-6: 당신은 그 개의 상처를 돌봐주었다. 녀석은 당신에게 고마워하는 것 같다. Gain the Hound Companion."
 	},
 	{
 		name: "RE#FC12 DAY - FAUNA: 동물상",
-		ko: "우리는 길가에 상처 입고 쓰러져있는 새끼 사슴 한 마리를 발견했다. 그 동물의 옆구리에는 날카로운 발톱이 박혀있었으며 초록색 진액이 흐르고 있었다.<br/><br/>... 발톱에 관한 정보를 얻고 ... 당신은 발톱을 조사하다 실수하여 상처를 입고 ..."
+		ko: "우리는 길가에 상처 입고 쓰러져있는 새끼 사슴 한 마리를 발견했다. 그 동물의 옆구리에는 날카로운 발톱이 박혀있었으며 초록색 진액이 흐르고 있었다.<br/><br/>발톱에 관한 정보를 얻기 위해 any one character must pass ECOLOGY 6. 성공하면 gain 15 Lore. 실패하면 당신은 발톱을 조사하다 실수하여 상처를 입고 gain a Corrosion token."
 	},
 	{
 		name: "RE#FC12 NIGHT - SWARM: 박쥐떼",
-		ko: "신선한 피를 노리고 하늘에서 사나운 박쥐떼가 습격해왔다.<br/><br/>..."
+		ko: "신선한 피를 노리고 하늘에서 사나운 박쥐떼가 습격해왔다.<br/><br/>Skirmish with a Bat Swarm."
 	},
 	{
 		name: "RE#FC13 DAY - FIGHTING BACK: 맞서 싸우다",
-		ko: "근처에서 한 무리의 민병대가 정착지에 발생한 공포와 싸우기 위해 전략을 세우고 있었다. 우리는 그들이 악을 파괴하기 위해 계획을 세우는 것을 도왔다.<br/><br/>...<br/>실패: 전투는 처참하게 끝나버렸고 ... <br/>"
+		ko: "근처에서 한 무리의 민병대가 정착지에 발생한 공포와 싸우기 위해 전략을 세우고 있었다. 우리는 그들이 악을 파괴하기 위해 계획을 세우는 것을 도왔다.<br/><br/>The Leader must pass SPEECH 5.<br/>성공: Gain a random Militia Companion. <br/>실패: 전투는 처참하게 끝나버렸고 all characters lose 1 Companion or 2d4 Vita."
 	},
 	{
 		name: "RE#FC13 NIGHT - POSSESSION: 빙의",
-		ko: "우리는 불만에 가득 찬, 안식에 들지 못한 영혼들이 가득한 공간에 들어섰다. 그들은 다시 한번 육체를 얻기를 원했다.<br/><br/>..."
+		ko: "우리는 불만에 가득 찬, 안식에 들지 못한 영혼들이 가득한 공간에 들어섰다. 그들은 다시 한번 육체를 얻기를 원했다.<br/><br/>A random character becomes POSSESSED 5."
 	},
 	{
 		name: "RE#FC14 DAY - PHYSICIAN: 의사",
-		ko: "우리는 지역 농부들을 위해 왕진을 나와 있던 의사와 마주쳤다.<br/><br/>..."
+		ko: "우리는 지역 농부들을 위해 왕진을 나와 있던 의사와 마주쳤다.<br/><br/>The group may take advantage of the services of the Physician as if in town."
 	},
 	{
 		name: "RE#FC14 NIGHT - FRESHLY BITTEN: 물린 지 얼마 되지 않은",
-		ko: "한 젊은이가 길가에 앉아 고열에 시달리고 있었다. 우리는 그가 피에 대한 갈증으로 떨고 있다는 것을 눈치챘다.<br/><br/>... 그가 피의 갈증을 억누르는 것을 돕고 ..."
+		ko: "한 젊은이가 길가에 앉아 고열에 시달리고 있었다. 우리는 그가 피에 대한 갈증으로 떨고 있다는 것을 눈치챘다.<br/><br/>그가 피의 갈증을 억누르는 것을 돕기 위해 any one character must pass SPEECH 6. 성공하면 become RESPECTED. The group may discard a Holy Water to auto-succeed. If you fail, skirmish with a Vampire."
 	},
 	{
 		name: "RE#FC15 DAY - GLITTER: 반짝이는 것",
-		ko: "길을 걷던 중 무언가 반짝이는 것이 내 눈을 사로잡았다.<br/><br/>..."
+		ko: "길을 걷던 중 무언가 반짝이는 것이 내 눈을 사로잡았다.<br/><br/>The Leader must pass AWARENESS 7 to find an Item."
 	},
 	{
 		name: "RE#FC15 NIGHT - BRIGANDS: 도적들",
-		ko: "밤길을 여행하는 것은 위험한 일이라고들 한다. 우리는 곧 그 이유 알게 되었다!<br/><br/>... 나무 사이에 숨어있는 도적을 눈치채고 ..."
+		ko: "밤길을 여행하는 것은 위험한 일이라고들 한다. 우리는 곧 그 이유 알게 되었다!<br/><br/>나무 사이에 숨어있는 도적을 눈치채기 위해 the Leader must pass AWARENESS 7. Skirmish with Highwaymen. If you passed the check, reduce the skirmish counter by 1. If you failed, increase the counter by 2."
 	},
 	{
 		name: "RE#FC16 DAY - GYPSY CARAVAN: 집시 캐러밴",
-		ko: "우리는 여행 중인 집시 캐러밴을 방문했다. 그곳에는 여러 가지 일을 하고 있는 다양한 색의 옷을 입은 사람들이 있었다.<br/><br/>..."
+		ko: "우리는 여행 중인 집시 캐러밴을 방문했다. 그곳에는 여러 가지 일을 하고 있는 다양한 색의 옷을 입은 사람들이 있었다.<br/><br/>Any character holding a Tarot card may discard it and re-draw from the Tarot deck."
 	},
 	{
 		name: "RE#FC16 NIGHT - MOONLIGHT: 달빛",
-		ko: "보름달은 아니었지만, 밤하늘의 달빛이 주위를 환하게 비추며 우리를 자신감으로 가득 채웠다.<br/><br/>..."
+		ko: "보름달은 아니었지만, 밤하늘의 달빛이 주위를 환하게 비추며 우리를 자신감으로 가득 채웠다.<br/><br/>Gain +10 Might during skirmishes on the World Map until the start of the next chapter.<br/><br/>KEEP IN PLAY"
 	},
 	{
 		name: "RE#FC17 DAY - VIGILANTES: 자경단",
-		ko: "한 무리의 마을 사람들이 마녀로 의심되는 약사의 집을 불태울지 말지 논쟁을 벌이고 있었다.<br/><br/>... 우선 증거가 필요하다고 그들을 설득하기 위해 ...<br/>..."
+		ko: "한 무리의 마을 사람들이 마녀로 의심되는 약사의 집을 불태울지 말지 논쟁을 벌이고 있었다.<br/><br/>우선 증거가 필요하다고 군중을 설득하기 위해 one character must passing SPEECH 6.<br/>성공: Gain 8 Lore and a Boon.<br/>실패: Become WANTED and the group must skirmish with an Angry Mob."
 	},
 	{
 		name: "RE#FC17 NIGHT - HEAVENLY ECLIPSE: 일식",
-		ko: "일식이 일어나 온 세상에 그림자가 드리우기 시작했다. 태양이 천천히 모습을 감추었고 악의 세력이 힘을 얻었다.<br/><br/>..."
+		ko: "일식이 일어나 온 세상에 그림자가 드리우기 시작했다. 태양이 천천히 모습을 감추었고 악의 세력이 힘을 얻었다.<br/><br/>All skirmishing creatures on the World Map gain +10 Might until the start of the next chapter.<br/><br/>KEEP IN PLAY"
 	},
 	{
 		name: "RE#FC18 DAY - HORSES: 야생마 무리",
-		ko: "우리는 근처에서 야생마 무리를 발견했다.<br/><br/>... 말을 길들이고 ..."
+		ko: "우리는 근처에서 야생마 무리를 발견했다.<br/><br/>말을 길들이기 위해 the Leader may pass ECOLOGY 5. 성공하면 gain the Mustang Companion. If the Mustang is not available, gain the Mare. If neither are available, you gain +2 Stride for your next move on the World Map."
 	},
 	{
 		name: "RE#FC18 NIGHT - INCANTATION: 주문",
-		ko: "우리는 길가에 버려진 배낭을 발견했다. 그 안에는 낡고 망가진 책이 있었고, 몇 장 정도는 그 내용을 알아볼 수 있었다.<br/><br/>..."
+		ko: "우리는 길가에 버려진 배낭을 발견했다. 그 안에는 낡고 망가진 책이 있었고, 몇 장 정도는 그 내용을 알아볼 수 있었다.<br/><br/>The Leader receives their choice of a Prayer or Ritual."
 	},
 	{
 		name: "RE#FC19 DAY - MAN OF THE CLOTH: 성직자",
-		ko: "우리는 여행 중인 주교 한 명과 마주쳤고, 그는 우리에게 도움을 주겠다고 했다.<br/><br/>..."
+		ko: "우리는 여행 중인 주교 한 명과 마주쳤고, 그는 우리에게 도움을 주겠다고 했다.<br/><br/>The Leader may pass FAITH 5 to become BLESSED. The bishop will cure any characters who are stricken with SICKENED, SPOOKED, BLOODLUST or CURSED free of charge."
 	},
 	{
 		name: "RE#FC19 NIGHT - GOODNIGHT: 편안한 밤",
-		ko: "우리는 길에서 멀지 않은 곳에 있는 버려진 야영지를 발견했다. 그곳은 휴식을 취하기에 아주 좋은 장소로 보였다.<br/><br/>..."
+		ko: "우리는 길에서 멀지 않은 곳에 있는 버려진 야영지를 발견했다. 그곳은 휴식을 취하기에 아주 좋은 장소로 보였다.<br/><br/>The group recovers 4 Vita, 4 Ghost Points and 4 Power Points."
 	},
 	{
 		name: "RE#FC20 DAY - MANOR: 저택",
-		ko: "우리가 근처의 있는 저택에 가까이 갔을 때, 저택의 문이 열리며 창백한 한 여자와 두 남자가 우리를 초대했다. 그들은 자신들이 평화롭게 살아가기를 원하는 흡혈귀라 주장했다.<br/><br/>... 밤의 어둠 속으로 달아나며 ..."
+		ko: "우리가 근처의 있는 저택에 가까이 갔을 때, 저택의 문이 열리며 창백한 한 여자와 두 남자가 우리를 초대했다. 그들은 자신들이 평화롭게 살아가기를 원하는 흡혈귀라 주장했다.<br/><br/>그들의 신뢰를 얻기 위해 the Leader must pass SPEECH 6. 성공하면 earn 8 Lore. Otherwise, they attack you for 2d4 Vita and infecting you with BLOODLUST 5. 그 후, 그들은 밤의 어둠 속으로 달아난다."
 	},
 	{
 		name: "RE#FC20 NIGHT - DEATH HIMSELF: 죽음의 화신",
-		ko: "질주하는 마차가 우리를 향해 달려왔다. 이 세상의 것이 아닌 듯한 그 검은 마차를 몰고 있는 것은, 불운한 희생자들을 끌고 가기 위해 온 죽음 그 자체였다.<br/><br/>... 심장 마비를 견뎌내기 위해 ..."
+		ko: "질주하는 마차가 우리를 향해 달려왔다. 이 세상의 것이 아닌 듯한 그 검은 마차를 몰고 있는 것은, 불운한 희생자들을 끌고 가기 위해 온 죽음 그 자체였다.<br/><br/>A random living character 는 심장 마비를 견뎌내기 위해 must pass NERVE 5. If they fail, they are reduced to 1 Vita!"
 	},
 	{
 		name: "RE#FC21 DAY - MENAGERIE: 매너저리",
-		ko: "로브를 입고 후드를 뒤집어쓴 광신자 무리가 우리에게 다가왔다. 우리는 우리가 그들과 같은 편임을 설득하려고 노력했다.<br/><br/>...<br/>성공: ... 그들은 우리를 놓아주었다.<br/>..."
+		ko: "로브를 입고 후드를 뒤집어쓴 광신자 무리가 우리에게 다가왔다. 우리는 우리가 그들과 같은 편임을 설득하려고 노력했다.<br/><br/>The Leader must pass SPEECH 6.<br/>성공: Gain 8 Lore. 그들을 우리를 놓아주었다.<br/>실패: Skirmish with Moon Priests."
 	},
 	{
 		name: "RE#FC21 NIGHT - AFRAID OF THE DARK: 암소 공포증",
-		ko: "달이 완전히 모습을 감춘 지독하게 어두운 밤이었다. 주변에서 들려오는 소리가 우리의 등골을 오싹하게 했다. 적이 우리를 덮쳐와도 눈치채지 못할 것이라는 생각에 두려움이 엄습해왔다.<br/><br/>..."
+		ko: "달이 완전히 모습을 감춘 지독하게 어두운 밤이었다. 주변에서 들려오는 소리가 우리의 등골을 오싹하게 했다. 적이 우리를 덮쳐와도 눈치채지 못할 것이라는 생각에 두려움이 엄습해왔다.<br/><br/>All characters become SPOOKED 8."
 	},
 	{
 		name: "RE#FC22 DAY - MILITIA: 민병대",
-		ko: "우리는 한 무리의 민병대와 마주쳤다. 우리는 그들이 우리를 돕도록 그들을 설득했다.<br/><br/>..."
+		ko: "우리는 한 무리의 민병대와 마주쳤다. 우리는 그들이 우리를 돕도록 그들을 설득했다.<br/><br/>The Leader must pass SPEECH 4 to gain a random Militia Companion."
 	},
 	{
 		name: "RE#FC22 NIGHT - VAMPIRE BOUNTY: 흡혈귀 현상금",
-		ko: "수염을 기른 한 남자가 다가와 멀지 않은 곳에 흡혈귀 무리가 있다며, 그 목에 걸린 현상금에 관심이 없는지 물었다.<br/><br/>..."
+		ko: "수염을 기른 한 남자가 다가와 멀지 않은 곳에 흡혈귀 무리가 있다며, 그 목에 걸린 현상금에 관심이 없는지 물었다.<br/><br/>If you accept, skirmish with Vampires with their skirmish counter at maximum. He gives you each 25 Coins as an additional award."
 	},
 	{
 		name: "RE#FC23 DAY - MISFORTUNE: 불운",
-		ko: "제대로 돌아가는 일이 하나도 없다. 마치 행운의 여신이 나를 버린 것만 같은 기분이다.<br/><br/>..."
+		ko: "제대로 돌아가는 일이 하나도 없다. 마치 행운의 여신이 나를 버린 것만 같은 기분이다.<br/><br/>The Leader loses all positive statuses."
 	},
 	{
 		name: "RE#FC23 NIGHT - FEARFUL FLIGHT: 겁에 질려 달아나다",
-		ko: "춥고 어두운 밤길을 여행하는 것은 우리의 조력자들을 견딜 수 없을 정도로 겁에 질리게 하였다.<br/><br/>... 생명의 위협을 느끼고 안전한 마을로 도망쳐 버리고 말았다."
+		ko: "춥고 어두운 밤길을 여행하는 것은 우리의 조력자들을 견딜 수 없을 정도로 겁에 질리게 하였다.<br/><br/>One random Militia Companion within the group 은 생명의 위협을 느끼고 근처의 마을로 도망쳐 버리고 말았다."
 	},
 	{
 		name: "RE#FC24 DAY - PANIC!: 패닉!",
-		ko: "이 지역에 악의 세력이 번성하자 생명에 위협을 느낀 주민들은 이곳을 버리고 도망쳐 버리고 말았다.<br/><br/>..."
+		ko: "이 지역에 악의 세력이 번성하자 생명에 위협을 느낀 주민들은 이곳을 버리고 도망쳐 버리고 말았다.<br/><br/>Characters cannot obtain new Companions until the start of the next chapter, unless instructed to by a story.<br/><br/>KEEP IN PLAY"
 	},
 	{
 		name: "RE#FC24 NIGHT - LOOTING: 남은 물건",
-		ko: "우리는 길가에서 흉악한 짐승에게 살해당한 것으로 보이는 시체 한 구를 발견했다.<br/><br/>..."
+		ko: "우리는 길가에서 흉악한 짐승에게 살해당한 것으로 보이는 시체 한 구를 발견했다.<br/><br/>One character may perform a search check on the body to gain an Item."
 	},
 	{
 		name: "RE#FC25 DAY - ROAD WARDEN: 순찰자",
-		ko: "우리는 길을 걷던 중 석궁과 창으로 무장한 채 말을 타고 있는 한 남자와 마주쳤다. 그는 자신이 길의 안전을 지키고 있다며 통행료를 요구했다.<br/><br/>..."
+		ko: "우리는 길을 걷던 중 석궁과 창으로 무장한 채 말을 타고 있는 한 남자와 마주쳤다. 그는 자신이 길의 안전을 지키고 있다며 통행료를 요구했다.<br/><br/>All characters must pay 8 Coins. If someone cannot pay, they lose 4 Vita from the Warden's attacks. Pass freely if you are RESPECTED."
 	},
 	{
 		name: "RE#FC25 NIGHT - SNAKE CHARMER: 뱀 조련사",
-		ko: "우리는 훈련된 뱀을 팔고 있는 뱀 조련사 하나와 마주쳤다. 하지만 그 짐승을 잘 다루기 위해서는 그것과 교감을 나눌 필요가 있어 보인다.<br/><br/>..."
+		ko: "우리는 훈련된 뱀을 팔고 있는 뱀 조련사 하나와 마주쳤다. 하지만 그 짐승을 잘 다루기 위해서는 그것과 교감을 나눌 필요가 있어 보인다.<br/><br/>One character may pay 30 Coins to get the Cobra Companion. You may choose to Train it as at the Stables in town by passing ECOLOGY 6. Fail and you are bitten and become SICKENED."
 	},
 	{
 		name: "RE#FC26 DAY - SAMARITAN?: 착한 사마리아인?",
-		ko: "한 남자가 궁핍한 자신의 마을을 방문해 곤경에 처한 사람들을 도와달라 간청했다.<br/><br/>...<br/>1-3: 그 마을에는 역병이 돌고 있다. ... 방문을 거절하거나, ...<br/>4-6: 당신은 주민들이 짐승의 피에 감염되었다는 것을 눈치챈다. ..."
+		ko: "한 남자가 궁핍한 자신의 마을을 방문해 곤경에 처한 사람들을 도와달라 간청했다.<br/><br/>Roll a d6:<br/>1-3: 그 마을에는 역병이 돌고 있었다. 그의 요청을 거절하려면 the Leader must pass SPEECH 5, or gain an Infection token.<br/>4-6: 당신은 주민들이 짐승의 피에 감염되었다는 것을 눈치챈다. Skirmish with a Werewolf."
 	},
 	{
 		name: "RE#FC26 NIGHT - LYNCH MOB: 분노한 군중",
-		ko: "우리는 횃불을 든 성난 군중과 마주쳤다. 그들은 쇠사슬에 묶인 사람들을 근처에 있는 교수대로 호송 중이었다. 그들은 우리 역시 범죄자로 몰아세웠다.<br/><br/>... 쇠사슬에 묶이는 일을 피하고 ..."
+		ko: "우리는 횃불을 든 성난 군중과 마주쳤다. 그들은 쇠사슬에 묶인 사람들을 근처에 있는 교수대로 호송 중이었다. 그들은 우리 역시 범죄자로 몰아세웠다.<br/><br/>쇠사슬에 묶이는 일을 피하려면 the Leader must pass SPEECH 5. 성공하면 gain 8 Lore, otherwise the group becomes WANTED and you must skirmish with a Angry Mob."
 	},
 	{
 		name: "RE#FC27 DAY - SICK AND THE DEAD: 전염병과 시체들",
-		ko: "우리는 버려진 수레를 발견했다. 그 위에는 수많은 시체가 쌓여있었고 악취가 진동했다. 불과 몇 미터 떨어진 곳에는 그 수레를 끌던 것으로 보이는 사람들의 시체가 있었다.<br/><br/>..."
+		ko: "우리는 버려진 수레를 발견했다. 그 위에는 수많은 시체가 쌓여있었고 악취가 진동했다. 불과 몇 미터 떨어진 곳에는 그 수레를 끌던 것으로 보이는 사람들의 시체가 있었다.<br/><br/>All characters must pass ECOLOGY 6 or take an Infection token."
 	},
 	{
 		name: "RE#FC27 NIGHT - INQUISITORS: 이단심문관",
-		ko: "한 쌍의 로브 입은 사람들이 다가와 우리가 하는 일에 대해 물었다.<br/><br/>...<br/>실패: ... 그들은 우리에게 단검을 휘둘렀고 ... 도망치던 중 ..."
+		ko: "한 쌍의 로브 입은 사람들이 다가와 우리가 하는 일에 대해 물었다.<br/><br/>The Leader must either pass SPEECH 7 or give them 20 Coins to auto-succeed.<br/>실패: Become WANTED. 그리고 당신이 도망치는 사이, 그들은 단검을 휘둘러 causing 1d4 Damage to all characters."
 	},
 	{
 		name: "RE#FC28 DAY - SWIFT PASSAGE: 지름길",
-		ko: "우리는 숨겨져 있던 황무지를 가로지르는 지름길을 발견했다!<br/><br/>..."
+		ko: "우리는 숨겨져 있던, 황무지를 가로지르는 지름길을 발견했다!<br/><br/>Keep this card and discard it on a future turn to draw two Road Event cards instead of one. Choose one and discard the other.<br/><br/>KEEP THIS CARD"
 	},
 	{
 		name: "RE#FC28 NIGHT - SPIRITS OF THE DEAD: 망자의 영혼",
-		ko: "우리는 갑작스럽게 유령들에게 포위되고 말았다!<br/><br/>..."
+		ko: "우리는 갑작스럽게 유령들에게 포위되고 말았다!<br/><br/>The Leader must pass FAITH 8 or encounter 2 Restless Spirits on the Open Road adventure map. Place characters in center of map and place spirits 4 spaces from the Leader, each in an opposite direction. At the end of combat, the group receives 2 Items."
 	},
 	{
 		name: "RE#FC29 DAY - TENDRILS OF SMOKE: 유령 덩굴손",
-		ko: "갑자기 한 무리의 유령이 우리의 앞길을 막았다. 우리가 지나가려 하자 그들의 영체는 그대로 우리의 몸을 통과해 버렸다.<br/><br/>..."
+		ko: "갑자기 한 무리의 유령이 우리의 앞길을 막았다. 우리가 지나가려 하자 그들의 영체는 그대로 우리의 몸을 통과해 버렸다.<br/><br/>All characters must pass NERVE 5 to gain a temporary Power Point. Fail and become SPOOKED 8."
 	},
 	{
 		name: "RE#FC29 NIGHT - ANIMAL PEDDLER: 동물 상인",
-		ko: "다양한 동물을 팔고 있는 한 상인이 자신이 팔고 있는 동물들을 보여주었다.<br/><br/>..."
+		ko: "다양한 동물을 팔고 있는 한 상인이 자신이 팔고 있는 동물들을 보여주었다.<br/><br/>The Leader may buy one Animal Companion for 25 Coins. You may receive a trained one (as with Stables in town) for an additional 10 Coins."
 	},
 	{
 		name: "RE#FC30 DAY - THE FOREST LIVES: 숲의 생물들",
-		ko: "무시무시한 나뭇가지들이 우리의 앞길을 막았다. 성난 나무들이 뿌리를 뽑아들고 움직이며 침입자들을 공격했다... 바로 우리를!<br/><br/>..."
+		ko: "무시무시한 나뭇가지들이 우리의 앞길을 막았다. 성난 나무들이 뿌리를 뽑아들고 움직이며 침입자들을 공격했다... 바로 우리를!<br/><br/>Skirmish with a Dark Oak."
 	},
 	{
 		name: "RE#FC30 NIGHT - HEIROPHANT: 고위 사제",
-		ko: "우리는 여행 중인 치유사 한 명과 마주쳤다. 그는 우리에게 호의를 보이며 도움을 주겠다고 했다.<br/><br/>..."
+		ko: "우리는 여행 중인 치유사 한 명과 마주쳤다. 그는 우리에게 호의를 보이며 도움을 주겠다고 했다.<br/><br/>Remove one negative status or heal 1d6 Vita for one character free of charge."
 	},
 	{
 		name: "RE#FC31 DAY - THE HUNT: 사냥",
-		ko: "우리는 근처 숲에서 사슴 떼를 발견했다. 사냥의 시간이다!<br/><br/>... 사냥할 수 있다. ... 좋은 식사로 배를 채워 ..."
+		ko: "우리는 근처 숲에서 사슴 떼를 발견했다. 사냥의 시간이다!<br/><br/>Each character 는 사냥을 성공적인 사냥을 위해 may pass ECOLOGY 5. Successful characters 는 좋은 식사로 배를 채워 gain 1d4 Vita."
 	},
 	{
 		name: "RE#FC31 NIGHT - THIEVES: 도둑들",
-		ko: "검은 옷을 입은 수상한 남자들이 우리를 덮쳤다.<br/><br/>..."
+		ko: "검은 옷을 입은 수상한 남자들이 우리를 덮쳤다.<br/><br/>All characters must pass TRICKERY 5 or they steal a random Item from them."
 	},
 	{
 		name: "RE#FC32 DAY - OPPRESSION: 압박감",
-		ko: "우울하고 답답한 날이었다. 뭐 하나 제대로 되는 일이 없었다.<br/><br/>..."
+		ko: "우울하고 답답한 날이었다. 뭐 하나 제대로 되는 일이 없었다.<br/><br/>The Leader must pass NERVE 6.<br/>실패: Either lose 1 positive status or become CURSED."
 	},
 	{
 		name: "RE#FC32 NIGHT - POSSESSED: 빙의 된 시체",
-		ko: "우리는 길을 걷다 시체 한 구를 발견했다. 갑자기 시체가 눈을 떴고 새까만 눈이 드러났다.<br/><br/>..."
+		ko: "우리는 길을 걷다 시체 한 구를 발견했다. 갑자기 시체가 눈을 떴고 새까만 눈이 드러났다.<br/><br/>Skirmish with a Possessed."
 	},
 	{
 		name: "RE#FC33 DAY - TINKER: 땜장이",
-		ko: "우리는 대장간이 딸린 농장에 도착했다. 전직 땜장이였던 농부는 우리가 원한다면 일을 해주겠다고 했다.<br/><br/>..."
+		ko: "우리는 대장간이 딸린 농장에 도착했다. 전직 땜장이였던 농부는 우리가 원한다면 일을 해주겠다고 했다.<br/><br/>The group may take advantage of the same services as the Tinker in town."
 	},
 	{
 		name: "RE#FC33 NIGHT - INMATE: 도망자",
-		ko: "우리는 법의 심판을 피해 도주 중인 한 남자와 마주쳤다. 그는 우리가 자신을 보호해준다면 우리를 돕겠다고 제안했다.<br/><br/>..."
+		ko: "우리는 법의 심판을 피해 도주 중인 한 남자와 마주쳤다. 그는 우리가 자신을 보호해준다면 우리를 돕겠다고 제안했다.<br/><br/>If you choose to help him, become WANTED and this card represents a new Companion, the Inmate. Receive +1 TRICKERY and you cannot be IMMOBILIZED.<br/><br/>KEEP THIS CARD"
 	},
 	{
 		name: "RE#FC34 DAY - WANDERERS: 방랑자들",
-		ko: "우리는 겁에 질린 마을 사람 한 무리와 마주쳤다. 그들은 죽음을 피해 가까스로 도망친 듯했다. 우리는 그들을 돕겠다고 제안했다.<br/><br/>... 그들을 아무 마을까지 호송하여 ... 실패하면 그들은 겁에 질려 도망친다."
+		ko: "우리는 겁에 질린 마을 사람 한 무리와 마주쳤다. 그들은 죽음을 피해 가까스로 도망친 듯했다. 우리는 그들을 돕겠다고 제안했다.<br/><br/>The Leader may pass SPEECH 5 to take them as a Mission Companion. Escort them to any town to gain 10 Coins. 실패하면 그들은 겁에 질려 도망친다.<br/><br/>KEEP THIS CARD"
 	},
 	{
 		name: "RE#FC34 NIGHT - WEAPONS DEALER: 무기 상인",
-		ko: "우리는 무기 상인과 마주쳤다. 그는 원한다면 자신의 상품을 보여주겠다고 했다.<br/><br/>..."
+		ko: "우리는 무기 상인과 마주쳤다. 그는 원한다면 자신의 상품을 보여주겠다고 했다.<br/><br/>The Leader may pay 5 Coins to draw the top 5 cards from the Item deck. You may purchase any weapons there. If you pay double the cost of the weapon, he sharpens it giving that weapon a permanent +1 Damage."
 	},
 	{
 		name: "RE#FC35 DAY - WHEN BIRDS ATTACK: 새떼의 습격",
-		ko: "비정상적으로 사나워진 까마귀와 검은 새들이 우리를 공격했다.<br/><br/>..."
+		ko: "비정상적으로 사나워진 까마귀와 검은 새들이 우리를 공격했다.<br/><br/>All characters must pass TRICKERY 6 to avoid them, otherwise lose 1d6 Vita."
 	},
 	{
 		name: "RE#FC35 NIGHT - MIND READER: 마음을 읽는 자",
-		ko: "어두운 길 위에서 마주친 한 남자가 자신의 귀를 틀어막으며 우리에게 시끄럽다며 소리 질렀다.<br/><br/>... 생각을 진정시키거나 그가 일으킨 정신 파동에 의해 ... 그 후 그는 도망쳐버린다. ..."
+		ko: "어두운 길 위에서 마주친 한 남자가 자신의 귀를 틀어막으며 우리에게 시끄럽다며 소리 질렀다.<br/><br/>All characters 는 생각을 진정시키기 위해 must pass NERVE 8 or 그가 일으킨 정신 충격파에 의해 take 1d4 Damage. 그 후, 그는 도망쳐버린다. Those with the PSYCHIC keyword receive +4 to their roll."
 	},
 	{
 		name: "RE#FC36 DAY - WISE ONE: 현자",
-		ko: "우리는 오랜 세월을 살아오며 온갖 분야의 지식과 기술에 통달한 노인과 마주쳤다. 그는 고대 지식의 편린을 나누어주었다.<br/><br/>..."
+		ko: "우리는 오랜 세월을 살아오며 온갖 분야의 지식과 기술에 통달한 노인과 마주쳤다. 그는 고대 지식의 편린을 나누어주었다.<br/><br/>The Leader gains 1 Ability Point. If a character receives this card more than once in their life, immediately discard it and draw again."
 	},
 	{
 		name: "RE#FC36 NIGHT - FORTUNE TELLER: 점쟁이",
-		ko: "한 점쟁이가 우리에게 도움을 요청했다. 그녀는 아침이 되기 전까지 자신의 야영지로 돌아가야 한다고 말했다.<br/><br/>..."
+		ko: "한 점쟁이가 우리에게 도움을 요청했다. 그녀는 아침이 되기 전까지 자신의 야영지로 돌아가야 한다고 말했다.<br/><br/>Bring her to the nearest town as a Mission Companion. In reward, she gives the Leader the ability to draw 2 Road events instead of one until the start of the next story, discarding one of your choice.<br/><br/>KEEP THIS CARD"
 	},
 	{
 		name: "RE#FC37 DAY - UNNATURAL DROUGHT: 비정상적인 가뭄",
-		ko: "농작물들이 시들어버렸고 기근이 이 땅을 덮쳤다. 우리의 궁극적인 목적은 사람들을 돕는 것이다. 할 수 있는 모든 것을 해야 한다.<br/><br/>..."
+		ko: "농작물들이 시들어버렸고 기근이 이 땅을 덮쳤다. 우리의 궁극적인 목적은 사람들을 돕는 것이다. 할 수 있는 모든 것을 해야 한다.<br/><br/>The group must donate 30 Coins. You may give Items to reach the requirement at half their cost. If you cannot meet this condition, everyone loses all positive statuses and Companions."
 	},
 	{
 		name: "RE#FC37 NIGHT - THE CHANGE: 변이",
-		ko: "만월이 떠올랐고, 야수의 피에 전염된 이들이 자제력을 잃고 말았다.<br/><br/>..."
+		ko: "만월이 떠올랐고, 야수의 피에 전염된 이들이 자제력을 잃고 말았다.<br/><br/>If a skirmish occurs due to LYCANTHROPIC characters in the group, a random afflicted character must pass OCCULT 6 or transform into a Werewolf to fight to the death in the skirmish."
 	},
 	{
 		name: "RE#FC38 DAY - ASSAULT: 습격",
-		ko: "한 무리의 노상강도가 저항할 힘이 없는 마을 사람들을 습격하고 있었다!<br/><br/>... 도적들을 설득해 떠나게 하고 ..."
+		ko: "한 무리의 노상강도가 저항할 힘이 없는 마을 사람들을 습격하고 있었다!<br/><br/>도적들을 설득해 떠나게 하기 위해 any one character must pass SPEECH 6. 성공하면 become RESPECTED. Otherwise the group must Skirmish with Highwaymen."
 	},
 	{
 		name: "RE#FC38 NIGHT - ANGELIC VISITATION: 천사의 방문",
-		ko: "밝은 빛이 번쩍이더니 허공에서 빛나는 형체가 모습을 드러냈다.<br/><br/>..."
+		ko: "밝은 빛이 번쩍이더니 허공에서 빛나는 형체가 모습을 드러냈다.<br/><br/>The Leader must pass FAITH 6 to gain a Boon. If your check was 6-7, gain 3 Vita; 8-9, become either BLESSED or LUCKY, your choice; 10+, gain +1 Max Vita permanently."
 	},
 	{
 		name: "RE#FC39 DAY - THE HOUND: 사냥개",
-		ko: "뒤에서 낮게 으르렁거리는 소리가 들려왔다. 사납게 생긴 개 한 마리가 이빨을 드러내고 있었다. 놈은 우리가 자신의 영역을 침범한 것에 화가 난 듯했다.<br/><br/>... 짐승을 진정시킬 수 있다.<br/>..."
+		ko: "뒤에서 낮게 으르렁거리는 소리가 들려왔다. 사납게 생긴 개 한 마리가 이빨을 드러내고 있었다. 놈은 우리가 자신의 영역을 침범한 것에 화가 난 듯했다.<br/><br/>짐승을 진정시키기 위해 any one character must pass ECOLOGY 6.<br/>성공: Gain the Hound Companion.<br/>실패: Skirmish with a Vicious Hound."
 	},
 	{
 		name: "RE#FC39 NIGHT - HUNTERS: 사냥꾼들",
-		ko: "우리는 여러 마리의 사슴 사체를 끌고 가고 있는 두 명의 사냥꾼과 마주쳤다. 그들은 자신의 전리품들을 근처의 마을까지 운반하는 일에 우리의 도움을 요청했다.<br/><br/>..."
+		ko: "우리는 여러 마리의 사슴 사체를 끌고 가고 있는 두 명의 사냥꾼과 마주쳤다. 그들은 자신의 전리품들을 근처의 마을까지 운반하는 일에 우리의 도움을 요청했다.<br/><br/>The group may take them as Mission Companions (each fills a companion slot) and bring them to a town to gain 15 Coins each."
 	},
 	{
 		name: "RE#FC40 DAY - WANTED: 추적자",
-		ko: "우리는 한 무리의 파수꾼과 마주쳤다. 그들은 무법자들을 쫓고 있었다.<br/><br/>... 그들은 우리의 협조에 감사를 표하였고 ..."
+		ko: "우리는 한 무리의 파수꾼과 마주쳤다. 그들은 무법자들을 쫓고 있었다.<br/><br/>If any character is WANTED, the group must skirmish with Watchmen. Otherwise 그들은 우리의 협조에 감사를 표하였고 the Leader gains a Boon."
 	},
 	{
 		name: "RE#FC40 NIGHT - BOUNTY HUNTERS: 현상금 사냥꾼들",
-		ko: "어둠 속에서 현상금 사냥꾼들이 우리에게 화살을 쏘았다. 누군가가 우리의 머리를 원한 것이다!<br/><br/>..."
+		ko: "어둠 속에서 현상금 사냥꾼들이 우리에게 화살을 쏘았다. 누군가가 우리의 머리를 원한 것이다!<br/><br/>All characters 는 숨기 위해 must pass ECOLOGY 6 or TRICKERY 6. Those who fail must skirmish with Highwaymen. If they are defeated, the characters that skirmished gain 1 ltem and 8 Lore in additional to normal awards."
 	},
 	{
 		name: "RE#FC41 DAY - GHOUL BOUNTY: 구울 사냥",
-		ko: "수염을 기른 한 남자가 우리에게 다가와, 지역 공동묘지에 구울 한 무리가 살고 있다고 말했다. 그는 그들의 목에 걸린 현상금에 관심이 없는지 물었다.<br/><br/>..."
+		ko: "수염을 기른 한 남자가 우리에게 다가와, 지역 공동묘지에 구울 한 무리가 살고 있다고 말했다. 그는 그들의 목에 걸린 현상금에 관심이 없는지 물었다.<br/><br/>If you accept, skirmish with Flesh Eating Ghouls with their skirmish counter at maximum. He gives each character 20 Coins as an additional award."
 	},
 	{
 		name: "RE#FC41 NIGHT - ZOMBIE COMPANION: 좀비가 된 조력자",
-		ko: "우리의 조력자 중 일부가 기이한 병에 걸려 좀비가 되어 버리고 말았다!<br/><br/>..."
+		ko: "우리의 조력자 중 일부가 기이한 병에 걸려 좀비가 되어 버리고 말았다!<br/><br/>Each character must pass OCCULT 8 for each Companion they possess. Skirmish with Flesh Eating Ghouls and set their counter to the number of failures. Characters then lose the Companions that became zombies."
 	},
 	{
 		name: "RE#FC42 DAY - HELP THE POOR: 가난한 이들을 돕다",
-		ko: "집을 잃고 방랑하게 된 인근 마을 주민들이 밀려오는 어둠에 맞서 살아남기 위해 우리에게 도움을 간청했다.<br/><br/>..."
+		ko: "집을 잃고 방랑하게 된 인근 마을 주민들이 밀려오는 어둠에 맞서 살아남기 위해 우리에게 도움을 간청했다.<br/><br/>Any character who sacrifices 10 Coins or 1 consumable Item receives 8 Lore."
 	},
 	{
 		name: "RE#FC42 NIGHT - GRAVESITE: 무덤",
-		ko: "우리는 길가에서 아무런 표시도 없는 무덤을 발견했다. 어떤 불운한 사람의 주검을 서둘러 묻은 듯, 그 무덤은 겨우 한 뼘 깊이의 흙으로 덮여 있을 뿐이었다. 그 위로 성난 원혼이 떠돌고 있었다.<br/><br/>... 올바른 절차를 거쳐 다시 시체를 매장한다.<br/>..."
+		ko: "우리는 길가에서 아무런 표시도 없는 무덤을 발견했다. 어떤 불운한 사람의 주검을 서둘러 묻은 듯, 그 무덤은 겨우 한 뼘 깊이의 흙으로 덮여 있을 뿐이었다. 그 위로 성난 원혼이 떠돌고 있었다.<br/><br/>올바른 절차를 거쳐 시체를 다시 매장하기 위해 any one character must pass ECOLOGY 5.<br/>성공: 당신은 영혼을 만족시키고 earn 15 Lore.<br/>실패: Skirmish with a Poltergeist."
 	},
 	{
 		name: "RE#FC43 DAY - SUNNY DAY: 화창한 날",
-		ko: "화창하고 기분 좋은 날이었다. 모든 일이 잘 풀릴 것만 같다.<br/><br/>..."
+		ko: "화창하고 기분 좋은 날이었다. 모든 일이 잘 풀릴 것만 같다.<br/><br/>The Leader may either lose 1 negative status or become LUCKY."
 	},
 	{
 		name: "RE#FC43 NIGHT - SUPERSTITIONS: 미신",
-		ko: "의심이 많은 듯한 노부부가 타고 있는 마차가 우리를 스쳐 지나갔다. 그들은 이방인인 우리를 경계하며 얼굴을 찌푸리고는 우리를 향해 성호를 그었다. <br/><br/>... 그들의 미신적인 방호술에 의해 ..."
+		ko: "의심이 많은 듯한 노부부가 타고 있는 마차가 우리를 스쳐 지나갔다. 그들은 이방인인 우리를 경계하며 얼굴을 찌푸리고는 우리를 향해 성호를 그었다. <br/><br/>A random character must pass OCCULT 6 or 그들의 토속적인 방호술의 힘에 의해 become CURSED."
 	},
 	{
 		name: "RE#FC44 DAY - TRAVELER: 여행자",
-		ko: "우리는 자신을 제법 이름 있는 약재상이라고 소개하는 남자와 마주쳤다.<br/><br/>..."
+		ko: "우리는 자신을 제법 이름 있는 약재상이라고 소개하는 남자와 마주쳤다.<br/><br/>The group may take advantage of Apothecary services as if in a town."
 	},
 	{
 		name: "RE#FC44 NIGHT - FELUSHA STONE: 펠루샤 스톤",
-		ko: "우리는 희미하게 녹색으로 빛나고 있는 바위 정원을 지나쳤다. 우리는 이 돌에 흥미가 생겼고, 그 중 하나를 가져가도 해가 되지 않으리라 판단했다.<br/><br/>..."
+		ko: "우리는 희미하게 녹색으로 빛나고 있는 바위 정원을 지나쳤다. 우리는 이 돌에 흥미가 생겼고, 그 중 하나를 가져가도 해가 되지 않으리라 판단했다.<br/><br/>The Leader must pass AWARENESS 8 to find a Felusha Stone. This card to symbolizes the stone. Discard it at the Standing Stones to remove one Tarot card for free.<br/><br/>KEEP THIS CARD"
 	},
 	{
 		name: "RE#FC45 DAY - HARD TRAVEL: 힘든 여행",
-		ko: "날씨가 나빠져 우리의 여정은 더욱 험난해졌다.<br/><br/>..."
+		ko: "날씨가 나빠져 우리의 여정은 더욱 험난해졌다.<br/><br/>Receive -1 Stride on the World Map until the start of the next chapter.<br/><br/>KEEP IN PLAY"
 	},
 	{
 		name: "RE#FC45 NIGHT - HAG IN THE WOOD: 숲 속의 할망구",
-		ko: "길에서 조금 벗어난 곳에 당장에라도 쓰러질 것만 같은 오두막 하나가 보였다. 주름투성이의 화가 난 얼굴이 문틈으로 우리를 응시했다. 그 할망구는 우리를 향해 저주를 내뱉었다.<br/><br/>..."
+		ko: "길에서 조금 벗어난 곳에 당장에라도 쓰러질 것만 같은 오두막 하나가 보였다. 주름투성이의 화가 난 얼굴이 문틈으로 우리를 응시했다. 그 할망구는 우리를 향해 저주를 내뱉었다.<br/><br/>All characters become CURSED 4."
 	},
 	{
 		name: "RE#FC46 DAY - CALAMITY: 재난",
-		ko: "밀려드는 어둠에 주민들이 겁을 먹고 말았다. 그들은 집안으로 들어가 문을 닫아걸었다.<br/><br/>..."
+		ko: "밀려드는 어둠에 주민들이 겁을 먹고 말았다. 그들은 집안으로 들어가 문을 닫아걸었다.<br/><br/>Town services are not available in any town until the start of the next chapter, except for the Physician and Gypsy Encampment.<br/><br/>KEEP IN PLAY"
 	},
 	{
 		name: "RE#FC46 NIGHT - VAMPIRIC MIST: 흡혈 안개",
-		ko: "어둠 속에서 핏빛 안개가 스며들어와 우리를 집어삼키며 우리의 폐를 파고들었다.<br/><br/>..."
+		ko: "어둠 속에서 핏빛 안개가 스며들어와 우리를 집어삼키며 우리의 폐를 파고들었다.<br/><br/>All characters lose 2 Vita and then must roll a d10. On a 1, they are afflicted with BLOODLUST."
 	},
 	{
 		name: "RE#FC47 DAY - UNDERTAKER: 장의사",
-		ko: "우리는 여행 중 길가에 있는 작은 묘지에 도착했다. 그곳에서 바쁘게 무덤을 파고 있던 노인이 우리를 알아챘다. 그는 물집이 잡힌 자신의 손을 보여주며 붕대를 나누어 달라고 요구했다.<br/><br/>... 그는 화를 내며 덤벼들었고 ..."
+		ko: "우리는 여행 중 길가에 있는 작은 묘지에 도착했다. 그곳에서 바쁘게 무덤을 파고 있던 노인이 우리를 알아챘다. 그는 물집이 잡힌 자신의 손을 보여주며 붕대를 나누어 달라고 요구했다.<br/><br/>One character may discard a Bandage to receive 8 Lore. Otherwise 그는 화를 내며 우리에게 덤벼든다. the group must skirmish with the Undertaker."
 	},
 	{
 		name: "RE#FC47 NIGHT - OOZE: 진액",
-		ko: "우리의 앞길에 회색의 끈적이는 액체가 놓여있었다.<br/><br/>..."
+		ko: "우리의 앞길에 회색의 끈적이는 액체가 놓여있었다.<br/><br/>All characters must pass AWARENESS 6 to avoid it, otherwise they gain a Corrosion token. Anyone rolling a 1 for the check becomes TRANSFORMED."
 	},
 	{
 		name: "RE#FC48 DAY - SHORTCUT: 지름길",
-		ko: "우리는 여행 시간을 단축하게 할 지름길에 대한 정보를 얻었다.<br/><br/>..."
+		ko: "우리는 여행 시간을 단축하게 할 지름길에 대한 정보를 얻었다.<br/><br/>Keep this card and discard it on a future turn to avoid drawing a Road event card.<br/><br/>KEEP THIS CARD"
 	},
 	{
 		name: "RE#FC48 NIGHT - DOPPELGANGER: 도플갱어",
-		ko: "우리는 어둠 속에서 무언가와 마주쳤다. 동료 하나가 어느새 두 명이 되어 있었다.<br/><br/>..."
+		ko: "우리는 어둠 속에서 무언가와 마주쳤다. 동료 하나가 어느새 두 명이 되어 있었다.<br/><br/>A doppelganger takes the shape of a random character. The group must skirmish with it, the skirmish counter set to 1d4. Its attacks cause 1d4 Damage. Roll a d6 for each hit against it. On a d6:4+, instead of reducing the skirmish counter, the real character is hit."
 	},
 	{},
 	{},
@@ -427,11 +427,11 @@
 		sub: [
 			{
 				name: "도망쳐 숨을 곳을 찾는다.",
-				ko: "놈들의 울부짖는 소리가 점점 커지는 동안 우리는 숨을 곳을 찾아 달렸다. 나무 사이에서 거대한 짐승이 모습을 드러냈다. 놈은 위협적으로 포효했다.<br/><br/>..."
+				ko: "놈들의 울부짖는 소리가 점점 커지는 동안 우리는 숨을 곳을 찾아 달렸다. 나무 사이에서 거대한 짐승이 모습을 드러냈다. 놈은 위협적으로 포효했다.<br/><br/>All characters must pass TRICKERY 4. If anyone fails, the group must skirmish with a Werewolf. If there are LYCANTHROPIC characters in the group, they must pass NERVE 5. If they fail, they must skirmish alongside the Werewolves"
 			},
 			{
 				name: "태세를 정비하고 습격에 맞선다.",
-				ko: "우리는 싸우기로 마음을 먹었고 늦지 않게 전투 준비를 마칠 수 있었다. 곧 한 무리의 굶주린 늑대 무리가 우리를 덮쳤다.<br/><br/>..."
+				ko: "우리는 싸우기로 마음을 먹었고 늦지 않게 전투 준비를 마칠 수 있었다. 곧 한 무리의 굶주린 늑대 무리가 우리를 덮쳤다.<br/><br/>Skirmish with a Rabid Wolf, their skirmish counter at maximum."
 			},
 		]
 	},
@@ -441,11 +441,11 @@
 		sub: [
 			{
 				name: "원혼을 달래고 지식을 얻는다.",
-				ko: "우리는 그 원혼이 가진 비밀을 밝혀내기 위해 그를 달래려 했다.<br/><br/>...<br/>성공: 영혼은 당신의 미래를 엿볼 수 있게 해주었다. ..."
+				ko: "우리는 그 원혼이 가진 비밀을 밝혀내기 위해 그를 달래려 했다.<br/><br/>영혼과 교감을 위해 one character must pass SPEECH 7. If there is a ghost in the group, it is an auto-success.<br/>성공: 영혼은 당신의 미래를 엿볼 수 있게 해주었다. All characters gain +5 Defense until the start of the next story."
 			},
 			{
 				name: "원혼을 파괴하고 놈이 지키고자 했던 것을 손에 넣는다.",
-				ko: "우리의 공격은 원혼을 자극했고, 놈은 복수심에 불타 우리를 공격했다.<br/><br/>...<br/>그 후, 일행은 무덤에 묻힌 오래된 물체 두 개를 발견한다. ..."
+				ko: "우리의 공격은 원혼을 자극했고, 놈은 복수심에 불타 우리를 공격했다.<br/><br/>Skirmish with a Poltergeist.<br/>그 후, 일행은 무덤에 묻힌 오래된 물건 둘을 발견한다, but those that do become CURSED 7."
 			}
 		]
 	},
@@ -455,11 +455,11 @@
 		sub: [
 			{
 				name: "좀 더 가까이 다가가 그들의 사악한 계획을 엿듣는다.",
-				ko: "우리는 몰래 다가가, 이 땅에 악마를 불러오려 하는 마녀들의 사악한 계획에 대해 들을 수 있었다.<br/><br/>..."
+				ko: "우리는 몰래 다가가, 이 땅에 악마를 불러오려 하는 마녀들의 사악한 계획에 대해 들을 수 있었다.<br/><br/>One character must pass TRICKERY 6.<br/>성공: Automatically gain First Strike against Occultist and Demonic creatures until the start of the next chapter.<br/>실패: Skirmish with a Wretched Hag."
 			},
 			{
 				name: "이 마녀들을 전부 소탕한다.",
-				ko: "마녀들은 사람들을 해치려 하고 있었고, 우리는 당장 행동해야 할 때임을 깨달았다. 우리는 사악한 마녀 집회를 부수기 위해 돌진했다.<br/><br/>..."
+				ko: "마녀들은 사람들을 해치려 하고 있었고, 우리는 당장 행동해야 할 때임을 깨달았다. 우리는 사악한 마녀 집회를 부수기 위해 돌진했다.<br/><br/>Skirmish with a Bruja with +2 to the skirmish counter. 그 후, 당신은 대학살의 현장에서 find your choice of an Item or a Ritual."
 			}
 		]
 	},
@@ -469,11 +469,11 @@
 		sub: [
 			{
 				name: "너무 늦기 전에 의식을 중단시킨다.",
-				ko: "우리는 마녀들의 의식을 방해하기 위해 돌진했다.<br/><br/>... 그 후, 남자는 자신이 살아있다는 것을 깨닫고 우리가 그를 구해준 것에 감사를 표했다. ..."
+				ko: "우리는 마녀들의 의식을 방해하기 위해 돌진했다.<br/><br/>Skirmish with a Stregha with the skirmish counter at maximum. 그 후, 남자는 자신이 살아있다는 것을 깨닫고 우리가 그를 구해준 것에 감사를 표했다. Gain a Militia Companion."
 			},
 			{
 				name: "무슨 일이 일어나는지 보기 위해 기다린다.",
-				ko: "우리는 초조하게 마녀들이 의식을 끝내는 것을 지켜보았다. 오망성 위에 누워있던 남자가 비틀거리며 몸을 일으켰다. 그는 곧 뒤틀린 근육을 가진 끔찍한 괴물로 변했다. 그는 자신의 창조자들을 공격하여 그들 모두를 갈기갈기 찢어버렸다. 그리고는 우리에게로 시선을 돌렸다.<br/><br/>... 그 후, 당신은 마녀들의 소지품에서 의식 하나를 발견한다."
+				ko: "우리는 초조하게 마녀들이 의식을 끝내는 것을 지켜보았다. 오망성 위에 누워있던 남자가 비틀거리며 몸을 일으켰다. 그는 곧 뒤틀린 근육을 가진 끔찍한 괴물로 변했다. 그는 자신의 창조자들을 공격하여 그들 모두를 갈기갈기 찢어버렸다. 그리고는 우리에게로 시선을 돌렸다.<br/><br/>Encounter the Abomination. Use the Open Road adventure map, placing him in the center with all characters together at a far end. 그 후, 당신은 마녀들의 소지품에서 find a Ritual."
 			}
 		]
 	},
@@ -483,11 +483,11 @@
 		sub: [
 			{
 				name: "도적들을 위협해 쫓아버린다.",
-				ko: "우리는 무기를 들고 당당하게 현장을 습격해 그들을 위협했다.<br/><br/>...<br/>성공: 그들은 당신의 위협에 겁을 먹고 달아난다.<br/>실패: ... 다친 사람을 돕기에는 너무 늦어버리고 말았다. 일행은 잔해 속에서 ..."
+				ko: "우리는 무기를 들고 당당하게 현장을 습격해 그들을 위협했다.<br/><br/>One character must pass SPEECH 8.<br/>성공: 그들은 당신의 위협에 겁을 먹고 달아난다.<br/>실패: Skirmish with a Highwayman with the skirmish counter at maximum. 다친 사람을 돕기에는 너무 늦어버리고 말았다. 일행은 잔해 속에서 receives 1 ltem."
 			},
 			{
 				name: "우선 다친 사람을 구하기 위해 캐릭터 중 하나가 몰래 숨어들어 간다.",
-				ko: "우리는 다친 사람을 구하기 위해 조용히 움직였다.<br/><br/>...<br/>성공: 당신은 들키지 않고 그를 데리고 나오는 데 성공했다. ...<br/>실패: ... 그는 당신이 도적들과 싸우는 중에 죽고 말았다."
+				ko: "우리는 다친 사람을 구하기 위해 조용히 움직였다.<br/><br/>One character must pass TRICKERY 6.<br/>성공: 당신은 들키지 않고 그를 데리고 나오는 데 성공했다. Gain 8 Lore. If you use any healing Item or Ability to help him, you gain a random Militia Companion.<br/>실패: You alone must skirmish with the Highwayman. Every round beyond the first, another character may join in the skirmish. 그는 당신이 도적들과 싸우는 사이에 죽고 말았다."
 			}
 		]
 	},
@@ -497,11 +497,11 @@
 		sub: [
 			{
 				name: "그들의 감미로운 음악을 즐긴다.",
-				ko: "그들의 노래를 듣고 있자니 졸음이 몰려왔다.<br/><br/>... 사티로스의 음악에 저항하기 위해 ...<br/>실패: 당신은 깊은 잠에 빠져든다. 깨어났을 때, 당신은 자신의 일부를 잃었다는 것을 깨닫는다. ..."
+				ko: "그들의 노래를 듣고 있자니 졸음이 몰려왔다.<br/><br/>All characters 는 사티로스의 음악에 저항하기 위해 must pass NERVE 6. 성공하면 gain 8 Lore.<br/>실패: 당신은 깊은 잠에 빠져든다. 깨어났을 때, 당신은 자신의 일부를 잃었다는 것을 깨닫는다. lose 1d10x5 Lore. If all characters fail the check, lose 10 additional Lore."
 			},
 			{
 				name: "이곳을 떠난다. 그들과 엮이지 않는 것이 나을 것이다.",
-				ko: "우리는 저런 환상 속의 생물들과 엮여서 좋을 일이 없다는 것을 알고 있었기에 재빨리 이곳을 빠져나가기로 했다.<br/><br/>... 침입자를 기다리고 있는 숨겨진 구덩이를 눈치채기 위해 ...<br/>성공: 당신은 어렵지 않게 숨겨진 덫을 발견한 뒤 이곳을 빠져나간다.<br/>실패: 창이 박혀 있는 구덩이로 떨어져 ..."
+				ko: "우리는 저런 환상 속의 생물들과 엮여서 좋을 일이 없다는 것을 알고 있었기에 재빨리 이곳을 빠져나가기로 했다.<br/><br/>All characters 는 침입자를 기다리고 있는 숨겨진 구덩이를 눈치채기 위해 must pass AWARENESS 8.<br/>성공: 당신은 어렵지 않게 숨겨진 덫을 발견한 뒤 이곳을 빠져나간다.<br/>실패: 당신은 창이 박혀 있는 구덩이로 떨어져 receive 2d4 (Snare) Damage."
 			}
 		]
 	},
@@ -511,11 +511,11 @@
 		sub: [
 			{
 				name: "의심할 여지 없이 이것은 위험한 물건이다. 즉시 이곳을 떠난다.",
-				ko: "우리는 이 기이한 유물이 끔찍하게 위험한 물건이라는 것을 깨달았다. 발길을 돌리는 순간, 우리는 파멸이 등 뒤로 다가온 것만 같은 느낌을 받았다.<br/><br/>..."
+				ko: "우리는 이 기이한 유물이 끔찍하게 위험한 물건이라는 것을 깨달았다. 발길을 돌리는 순간, 우리는 파멸이 등 뒤로 다가온 것만 같은 느낌을 받았다.<br/><br/>All characters become SPOOKED 8."
 			},
 			{
 				name: "이것은 위대한 고고학적 발견이다. 우리는 이것을 조사해야만 한다.",
-				ko: "풀 한 포기 없는 땅을 지나며 우리는 피부가 따끔거리는 것을 느꼈다. 유물에 다가갔을 때, 참을 수 없는 충동이 느껴졌다. 우리는 저것에 손을 대야만 한다.<br/><br/>... 손을 대지 않기 위해 ...<br/>...<br/>1-2: 유물이 당신의 생명력을 모조리 빨아들였다. ...<br/>..."
+				ko: "풀 한 포기 없는 땅을 지나며 우리는 피부가 따끔거리는 것을 느꼈다. 유물에 다가갔을 때, 참을 수 없는 충동이 느껴졌다. 우리는 저것에 손을 대야만 한다.<br/><br/>Each characters 는 유물에 손을 대지 않기 위해 may pass NERVE 7.<br/>실패: Roll a d10 and add your ARCHEOLOGY bonus to the result.<br/>1-2: 유물이 당신의 생명력을 모조리 빨아들인다. Become a ghost.<br/>3: Your Vita is reduced to 1.<br/>4-6: Nothing happens.<br/>7-8: Become FAVORED.<br/>9-0: All negative status effects and Tarot cards are removed."
 			}
 		]
 	},
@@ -525,11 +525,11 @@
 		sub: [
 			{
 				name: "싸움을 벌이기 전에, 우선 그의 말을 끝까지 듣는다.",
-				ko: "그는 지친 목소리로 말했다. \"난 이 영원한 삶에 지쳤다. 나의 힘만으로는 부족하다. 너희의 힘이 필요하다. 나를 파괴해 내가 모든 것을 잊고 쉴 수 있게 해다오!\"<br/><br/>..."
+				ko: "그는 지친 목소리로 말했다. \"난 이 영원한 삶에 지쳤다. 나의 힘만으로는 부족하다. 너희가 나를 도와 나를 파괴해 내가 모든 것을 잊고 쉴 수 있게 해다오!\"<br/><br/>Skirmish with a Vampire with its counter at 1. Gain an Item after the combat is complete, in addition to normal awards."
 			},
 			{
 				name: "당신은 어둠을 헤매는 사악한 괴물을 말 따위를 듣지 않을 것이다!",
-				ko: "그는 분노에 차 소리쳤다. \"감히 내 제안을 거절하다니! 너희에게도 나와 같은 고통을 안겨주마!\"<br/><br/>... 흡혈귀를 쫓아내기 위해 ...<br/>성공: 흡혈귀는 당신의 신실함 앞에 비명을 지르며 밤의 어둠 속으로 사라졌다. ...<br/>..."
+				ko: "그는 분노에 차 소리쳤다. \"감히 내 제안을 거절하다니! 너희에게도 나와 같은 고통을 안겨주마!\"<br/><br/>A random living character 는 흡혈귀를 쫓아내기 위해 must pass FAITH 8.<br/>성공: 흡혈귀는 당신의 신실함 앞에 비명을 지르며 밤의 어둠 속으로 사라졌다. Gain a Boon.<br/>실패: Lose 2d4 Vita and gain BLOODLUST 8."
 			}
 		]
 	},
@@ -539,11 +539,11 @@
 		sub: [
 			{
 				name: "그를 돕고 싶다고 말하며, 무슨 일이 일어났는지 묻는다.",
-				ko: "당신은 당신이 무엇이 이 땅에 고통을 가져오는지 알아내고, 악을 물리치기 위해 노력하고 있다고 그들을 설득했다.<br/><br/>...<br/>실패: 그들은 자신의 마을이 공격받아 불탄 것은 당신의 탓이라며 당신을 비난한다. ..."
+				ko: "당신은 당신이 무엇이 이 땅에 고통을 가져오는지 알아내고, 악을 물리치기 위해 노력하고 있다고 그들을 설득했다.<br/><br/>One character must pass SPEECH 8.<br/>성공: Become RESPECTED and gain +5 Might until the start of the next story.<br/>실패: 그들은 자신의 마을이 공격받아 불탄 것은 당신의 탓이라며 당신을 비난한다. Skirmish with an Angry Mob with +2 on the skirmish counter."
 			},
 			{
 				name: "이런 외딴곳에 집을 짓는 것은 어리석은 짓이었다고 말하며, 그와 다친 사람들을 즉시 가까운 마을로 호송해주겠다고 제안한다.",
-				ko: "마을 사람들은 우리의 단호한 말투에 당황했지만, 절박한 마음으로 우리의 제안에 동의했다.<br/><br/>..."
+				ko: "마을 사람들은 우리의 단호한 말투에 당황했지만, 절박한 마음으로 우리의 제안에 동의했다.<br/><br/>You must take the villagers as Mission Companions (two slots required) and travel immediately to the closest town without delay, otherwise the group becomes WANTED. Upon entering the town, all characters receive 30 Lore and a Boon."
 			}
 		]
 	},
@@ -553,25 +553,25 @@
 		sub: [
 			{
 				name: "마차를 세우고 안을 들여다본다.",
-				ko: "우리가 말을 세우고 마차의 덮개를 벗기자, 그 안에는 노인 남녀가 있었다. 그들의 피부는 종기로 뒤덮여 있었다. 남자는 이미 죽어 있었고, 나이 든 여인은 신음하며 당신에게 도움을 구했다.<br/><br/>..."
+				ko: "우리가 말을 세우고 마차의 덮개를 벗기자, 그 안에는 노인 남녀가 있었다. 그들의 피부는 종기로 뒤덮여 있었다. 남자는 이미 죽어 있었고, 나이 든 여인은 신음하며 당신에게 도움을 구했다.<br/><br/>All characters become SICKENED 4. You may take the woman as a Mission Companion and bring her immediately to Physician in the nearest town to receive 10 coins and 15 Lore. Failure to do so results in all characters receiving an Infection token."
 			},
 			{
 				name: "당신이 신경 쓸 바가 아니다. 그냥 지나치는 것이 나을 것이다.",
-				ko: "우리는 재빨리 반대 방향으로 움직였다. 갑자기 귀청이 터질 것 같은 비명이 들렸다. 돌아보니 말과 마차는 어느샌가 사라져 버리고 없었다.<br/><br/>..."
+				ko: "우리는 재빨리 반대 방향으로 움직였다. 갑자기 귀청이 터질 것 같은 비명이 들렸다. 돌아보니 말과 마차는 어느샌가 사라져 버리고 없었다.<br/><br/>The group becomes SPOOKED 8."
 			}
 		]
 	},
 	{
 		name: "OR#FC11 - THOSE IN NEED: 도움이 필요한 이들",
-		ko: "우리는 작은 농장을 발견했고, 휴식을 취하기 위해 멈추었다. 작은 소녀가 문 앞에 나타나 겁에 질린 채 자신의 부모가 병에 걸렸다고 말했다. 그녀는 우리의 도움을 간청했다.",
+		ko: "우리는 작은 농장을 발견했고, 휴식을 취하기 위해 멈추었다. 작은 소녀가 문 앞에 나타나 겁에 질린 채 자신의 부모가 병에 걸렸다고 말했다. 소녀는 우리의 도움을 간청했다.",
 		sub: [
 			{
-				name: "... 그녀의 부모를 돕는다.",
-				ko: "그녀의 부모는 위중한 상태였지만 아직 살아있었고, 우리의 노력으로 그들의 병세는 호전되어 그들은 마침내 침대에서 일어날 수 있게 되었다.<br/><br/>..."
+				name: "Help her parents by spending a healing consumable or with an Ability, Prayer/Ritual, etc.",
+				ko: "그녀의 부모는 위중한 상태였지만 아직 살아있었고, 우리의 노력으로 그들의 병세는 호전되어 그들은 마침내 침대에서 일어날 수 있게 되었다.<br/><br/>The character who made the healing efforts becomes RESPECTED."
 			},
 			{
-				name: "도울 방법이 없거나, 전염병이 옮을 것이 두려워 그녀를 돕지 않는다.",
-				ko: "우리의 능력으로는 그 가엾은 소녀와 그녀의 부모를 도울 수가 없었다. 우리는 그녀에게 미안하다고 말한 뒤, 출발 준비를 했다. 그녀의 두 눈에 떠오른 절망 가득한 눈빛에 우리의 가슴은 찢어질 것만 같았다.<br/><br/>..."
+				name: "도울 방법이 없거나, 전염병이 옮을 것이 두려워 소녀를 돕지 않는다.",
+				ko: "우리의 능력으로는 그 가엾은 소녀와 그녀의 부모를 도울 수가 없었다. 우리는 그녀에게 미안하다고 말한 뒤, 출발 준비를 했다. 그녀의 두 눈에 떠오른 절망 가득한 눈빛에 우리의 가슴은 찢어질 것만 같았다.<br/><br/>All characters lose 15 Lore, and any Boons and positive statuses they possess."
 			}
 		]
 	},
@@ -581,11 +581,11 @@
 		sub: [
 			{
 				name: "그에게 거래를 제안한다.",
-				ko: "그는 자신의 물건을 우리에게 팔겠다고 했다. 필요한 물건이 떨어져 가던 참이었기에 우리는 그 제안에 응했다.<br/><br/>...<br/>성공: 그 물건의 품질에는 아무런 문제도 없었다.<br/>실패: 그 물건은 쓸모가 없었다. ..."
+				ko: "그는 자신의 물건을 우리에게 팔겠다고 했다. 필요한 물건이 떨어져 가던 참이었기에 우리는 그 제안에 응했다.<br/><br/>One character may draw three Item cards and choose to buy any of them. Afterwards, that character must pass AWARENESS 4 for each item bought.<br/>성공: 그 물건의 품질에는 아무런 문제도 없었다.<br/>실패: 그 물건은 쓸모가 없었다. 아이템을 버린다."
 			},
 			{
 				name: "그의 앞길에 행운을 빌어주고, 여정을 계속한다.",
-				ko: "우리는 그의 안전을 빌어준 뒤 사냥꾼을 지나쳤다. 하지만 그는 멈춰 서서 우리에게 붕대가 필요하지 않으냐고 물었다.<br/><br/>..."
+				ko: "우리는 그의 안전을 빌어준 뒤 사냥꾼을 지나쳤다. 하지만 그는 멈춰 서서 우리에게 붕대가 필요하지 않으냐고 물었다.<br/><br/>You may purchase one Bandage for each character (5 coins each)."
 			}
 		]
 	},
@@ -595,11 +595,11 @@
 		sub: [
 			{
 				name: "하룻밤 머물면서 불 옆에서 휴식을 취한다.",
-				ko: "우리는 집시들과 함께 포도주를 마시며 즐거운 대화를 나누었다.<br/><br/>..."
+				ko: "우리는 집시들과 함께 포도주를 마시며 즐거운 대화를 나누었다.<br/><br/>All characters may pass OCCULT 6.<br/>성공: Remove any one negative status and recover 4 Vita."
 			},
 			{
 				name: "점쟁이에게 말을 걸어 당신의 미래를 예언해달라고 부탁한다.",
-				ko: "늙은 점쟁이는 우리를 맞이하며 우리의 도착을 기다렸다고 말했다. 그녀는 우리가 자신과 함께 교령회에 참가해주길 원했다.<br/><br/>...<br/>성공: 영혼들이 당신의 앞길에 놓인 위험을 경고해주었다. ...<br/>실패: 당신은 사악한 의도를 가진 영혼과 마주치고 말았다. ..."
+				ko: "늙은 점쟁이는 우리를 맞이하며 우리의 도착을 기다렸다고 말했다. 그녀는 우리가 자신과 함께 교령회에 참가해주길 원했다.<br/><br/>The Leader must pass OCCULT 6.<br/>성공: 영혼들이 당신의 앞길에 놓인 위험을 경고해준다. Gain +10 Defense until the start of the next story.<br/>실패: 당신은 사악한 의도를 가진 영혼과 마주치고 말았다. A random character becomes POSSESSED 8."
 			}
 		]
 	},
@@ -609,11 +609,11 @@
 		sub: [
 			{
 				name: "그는 좋은 사람인 것 같다. 당신은 그의 다리를 치료해준다. ...",
-				ko: "우리는 그를 치료해주었다. 그는 당신의 도움에 보답했다.<br/><br/>... 그는 감사의 뜻으로 ... 그는 또한 일행 중 한 명에게 야생에서 살아남는 법을 가르쳐 주겠다고 제안한다. ...<br/>..."
+				ko: "우리는 그를 치료해주었다. 그는 당신의 도움에 보답했다.<br/><br/>He must be healed 12 Vita. 감사의 뜻으로, he gives the group one Item. 그는 또한 일행 중 한 명에게 야생에서 살아남는 법을 가르쳐 주겠다고 제안한다. One character may pass ECOLOGY 7.<br/>성공: Gain a permanent ABSORPTION 1 vs. Snare damage (not stackable)."
 			},
 			{
 				name: "당신은 그를 돕고 싶지 않거나, 도울 수 없다.",
-				ko: "사냥꾼은 도움은 필요 없다고 말하며, 식사를 같이 하지 않겠느냐고 물었다.<br/><br/>..."
+				ko: "사냥꾼은 도움은 필요 없다고 말하며, 식사를 같이 하지 않겠느냐고 물었다.<br/><br/>The group is allowed to rest without using their standard chapter's rest, although they must roll for a skirmish as normal."
 			}
 		]
 	},
@@ -623,11 +623,11 @@
 		sub: [
 			{
 				name: "그가 무엇 때문에 그런 물건을 요구하는지는 알 수 없었지만, 당신이 가진 것을 나누어 준다.",
-				ko: "그는 당신이 건네준 물건을 허겁지겁 집어삼켰다. 그의 목소리가 더는 떨리지 않았다. \"감사합니다. 한 달 전에 괴물 늑대가 저를 공격했습니다. 저는 저주를 받았고 보름달이 떠오를 때면 야수로 변할 수밖에 없었습니다. 저는 평범한 사람이고 그 누구도 해치고 싶지 않습니다. 덕분에 오늘 밤은 무사히 넘길 수 있을 것 같습니다.\"<br/><br/>..."
+				ko: "그는 당신이 건네준 물건을 허겁지겁 집어삼켰다. 그의 목소리가 더는 떨리지 않았다. \"감사합니다. 한 달 전에 괴물 늑대가 저를 공격했습니다. 저는 저주를 받았고 보름달이 떠오를 때면 야수로 변할 수밖에 없었습니다. 저는 평범한 사람이고 그 누구도 해치고 싶지 않습니다. 덕분에 오늘 밤은 무사히 넘길 수 있을 것 같습니다.\"<br/><br/>Discard a Wolvesbane or a Quicksilver. The character sacrificing the item receives a Boon and 15 Lore."
 			},
 			{
 				name: "당신은 그가 요구한 물건을 가지고 있지 않거나, 그런 희귀한 물건을 낭비하고 싶지 않았기에 그의 요청을 거절한다.",
-				ko: "그가 소리쳤다. \"자신의 몸을 지킬 준비를 하십시오! 더는 저 자신을 통제할 수 없습니다!\" 커다란 야수로 변해버린 그는 광란에 빠져 당신을 공격했다.<br/><br/>... 자신을 통제하기 위해 ..."
+				ko: "그가 소리쳤다. \"자신의 몸을 지킬 준비를 하십시오! 더는 저 자신을 통제할 수 없습니다!\" 커다란 야수로 변해버린 그는 광란에 빠져 당신을 공격했다.<br/><br/>Skirmish with a Werewolf. If any character is LYCANTHROPIC, 그들은 자신을 통제하기 위해 must pass NERVE 8, otherwise they must join the enemy during the skirmish."
 			}
 		]
 	},
@@ -637,11 +637,11 @@
 		sub: [
 			{
 				name: "무덤을 자세히 살펴본다. 죽은 자들이 일어난 것이라면 신속히 놈들을 처리해야만 한다.",
-				ko: "주변에 삽이 널려 있는 것으로 보아 무덤은 최근에 파헤쳐진 것으로 보였다. 이것은 도굴꾼들의 짓이 틀림없었다. 하지만 그들에게 무슨 일이 벌어진 것일까? 우리가 그곳을 떠나려던 순간 누군가 걸걸한 목소리로 외쳤다. \"또다시 도둑놈들이 이곳을 더럽히러 왔나? 지난번처럼 해치울 수밖에 없겠군.\"<br/><br/>..."
+				ko: "주변에 삽이 널려 있는 것으로 보아 무덤은 최근에 파헤쳐진 것으로 보였다. 이것은 도굴꾼들의 짓이 틀림없었다. 하지만 그들에게 무슨 일이 벌어진 것일까? 우리가 그곳을 떠나려던 순간 누군가 걸걸한 목소리로 외쳤다. \"또다시 도둑놈들이 이곳을 더럽히러 왔나? 지난번처럼 해치울 수밖에 없겠군.\"<br/><br/>Skirmish with the Undertaker and his Vicious Hound. A random character finds an Item after the fight."
 			},
 			{
 				name: "언데드들에게 들키기 전에 조용히 이곳을 벗어난다.",
-				ko: "우리가 떠나려던 순간 무언가가 휘청거리며 다가오기 시작했다. 죽은 자들이 일어나 우리를 향해 다가오고 있었다!<br/><br/>...<br/>성공: 당신은 무사히 묘지를 빠져나왔다.<br/>..."
+				ko: "우리가 떠나려던 순간 무언가가 휘청거리며 다가오기 시작했다. 죽은 자들이 일어나 우리를 향해 다가오고 있었다!<br/><br/>All characters must pass TRICKERY 5.<br/>성공: 당신은 무사히 묘지를 빠져나왔다.<br/>실패: All characters that fail must skirmish with Decaying Dead. Each round after the first, another character may join the fight."
 			}
 		]
 	},
@@ -651,11 +651,11 @@
 		sub: [
 			{
 				name: "돌무덤을 수리한다. 영혼들은 안식처가 훼손되어 고통받고 있다. 하지만 이 일은 분명 당신의 일정을 늦출 것이다.",
-				ko: "무너진 돌들은 무겁고 오랜 세월 바람을 맞아 거칠고 울퉁불퉁했다. 힘들고 시간이 걸리는 일이었지만 수리를 마친 뒤 당신은 자부심을 느꼈다.<br/><br/>... 돌무덤을 적절히 수리하기 위해 ...<br/>...<br/>실패: 돌에 부딪히고 베여 ..."
+				ko: "무너진 돌들은 무겁고 오랜 세월 바람을 맞아 거칠고 울퉁불퉁했다. 힘들고 시간이 걸리는 일이었지만 수리를 마친 뒤 당신은 자부심을 느꼈다.<br/><br/>All characters receive -1 to Stride on the World Map for the current chapter. Each characters 는 돌무덤을 적절히 수리하기 위해 must pass ARCHEOLOGY 5.<br/>성공: Gain 8 Lore.<br/>실패: 돌에 부딪히고 베여 lose 1d4 Vita."
 			},
 			{
 				name: "분명 바람 소리를 착각했을 것이다. 고대의 무덤은 건드리지 않는 편이 좋다. 낭비할 시간이 없다. 당장 이곳을 떠난다.",
-				ko: "우리가 떠나려고 순간, 돌무덤에서 아지랑이가 피어오르며 붉게 불타는 눈들이 나타났다. 그들은 우리가 그들의 요청을 무시한 것에 화가 난 듯했다.<br/><br/>...<br/>성공: 리더의 인도 아래 당신은 이 귀신들린 장소를 무사히 벗어났다. ...<br/>실패: 당신은 원혼의 분노를 피해 서두르다 넘어지고 말았다. ..."
+				ko: "우리가 떠나려고 순간, 돌무덤에서 아지랑이가 피어오르며 붉게 불타는 눈들이 나타났다. 그들은 우리가 그들의 요청을 무시한 것에 화가 난 듯했다.<br/><br/>The Leader must pass FAITH 6.<br/>성공: 리더의 인도 아래 당신은 이 귀신들린 장소를 무사히 벗어났다. Gain 8 Lore.<br/>실패: 당신은 원혼의 분노를 피해 서두르다 넘어지고 말았다. Skirmish with a Restless Spirit, with the skirmish counter at maximum."
 			}
 		]
 	},
@@ -665,11 +665,11 @@
 		sub: [
 			{
 				name: "이 농부들은 미신에 홀려있는 듯하다. 군중이 어째서 그들을 화형에 처하려고 하는지 알아본다.",
-				ko: "...<br/>성공: 당신은 남녀의 몸에 새겨진 흑마술을 상징하는 문신을 발견했다. 그들은 제거되어야만 한다. ...<br/>실패: 당신은 군중에게 법의 심판 없이 누군가 처형해서는 안 된다고 이야기한다. 그들은 당신의 말에 동요하더니 폭력적으로 반응한다. ... 그 후, 당신은 묶여 있는 남녀를 구속해 가까운 마을로 데려가 ... 그들은 도망쳐 ..."
+				ko: "The Leader must pass OCCULT 6.<br/>성공: 당신은 남녀의 몸에 새겨진 흑마술을 상징하는 문신을 발견한다. 그들은 제거되어야만 한다. Gain 8 Lore and become RESPECTED.<br/>실패: 당신은 군중에게 법의 심판 없이 누군가 처형해서는 안 된다고 이야기한다. 그들은 당신의 말에 동요하더니 폭력적으로 반응한다. Skirmish with an Angry Mob. 그 후, 당신은 묶여있던 남녀를 구속한다(2 slots Mission Companions). 그들을 마을로 데려가면 각자 은화 15개를 얻을 수 있다. If you cannot take both, 그들은 도망치고 a random character is CURSED."
 			},
 			{
 				name: "그 남녀는 주술사들인 듯하다. 사악한 주술로부터 군중을 보호하기 위해 나선다.",
-				ko: "우리가 앞으로 나서자 상황이 더욱 험악해졌다, 묶여 있던 남녀는 마지막 발악을 시작했다.<br/><br/>...<br/>1-3: 저항은 헛된 시도로 끝나고 그들은 화염에 휩싸여 죽는다.<br/>4-6: 그들이 사악한 주문을 외우자 흑마술 에너지가 군중을 덮친다. ... 또는 도망치기를 택하면 ..."
+				ko: "우리가 앞으로 나서자 상황이 더욱 험악해졌다, 묶여 있던 남녀는 마지막 발악을 시작했다.<br/><br/>Roll a d6.<br/>1-3: 저항은 헛된 시도로 끝나고 그들은 화염에 휩싸여 죽는다.<br/>4-6: 그들이 사악한 주문을 외우자 흑마술 에너지가 군중을 덮친다. Skirmish with a Bruja with the skirmish counter at maximum 또는 도망치기를 택하면 all characters to become CURSED 7."
 			}
 		]
 	},
@@ -679,11 +679,11 @@
 		sub: [
 			{
 				name: "조사를 위해 일행 중 한 명이 밧줄을 타고 내려간다.",
-				ko: "아래로 내려가자 어둠이 나를 감쌌다. 난 패닉에 빠지기 시작했다!<br/><br/>...<br/>성공: ... 바닥에 도착하고 ...<br/>실패: 당신은 패닉에 빠져 다치는 줄도 모르고 급하게 위로 오른다. ..."
+				ko: "아래로 내려가자 어둠이 나를 감쌌다. 난 패닉에 빠지기 시작했다!<br/><br/>Pass NERVE 8.<br/>성공: Become BRAVE and 바닥에 도착하여 you find 1 Item and 1 Ritual.<br/>실패: 당신은 패닉에 빠져 다치는 줄도 모르고 급하게 위로 오른다. Lose 4 Vita and become SPOOKED."
 			},
 			{
 				name: "구덩이를 둘러싸고 있는 돌들을 조사한다.",
-				ko: "우리는 어둠밖에 보이지 않는 구덩이보다 그것을 둘러싸고 있는 돌들에 집중했다.<br/><br/>...<br/>성공: 당신은 돌 하나가 잘못 배열되어 있다는 것을 깨닫고 그것을 고쳐 옮긴다. 그러자 구덩이는 사라지고 그것이 있던 자리에는 풀밭만이 남는다. ...<br/>실패: 돌을 살펴보는 중 구덩이 깊은 곳에서 커다란 소리가 들려온다. 연기 그리고 열기와 함께 끔찍한 괴물들이 구덩이를 통해 모습을 드러낸다. ..."
+				ko: "우리는 어둠밖에 보이지 않는 구덩이보다 그것을 둘러싸고 있는 돌들에 집중했다.<br/><br/>One character must pass ARCHEOLOGY 7.<br/>성공: 당신은 돌 하나가 잘못 배열되어 있다는 것을 깨닫고 그것을 고쳐 옮긴다. 그러자 구덩이는 사라지고 그것이 있던 자리에는 풀밭만이 남는다. Gain 15 Lore and become FAVORED.<br/>실패: 돌을 살펴보는 중 구덩이 깊은 곳에서 커다란 소리가 들려온다. 연기 그리고 열기와 함께 끔찍한 괴물들이 구덩이를 통해 모습을 드러낸다. Skirmish with a Demonspawn."
 			}
 		]
 	},
@@ -693,11 +693,11 @@
 		sub: [
 			{
 				name: "지친 몸을 쉬기 위해 야영지를 이용한다.",
-				ko: "우리는 휴식을 취하기 위해 모닥불 옆에 몸을 웅크렸다.<br/><br/>...<br/>실패: 이 야영지를 자신의 사냥터로 이용하던 흡혈귀에게 생명력을 빨려 ..."
+				ko: "우리는 휴식을 취하기 위해 모닥불 옆에 몸을 웅크렸다.<br/><br/>All characters must pass FAITH 6.<br/>성공: Recover 6 Vita and all Power Points.<br/>실패: 이 야영지를 자신의 사냥터로 이용하던 흡혈귀에게 생명력을 빨려 lose 1d4 Vita and gain BLOODLUST 5."
 			},
 			{
 				name: "챙길 수 있는 것을 챙긴 뒤 야영지를 떠난다.",
-				ko: "쓸만한 물건을 찾기 위해 야영지를 수색하던 중, 우리는 야영지를 자신의 사냥터로 이용하던 흡혈귀에게 습격당했다.<br/><br/>..."
+				ko: "쓸만한 물건을 찾기 위해 야영지를 수색하던 중, 우리는 야영지를 자신의 사냥터로 이용하던 흡혈귀에게 습격당했다.<br/><br/>The Leader must pass AWARENESS 6 to find a ltem. Then the group must skirmish with a Vampire with +2 on the skirmish counter."
 			}
 		]
 	},
@@ -707,7 +707,7 @@
 		sub: [
 			{
 				name: "우리는 악을 제거하기 위해 어둠 속으로 발을 내디뎠다.",
-				ko: "어둠 속에서 괴물들이 모습을 드러냈고 처절한 싸움이 시작되었다.<br/><br/>..."
+				ko: "어둠 속에서 괴물들이 모습을 드러냈고 처절한 싸움이 시작되었다.<br/><br/>Roll 1d6 twice and skirmish the creatures listed at the same time.<br/>1: Revenant<br/>2: Infested<br/>3: Bruja<br/>4: Poltergeist<br/>5: Skinwalker<br/>6: Necuratu.<br/>If you are successful, each character gains 15 Lore as an additional award."
 			}
 		]
 	},
@@ -717,11 +717,11 @@
 		sub: [
 			{
 				name: "물에 비치는 당신의 모습이 무언가 이상하다. 더 가까이 가서 살펴본다.",
-				ko: "자세히 살펴보자 미묘한 차이를 알아차릴 수 있었다. 우리 중 몇몇은 더 늙고 허약해 보였고, 다른 이들은 더 활기차고 강해 보였다. 우리가 물웅덩이에서 눈을 떼었을 때, 우리는 물에 비치던 모습이 그대로 현실에 반영되었다는 것을 깨달았다.<br/><br/>..."
+				ko: "자세히 살펴보자 미묘한 차이를 알아차릴 수 있었다. 우리 중 몇몇은 더 늙고 허약해 보였고, 다른 이들은 더 활기차고 강해 보였다. 우리가 물웅덩이에서 눈을 떼었을 때, 우리는 물에 비치던 모습이 그대로 현실에 반영되었다는 것을 깨달았다.<br/><br/>The effects last until the start of the next story, unless stated otherwise. All characters roll 1d6:<br/>1: Lose 1 Vita permanently<br/>2:-10 Might<br/>3:-5 Defense<br/>4:+5 Defense<br/>5:+1 to Any Skill<br/>6: +1 permanent Vita (re-roll if achieved more than once in a character's career)"
 			},
 			{
 				name: "갈증을 없애기 위해 물을 마신다.",
-				ko: "우리는 웅덩이의 물로 갈증을 없앴다. 하지만 우리는 곧 이것이 그저 눈에 보이는 대로 아름답기만 한 자연적인 물웅덩이가 아님을 알게 되었다.<br/><br/>... 하지만 물에 비친 당신의 모습이 멋대로 움직이더니 웅덩이 밖으로 기어 올라온다. ..."
+				ko: "우리는 웅덩이의 물로 갈증을 없앴다. 하지만 우리는 곧 이것이 그저 눈에 보이는 대로 아름답기만 한 자연적인 물웅덩이가 아님을 알게 되었다.<br/><br/>All characters gain 1d4 Vita, 하지만 물에 비친 당신의 모습이 멋대로 움직이더니 웅덩이 밖으로 기어 올라온다. Each character must skirmish with themselves using their equipped weapon. Set each skirmish counter to 1."
 			}
 		]
 	},
@@ -730,12 +730,12 @@
 		ko: "태양이 우리의 앞길을 밝게 비추고 있었다. 우리는 작은 동굴에 도착했고, 그 안에서 작게 흐느끼는 소리를 들을 수 있었다. 안으로 들어가자 그곳에는 젊은 여인이 바닥에 앉아 벽에 등을 기대고 있었다. 그녀는 다친 팔을 감싸 안으며 초췌한 표정으로 우리에게 도움을 간청했다.",
 		sub: [
 			{
-				name: "... 그녀를 치료한다. ...",
-				ko: "우리는 그 여인을 가엽게 여겨 그녀의 상처를 돌봐주기로 했다.<br/><br/>...<br/>1-5: 그녀는 회복되었다. ...<br/>6: ...<br/>성공: 당신은 그녀의 송곳니가 당신에게 다가오는 것을 눈치챈다. ...<br/>실패: 당신은 굶주림을 참을 수 없었던 소녀에게 물려버리고 말았다. 그녀는 우리와 만나기 직전 흡혈귀가 되어버린 듯했다. ... 그녀는 동굴 밖으로 달아나다 햇빛 아래에서 재가 되고 말았다."
+				name: "Try to heal her with an appropriate Item or Ability. Choose this only if you have the capability to do so.",
+				ko: "우리는 그 여인을 가엽게 여겨 그녀의 상처를 돌봐주기로 했다.<br/><br/>Use the necessary healing. The one who does roll 1d6.<br/>1-5: 그녀는 회복되었다. Gain 15 Lore.<br/>6: Pass AWARENESS 7.<br/>성공: 당신은 그녀의 송곳니가 당신에게 다가오는 것을 눈치챈다. Skirmish with a Vampire.<br/>실패: 당신은 굶주림을 참을 수 없었던 소녀에게 물려버리고 말았다. 그녀는 우리와 만나기 직전 흡혈귀가 되어버린 듯했다. Lose 1d4 Vita and gain BLOODLUST 6. 그 후, 그녀는 동굴 밖으로 달아나다 햇빛 아래에서 재가 되고 말았다."
 			},
 			{
 				name: "도움을 받기 위해 그녀를 가까운 마을로 데려간다.",
-				ko: "그녀는 두텁고 무거운 망토를 걸치고 우리와 동행했다.<br/><br/>...<br/>1-3: 그녀의 피부가 점점 창백해지더니, 그녀는 자제력을 잃고 말았다. ...<br/>4-6: 그녀는 햇빛에 녹아내렸고 그녀가 있던 곳에는 잿빛의 끈적한 잔해만이 남았다. ..."
+				ko: "그녀는 두텁고 무거운 망토를 걸치고 우리와 동행했다.<br/><br/>One character must take her as a Mission Companion and deliver her to a town physician within 4 rounds to gain 8 Lore and a Boon. If they do not, roll 1d6. <br/>1-3: 그녀의 피부가 점점 창백해지더니, 그녀는 자제력을 잃고 말았다. The group skirmishes with a Vampire, the skirmish counter at maximum. <br/>4-6: 그녀는 햇빛에 녹아내렸고 그녀가 있던 곳에는 잿빛의 끈적한 잔해만이 남았다. A random character becomes TRANSFORMED."
 			}
 		]
 	},
@@ -745,11 +745,11 @@
 		sub: [
 			{
 				name: "빛의 근원을 조사한다.",
-				ko: "우리는 불빛을 쫓아 나무가 우거진 작은 숲으로 들어갔다. 그 안에는 작은 도깨비불들이 춤을 추고 있었다. 그들은 우리를 둘러싸고 밝게 빛나기 시작했다.<br/><br/>...<br/>1-3: 그들은 부드럽게 빛나며 우리의 고통을 없애준다. ...<br/>4-6: 그 빛의 정체는 죽은 자의 영혼이었다. ..."
+				ko: "우리는 불빛을 쫓아 나무가 우거진 작은 숲으로 들어갔다. 그 안에는 작은 도깨비불들이 춤을 추고 있었다. 그들은 우리를 둘러싸고 밝게 빛나기 시작했다.<br/><br/>Roll 1d6.<br/>1-3: 그들은 부드럽게 빛나며 우리의 고통을 없애준다. All characters may remove one negative status and take a free rest action without a Skirmish.<br/>4-6: 그 빛의 정체는 죽은 자의 영혼이다. Skirmish with a Restless Spirit."
 			},
 			{
 				name: "어둠 속으로 숨는다. 정체 모를 것을 쫓는 것은 위험한 짓이다.",
-				ko: "우리는 밤의 어둠 속에 숨어 불빛들이 이리저리 움직이다 사라져버리는 모습을 지켜보았다.<br/><br/>... 덤불 위로 넘어져 ... "
+				ko: "우리는 밤의 어둠 속에 숨어 불빛들이 이리저리 움직이다 사라져버리는 모습을 지켜보았다.<br/><br/>All characters without equipped Light Sources must pass TRICKERY 6 or 덤불 위로 넘어져 receive 1d6 (Snare) Damage."
 			}
 		]
 	},
@@ -763,7 +763,7 @@
 	},
 	{
 		name: "THE ARRIVAL #1 (3~4): 도착",
-		ko: "당신은 산과 언덕, 숲과 고대의 길을 지나 기나긴 여행을 했다. 당신이 목적지에 가까워졌을 때 하늘에 어둠이 내리며, 답답한 공기가 주변을 가득 채운다. 당신이 고용한 역마차는 종탑과 거대한 아치형 나무문이 있는 오래된 석조 건물에 접근한다. 그 안에 있는 책과 문서에는 수많은 공포의 존재들과 그에 대항하는 방법이 적혀있다. 마차가 멈추고 당신은 교차로의 교회(the Church of the Crossroads)로 들어가기 위해 내린다. 그 교회는 오래된, 기념비적인 건축물이자 이 지역의 산악 지대로 들어가기 위한 관문이다. 나무로 된 정문을 열고 안으로 향하자 안쪽에서 소란스러운 소리가 들려온다.<br/><br/> 교회 안으로 들어서자 강도들과, 그들에게 붙들려 웅크려 떨고 있는 나이 든 관리인이 보인다. 강도들은 넝마를 걸친 채 초췌한 모습을 하고 있다. 궁지에 몰려 범죄에 손을 댄 그들은 음식과 귀중품들을 요구하고 있다.<br/><br/> ...<br/><br/><br/> <b>STORY SKILL CHECK<br/>SPEECH 8 - Any One Character</b><br/><br/> 강도들이 평화롭게 이곳을 떠나도록 설득하라!<br/><br/> 성공: 당신은 상황을 진정시키고 그들에게 떠나라고 요구했다. 그들은 이곳이 그들이 원하는 것을 얻기에 적절한 곳이 아님을 깨닫고는 떠나기로 한다. ...<br/><br/><br/> 실패: ... 접전 후, 강도들은 달아난다.<br/><br/> ...<br/><br/> 관리인은 당신이 강도들을 쫓아내고 교회의 물건을 도둑맞지 않도록 해준 것에 감사를 표한다. 그는 이 지역에 불미스러운 일들이 생기기 시작했으며, 북쪽에는 훨씬 더 심한 재앙이 닥치고 있다고 말한다.<br/><br/> 그가 이야기한다, \"며칠 전 이것이 교회에 도착했다오. 사제께선 그 즉시 조사를 위해 떠나셨지!\" 그는 경고도 없이 테이블 위에 있던 덮개를 들어 올려 피투성이가 된 털투성이의 사체를 보여준다.<br/><br/><br/> <b>STORY SKILL CHECK<br/>NERVE 4 - All Characters</b><br/><br/> 토할 것 같은 기분을 억눌러라!<br/><br/> 성공: 당신은 밀려오는 욕지기를 참아낸다. 당신은 심신을 굳건히 하고 ...<br/><br/> 실패: 괴물의 사체의 끔찍한 모습과 냄새에 당신의 속이 울렁거린다. 당신은 그것은 평범한 동물의 사체가 아니라는 것을 깨닫는다. 당신은 밀려오는 욕지기를 참지 못해 최근에 먹은 것들을 토해내고 ...<br/><br/><br/> 끔찍한 광경의 충격에서 벗어난 뒤, 당신은 그것을 자세히 살펴본다... 그것은 부자연스러워 보인다. 관리인이 설명한다. \"최근 북쪽에서 늑대들이 사람들을 습격했다오. 오스테링크(Ostelink)의 사냥꾼들이 놈들을 추적했지만, 아무리 창에 찔리고 화살을 맞아도 놈들은 움직임을 멈추지 않았지. 사악한 저주가 관련되어 있다고 믿은 사냥꾼들은 이 사체를 먼저 연금술사에게 가져갔다오. 이 사체는 주기적으로 모습을 바꾸었지... 그 뱃속에서 이 돌을 꺼내기 전까지는 말이요.\" 그는 테이블 근처에 있는 유리 상자로 덮인 받침대와, 그 위에 놓인 작은 돌을 가리킨다. \"사제님과 연금술사 모두 이 돌의 정체를 알지 못했지. 하지만 두 사람은 이 돌이 북쪽에서 벌어지고 있는 사건과 관련이 있다고 믿었다오.\"<br/><br/> \"오스테링크로 가서 실종된 사제님을 찾아주시오. 그곳 주민들에게 어디에 가면 그 괴물들을 찾을 수 있는지 알아낼 수 있을 것이야. 늑대 괴물의 소굴을 찾아내는 것이 무엇보다 중요하오. 여기 여행에 도움이 될 은화 몇 닢을 드리리다. 그리고 지하실에서 쓸만한 물건을 찾아보시오. 부디 사제님을 찾아 좋은 소식을 들려주시게나.\"<br/><br/> ...<br/><br/> 당신은 밖에서 당신을 기다리던 역마차에 올라타고 서둘러 오스테링크로 향한다.<br/><br/> ...<br/><br/>"
+		ko: "당신은 산과 언덕, 숲과 고대의 길을 지나 기나긴 여행을 했다. 당신이 목적지에 가까워졌을 때 하늘에 어둠이 내리며, 답답한 공기가 주변을 가득 채운다. 당신이 고용한 역마차는 종탑과 거대한 아치형 나무문이 있는 오래된 석조 건물에 접근한다. 그 안에 있는 책과 문서에는 수많은 공포의 존재들과 그에 대항하는 방법이 적혀있다. 마차가 멈추고 당신은 교차로의 교회(the Church of the Crossroads)로 들어가기 위해 내린다. 그 교회는 오래된, 기념비적인 건축물이자 이 지역의 산악 지대로 들어가기 위한 관문이다. 나무로 된 정문을 열고 안으로 향하자 안쪽에서 소란스러운 소리가 들려온다.<br/><br/> 교회 안으로 들어서자 강도들과, 그들에게 붙들려 웅크려 떨고 있는 나이 든 관리인이 보인다. 강도들은 넝마를 걸친 채 초췌한 모습을 하고 있다. 궁지에 몰려 범죄에 손을 댄 그들은 음식과 귀중품들을 요구하고 있다.<br/><br/> ...<br/><br/><br/> <b>STORY SKILL CHECK<br/>SPEECH 8 - Any One Character</b><br/><br/> 강도들이 평화롭게 이곳을 떠나도록 설득하라!<br/><br/> 성공: 당신은 상황을 진정시키고 그들에게 떠나라고 요구했다. 그들은 이곳이 그들이 원하는 것을 얻기에 적절한 곳이 아님을 깨닫고는 떠나기로 한다. Gain a Boon.<br/><br/> 실패: Skirmish with the Highwaymen. After the skirmish, 강도들은 달아난다.<br/><br/><br/> ...<br/><br/> 관리인은 당신이 강도들을 쫓아내고 교회의 물건을 도둑맞지 않도록 해준 것에 감사를 표한다. 그는 이 지역에 불미스러운 일들이 생기기 시작했으며, 북쪽에는 훨씬 더 심한 재앙이 닥치고 있다고 말한다.<br/><br/> 그가 이야기한다, \"며칠 전 이것이 교회에 도착했다오. 사제께선 그 즉시 조사를 위해 떠나셨지!\" 그는 경고도 없이 테이블 위에 있던 덮개를 들어 올려 피투성이가 된 털투성이의 사체를 보여준다.<br/><br/><br/> <b>STORY SKILL CHECK<br/>NERVE 4 - All Characters</b><br/><br/> 토할 것 같은 기분을 억눌러라!<br/><br/> 성공: 당신은 밀려오는 욕지기를 참아낸다. 당신은 속을 진정시키고 recover 1 Vita.<br/><br/> 실패: 괴물의 사체의 끔찍한 모습과 냄새에 당신의 속이 울렁거린다. 당신은 그것은 평범한 동물의 사체가 아니라는 것을 깨닫는다. 당신은 밀려오는 욕지기를 참지 못해 최근에 먹은 것들을 토해내고 lose 2 Vita.<br/><br/><br/> 끔찍한 광경의 충격에서 벗어난 뒤, 당신은 그것을 자세히 살펴본다... 그것은 부자연스러워 보인다. 관리인이 설명한다. \"최근 북쪽에서 늑대들이 사람들을 습격했다오. 오스테링크(Ostelink)의 사냥꾼들이 놈들을 추적했지만, 아무리 창에 찔리고 화살을 맞아도 놈들은 움직임을 멈추지 않았지. 사악한 저주가 관련되어 있다고 믿은 사냥꾼들은 이 사체를 먼저 연금술사에게 가져갔다오. 이 사체는 주기적으로 모습을 바꾸었지... 그 뱃속에서 이 돌을 꺼내기 전까지는 말이요.\" 그는 테이블 근처에 있는 유리 상자로 덮인 받침대와, 그 위에 놓인 작은 돌을 가리킨다. \"사제님과 연금술사 모두 이 돌의 정체를 알지 못했지. 하지만 두 사람은 이 돌이 북쪽에서 벌어지고 있는 사건과 관련이 있다고 믿었다오.\"<br/><br/> \"오스테링크로 가서 실종된 사제님을 찾아주시오. 그곳 주민들에게 어디에 가면 그 괴물들을 찾을 수 있는지 알아낼 수 있을 것이야. 늑대 괴물의 소굴을 찾아내는 것이 무엇보다 중요하오. 여기 여행에 도움이 될 은화 몇 닢을 드리리다. 그리고 지하실에서 쓸만한 물건을 찾아보시오. 사제님을 찾고 부디 좋은 소식을 들려주시게나.\"<br/><br/> ...<br/><br/> 당신은 밖에서 당신을 기다리던 역마차에 올라타고 서둘러 오스테링크로 향한다.<br/><br/> ...<br/><br/>"
 	},
 ];
 
