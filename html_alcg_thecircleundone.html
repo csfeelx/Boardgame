@@ -1,0 +1,123 @@
+﻿<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0 user-scalable=0">
+    <title>Guardians of the Abyss</title>
+    <script src="./jquery-3.3.1.min.js"></script>
+    <script src="./data_alcg_thecircleundone.js"></script>
+    <script>
+        // 변수
+        var datTranslation = data_alcg_thecircleundone; // 데이터
+        var winDialog; // 팝업윈도우
+        var bShowEn = false; // 원문보기
+
+        // onload
+        window.onload = function () {
+            // 준비
+            winDialog = $(document).find("#winDialog")[0];
+            winDialog.name = $(winDialog).find("#name")[0];
+            winDialog.ko = $(winDialog).find("#ko")[0];
+            winDialog.toggle = $(winDialog).find("#toggle")[0];
+            winDialog.en = $(winDialog).find("#en")[0];
+    
+            // 배치
+            var winButton = $(document).find("#winButton")[0];
+            for (var ii = 0 ; ii < datTranslation.length ; ii++) {
+                // 준비
+                var data = datTranslation[ii];
+
+                // 빈칸?
+                if (data.name == null) {
+                    var blank = winButton.appendChild(document.createElement("div"));
+                    if (data.note != null) {
+                        blank.innerHTML = data.note + "<br>"
+                    } else {
+                        blank.innerHTML = "<br>"
+                    }
+                    continue;
+                }
+
+                // 상자 등록
+                var button = winButton.appendChild(document.createElement("button"));
+                winButton.appendChild(document.createElement("div"));
+                button.no = ii;
+                button.innerHTML = data.name;
+                button.onclick = function (ev) { openDialog(ev.target, ev.target.no); }
+            }
+        }
+
+        // 다이얼로그 열기
+        function openDialog(btn, no) {
+			// 토글
+			if (winDialog.no == no && $(winDialog).css("display") != "none") { 
+				$(winDialog).css("display", "none");
+				return;
+			}
+
+            // 준비
+            var data_current = datTranslation[no];
+
+            // 정보 입력
+			winDialog.no = no;
+            winDialog.name.innerHTML = data_current.name;
+            winDialog.ko.innerHTML = data_current.ko;
+            if (data_current.en != null) {
+                $(winDialog.toggle).css("display", "inline-block");
+                winDialog.en.innerHTML = data_current.en;
+                $(winDialog.en).css("display", "inline-block");
+            } else {
+                $(winDialog.toggle).css("display", "none");
+                $(winDialog.en).css("display", "none");
+            }
+
+            // 원문보기
+            if (data_current.en != null && bShowEn == true) {
+                $(winDialog.en).css("display", "inline-block");
+                winDialog.toggle.innerHTML = "숨김";
+            } else {
+                $(winDialog.en).css("display", "none");
+                winDialog.toggle.innerHTML = "원문 보기";
+            }
+
+            // 붙이고 가시
+            $(btn).after(winDialog);
+            $(winDialog).css("display", "inline-block");
+        }
+
+        // 원문 보기 버튼
+        function onClickCheckBox() {
+            // 변수
+            bShowEn = !bShowEn
+
+            // 조건검사
+            if ($(winDialog).css("display") == "none") { return; }
+            if ($(winDialog.toggle).css("display") == "none") { return; }
+
+            // 원문보기
+            if (bShowEn == true) {
+                $(winDialog.en).css("display", "inline-block");
+                winDialog.toggle.innerHTML = "숨김";
+            } else {
+                $(winDialog.en).css("display", "none");
+                winDialog.toggle.innerHTML = "원문 보기";
+            }
+        }
+    </script>
+</head>
+
+<body>
+    <div id="winDialog" style="display: none; padding: 10px">
+        <div id="border" style="outline: solid 1px black; padding: 10px">
+            <div id="name"></div>
+            <div id="ko" style="padding: 30px 0px 20px 10px"></div>
+            <button type="checkbox" id="toggle" style="width:100%" onclick="onClickCheckBox()">원문 보기</button>
+            <br />
+            <div id="en" style="padding: 30px 0px 20px 10px"></div>
+            <button style="width:100%" onclick="$(winDialog).css('display', 'none');">닫기</button>
+        </div>
+    </div>
+    <div id="winButton"></div>
+</body>
+</html>

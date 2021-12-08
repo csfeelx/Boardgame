@@ -14,6 +14,7 @@
         var winSub; // 하위윈도우
         var arBtnSub = []; // 하위버튼 배열
         var divBlank; // 빈 엘리먼트 (줄넘김)
+        var divExtra; // 확장
         var btnClose;
         var winButton = $(document).find("#winButton")[0];
 
@@ -30,6 +31,7 @@
             winSub.toggle = $(winSub).find("#toggle_sub")[0];
             winSub.en = $(winSub).find("#en_sub")[0];
             divBlank = $(document).find("#divBlank")[0];
+            divExtra = $(document).find("#divExtra")[0];
             btnClose = $(winDialog).find("#close")[0];
             winButton = $(document).find("#winButton")[0];
     
@@ -90,6 +92,7 @@
             }
             $(winSub).css("display", "none");
             winSub.no = -1;
+            $(divExtra).css("display", "none");
 
             // 하위
             if (data_current.sub != null) {
@@ -124,7 +127,14 @@
                 $(winSub).css("display", "none");
                 winSub.no = -1;
             }
-            
+
+            // 확장
+            if (data_current.extra != null) {
+                divExtra.innerHTML = data_current.extra;
+                $(divExtra).css("display", "inline-block");
+                $(btnClose).before(divExtra);
+            }
+
             // 붙이고 가시
             $(btn).after(winDialog);
             $(winDialog).css("display", "inline-block");
@@ -175,6 +185,7 @@
         </div>
     </div>
     <div id="winButton"></div>
-    <div id="divBlank"><br/></div>
+    <div id="divBlank"><br /></div>
+    <div id="divExtra" style="padding: 30px 0px 20px 10px"></div>
 </body>
 </html>

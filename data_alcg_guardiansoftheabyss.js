@@ -1,10 +1,10 @@
 ﻿var data_alcg_guardiansoftheabyss = [
 	{},
 	{
-		note:"<b>Guardians of the Abyss: 심연의 수호자</b><br/>"
+		note:"<b>GUARDIANS OF THE ABYSS: 심연의 수호자</b><br/>"
 	},
 	{
-		note: "The Eternal Slumber: 영원한 잠<br/>"
+		note: "THE ETERNAL SLUMBER: 영원한 잠<br/>"
 	},
 	{
 		name: "agenda 1a - Jessie's Request: 제시의 부탁",
@@ -100,7 +100,7 @@
 	},
 	{},
 	{
-		note: "The Night's Usurper: 밤의 찬탈자<br/>"
+		note: "THE NIGHT'S USURPER: 밤의 찬탈자<br/>"
 	},
 	{
 		name: "agenda 1a - The Brotherhood Bides Their Time: 형제단이 때를 기다리다",
