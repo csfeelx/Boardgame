@@ -813,7 +813,7 @@
 	},
 	{
 		name: "THE FARM (CHOICE TWO) (6~7): 농장",
-		ko: "농부는 당신을 마을 밖에 데리고 나온 뒤, 자신의 농장이 있는 방향을 가리킨다. \"저 길로 가면 제 농장이 나옵니다. 제발 부탁드립니다. 늑대들을 물리쳐 주십시오.\"<br/><br/> 당신이 농장에 도착했을 때는 이미 해가 진 후였다. 두꺼운 구름이 달을 가리고 있었지만, 별이 밝아 시야는 충분했다. 주변은 고요하지만, 곧 낮게 으르렁대는 소리가 들려온다. 커다란 풀 속에 숨어있던 늑대들이 당신의 냄새를 맡고 모습을 드러낸다. 광란에 빠진 놈들의 눈은 마치 빛나는 것처럼 보인다.<br/><br/> ...<br/><br/><br/> <b>MAP SKILL CHECK<br/>ECOLOGY 5 - Any One Character</b><br/><br/> 기둥에서 떨어진 허수아비가 바닥에 누워있다. 까마귀들이 당신을 조롱하듯 울어대고 있다.<br/><br/> 성공: 당신은 허수아비를 제자리로 돌려놓는다. Earn a Boon.<br/><br/> 실패: 당신은 허수아비를 다시 세우다 넘어져 버린다. Lose 1d4 Vita.<br/><br/><br/> ...<br/><br/> AFTER THE FIGHT<br/><br/> 늑대들을 처리한 뒤, 농부가 당신에게 이야기한다. \"이쪽으로 가면 오래된 묘지가 나옵니다. 그곳에 있는 영묘(mausoleum)에 누리안의 동굴으로 들어가는 잊혀진 입구가 있습지요... 사제님께선 그곳으로 가셨습니다.\" 그는 당신과 함께하며 길을 안내해주겠다고 한다. The Leader gains the Farmer Companion.<br/><br/> ..."
+		ko: "농부는 당신을 마을 밖에 데리고 나온 뒤, 자신의 농장이 있는 방향을 가리킨다. \"저 길로 가면 제 농장이 나옵니다. 제발 부탁드립니다. 늑대들을 물리쳐 주십시오.\"<br/><br/> 당신이 농장에 도착했을 때는 이미 해가 진 후였다. 두꺼운 구름이 달을 가리고 있었지만, 별이 밝아 시야는 충분했다. 주변은 고요하지만, 곧 낮게 으르렁대는 소리가 들려온다. 커다란 풀 속에 숨어있던 늑대들이 당신의 냄새를 맡고 모습을 드러낸다. 광란에 빠진 놈들의 눈은 마치 빛나는 것처럼 보인다.<br/><br/> ...<br/><br/><br/> <b>MAP SKILL CHECK<br/>ECOLOGY 5 - Any One Character</b><br/><br/> 기둥에서 떨어진 허수아비가 바닥에 누워있다. 까마귀들이 당신을 조롱하듯 울어대고 있다.<br/><br/> 성공: 당신은 허수아비를 제자리로 돌려놓는다. Earn a Boon.<br/><br/> 실패: 당신은 허수아비를 다시 세우다 넘어져 버린다. Lose 1d4 Vita.<br/><br/><br/> ...<br/><br/> <b>AFTER THE FIGHT</b><br/><br/> 늑대들을 처리한 뒤, 농부가 당신에게 이야기한다. \"이쪽으로 가면 오래된 묘지가 나옵니다. 그곳에 있는 영묘(mausoleum)에 누리안의 동굴으로 들어가는 잊혀진 입구가 있습지요... 사제님께선 그곳으로 가셨습니다.\" 그는 당신과 함께하며 길을 안내해주겠다고 한다. The Leader gains the Farmer Companion.<br/><br/> ..."
 	},
 	{
 		name: "INTO THE HOLLOW (7~8): 동굴을 향해",
@@ -828,7 +828,7 @@
 				ko: "<b>Story Moment 12</b><br/><br/> 당신은 발을 헛디뎌 파헤쳐진 무덤 속으로 굴러떨어져 삽에 찔리고 만다.<br/><br/> <b>Lose 2 Vita.</b><br/><br/> <b>Story Moment 34 *</b><br/><br/> 무덤 안에는 복부가 파헤쳐져 내장을 씹어 먹힌 반쯤 말라붙은 시체가 있다. 그 안에서 무언가가 반짝인다. 당신이 욕지기를 참으며 시체 안에 손을 넣자 무언가 둥글고 단단한 것이 만져진다. 조심스럽게 꺼내보자, 그것은 진주 반지였다. 아름답고 섬세하게 세공된 그 반지에는 마른 피가 달라붙어 있다. 그것을 손가락에 끼우고자 하는 충동이 밀려온다. 당신은 그 유혹에 저항하지 못했다!<br/><br/> <b>Gain the RED Story Marker.</b>"
 			},
 		],
-		extra: "...<br/><br/> ATTENTION!<br/><br/> 공기 중에 떠도는 불길한 기운에 당신은 등골이 오싹해진다. 오늘은 죽은 자들이 휴식을 취할 수 없는 날이다. At the end of every round on this map, the Leader must roll a d10.<br/><br/>* 1-3: Encounter 3 Decaying Dead. Place them adjacent to random characters and begin combat. Once the encounter is complete, you are no longer required to make this roll, nor is your Stride reduced by 1.<br/><br/> * 4-0: Nothing happens.<br/><br/> * <b>Characters have a -1 Stride on this map.</b>"
+		extra: "...<br/><br/> <b>ATTENTION!</b><br/><br/> 공기 중에 떠도는 불길한 기운에 당신은 등골이 오싹해진다. 오늘은 죽은 자들이 휴식을 취할 수 없는 날이다. At the end of every round on this map, the Leader must roll a d10.<br/><br/>* 1-3: Encounter 3 Decaying Dead. Place them adjacent to random characters and begin combat. Once the encounter is complete, you are no longer required to make this roll, nor is your Stride reduced by 1.<br/><br/> * 4-0: Nothing happens.<br/><br/> * <b>Characters have a -1 Stride on this map.</b>"
 	},
 ];
 
