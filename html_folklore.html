@@ -73,7 +73,7 @@
 
             // 정보 입력
 			winDialog.no = no;
-            winDialog.name.innerHTML = data_current.name;
+            winDialog.name.innerHTML = "<b>" + data_current.name + "</b>";
             winDialog.ko.innerHTML = data_current.ko;
             if (data_current.en != null) {
                 $(winDialog.toggle).css("display", "inline-block");
