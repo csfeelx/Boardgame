@@ -4,12 +4,12 @@
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0 user-scalable=0">
-    <title>Guardians of the Abyss</title>
+    <title>THE DREAM-EATERS</title>
     <script src="./jquery-3.3.1.min.js"></script>
-    <script src="./data_alcg_thecircleundone.js"></script>
+    <script src="./data_alcg_thedreameaters.js"></script>
     <script>
         // 변수
-        var datTranslation = data_alcg_thecircleundone; // 데이터
+        var datTranslation = data_alcg_thedreameaters; // 데이터
         var winDialog; // 팝업윈도우
         var bShowEn = false; // 원문보기
 
@@ -61,7 +61,7 @@
 
             // 정보 입력
 			winDialog.no = no;
-            winDialog.name.innerHTML = data_current.name;
+            winDialog.name.innerHTML = "<b>" + data_current.name + "</b>";
             winDialog.ko.innerHTML = data_current.ko;
             if (data_current.en != null) {
                 $(winDialog.toggle).css("display", "inline-block");
