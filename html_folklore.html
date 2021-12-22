@@ -56,7 +56,7 @@
                 winButton.appendChild(document.createElement("div"));
                 button.no = ii;
                 button.innerHTML = data.name;
-                button.onclick = function (ev) { openDialog(ev.target, ev.target.no); }
+                button.onclick = function (ev) { openDialog(ev.currentTarget, ev.currentTarget.no); }
             }
         }
 
@@ -109,13 +109,23 @@
 
                 // 버튼 가시 제어 및 부착
                 for (var ii = 0; ii < arBtnSub.length; ii++) {
+                    $(arBtnSub[ii]).css("background-color", "");
+                    $(arBtnSub[ii]).css("border-color", "");
+                    $(arBtnSub[ii]).css("pointer-events", "");
                     if (ii < data_current.sub.length) {
                         $(arBtnSub[ii]).css("display", "inline-block");
                         arBtnSub[ii].innerHTML = data_current.sub[ii].name;
                         $(btnClose).before(arBtnSub[ii]);
-                        arBtnSub[ii].data = data_current.sub[ii];
-                        arBtnSub[ii].no = ii;
-                        arBtnSub[ii].onclick = function (ev) { openSub(ev.target.data, ev.target.no, ev.target); }
+                        if (data_current.sub[ii].ko != null) {
+                            arBtnSub[ii].data = data_current.sub[ii];
+                            arBtnSub[ii].no = ii;
+                            arBtnSub[ii].onclick = function (ev) { openSub(ev.currentTarget.data, ev.currentTarget.no, ev.currentTarget); }
+                        } else {
+                            $(arBtnSub[ii]).css("border-color", "unset")
+                            $(arBtnSub[ii]).css("background-color", "unset");
+                            $(arBtnSub[ii]).css("pointer-events", "none");
+                            arBtnSub[ii].onclick = function (ev) { }
+                        }
                     } else {
                         $(arBtnSub[ii]).css("display", "none");
                     }

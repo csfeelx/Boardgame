@@ -841,7 +841,7 @@
 			{
 				name: "<b>돌무더기를 치우고 길을 연다면,</b>",
 				ko: "<b>Story Moment 53</b><br/><br/> 돌무더기를 치우자, 그 너머에는 한동안 인간의 손길이 닿지 않았던 것으로 보이는 동굴이 모습을 드러낸다. 천장의 작은 틈새들을 통해 내려온 달빛이 가느다란 빛줄기를 만들어내 동굴 안을 희미하게 비춘다. 그 빛을 통해 당신은 작고 검은 무언가가 천장을 가득 메우고 있는 것을 눈치챈다... 박쥐들이다! Remove the Darkness token from the map.<br/><br/> 수정처럼 맑은 물웅덩이 두 개가 보인다. 그것은 당신에게 치유의 힘을 가진 신비한 샘물에 관한 이야기를 떠올리게 한다. 그 물을 마시고자 하는 캐릭터는 must pass ECOLOGY 5 while adjacent to them.<br/><br/> <b>성공:</b> Recover 2d6 Vita.<br/><br/> <b>실패:</b> Recover 1d4 Vita.<br/><br/> <b>Each space a character moves while in the revealed cavern requires them to roll TRICKERY 2. On a failure, there is no need to make the check again, but the group encounters either 2 Bat Swarms (or a single Bat Swarm for 2-3 characters). Place the swarms atop the spawn locations. If the group is still fighting the Night Stalkers, the check is automatically failed. See the Rulebook “Swarms” on page 28 for details on their behavior and movement. Once the group have defeated all foes, they may interacted with any map features.</b>"
-			},
+			}
 		],
 		extra: "..."
 	},
@@ -874,6 +874,127 @@
 			},
 		],
 		extra: "• If a character has the RED Story Marker and has not been killed or had his finger removed, they receive the Ring of Moonlight artifact.<br/><br/> • Place the Group Marker on the Church of the Crossroads. If any character has earned an Ability Point by collecting Lore, they may use it to learn new Abilities.<br/><br/><br/> <b>IF YOU LOST THE BATTLE</b><br/><br/> 당신은 오스테링크 변두리에 있는 집시들의 야영지에서 깨어난다. 당신은 잠시 혼란에 빠져 정신을 차리지 못한다(see <b>Rulebook “On Death and Dying” on page 32</b> and follow the instruction of Total Group Death). 정신을 차리고 나자, 집시들은 당신이 비어있는 누리안의 동굴 안에서 의식을 잃은 채 죽어가고 있었다고 말해준다. 당신이 이곳에 온 이유인 사제도 발견되었다고 한다. 갈기갈기 찢겨버린 시체로 말이다. 당신은 실패를 자책하며 괴로워하며 맹세한다. 이 땅을 어둠으로부터 해방하기 위해 흔들림 없이 나아가겠다고. 오데리안은 이제 자취를 감추었지만, 당신은 운명이 그와 당신을 다시 마주치게 할까 봐 두려움을 느낀다.<br/><br/> 오데리안이 떠나자 오스테링크는 서서히 활기를 되찾고 있다. 당신은 역마차를 고용해 교회로 돌아간다. 사제의 죽음을 전해 들은 관리인은 큰 충격을 받지만, 그의 강인한 영혼의 힘 덕분에 그는 빠르게 그것을 이겨낸다. 그는 급히 새로운 사제가 파견될 것이라 말한다. 하지만 어둠의 세력은 분명 그의 자리가 비어있는 틈을 이용할 것이다.<br/><br/> <b>THE END</b>"
+	},
+	{},
+	{},
+	{
+		note: "<b>STORY II - ROOT OF EVIL: 악의 뿌리</b><br/>"
+	},
+	{
+		note: "<b>CHAPTER 1</b><br/>"
+	},
+	{
+		name: "A CRY FOR HELP (11): 구조 요청",
+		ko: "언제나 그랬던 것처럼, 사건은 다시 한 번 어둠이 이 땅을 뒤덮고 있다는 소문과 함께 시작되었다. 그리고 곧 패닉에 빠진 채 교회에 도움을 청하러 온 마을 주민에 의해 그 소문은 사실임이 증명되었다. 그 뒤를 따라 다큰바우 숲(Darkenbough: 검은가지)과 그 근처에 있는 웨일린 포인트(Waylin Point)로부터 피난민들이 물밀듯 들이닥쳤다. 그들은 역병을 피해 몸을 기댈 곳을 찾고 있었다. 그들의 말에 따르면, 마을 주변의 황무지가 그들의 눈앞에서 썩어들어갔으며, 숲에서는 새들이 지저귀는 소리와 동물들의 울음소리가 사라졌다고 한다. 그리고 숲에 들어갔다 나온 사람들의 몸에 끔찍한 종기와 궤양이 생겨났으며, 마을의 의사는 이 질병은 치료법이 없는, 숲에 내린 저주가 틀림없다고 말했다고 한다.<br/><br/> 사제는 당신에게 웨일린 포인트로 가서 그 질병을 조사해달라고 부탁한다. 그가 말한다. \"마을 변두리를 떠돌아다니는 현자 한 분이 계십니다. 그분은 자애로운 영혼을 가지고 계시지요. 아마도 그분께서 이 질병의 해결책을 찾는 데 도움을 주실 겁니다. 신께서 우리를 인도해주시길 바라며 기도드리지요.\" The group gains 1 Prayer.<br/><br/><br/> <b>CHOOSE YOUR PATH</b><br/><br/> <b>당신은 사제가 말한 현자를 찾아 마을 변두리를 탐험할 수도 있고, 마을로 직행해 질병을 조사할 수도 있다. 어찌할 것인가?</b><br/><br/> <b>• 선택 1:</b> 그녀는 분명 우리가 필요로 하는 정보를 가지고 있을 것이다. Skip to <b>\"The Wise Woman (Choice One)\" on page 11.</b><br/><br/> <b>• 선택 2:</b> 웨일린 포인트로 직행한다. Skip to <b>\"A Town In Need (Choice Two)\" on page 11.</b>"
+	},
+	{
+		name: "THE WISE WOMAN (CHOICE ONE) (11): 현자",
+		ko: "당신은 사제가 말한 현자를 찾기 위한 여정을 시작한다. 그녀는 웨일린 포인트 변두리 어딘가에 있다.<br/><br/><br/> <b>WORLD MAP</b><br/><br/> To find the wise woman's location, place 4 Compass tokens (labeled A thru D) randomly in the locations shown on the map to the right. Whenever you land on an Off-Road map area with a marker, flip it over read the associated Story Moment. If you decide to stop your search, you may skip foward to <b>\"A Town In Need (Choice Two)\" on page 11.</b>",
+		sub: [
+			{
+				name: "A",
+				ko: "<b>Story Moment 19</b><br/><br/> 당신은 통나무집을 하나를 발견한다. 그것은 꽃이 만개한 덩굴로 둘러싸여 있다. 집 근처에는 밝은색의 꽃과 초록빛의 약초들이 무성한 정원이 있다. 이곳이 당신이 찾던 현자의 집이 틀림없다. 당신이 노크를 하기 위해 문 앞으로 다가갔을 때, 한 젊은 여인이 문을 열고 나와, 정중하게 무슨 일로 찾아왔는지 묻는다. 그녀는 이제 막 어른이 된 나이로 보이지만, 그에 어울리지 않는 자신감과 성숙함을 지니고 있다. 당신은 그녀에게 다큰바우 숲과 지역 주민을 괴롭히고 있는 질병에 대해 묻기 위해 현자를 찾아왔다고 이야기한다.<br/><br/> 그녀는 당신이 찾는 사람은 그녀의 이모이며, 지금은 집에 없다고 말해준다. 그녀는 말한다. \"말씀하신 질병은 사람에게만 영향을 주는 것이 아니라 땅 그 자체에 영향을 미치고 있답니다. 발밑의 풀이 시들어가고 나무들은 안쪽부터 썩어들어가고 있는 것이 느껴지지 않으시나요?\"<br/><br/> 당신은 절실히 이 땅이 부패하고 있음을 느낄 수 있다고 대답한다. 여기까지 오는 동안 당신은 이미 몇 번이나 그것을 눈치챘다. 당신은 이 땅에서 이 역병을 몰아내고 말겠다고 다시 한 번 다짐한다.<br/><br/> 젊은 여인은 마치 당신이 도울만한 가치가 있는 사람인지를 판단하듯 주의 깊게 당신의 눈을 응시한다. 그리고는 이야기한다. \"이모님께서 당신 같은 분이 찾아올지도 모른다고 하셨지요. 그리고 이걸 넘겨 주라고 말씀하셨답니다.\" 그녀는 초록색의 걸쭉한 액체가 담긴 병 하나를 건네준다. \"부패의 근원과 마주치게 된다면, 이 병에 든 것이 도움이 될 거에요.\" 그녀는 친절하게 미소 지으며 작별을 고한다. 그녀가 문을 닫는 순간, 당신은 그녀의 머리카락이 회색으로 변해가는 것을 보았다고 맹세할 수 있다.<br/><br/> <b>ITEM! The group gains a bottle of Herbicide (REDUCTION 1 against a Nature foe for 1 combat, RANGE 3 [Consumable]).<br/> The group gains 8 Lore.<br/> Continue the story at \"A Town In Need (Choice Two)\" on page 11.</b>"
+			},
+			{
+				name: "B",
+				ko: "<b>Story Moment 39</b><br/><br/> 당신은 황무지를 헤매다 그 지역을 휩쓸고 있는 재앙 때문에 화가 난 농부 무리와 마주친다. 그들 중 일부는 이미 병을 앓고 있다. 그들은 분노에 차 목소리를 높이지만, 그들의 눈에는 당혹감이 가득하다. 그들은 이 역병 앞에 무력감을 느끼고 있는 듯하다. 그들은 행정관에게 이 사태의 해결을 요구하기 위해 웨일린 포인트로 행진 중이었다.<br/><br/> <b>One character 는 군중을 진정시키기 위해 must pass SPEECH 8.</b><br/><br/> <b>성공:</b> 농부들은 행진을 멈추고 해산한다. 농부 하나가 뒤에 남아 당신과 함께하고자 한다. Gain the Farmer companion.<br/><br/> <b>실패:</b> Skirmish with an angry Angry Mob, with an additional modifier. If a character is hit during the skirmish, they become SICKENED 6 for every hit."
+			},
+			{
+				name: "C",
+				ko: "<b>Story Moment 49</b><br/><br/> 당신은 죽은 자의 소지품을 뒤지고 있던 한 무리의 도적들과 마주친다. 죽은 사람은 보급품을 가지고 웨일린 포인트로 돌아오던 도중 이 범죄자들을 만나 그들의 희생양이 된 듯하다. 그들은 위험해 보이지만, 아직 당신의 존재를 눈치채지 못했다.<br/><br/> <b>CHOOSE YOUR PATH</b><br/><br/> <b>• 선택 1:</b> 그들과 맞선다면, <b>Story Moment 72</b><br/><br/> <b>• 선택 2:</b> 싸움을 피해 그곳을 떠난다. 이야기를 계속 진행한다."
+			},
+			{
+				name: "<b>Story Moment 72</b>",
+				ko: "<b>Story Moment 72</b><br/><br/> \"멈춰! 너희에게는 그럴 권리가 없어!\" 당신은 도적들에게 다가가 당장 떠나지 않으면 호된 꼴을 당하게 해줄 거라고 소리친다. 그들은 서로 마주 보며 빙그레 웃더니 무기를 뽑아든다.<br/><br/> <b>Skirmish with Highwaymen. 싸움 후, 당신은 죽은 마을 사람의 소지품에서 의약품을 찾아낸다.<br/> The Leader receives the RED Story Marker.</b>"
+			},
+			{
+				name: "D",
+				ko: "<b>Story Moment 45</b><br/><br/> 당신은 비어있는 판잣집을 발견한다. 그 안에는 깨끗한 담요와 장작이 준비되어 있다. 이 기회에 잠시 쉬어가는 것도 좋을 듯하다.<br/><br/> <b>All characters recover 2 Vita, and 2 Power Points or Ghost Points.</b>"
+			},
+		]
+	},
+	{
+		name: "A TOWN IN NEED (CHOICE TWO) (11~12): 도움이 필요한 마을",
+		ko: "웨일린 포인트를 찾아가 환자들을 조사해야 할 때이다. 아마도 누군가는 역병에 대한 정보를 가지고 있을지도 모른다.<br/><br/> ...<br/><br/> 웨일린 포인트의 사람들은 깊은 절망에 빠져있다. 당신이 의사가 어디에 있는지를 묻자, 주민 하나가 당신을 마을 회관으로 안내한다. 마을 회관은 넘치는 환자들을 위한 진료소로 바뀌어 있다. 마을 회관으로 들어서자, 그곳에는 일렬로 늘어선 병상과 그 위에 누워있는 환자들이 보인다. 환자들은 고열에 시달리고 있으며, 그들의 피부는 종기로 뒤덮여 있다.<br/><br/><br/> <b>CHOOSE YOUR PATH</b><br/><br/> <b>당신은 환자들을 살펴보겠는가, 아니면 서둘러 의사를 찾겠는가?</b>",
+		sub: [
+			{
+				name: "<b>• 선택 1:</b> 먼저 환자를 살펴보겠다면,",
+				ko: "<b>Story Moment 59</b><br/><br/> 병마에 고통받고 있는 사람들 사이를 걷고 있자, 고열로 의식이 혼미해진 여인 하나가 당신의 팔을 붙든다.<br/><br/> \"저와 제 남편은 숲에 갔었답니다. 남편이 사냥을 하는 동안 저는 나물을 캤지요.\" 그녀는 기침을 했다. \"가족이 일주일은 먹을 만한 식량을 손에 넣을 수 있었어요. 저희는 고기와 나물로 국을 끓였답니다. 하지만 그걸 먹은 밤, 몸이 안 좋아지기 시작하더니 종기가 돋아났어요. 의사 선생님께서 여러 가지 방법을 써보셨지만, 병세는 나빠지기만 했답니다. 제 남편은 아직 살아있나요? 그는 의식을 잃고 깨어나지 못했어요. 제발 저희를 도와주세요!\"<br/><br/> 기운을 다 써버린 여인은 의식을 잃고 만다.<br/><br/> <b>All characters receive 8 Lore and a random character gains the BLUE Story Marker.</b>"
+			},
+			{
+				name: "<b>• 선택 2:</b> 병자들의 증상은 역겹기 짝이 없다! 서둘러 의사를 찾는다. 이야기를 계속 진행한다.",
+			},
+		],
+		extra: "의사는 금방 찾을 수 있었다. 그는 약을 만들기 위해 분주히 약초를 갈고 있었지만, 당신이 도움될만한 일이 없느냐고 묻자, 잠시 손을 멈춘다. 그는 막자와 사발을 내려놓고는 좌절한 표정으로 말한다. \"주민들을 돕기 위해 제가 할 수 있는 모든 수단을 동원해 보았지만, 그 어떤 방법도 효과가 없었습니다. 이제 사망자가 발생하기 시작했습니다. 이건 병이 아니라 저주입니다! 저희를 도와주시겠다면 다큰바우 숲으로 가서 저주의 근원을 찾아 주십시오. 아마도 그것이 치료법을 찾을 유일한 방법일 겁니다.\"<br/><br/><br/> <b>CHOOSE YOUR PATH</b><br/>If you have the RED Story Marker!<br/><br/> <b>현자를 찾던 중 발견한 의약품은 당신의 여정에 큰 도움이 될 테지만, 의문의 역병으로 고통받고 있는 웨일린 포인트의 환자들 역시 그것이 절실히 필요한 상황이다.</b><br/><br/> <b>• 선택 1:</b> 당신이 의사에게 의약품을 넘겨주기로 한다면, the character with the RED Story Marker keeps it.<br/><br/> <b>• 선택 2:</b> 당신이 의약품을 자신이 사용하기 위해 남겨두기로 한다면, discard the RED Story Marker and the group gains 2 Bandage tokens."
+	},
+	{
+		name: "THE AFFLICTED FOREST (12~13): 고통받는 숲",
+		ko: "다큰바우 숲에 발을 들이자 당신의 피부가 따끔거린다. 당신은 숲 속의 공기에서 섬뜩한 기운을 느낄 수 있다. 그것은 당신을 부르고, 당신을 발걸음을 재촉하며, 당신을 망각으로 이끈다. 당신은 불안함을 떨치고 숲 속 깊은 곳으로 발을 내딛는다. 숲 어디에나 부패의 징후가 역력하다. 당신은 나무들이 기이한 패턴을 그리며 자라나 있는 것을 눈치챈다. 그 모양은 마치 룬 문자로 절망의 뜻이 담긴 고대의 단어를 그리고 있는 듯하다. 길이 좁아지고 두꺼운 잎사귀들이 지붕을 이루어 햇빛을 차단한다. 당신의 앞에 놓인 어둠 속에, 무언가의 윤곽이 보인다. 당신은 간신히 그것이 돌로 만들어진 고대의 아치문임을 눈치챈다.<br/><br/> ...<br/><br/> <b>OPTIONAL GOALS</b><br/><br/> <b>• Investigate all search locations.</b><br/><br/> <b>• Investigate the archway by completing this map skill check.</b><br/><br/> <b>MAP SKILL CHECK<br/>ARCHEOLOGY 6</b> - Any One Character<br/><br/> <b>작은 공터에 돌로 만들어진 고대의 아치문이 서 있다. 그 표면은 고대 문자로 뒤덮여있다. 그것을 자세히 살펴보자 이전에는 본 적 없었던 패턴이 보이기 시작한다.<br/>당신은 그 뜻을 알겠는가?</b>",
+		sub: [
+			{
+				name: "<b>성공</b>",
+				ko: "<b>Story Moment 83</b><br/><br/> 당신은 이것이 특별한 힘을 가진 고대의 주문임을 깨닫는다. 당신은 재빨리 그것을 옮겨 적는다.<br/><br/> <b>Receive 1 Ritual.</b>"
+			},
+			{
+				name: "<b>실패</b>",
+				ko: "<b>Story Moment 33</b><br/><br/> 당신이 아치문을 자세히 살펴보기 위해 그것에 가까이 다가갔을 때, 당신은 갑자기 혼잣말을 중얼거리기 시작한다. 당신은 당신이 그 의미도 모른 채, 문에 적힌 문자들을 소리 내 읽고 있다는 사실을 깨닫는다. 갑자기 아치문이 진홍색 빛으로 번쩍이며, 당신에게 안으로 들어오라고 속삭인다.<br/><br/> <b>아치문을 조사한 캐릭터는 주문 암송을 멈추기 위해 must pass OCCULT 7.</b><br/><br/> <b>성공:</b> <b>Story Moment 15</b><br/><br/> <b>실패:</b> <b>Story Moment 52</b>"
+			},
+			{
+				name: "<b>Story Moment 15</b>",
+				ko: "<b>Story Moment 15</b><br/><br/> 당신은 암송을 멈추려 하지만, 당신의 혀가 멋대로 움직인다. 하지만 엄청난 노력 끝에 당신은 이를 악물고 암송을 멈추는 데 성공한다. 아치문의 진홍색 빛이 사그라지며, 무언가가 분노에 차 울부짖는 소리가 들려온다. 그 안에서 강력한 힘을 가진 원혼이 튀어나와 당신을 공격한다.<br/><br/> <b>Skirmish with a Restless Spirit with its skirmish counter at maximum. If you successfully defeat the spirit, the character who was interacting with the archway gains 8 Lore, in addition to the normal skirmish awards.</b>"
+			},
+			{
+				name: "<b>Story Moment 52</b>",
+				ko: "<b>Story Moment 52</b><br/><br/> 당신을 암송을 멈출 수가 없다! 당신의 발은 마치 누군가에게 끌려가듯 아치문을 향해 움직이기 시작한다.<br/><br/> <b>The group may 당신을 멈추게 하기 위해 NERVE 9 check (all characters roll the check, with the highest result being used).</b><br/><br/> <b>성공:</b> 당신은 동료의 손에 의해 걸음을 멈추게 되고, 당신이 주문 암송을 멈추자 아치문의 진홍색 빛은 사그라진다.<br/><br/> <b>실패:</b> 당신은 연옥으로 빨려 들어가 removed from the game. That player must silently read <b>Story Moment 82</b> and not share it with the rest of the group "
+			},
+			{
+				name: "<b>Story Moment 82</b>",
+				ko: "<b>Story Moment 82</b><br/><br/> 당신은 살아있지도 죽어있지도 않은 채, 산 자와 죽은 자의 세계 사이의 틈새에 있다. 저 멀리에 동료들의 모습이 보이지만, 당신은 그들에게 닿을 수가 없다.<br/><br/> <b>When you transition to the next map and encounter the evil within, you may roll a FAITH 6 check at the end of every round until successful. Upon success, you use the power of your faith to break free from Limbo and appear with the group as a ghost to fight alongside them. Gain the GREEN Story Marker.</b>"
+			},
+		],
+		extra: "<b>ATTENTION!</b><br/><br/> 주변의 나무들이 당신의 앞길을 막으려는 듯 뿌리와 가지를 뻗어온다. 놈들은 마치 사악한 의지를 품고 있는 것처럼 보인다. At the end of the adventuring round, the Leader must roll a d10. On a 1 or 2, the group must Skirmish with a Dark Oak."
+	},
+	{
+		name: "THE VILE OAK #1 (13): 사악한 참나무",
+		ko: "당신은 몇 시간을 어둠 속에서 헤매다, 마침내 숲의 덜 울창한 지역에 들어선다. 숲은 고요하다. 마치 이곳에 살아있는 것이라고는 당신뿐인 것만 같다. 당신은 죽은 나무들로 둘러싸인 공터에 발을 들인다. 부패의 악취가 진동한다. 그 저주받은 장소의 한가운데에는 거대한 참나무가 서 있는데, 그 잎사귀가 하늘을 덮어 공터 전체에 그림자를 드리울 정도이다. 그 괴물 같은 나무의 가지가 흔들리기 시작하고, 그 몸통 중앙에 커다란 틈이 벌어지며 삐죽삐죽한 나무껍질들이 마치 입과 같은 모양을 만든다. 당신은 이것이 숲을 괴롭히는 사악한 저주의 근원임을 깨닫는다.<br/><br/> ...<br/><br/> <b>AFTER THE FIGHT</b><br/><br/> <b>ATTENTION!</b>",
+		sub: [
+			{
+				name: "If a character has the GREEN Story Marker,",
+				ko: "<b>Story Moment 74</b><br/><br/> 사악한 괴물이 쓰러지자, 당신은 당신이 무엇을 위해 살고 있는지 다시금 깨닫게 된다. 당신은 처음에는 천천히, 하지만 곧 급격히 당신의 몸을 향해 끌려가고, 잠시 후 자신의 몸 안에서 깨어난다. 당신은 이해할 수 없는 힘에 의해 현실의 세계로 돌아오게 된다.<br/><br/> <b>You return with full Vita; however you have zero Power Points until you can recover them.</b>"
+			},
+		]
+	},
+	{
+		name: "THE VILE OAK #2 (13)",
+		ko: "당신이 끔찍한 흉물을 향해 마지막 일격을 날리자 그 사악한 나무는 결국 쓰러지고 만다. 당신은 승리를 만끽하지만, 곧 놈의 거대한 입을 통해 맥동하는 보라색 빛이 떠오른다. 놈의 입은 마치 땅속으로 들어가는 터널처럼 보인다. 당신은 사건이 아직 끝나지 않았다는 것을 알고 있다. 당신은 저 안으로 들어가 그 안에 숨겨진 비밀을 밝혀야만 한다.<br/><br/><br/> <b>CHOOSE YOUR PATH</b><br/><br/> <b>당신은 거대한 참나무의 높다란 가지 위에서 무언가가 반짝이는 것을 눈치챈다. 가지 위로 올라가 그것이 무엇인지 살펴보겠는가?</b>",
+		sub: [
+			{
+				name: "<b>• 선택 1:</b> 그럴만한 가치가 있을 것이다. 나뭇가지 위로 올라가 본다!",
+				ko: "<b>Story Moment 17</b><br/><br/> 가지 위에 무엇이 있는지 살펴보기 위해 거대한 참나무를 타고 올라간다.<br/><br/> <b>Any one character must pass TRICKERY 7 or ECOLOGY 8.</b><br/><br/> <b>성공: </b><b>Story Moment 13</b><br/><br/> <b>실패:</b> Lose 2d4 Vita. Another character may attempt it if they wish. Otherwise you may abandon the effort, continue the story."
+			},
+			{
+				name: "<b>• 선택 2:</b> 저런 높이에서 떨어진다면 크게 다칠 것이 분명하다. 이야기를 계속 진행한다.",
+			},
+			{
+				name: "<b>Story Moment 13</b>",
+				ko: "<b>Story Moment 13</b><br/><br/> 당신은 가지 위로 올라 반짝이는 물체를 찾아낸다. 그것은 단순하면서 우아한 디자인의 고대 반지이다.<br/><br/> <b>Receive the Ancient Agricola Artifact.</b>"
+			},
+		],
+		extra: "..."
+	},
+	{
+		name: "BURIED SECRETS (13~14): 땅속의 비밀",
+		ko: "다큰바우 숲에 역병을 뿌리던 거대한 참나무는 이제 파괴되었다. 하지만 그 힘의 원천은 여전히 남아있다. 선택지는 하나뿐이다. 당신은 놈의 입을 통해 지하로 들어가야만 한다. 당신이 틈을 향해 다가가자, 그 삐죽삐죽한 나무껍질에 끈적한 액체가 묻어있는 것이 보인다.<br/><br/> ...<br/><br/> <b>STORY SKILL CHECK<br/>NERVE 5</b> - All Characters<br/><br/> <b>놈의 날카로운 이빨에 주의하며, 당신은 어쩔 수 없이 죽은 나무의 입속으로 발을 들인다.</b><br/><br/> <b>성공:</b> 당신은 날카로운 이빨을 피해 가능한 조심스럽게 움직인다. Gain 8 Lore.<br/><br/> <b>실패:</b> 당신의 노력은 수포로 돌아간다. 당신은 날카로운 나무껍질에 베이고 만다. Lose 2 Vita.<br/><br/><br/> 당신은 나무의 몸통으로 들어가, 그 안에 있는 지하 깊은 곳으로 이어지는 가파른 터널로 내려간다. 터널은 나무뿌리를 따라 계속 이어지며 점점 좁아진다. 희미하게 빛나는 보라색 불빛이 당신의 눈에 띈다. 그것은 마치 아직 생명이 남아있는 것 마냥 떨리고는 한다. 갑자기 뿌리가 움직이기 시작하며 터널이 흔들리기 시작한다. 터널이 붕괴하고 있다!<br/><br/> ...<br/><br/> <b>AFTER YOU REACH THE SAFE ZONE</b><br/><br/> 위를 올려다보자, 저 멀리 공중에 반투명한 형체들이 떠다니는 것을 볼 수 있다. 희미한 놈들의 눈동자가 광기로 붉게 빛나며 당신을 향한다.<br/><br/><br/> <b>CHOOSE YOUR PATH</b><br/><br/> <b>이 영혼들은 오래된 과거에 벌어진 충격적인 사건 때문에 이 장소에 얽매여 있다. 당신은 그들을 설득해 떠나게 할 것인가? 아니면 힘으로 그들을 정화할 것인가?</b>",
+		sub: [
+			{
+				name: "<b>• 선택 1:</b> 놈들은 이제 이성 따위는 남아있지 않은 순수한 악의 존재일 뿐이다. 놈들을 공격한다! Continue with the Encounter.",
+			},
+			{
+				name: "<b>• 선택 2:</b> 그들에게 빛을 향해 나아갈 기회를 준다.",
+				ko: "<b>Story Moment 86</b><br/><br/> 당신은 당신의 신앙의 힘을 통해 영혼들에게 이 세상의 굴레를 벗어나 안식을 찾을 길을 보여준다.<br/><br/> <b>One character can make a FAITH 8 check to remove one Restless Spirit from the map and then recover all their Power Points. Additional spirits may be pacified by others during their turn, however the skill check increases to FAITH 9 for the second and FAITH 10 for the last.<br/><br/> If at any time a failure occurs, 그들을 추방하려는 당신의 한심한 노력은 그들을 화나게 하고, you must proceed with the encounter with the remaining spirits. They gain +1 Damage during the fight.</b>"
+			},
+		],
+		extra: "...<br/><br/> <b>AFTER THE FIGHT</b><br/><br/> 이 버림받은 장소를 지키던 영혼과, 그들의 붉게 빛나던 눈은 이제 영원히 사라져버렸다. 당신은 당신의 발밑에 사람의 손으로 만들어진 건물이 있다는 것을 깨닫는다. 돔 모양의 그것은 아마도 고대 천문대의 지붕으로 보인다. 당신이 따라온 뿌리가 돔의 천장을 뚫고 건물 안으로 이어져 있다. 그 틈을 통해 으스스한 보라색 빛이 새어나온다. 어떻게 이런 건물이 땅속에 묻혀 있을 수 있는 것일까?<br/><br/> 계속 나아갈 수밖에 없다. 당신은 틈새를 통해 지붕 아래로 내려간다."
 	},
 ];
 
