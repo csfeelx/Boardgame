@@ -770,11 +770,11 @@
 		ko: "...<br/><br/> 오스테링크의 거리는 텅 비어있다. 가끔 서둘러 집으로 돌아가는 마을 주민 또는 술에 취해 골목에서 잠이 든 방랑자가 눈에 띌 뿐이다. 지나가던 주민들은 발을 멈추고 조심스러운 시선으로 당신을 바라본다. 당신은 몇 번이고 친절하게 손을 흔들며 그들과 인사를 나누려 하지만 그들은 재빨리 시선을 피하며 당신을 외면한다. 무언가가 잘못되었다는 것을 쉽게 알아차릴 수 있었다.<br/><br/> 당신은 골목길에서 부랑아 하나가 당신을 바라보고 있는 것을 눈치챈다. 다른 사람들과는 달리, 그녀는 두려움보다 호기심이 컸던 모양이다. 당신이 그녀에게 손을 흔들자 그녀는 주저하며 당신에게 다가온다. 당신이 마을에 관해, 그리고 사람들이 무엇을 이토록 두려워하고 있는 것인지 묻자, 그녀는 겁먹은 표정으로 말한다. \"최근 이상한 일들 벌어져서 다들 겁에 질려 있어요. 변두리에서는 더 심한 모양인지 농장에 살던 사람들도 마을로 왔고요. 덕분에 여관에 남은 방이 없을 지경이에요.\"<br/><br/> 당신은 소녀에게 늑대, 그리고 실종된 사제에 대해 묻는다. 그녀는 잠시 모르는 척을 하지만, 당신이 음식을 나누어 주자 최근에 많은 사람이 늑대를 목격했다는 이야기를 들려준다. 그녀는 또한 늑대들이 달빛 아래에서 그 모습을 바꾸는 것을 본 사람들이 있다며 조심하라는 말을 한다. 그리고 그녀는 당신이 준 음식을 우물거리며, 자신은 이곳에 왔다는 사제에 대해 아는 것이 없지만, 여관에 가면 더 많은 이야기를 들을 수 있을 거라고 말한다.<br/><br/> ...<br/><br/><br/> <b>CHOOSE YOUR PATH</b><br/><br/> <b>소녀에게 돈을 좀 주겠는가?</b>",
 		sub: [
 			{
-				name: "은화를 가지고 있는 캐릭터 하나는 그녀에게 은화 한 닢을 줄 수 있다. 그 캐릭터는...",
+				name: "<b>• 선택 1:</b> 은화를 가지고 있는 캐릭터 하나는 그녀에게 은화 한 닢을 줄 수 있다. 그 캐릭터는...",
 				ko: "<b>Story Moment 25</b><br/><br/> 당신이 정보의 대가로 은화 하나를 던져주자, 거지 소녀는 그것을 공중에서 잡아채 눈 깜짝할 사이에 주머니에 집어넣는다. 그녀는 자리를 떠나기 위해 돌아서지만, 잠시 멈춰 서서 말한다. \"한 가지 더 있어요. 늑대들은 높게 자란 풀숲에 숨어 먹잇감을 노리고는 해요. 부디 조심하세요.\"<br/><br/> <b>Gain the BLUE Story Marker.<br/>Story Markers are awards that can either cause a positive or negative event later in a story, but players will not know which is the case until it is revealed. Don't read ahead in the story! A Story Marker CANNOT be given to another character. Once the Story is completed, all Story Markers are discarded.</b>"
 			},
 			{
-				name: "더 이상의 자비는 필요 없다고 생각한다면, 리더는...",
+				name: "<b>• 선택 2:</b> 더 이상의 자비는 필요 없다고 생각한다면, 리더는...",
 				ko: "<b>Story Moment 70</b><br/><br/> 당신은 잠시 망설이며 거지 소녀에게 돈을 좀 쥐여 줄지 말지 고민한다. 하지만 이 정도 정보라면 빵을 나누어 준 것으로 충분하다는 결론을 내린다. 당신은 일행에게로 돌아가 그들과 함께 여관으로 가보기로 한다.<br/><br/> <b>The Leader 는 부랑아가 당신의 주머니를 노리고 있는 것을 눈치채기 위해 must pass AWARENESS 9.</b><br/><br/> <b>성공:</b> 눈치채인 것을 깨달은 소녀는 밤의 어둠 속으로 달아난다.<br/><br/> <b>실패:</b> Lose 1d4 Coins. 당신은 한참 후에야 그녀에게 소매치기를 당했다는 것을 눈치챈다."
 			}
 		]
@@ -784,11 +784,11 @@
 		ko: "부랑아의 말대로, 여관은 사람들이 가득 차있어 몹시 소란스러웠다. 그들 대부분은 농부로 보이지만, 간혹 상인으로 보이는 사람도 눈에 띈다.<br/><br/> 당신이 들어서자 그들은 갑자기 입을 다문다. 당신은 그들이 당신을 환영하지 않는다는 것을 쉽게 알 수 있었다. 여관 주인이 말한다.<br/><br/> \"여기엔 무슨 일이오?\"<br/><br/> 당신은 사람들에게 실종된 사제와 마을을 곤경에 빠뜨리고 있는 이상한 늑대에 관해 아는 것이 없는지 묻는다. 여관 주인이 거칠게 대답한다. \"우리는 사제님에 대한 것은 아무것도 모르오, 그리고 당신 같은 사람들의 도움이 없이도 늑대 몇 마리 정도는 처리 할 수 있소만.\"<br/><br/> 그는 날이 선 말투로 이야기하지만, 당신은 손님 몇몇이 불안해하는 것을 눈치챈다.<br/><br/> 그는 다른 이들이 불안해하는 것을 무시하며 말을 잇는다. \"남은 방은 없소이다. 술은 주문해도 되지만, 다 마신 후에는 나가 주시오.\"<br/><br/><br/> <b>STORY SKILL CHECK<br/>TRICKERY 7</b> - A Random Character<br/><br/> <b>당신은 여관을 떠나지 않고 사람들로부터 정보를 모아보려 한다. 하지만 당신이 이곳에 있는 것을 싫어하는 사람이 있는 것이 분명하다. 빈 병 하나가 당신을 향해 날아온다.</b><br/><br/> <b>성공:</b> 당신은 날아오는 빈 병을 교묘하게 피한다. 그 병은 당신의 뒤에 있는 벽에 부딪혀 산산이 조각난다. 행운이 당신을 따르는 것 같다. Gain +1 on your next search roll.<br/><br/> <b>실패:</b> 빈 병이 머리를 강타해 당신은 고통에 휩싸인다. Lose 2 Vita.<br/><br/><br/> <b>CHOOSE YOUR PATH</b><br/><br/> <b>그들의 도발에 당신은 화가 치밀어오른다! 그들은 당신을 점점 얕보고 있는 듯하다. 당장에라도 주먹이 날아올 분위기이다!</b>",
 		sub: [
 			{
-				name: "누군가가 다치는 일이 벌어지지 않도록 사람들을 진정시키기로 한다면,",
+				name: "<b>• 선택 1:</b> 누군가가 다치는 일이 벌어지지 않도록 사람들을 진정시키기로 한다면,",
 				ko: "<b>Story Moment 37</b><br/><br/> 우리는 흥분한 군중을 진정시켜야 한다!<br/><br/> <b>Choose a character to make a SPEECH 8 check.</b><br/><br/> 일행 중 누군가가 빈 병에 얻어맞았었다면, 그들은 자신감을 얻었기에 you receive a -1 penalty.<br/><br/> <b>성공:</b> 당신은 그들을 진정시키는 데 성공하고 그 결과 become RESPECTED.<br/><br/> <b>실패:</b> 당신은 흥분한 군중에게 더욱 얕보이고 만다... 난투가 시작된다! Skirmish with an Angry Mob."
 			},
 			{
-				name: "그들에게 당신을 얕본 대가가 무엇인지 가르쳐 주기로 한다면,",
+				name: "<b>• 선택 2:</b> 그들에게 당신을 얕본 대가가 무엇인지 가르쳐 주기로 한다면,",
 				ko: "<b>Story Moment 58</b><br/><br/> 이런 일로 시간을 낭비하긴 싫지만, 싸움을 피할 수 없어 보인다. 당신은 그들이 준비되기 전에 먼저 공격하기로 한다. 난투가 시작된다!<br/><br/> <b>Skirmish with a Angry Mob and apply a -1 to the skirmish counter (minimum 1 on the counter).</b>"
 			},
 		]
@@ -798,11 +798,11 @@
 		ko: "그들의 흥분은 쉽게 끓어오른 만큼이나 쉽게 식어버렸다. 그들은 겁에 질려있었다. 이것으로 그들이 이토록 쉽게 흥분한 이유는 설명되었지만, 그보다 당신을 놀라게 한 것은, 일단 흥분이 식고 나자 그들이 절망감에 빠져들었다는 것이다. 그들은 마치 그들이 아무리 이 재앙에 맞서봐야 아무런 소용도 없다고 믿고 있는 듯하다.<br/><br/> 소란이 진정된 후, 농부 하나가 망설이며 다가와 말한다. \"말씀하신 사제님께서 제 땅을 지나다 누리안의 동굴(Nurian's Hollow)로 가는 길을 물으셨었습니다. 저는 그분께 지름길을 알려 드렸습지요. 다음날, 미친 늑대들이 언덕에서 내려와 제 가축들을 잡아먹고 제 가족을 공격했습니다. 전 도움을 청하러 오스테링크로 달려왔습니다만, 모두들 겁을 집어먹고 마을을 벗어나려 하지 않습니다. 그 늑대 놈들을 잡아주신다면, 제가 지름길을 알려 드립지요.\"<br/><br/> ...<br/><br/><br/> <b>CHOOSE YOUR PATH</b><br/><br/> <b>시간을 내 농부를 돕겠는가?</b>",
 		sub: [
 			{
-				name: "당신에게는 그런 일을 할 여유가 없다. 그의 요청을 거절한다면,",
+				name: "<b>• 선택 1:</b> 당신에게는 그런 일을 할 여유가 없다. 그의 요청을 거절한다면,",
 				ko: "<b>Story Moment 78</b><br/><br/> 당신은 농부를 돕지 못해 미안함을 느낀다. 그는 좋은 사람인 듯하며 간절히 도움을 바라고 있다. 하지만 당신이 가장 우선해야 하는 일은 실종된 사제를 찾는 것이다. 그가 위험에 처해 있을지도 모르니 서둘러야만 한다. 당신은 사제가 찾아갔다고 하는 누리안의 동굴로 떠날 준비를 한다.<br/><br/> <b>Continue the story by skipping to \"Journey to the Hallows (Choice One)\" on page 6.</b>"
 			},
 			{
-				name: "농부를 돕기로 한다면,",
+				name: "<b>• 선택 2:</b> 농부를 돕기로 한다면,",
 				ko: "<b>Story Moment 46</b><br/><br/> 당신은 이 남자가 당신에게 도움을 요청하기 위해 얼마나 많은 용기를 내야 했는지 알 수 있었다. 그는 눈에 띄게 겁을 먹고 있었지만, 그 두려움을 극복한 것이다. 늑대 몇 마리를 상대하는 데는 많은 시간이 걸리진 않을 것이다. 게다가 그 농부가 알려주기로 한 지름길을 이용한다면 그 정도 시간은 만회할 수 있을 것이다.<br/><br/> <b>Skip to \"The Farm (Choice Two)\" on page 6.</b>"
 			},
 		]
@@ -820,15 +820,15 @@
 		ko: "당신은 오래된 묘지에 들어선다. 곧 누리안의 동굴과 이어져 있다는 영묘가 모습을 드러낸다. 왼쪽에는 파헤쳐진 무덤이 있다. 당신은 동굴로 이어지는 입구를 찾기 바라며 서둘러 영묘 지하로 내려가는 문으로 향해 나아간다.<br/><br/> ...<br/><br/><br/> <b>MAP SKILL CHECK 2<br/>TRICKERY 7</b> - Any Character During Their Turn<br/><br/> <b>영묘로 들어가는 문을 열 수 있는가?</b><br/><br/> <b>성공:</b> 당신은 잠긴 문을 연다. Remove it from the map.<br/><br/> <b>실패:</b> 당신은 자물쇠를 따다 손을 다친다. Lose 2 Vita. You may try again on your next turn.<br/><br/><br/> ...<br/><br/><br/> <b>MAP SKILL CHECK 1<br/>AWARENESS 6</b> - Any One Character<br/><br/> <b>특이한 점을 눈치챈 것이 있는가?</b>",
 		sub: [
 			{
-				name: "성공",
+				name: "<b>성공</b>",
 				ko: "<b>Story Moment 34</b><br/><br/> 무덤 안에는 복부가 파헤쳐져 내장을 씹어 먹힌 반쯤 말라붙은 시체가 있다. 그 안에서 무언가가 반짝인다. 당신이 욕지기를 참으며 시체 안에 손을 넣자 무언가 둥글고 단단한 것이 만져진다. 조심스럽게 꺼내보자, 그것은 진주 반지였다. 아름답고 섬세하게 세공된 그 반지에는 마른 피가 달라붙어 있다. 그것을 손가락에 끼우고자 하는 충동이 밀려온다. 당신은 그 유혹에 저항하지 못했다!<br/><br/> <b>Gain the RED Story Marker.</b>"
 			},
 			{
-				name: "실패",
+				name: "<b>실패</b>",
 				ko: "<b>Story Moment 12</b><br/><br/> 당신은 발을 헛디뎌 파헤쳐진 무덤 속으로 굴러떨어져 삽에 찔리고 만다.<br/><br/> <b>Lose 2 Vita.</b><br/><br/> <b>Story Moment 34 *</b><br/><br/> 무덤 안에는 복부가 파헤쳐져 내장을 씹어 먹힌 반쯤 말라붙은 시체가 있다. 그 안에서 무언가가 반짝인다. 당신이 욕지기를 참으며 시체 안에 손을 넣자 무언가 둥글고 단단한 것이 만져진다. 조심스럽게 꺼내보자, 그것은 진주 반지였다. 아름답고 섬세하게 세공된 그 반지에는 마른 피가 달라붙어 있다. 그것을 손가락에 끼우고자 하는 충동이 밀려온다. 당신은 그 유혹에 저항하지 못했다!<br/><br/> <b>Gain the RED Story Marker.</b>"
 			},
 		],
-		extra: "...<br/><br/> <b>ATTENTION!</b><br/><br/> 공기 중에 떠도는 불길한 기운에 당신은 등골이 오싹해진다. 오늘은 죽은 자들이 휴식을 취할 수 없는 날이다. At the end of every round on this map, the Leader must roll a d10.<br/><br/><b>* 1-3:</b> Encounter 3 Decaying Dead. Place them adjacent to random characters and begin combat. Once the encounter is complete, you are no longer required to make this roll, nor is your Stride reduced by 1.<br/><br/> <b>* 4-0:</b> Nothing happens.<br/><br/> <b>* Characters have a -1 Stride on this map.</b>"
+		extra: "...<br/><br/> <b>ATTENTION!</b><br/><br/> 공기 중에 떠도는 불길한 기운에 당신은 등골이 오싹해진다. 오늘은 죽은 자들이 휴식을 취할 수 없는 날이다. At the end of every round on this map, the Leader must roll a d10.<br/><br/><b>• 1-3:</b> Encounter 3 Decaying Dead. Place them adjacent to random characters and begin combat. Once the encounter is complete, you are no longer required to make this roll, nor is your Stride reduced by 1.<br/><br/> <b>• 4-0:</b> Nothing happens.<br/><br/> <b>• Characters have a -1 Stride on this map.</b>"
 	},
 	{},
 	{
@@ -836,10 +836,10 @@
 	},
 	{
 		name: "INTO THE DARKNESS (8~9): 어둠 속으로",
-		ko: "당신이 영묘의 문을 통과하자 방 반대편의 벽에 누리안의 동굴로 이어지는 구멍이 나 있는 것이 보인다.<br/><br/> 구멍 안쪽은 어둡고, 썩은 고기 냄새가 풍겨온다. 당신의 모든 감각이 이곳에서 도망치라고 외치고 있지만, 당신은 용기를 짜내 벽 안의 구멍으로 발을 들인다.<br/><br/><br/> <b>STORY SKILL CHECK<br/>NERVE 4</b> - All Characters<br/><br/> <b>두려움을 이겨내고 어둠 속으로 발을 내디뎌라!</b><br/><br/> <b>성공:</b> 당신은 온몸에 자신감이 솟구치는 것을 느낀다! The Darkness penalty you receive in the next map is reduced by 2.<br/><br/> <b>실패:</b> 당신은 앞으로 나아가야만 한다. 당신은 분명 다른 방법이 없다는 것을 알고 있다. 하지만 이 앞에 무엇이 있을지를 깨닫는 순간, 당신의 온몸이 두려움으로 떨려온다. Become <b>SPOOKED.</b><br/><br/><br/> 동굴은 어둡고 축축하며 냉기가 감돈다. 당신은 발을 헛디뎌 휘청이며 어둠 속을 나아간다. 몇 분 정도 악몽 같은 시간이 흐른 뒤, 당신은 앞쪽에서 무언가가 빛나는 것을 눈치챈다. 희미하게 빛을 발하고 있는 버섯이 이곳이 저승이 아니라는 유일한 증거가 되어준다.<br/><br/> 통로가 점점 좁아진다. 폐소공포증이 당신을 덮쳐, 당신은 마음을 진정시키기 위해 심호흡을 한다. 갑자기, 전방에서 움직임이 느껴진다. 거의 눈치채지 못할 정도로 조용히, 어둠 속에서 무언가가 다가오고 있다!<br/><br/> ...<br/><br/> <b>OPTIONAL GOALS</b><br/><br/> <b>* Investigate all search locations.</b><br/><br/> <b>* 당신은 돌무더기를 옮겨 통로를 열 수 있다. 하지만 사제가 이 통로를 지나간 것 같진 않아 보이며, 그 너머에는 무언가 위험이 도사리고 있을 수 있다. One character may spend their ACT to remove the Rubble token.</b>",
+		ko: "당신이 영묘의 문을 통과하자 방 반대편의 벽에 누리안의 동굴로 이어지는 구멍이 나 있는 것이 보인다.<br/><br/> 구멍 안쪽은 어둡고, 썩은 고기 냄새가 풍겨온다. 당신의 모든 감각이 이곳에서 도망치라고 외치고 있지만, 당신은 용기를 짜내 벽 안의 구멍으로 발을 들인다.<br/><br/><br/> <b>STORY SKILL CHECK<br/>NERVE 4</b> - All Characters<br/><br/> <b>두려움을 이겨내고 어둠 속으로 발을 내디뎌라!</b><br/><br/> <b>성공:</b> 당신은 온몸에 자신감이 솟구치는 것을 느낀다! The Darkness penalty you receive in the next map is reduced by 2.<br/><br/> <b>실패:</b> 당신은 앞으로 나아가야만 한다. 당신은 분명 다른 방법이 없다는 것을 알고 있다. 하지만 이 앞에 무엇이 있을지를 깨닫는 순간, 당신의 온몸이 두려움으로 떨려온다. Become <b>SPOOKED.</b><br/><br/><br/> 동굴은 어둡고 축축하며 냉기가 감돈다. 당신은 발을 헛디뎌 휘청이며 어둠 속을 나아간다. 몇 분 정도 악몽 같은 시간이 흐른 뒤, 당신은 앞쪽에서 무언가가 빛나는 것을 눈치챈다. 희미하게 빛을 발하고 있는 버섯이 이곳이 저승이 아니라는 유일한 증거가 되어준다.<br/><br/> 통로가 점점 좁아진다. 폐소공포증이 당신을 덮쳐, 당신은 마음을 진정시키기 위해 심호흡을 한다. 갑자기, 전방에서 움직임이 느껴진다. 거의 눈치채지 못할 정도로 조용히, 어둠 속에서 무언가가 다가오고 있다!<br/><br/> ...<br/><br/> <b>OPTIONAL GOALS</b><br/><br/> <b>• Investigate all search locations.</b><br/><br/> <b>• 당신은 돌무더기를 옮겨 통로를 열 수 있다. 하지만 사제가 이 통로를 지나간 것 같진 않아 보이며, 그 너머에는 무언가 위험이 도사리고 있을 수 있다. One character may spend their ACT to remove the Rubble token.</b>",
 		sub: [
 			{
-				name: "돌무더기를 치우고 길을 연다면,",
+				name: "<b>돌무더기를 치우고 길을 연다면,</b>",
 				ko: "<b>Story Moment 53</b><br/><br/> 돌무더기를 치우자, 그 너머에는 한동안 인간의 손길이 닿지 않았던 것으로 보이는 동굴이 모습을 드러낸다. 천장의 작은 틈새들을 통해 내려온 달빛이 가느다란 빛줄기를 만들어내 동굴 안을 희미하게 비춘다. 그 빛을 통해 당신은 작고 검은 무언가가 천장을 가득 메우고 있는 것을 눈치챈다... 박쥐들이다! Remove the Darkness token from the map.<br/><br/> 수정처럼 맑은 물웅덩이 두 개가 보인다. 그것은 당신에게 치유의 힘을 가진 신비한 샘물에 관한 이야기를 떠올리게 한다. 그 물을 마시고자 하는 캐릭터는 must pass ECOLOGY 5 while adjacent to them.<br/><br/> <b>성공:</b> Recover 2d6 Vita.<br/><br/> <b>실패:</b> Recover 1d4 Vita.<br/><br/> <b>Each space a character moves while in the revealed cavern requires them to roll TRICKERY 2. On a failure, there is no need to make the check again, but the group encounters either 2 Bat Swarms (or a single Bat Swarm for 2-3 characters). Place the swarms atop the spawn locations. If the group is still fighting the Night Stalkers, the check is automatically failed. See the Rulebook “Swarms” on page 28 for details on their behavior and movement. Once the group have defeated all foes, they may interacted with any map features.</b>"
 			},
 		],
@@ -850,30 +850,30 @@
 		ko: "당신은 동굴 안쪽으로 들어간다. 높은 벽의 틈새 사이로 들어온 달빛이 방안을 비추고 있다. 누군가가 그 빛줄기를 아래에 서 있는 모습이 보인다. 당신은 달빛에 닿은 그의 얼굴이 변하기 시작하는 것을 눈치챈다. 곧 그의 피부와 뼈가 요동치며 그의 몸은 인간의 것에서 사나운 늑대의 것으로 변한다. 하지만 그가 당신을 향해 돌아서 달빛 밖으로 발을 내딛자, 그의 얼굴은 다시 완전한 사람의 것으로 돌아온다.<br/><br/> 동굴의 뒤편에 한 남자가 거꾸로 매달려 있는 것이 보인다. 두건을 쓴 사람들이 그를 둘러싸고 있다... 바로 당신이 찾던 사제다! 그때 당신 앞에 있던 남자가 으르렁대는 소리와 함께 당신을 덮친다!<br/><br/> If the RED Story Marker is in play, Otherian the Changer 는 반지를 끼고 있는 캐릭터에게 다가가 외친다. \"그것은 나의 것이다! 그 돌을 내놓아라!\" 당신은 진주라고 생각했던 반지의 돌이 사실은 진주와는 다른, 광택 나는 돌이라는 것을 깨닫는다. 그 돌은 아주 희미하게 빛나고 있다... 마치 달빛처럼. 당신은 무슨 짓을 해도 반지를 손가락에서 빼낼 수가 없다.<br/><br/><br/> <b>CHOOSE YOUR PATH</b><br/><br/> <b>The character with the RED Story Marker: 이 망할 반지를 빼낼 수가 없어. 이 짐승이 날 죽이고 말 거야. 난 어쩌면 좋지?</b>",
 		sub: [
 			{
-				name: "죽을 때 죽더라도 싸울 테다. 그것이 내가 여기까지 온 이유니까!",
+				name: "<b>• 선택 1:</b> 죽을 때 죽더라도 싸울 테다. 그것이 내가 여기까지 온 이유니까!",
 				ko: "<b>Story Moment 8</b><br/><br/> 난 할 수 있어! 친구들이 날 지켜줄 테니까. 우리는 저 괴물을 막아야만 해!<br/><br/> <b>Become BRAVE.</b>"
 			},
 			{
-				name: "무슨 수를 써서라도 반지를 빼내야 해. 손가락을 잘라내면 가능할 거야!",
+				name: "<b>• 선택 2:</b> 무슨 수를 써서라도 반지를 빼내야 해. 손가락을 잘라내면 가능할 거야!",
 				ko: "<b>Story Moment 63</b><br/><br/> 이게 유일한 방법이야! 만약 이 괴물이 나만 노리고 덤벼든다면, 난 1분도 채 버티지 못할 거야. 그것은 끔찍하게 고통스러울 것이다! 당신은 숨을 크게 들이쉰 뒤 손가락의 마디 부분을 잘라낸다. 당신은 고통으로 비명을 지른다!<br/><br/> <b>나쁜 소식:</b> Lose 2d4 Vita and receive a -5 Might penalty for the remainder of the story.<br/><br/> <b>더 나쁜 소식:</b> 괴물은 반지가 끼워져 있는 손가락을 낚아채 그것을 통째로 삼켜 버린다. Otherian gains +5 Might and +1 Damage for the remainder of combat."
 			}
 		],
-		extra: "...<br/><br/> <b>OPTIONAL GOALS</b><br/><br/> <b> * 사제가 죽기 전에 그를 구출하라(completing this map skill check). YOU HAVE ONLY 6 ROUNDS.</b><br/><br/> <b>MAP SKILL CHECK<br/>TRICKERY 6</b> - 사제를 구출하기 전까지 ANY CHARACTER<br/><br/> <b>사제에게는 남은 시간이 얼마 없다. 당신은 서둘러 그를 구해내야 한다.</b><br/><br/> <b>성공:</b> 당신은 재빨리 사제를 구해낸다. 그의 상태는 그다지 좋아 보이지 않는다. 당신이 그의 상처를 돌보자 그는 신음한다. 그는 안전하다. 지금 당장은 말이다. Gain 8 Lore.<br/><br/> <b>실패:</b> 당신은 사제를 묶고 있는 매듭을 풀어낼 수 없을 것 같다. You may try again on your next turn.<br/><br/> ..."
+		extra: "...<br/><br/> <b>OPTIONAL GOALS</b><br/><br/> <b> • 사제가 죽기 전에 그를 구출하라(completing this map skill check). YOU HAVE ONLY 6 ROUNDS.</b><br/><br/> <b>MAP SKILL CHECK<br/>TRICKERY 6</b> - 사제를 구출하기 전까지 ANY CHARACTER<br/><br/> <b>사제에게는 남은 시간이 얼마 없다. 당신은 서둘러 그를 구해내야 한다.</b><br/><br/> <b>성공:</b> 당신은 재빨리 사제를 구해낸다. 그의 상태는 그다지 좋아 보이지 않는다. 당신이 그의 상처를 돌보자 그는 신음한다. 그는 안전하다. 지금 당장은 말이다. Gain 8 Lore.<br/><br/> <b>실패:</b> 당신은 사제를 묶고 있는 매듭을 풀어낼 수 없을 것 같다. You may try again on your next turn.<br/><br/> ..."
 	},
 	{
 		name: "STORY CLOSING (10)",
 		ko: "<b>IF YOU WON THE BATTLE</b>",
 		sub: [
 			{
-				name: "* 당신이 제시간에 사제를 구출할 수 있었다면,",
+				name: "• 당신이 제시간에 사제를 구출할 수 있었다면,",
 				ko: "<b>Story Moment 44</b><br/><br/> 오데리안은 동굴 바닥에 쓰러져 미동도 하지 않는다. 곧, 그의 몸이 천천히 인간의 것으로 되돌아간다. 방의 반대편 벽에 기대어 앉아 있던 사제가 작은 신음을 낸다. 당신은 달려가 그가 몸을 일으키는 것을 돕는다.<br/><br/> 그는 당신에게 감사하며 말한다. \"제가 동굴의 비밀을 밝히려던 순간 오데리안이 저를 붙잡았습니다. 이 동굴에는 사람을 동물로 변화시키는 기이한 광물이 있습니다. 그것은 마치 마약과 같은 중독성이 있는 모양입니다. 사냥꾼들이 저에게 가져왔던 돌 역시 바로 그 광물이었습니다. 오데리안이 북쪽 땅에서 이곳까지 온 이유는 이 광물을 캐내기 위해서였습니다. 그는 그 광물이 자신을 더 강하게 만들 것이라고 떠들어대더군요. 그가 한 말이 사실인지는 모르겠지만, 그가 얼마나 강력한 존재였는지를 생각하면, 더 늦기 전에 그를 쓰러뜨린 것이 무엇보다 다행입니다. 우리는 결국 이 끔찍한 시련을 극복해냈습니다. 함께 감사의 기도를 올리도록 하지요.\"<br/><br/> <b>All characters recover 6 Vita or Ghost Points.</b><br/><br/> 오스테링크에는 이미 활기가 돌아와 있었다. 그들은 감사의 표시로 당신과 사제를 교회로 돌아가게 해줄 역마차를 고용해 준다. 사제는 당신에게 경계를 늦추지 말라고 경고한다. 그는 이 사건은 단지 앞으로 다가올 더 큰 사건의 전조일 뿐이라 생각하는 듯하다."
 			},
 			{
-				name: "* 당신이 사제를 구하지 못했다면,",
+				name: "• 당신이 사제를 구하지 못했다면,",
 				ko: "<b>Story Moment 51</b><br/><br/> 오데리안은 동굴 바닥에 쓰러져 미동도 하지 않는다. 곧, 그의 몸이 천천히 인간의 것으로 되돌아간다. 당신은 여전히 꽁꽁 묶인 채 매달려 있는 사제를 향해 달려간다. 그가 흘린 피가 바닥에 고여 웅덩이를 만들고 있다. 그를 구하지 못했다는 죄책감이 당신을 괴롭힌다. 비록 당신은 당신이 할 수 있는 모든 것을 했음을 알고 있지만 말이다. 당신은 맹세한다. 이 땅을 어둠으로부터 해방하기 위해 흔들림 없이 나아가겠다고. 당신은 적어도 오스테링크를 괴롭히는 문제의 근원을 제거할 수 있었다. 사제를 구하지 못했기에 All characters lose 8 Lore.<br/><br/> 당신이 비통에 빠져있는 사이, 그의 시신에서 사제의 영혼이 솟아오른다. 그는 허공에 떠 당신의 앞으로 다가와 말한다. \"절망하지 마십시오. 오데리안이 저를 붙잡기 전, 저는 이곳의 비밀을 깨달았습니다. 이 동굴에는 사람을 동물로 변화시키는 기이한 광물이 있습니다. 그것은 마치 마약과 같은 중독성이 있지요. 사냥꾼들이 저에게 가져왔던 돌 역시 바로 그 광물이었습니다. 오데리안이 북쪽 땅에서 이곳까지 온 이유는 이 광물을 캐내기 위해서였습니다. 그는 그 광물이 자신을 더 강하게 만들 것이라고 말하더군요. 경계를 늦추지 마십시오. 이 사건은 앞으로 다가올 더 큰 사건의 전조일 뿐입니다. 부디 제 시신을 교회로 가져가 제 조상님들 곁에 눕혀 주십시오. 부탁드리겠습니다.\" 말을 마친 사제의 영혼은 소멸한다.<br/><br/> 오스테링크에는 이미 활기가 돌아와 있었다. 그들은 감사의 표시로 당신을 교회로 돌아가게 해줄 역마차를 고용해 준다. 관리인은 사제의 죽음에 큰 충격을 받지만, 그의 강인한 영혼의 힘 덕분에 그는 빠르게 그것을 이겨낸다. 그는 당신에게 새로운 사제가 파견될 것이라 말한다. 하지만 어둠의 세력은 분명 그의 자리가 비어있는 틈을 이용할 것이다."
 			},
 		],
-		extra: "* If a character has the RED Story Marker and has not been killed or had his finger removed, they receive the Ring of Moonlight artifact.<br/><br/> * Place the Group Marker on the Church of the Crossroads. If any character has earned an Ability Point by collecting Lore, they may use it to learn new Abilities.<br/><br/><br/> <b>IF YOU LOST THE BATTLE</b><br/><br/> 당신은 오스테링크 변두리에 있는 집시들의 야영지에서 깨어난다. 당신은 잠시 혼란에 빠져 정신을 차리지 못한다(see <b>Rulebook “On Death and Dying” on page 32</b> and follow the instruction of Total Group Death). 정신을 차리고 나자, 집시들은 당신이 비어있는 누리안의 동굴 안에서 의식을 잃은 채 죽어가고 있었다고 말해준다. 당신이 이곳에 온 이유인 사제도 발견되었다고 한다. 갈기갈기 찢겨버린 시체로 말이다. 당신은 실패를 자책하며 괴로워하며 맹세한다. 이 땅을 어둠으로부터 해방하기 위해 흔들림 없이 나아가겠다고. 오데리안은 이제 자취를 감추었지만, 당신은 운명이 그와 당신을 다시 마주치게 할까 봐 두려움을 느낀다.<br/><br/> 오데리안이 떠나자 오스테링크는 서서히 활기를 되찾고 있다. 당신은 역마차를 고용해 교회로 돌아간다. 사제의 죽음을 전해 들은 관리인은 큰 충격을 받지만, 그의 강인한 영혼의 힘 덕분에 그는 빠르게 그것을 이겨낸다. 그는 급히 새로운 사제가 파견될 것이라 말한다. 하지만 어둠의 세력은 분명 그의 자리가 비어있는 틈을 이용할 것이다.<br/><br/> <b>THE END</b>"
+		extra: "• If a character has the RED Story Marker and has not been killed or had his finger removed, they receive the Ring of Moonlight artifact.<br/><br/> • Place the Group Marker on the Church of the Crossroads. If any character has earned an Ability Point by collecting Lore, they may use it to learn new Abilities.<br/><br/><br/> <b>IF YOU LOST THE BATTLE</b><br/><br/> 당신은 오스테링크 변두리에 있는 집시들의 야영지에서 깨어난다. 당신은 잠시 혼란에 빠져 정신을 차리지 못한다(see <b>Rulebook “On Death and Dying” on page 32</b> and follow the instruction of Total Group Death). 정신을 차리고 나자, 집시들은 당신이 비어있는 누리안의 동굴 안에서 의식을 잃은 채 죽어가고 있었다고 말해준다. 당신이 이곳에 온 이유인 사제도 발견되었다고 한다. 갈기갈기 찢겨버린 시체로 말이다. 당신은 실패를 자책하며 괴로워하며 맹세한다. 이 땅을 어둠으로부터 해방하기 위해 흔들림 없이 나아가겠다고. 오데리안은 이제 자취를 감추었지만, 당신은 운명이 그와 당신을 다시 마주치게 할까 봐 두려움을 느낀다.<br/><br/> 오데리안이 떠나자 오스테링크는 서서히 활기를 되찾고 있다. 당신은 역마차를 고용해 교회로 돌아간다. 사제의 죽음을 전해 들은 관리인은 큰 충격을 받지만, 그의 강인한 영혼의 힘 덕분에 그는 빠르게 그것을 이겨낸다. 그는 급히 새로운 사제가 파견될 것이라 말한다. 하지만 어둠의 세력은 분명 그의 자리가 비어있는 틈을 이용할 것이다.<br/><br/> <b>THE END</b>"
 	},
 ];
 
@@ -886,5 +886,5 @@
                 name: "",
                 ko: ""
         },
-	
+	•
 */
