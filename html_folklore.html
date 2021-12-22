@@ -10,33 +10,32 @@
     <script>
         // 변수
         var datTranslation = data_folklore; // 데이터
-        var winDialog; // 팝업윈도우
-        var winSub; // 하위윈도우
-        var arBtnSub = []; // 하위버튼 배열
-        var divBlank; // 빈 엘리먼트 (줄넘김)
-        var divExtra; // 확장
-        var btnClose;
-        var winButton = $(document).find("#winButton")[0];
+
+        // 엘리먼트
+        var winDialog; // 다이얼로그 윈도우
+        var btnClose; // 다이얼로그 닫기 버튼
+        var winSub; // 하위 윈도우
+
+        // 템플릿
+        var winButton; // 버튼 템플릿
+        var divBr; // 줄넘김 템플릿
+        var arBtnSub = []; // 하위 버튼 배열
 
         // onload
         window.onload = function () {
-            // 준비
-            winDialog = $(document).find("#winDialog")[0];
-            winDialog.name = $(winDialog).find("#name")[0];
-            winDialog.ko = $(winDialog).find("#ko")[0];
-            winDialog.toggle = $(winDialog).find("#toggle")[0];
-            winDialog.en = $(winDialog).find("#en")[0];
-            winSub = $(document).find("#winSub")[0];
-            winSub.ko = $(winSub).find("#ko_sub")[0];
-            winSub.toggle = $(winSub).find("#toggle_sub")[0];
-            winSub.en = $(winSub).find("#en_sub")[0];
-            divBlank = $(document).find("#divBlank")[0];
-            divExtra = $(document).find("#divExtra")[0];
-            btnClose = $(winDialog).find("#close")[0];
-            winButton = $(document).find("#winButton")[0];
-    
+            // 연결
+            winDialog = $(document).find("#winDialog")[0]; // 다이얼로그 윈도우
+            winDialog.name = $(winDialog).find("#nameDialog")[0]; // 다이얼로그 제목
+            winDialog.text = $(winDialog).find("#textDialog")[0]; // 다이얼로그 본문
+            winDialog.inner = $(winDialog).find("#winInner")[0]; // 내부 윈도우
+            winSub = $(document).find("#winSub")[0]; // 하위 윈도우
+            winSub.text = $(winSub).find("#textSub")[0]; // 하위 본문
+            btnClose = $(document).find("#btnClose")[0]; // 다이얼로그 닫기 버튼
+            winButton = $(document).find("#winButton")[0]; // 버튼 템플릿
+            divBr = $(document).find("#divBr")[0]; // 줄넘김 템플릿
+
             // 배치
-            for (var ii = 0 ; ii < datTranslation.length ; ii++) {
+            for (var ii = 0; ii < datTranslation.length; ii++) {
                 // 준비
                 var data = datTranslation[ii];
 
@@ -62,41 +61,138 @@
 
         // 다이얼로그 열기
         function openDialog(btn, no) {
-			// 토글
-			if (winDialog.no == no && $(winDialog).css("display") != "none") { 
-				$(winDialog).css("display", "none");
-				return;
-			}
+            // 토글
+            if (winDialog.no == no && $(winDialog).css("display") != "none") {
+                $(winDialog).css("display", "none");
+                return;
+            }
 
             // 준비
             var data_current = datTranslation[no];
 
             // 정보 입력
-			winDialog.no = no;
+            winDialog.no = no;
             winDialog.name.innerHTML = "<b>" + data_current.name + "</b>";
-            winDialog.ko.innerHTML = data_current.ko;
-            if (data_current.en != null) {
-                $(winDialog.toggle).css("display", "inline-block");
-                winDialog.en.innerHTML = data_current.en;
-                $(winDialog.en).css("display", "inline-block");
-            } else {
-                $(winDialog.toggle).css("display", "none");
-                $(winDialog.en).css("display", "none");
-            }
 
-            // 하위 숨김
+            // 기존 내용 정리
+            $(winDialog.text).css("display", "none");
             for (var ii = 0; ii < arBtnSub.length; ii++) {
                 $(arBtnSub[ii]).css("display", "none");
                 $(winButton).after(arBtnSub[ii]);
-                $(winButton).after(divBlank);
+                $(winButton).after(divBr);
             }
             $(winSub).css("display", "none");
             winSub.no = -1;
-            $(divExtra).css("display", "none");
+            while (winDialog.inner.hasChildNodes()) { winDialog.inner.removeChild(winDialog.inner.firstChild); }
+            
+            // 분기: 일반 형태
+            if (data_current.ko != null) { openDialog_Standard(data_current); }
 
-            // 하위
+            // 분기: 배열 형태
+            if (data_current.item != null) {
+                // 줄넘김
+                $(winDialog.inner).append("<div><br/></div>");
+
+                // 내용 넣기
+                openDialog_Item(winDialog.inner, data_current.item);
+            }
+
+            // 붙이고 가시
+            $(btn).after(winDialog);
+            $(winDialog).css("display", "inline-block");
+        }
+
+        // 배열 다이얼로그 윈도우 열기
+        function openDialog_Item(canvas, data) {
+            // 버튼 배열
+            canvas.btns = [];
+
+            // 배열 처리
+            for (var ii = 0; ii < data.length; ii++) {
+                var item = data[ii];
+                
+                // 문자열
+                if (typeof (item) == "string") {
+                    var div = document.createElement("div");
+                    div.innerHTML = item;
+                    canvas.appendChild(div)
+                }
+
+                // 버튼
+                if (typeof (item) == "object") {
+                    // 준비
+                    var btn = document.createElement("button");
+                    $(btn).css("width", "100%");
+                    $(btn).css("text-align", "left");
+
+                    // 제목
+                    btn.innerHTML = item.name;
+
+                    // 분기: 내용 있음
+                    if (item.item != null) {
+                        // 이벤트
+                        btn.item = item.item;
+                        btn.toggle = false;
+                        btn.onclick = function (ev) {
+                            // 준비
+                            var btn = ev.currentTarget;
+                            var parent = $(btn).parent()[0];
+
+                            // 열기
+                            if (btn.toggle == false) {
+                                // 다른 버튼 닫기 전달
+                                for (var aa = 0; aa < parent.btns.length; aa++) {
+                                    parent.btns[aa].toggle = false;
+                                    $(parent.btns[aa].inner).remove();
+                                }
+
+                                // 토글
+                                btn.toggle = true;
+
+                                // 기본 div
+                                var div = document.createElement("div");
+                                $(div).css("width", "100%");
+                                $(div).css("margin-top", "10px");
+                                $(div).css("margin-bottom", "10px");
+                                btn.inner = div;
+                                $(btn).after(div);
+
+                                // 내부 div
+                                var paper = document.createElement("div");
+                                $(paper).css("outline", "solid 1px gray");
+                                $(paper).css("padding", "10px");
+                                btn.inner.appendChild(paper);
+                                openDialog_Item(paper, ev.currentTarget.item)
+                            } else { // 닫기
+                                btn.toggle = false;
+                                $(btn.inner).remove();
+                            }
+                        }
+                    } else { // 분기: 내용 없음
+                        $(btn).css("border", "0");
+                        $(btn).css("border-color", "unset");
+                        $(btn).css("background-color", "unset");
+                        $(btn).css("pointer-events", "none");
+                    }
+                    
+                    // 붙이기
+                    canvas.appendChild(btn);
+
+                    // 배열에 삽입
+                    canvas.btns.push(btn);
+                }
+            }
+        }
+
+        // 일반 다이얼로그 윈도우 열기
+        function openDialog_Standard(data_current) {
+            // 본문
+            winDialog.text.innerHTML = data_current.ko;
+            $(winDialog.text).css("display", "inline-block");
+
+            // 하위 버튼
             if (data_current.sub != null) {
-                // 버튼 존재 확인
+                // 버튼 존재 확인 후 없으면 생성
                 if (arBtnSub.length < data_current.sub.length) {
                     for (var ii = 0; ii < data_current.sub.length; ii++) {
                         if (arBtnSub[ii] == null) {
@@ -109,9 +205,6 @@
 
                 // 버튼 가시 제어 및 부착
                 for (var ii = 0; ii < arBtnSub.length; ii++) {
-                    $(arBtnSub[ii]).css("background-color", "");
-                    $(arBtnSub[ii]).css("border-color", "");
-                    $(arBtnSub[ii]).css("pointer-events", "");
                     if (ii < data_current.sub.length) {
                         $(arBtnSub[ii]).css("display", "inline-block");
                         arBtnSub[ii].innerHTML = data_current.sub[ii].name;
@@ -120,11 +213,6 @@
                             arBtnSub[ii].data = data_current.sub[ii];
                             arBtnSub[ii].no = ii;
                             arBtnSub[ii].onclick = function (ev) { openSub(ev.currentTarget.data, ev.currentTarget.no, ev.currentTarget); }
-                        } else {
-                            $(arBtnSub[ii]).css("border-color", "unset")
-                            $(arBtnSub[ii]).css("background-color", "unset");
-                            $(arBtnSub[ii]).css("pointer-events", "none");
-                            arBtnSub[ii].onclick = function (ev) { }
                         }
                     } else {
                         $(arBtnSub[ii]).css("display", "none");
@@ -132,26 +220,15 @@
                 }
 
                 // 빈칸
-                $(btnClose).before(divBlank);
+                $(btnClose).before(divBr);
 
                 // 숨김
                 $(winSub).css("display", "none");
                 winSub.no = -1;
             }
-
-            // 확장
-            if (data_current.extra != null) {
-                divExtra.innerHTML = data_current.extra;
-                $(divExtra).css("display", "inline-block");
-                $(btnClose).before(divExtra);
-            }
-
-            // 붙이고 가시
-            $(btn).after(winDialog);
-            $(winDialog).css("display", "inline-block");
         }
 
-        // 서브 열기 버튼
+        // 하위 윈도우 열기 버튼
         function openSub(data, no, btn) {
             // 토글
             if (winSub.no == no && $(winSub).css("display") != "none") {
@@ -161,15 +238,7 @@
 
             // 정보 입력
             winSub.no = no;
-            winSub.ko.innerHTML = data.ko;
-            if (data.en != null) {
-                $(winSub.toggle).css("display", "inline-block");
-                winSub.en.innerHTML = data.en;
-                $(winSub.en).css("display", "inline-block");
-            } else {
-                $(winSub.toggle).css("display", "none");
-                $(winSub.en).css("display", "none");
-            }
+            winSub.text.innerHTML = data.ko;
 
             // 붙이고 가시
             $(btn).after(winSub);
@@ -179,24 +248,30 @@
 </head>
 
 <body>
+    <!-- 다이얼로그 윈도우 -->
     <div id="winDialog" style="display: none; width:100%; padding: 10px">
-        <div id="border" style="outline: solid 1px black; padding: 10px">
-            <div id="name"></div>
-            <div id="ko" style="padding: 30px 0px 20px 10px"></div>
+        <div style="outline: solid 1px black; padding: 10px">
+            <div id="nameDialog"></div>
+            <div id="textDialog" style="padding: 30px 0px 20px 10px"></div>
+            <div id="winInner" style="width:100%; padding: 10px">
+            </div>
             <br />
-            <div id="en" style="padding: 30px 0px 20px 10px"></div>
-            <button id="close" style="width:100%" onclick="$(winDialog).css('display', 'none');">닫기</button>
+            <button id="btnClose" style="width:100%" onclick="$(winDialog).css('display', 'none');">닫기</button>
         </div>
     </div>
+
+    <!-- 서브 윈도우 -->
     <div id="winSub" style="display: none; width:100%; margin-top:10px; margin-bottom:10px">
-        <div id="border_sub" style="outline: solid 1px gray; padding: 10px">
-            <div id="ko_sub" style="padding: 30px 0px 20px 10px"></div>
+        <div style="outline: solid 1px gray; padding: 10px">
+            <div id="textSub" style="padding: 30px 0px 20px 10px"></div>
             <br />
-            <div id="en_sub" style="padding: 30px 0px 20px 10px"></div>
         </div>
     </div>
+
+    <!-- 버튼 템플릿 -->
     <div id="winButton"></div>
-    <div id="divBlank"><br /></div>
-    <div id="divExtra" style="padding: 30px 0px 20px 10px"></div>
+
+    <!-- 줄넘김 템플릿 -->
+    <div id="divBr"><br /></div>
 </body>
 </html>
