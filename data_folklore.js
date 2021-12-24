@@ -1104,7 +1104,7 @@
 					},
 					"<br/>",
 					{
-						name: "<b>실패:</b>",
+						name: "<b>실패</b>",
 						item: [
 							"<b>Story Moment 52</b><br/><br/> 당신을 암송을 멈출 수가 없다! 당신의 발은 마치 누군가에게 끌려가듯 아치문을 향해 움직이기 시작한다.<br/><br/> <b>The group may 당신을 멈추게 하기 위해 NERVE 9 check (all characters roll the check, with the highest result being used).</b><br/><br/>",
 							{
