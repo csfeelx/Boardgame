@@ -982,7 +982,7 @@
 					"<b>Story Moment 51</b><br/><br/> 오데리안은 동굴 바닥에 쓰러져 미동도 하지 않는다. 곧, 그의 몸이 천천히 인간의 것으로 되돌아간다. 당신은 여전히 꽁꽁 묶인 채 매달려 있는 사제를 향해 달려간다. 그가 흘린 피가 바닥에 고여 웅덩이를 만들고 있다. 그를 구하지 못했다는 죄책감이 당신을 괴롭힌다. 비록 당신은 당신이 할 수 있는 모든 것을 했음을 알고 있지만 말이다. 당신은 맹세한다. 이 땅을 어둠으로부터 해방하기 위해 흔들림 없이 나아가겠다고. 당신은 적어도 오스테링크를 괴롭히는 문제의 근원을 제거할 수 있었다. 사제를 구하지 못했기에 All characters lose 8 Lore.<br/><br/> 당신이 비통에 빠져있는 사이, 그의 시신에서 사제의 영혼이 솟아오른다. 그는 허공에 떠 당신의 앞으로 다가와 말한다. \"절망하지 마십시오. 오데리안이 저를 붙잡기 전, 저는 이곳의 비밀을 깨달았습니다. 이 동굴에는 사람을 동물로 변화시키는 기이한 광물이 있습니다. 그것은 마치 마약과 같은 중독성이 있지요. 사냥꾼들이 저에게 가져왔던 돌 역시 바로 그 광물이었습니다. 오데리안이 북쪽 땅에서 이곳까지 온 이유는 이 광물을 캐내기 위해서였습니다. 그는 그 광물이 자신을 더 강하게 만들 것이라고 말하더군요. 경계를 늦추지 마십시오. 이 사건은 앞으로 다가올 더 큰 사건의 전조일 뿐입니다. 부디 제 시신을 교회로 가져가 제 조상님들 곁에 눕혀 주십시오. 부탁드리겠습니다.\" 말을 마친 사제의 영혼은 소멸한다.<br/><br/> 오스테링크에는 이미 활기가 돌아와 있었다. 그들은 감사의 표시로 당신을 교회로 돌아가게 해줄 역마차를 고용해 준다. 관리인은 사제의 죽음에 큰 충격을 받지만, 그의 강인한 영혼의 힘 덕분에 그는 빠르게 그것을 이겨낸다. 그는 당신에게 새로운 사제가 파견될 것이라 말한다. 하지만 어둠의 세력은 분명 그의 자리가 비어있는 틈을 이용할 것이다."
 				]
 			},
-			"<br/>• If a character has the RED Story Marker and has not been killed or had his finger removed, they receive the Ring of Moonlight artifact.<br/><br/> • Place the Group Marker on the Church of the Crossroads. If any character has earned an Ability Point by collecting Lore, they may use it to learn new Abilities.<br/><br/><br/> <b>IF YOU LOST THE BATTLE</b><br/><br/> 당신은 오스테링크 변두리에 있는 집시들의 야영지에서 깨어난다. 당신은 잠시 혼란에 빠져 정신을 차리지 못한다(see <b>Rulebook “On Death and Dying” on page 32</b> and follow the instruction of Total Group Death). 정신을 차리고 나자, 집시들은 당신이 비어있는 누리안의 동굴 안에서 의식을 잃은 채 죽어가고 있었다고 말해준다. 당신이 이곳에 온 이유인 사제도 발견되었다고 한다. 갈기갈기 찢겨버린 시체로 말이다. 당신은 실패를 자책하며 괴로워하며 맹세한다. 이 땅을 어둠으로부터 해방하기 위해 흔들림 없이 나아가겠다고. 오데리안은 이제 자취를 감추었지만, 당신은 운명이 그와 당신을 다시 마주치게 할까 봐 두려움을 느낀다.<br/><br/> 오데리안이 떠나자 오스테링크는 서서히 활기를 되찾고 있다. 당신은 역마차를 고용해 교회로 돌아간다. 사제의 죽음을 전해 들은 관리인은 큰 충격을 받지만, 그의 강인한 영혼의 힘 덕분에 그는 빠르게 그것을 이겨낸다. 그는 급히 새로운 사제가 파견될 것이라 말한다. 하지만 어둠의 세력은 분명 그의 자리가 비어있는 틈을 이용할 것이다.<br/><br/> <b>THE END</b>"
+			"<br/>• If a character has the RED Story Marker and has not been killed or had his finger removed, they receive the Ring of Moonlight artifact.<br/><br/> • Place the Group Marker on the Church of the Crossroads. If any character has earned an Ability Point by collecting Lore, they may use it to learn new Abilities.<br/><br/><br/> <b>IF YOU LOST THE BATTLE</b><br/><br/> 당신은 오스테링크 변두리에 있는 집시들의 야영지에서 깨어난다. 당신은 잠시 혼란에 빠져 정신을 차리지 못한다(see <b>Rulebook “On Death and Dying” on page 32</b> and follow the instruction of Total Group Death). 정신을 차리고 나자, 집시들은 당신이 비어있는 누리안의 동굴 안에서 의식을 잃은 채 죽어가고 있었다고 말해준다. 당신이 이곳에 온 이유인 사제도 발견되었다고 한다. 갈기갈기 찢겨버린 시체로 말이다. 당신은 실패를 자책하며 괴로워하며 맹세한다. 이 땅을 어둠으로부터 해방하기 위해 흔들림 없이 나아가겠다고. 오데리안은 이제 자취를 감추었지만, 당신은 운명이 그와 당신을 다시 마주치게 할까 봐 두려움을 느낀다.<br/><br/> 오데리안이 떠나자 오스테링크는 서서히 활기를 되찾고 있다. 당신은 역마차를 고용해 교회로 돌아간다. 사제의 죽음을 전해 들은 관리인은 큰 충격을 받지만, 그의 강인한 영혼의 힘 덕분에 그는 빠르게 그것을 이겨낸다. 그는 급히 새로운 사제가 파견될 것이라 말한다. 하지만 어둠의 세력은 분명 그의 자리가 비어있는 틈을 이용할 것이다.<br/><br/><br/> <b>THE END</b>"
 		]
 	},
 	{},
@@ -1183,16 +1183,95 @@
 			"<br/>...<br/><br/> <b>AFTER THE FIGHT</b><br/><br/> 이 버림받은 장소를 지키던 영혼과, 그들의 붉게 빛나던 눈은 이제 영원히 사라져버렸다. 당신은 당신의 발밑에 사람의 손으로 만들어진 건물이 있다는 것을 깨닫는다. 돔 모양의 그것은 아마도 고대 천문대의 지붕으로 보인다. 당신이 따라온 뿌리가 돔의 천장을 뚫고 건물 안으로 이어져 있다. 그 틈을 통해 으스스한 보라색 빛이 새어나온다. 어떻게 이런 건물이 땅속에 묻혀 있을 수 있는 것일까?<br/><br/> 계속 나아갈 수밖에 없다. 당신은 틈새를 통해 지붕 아래로 내려간다."
 		]
 	},
+	{},
+	{
+		note: "<b>CHAPTER 2</b><br/>"
+	},
+	{
+		name: "RUINS BENEATH THE EARTH (15~16): 지하 폐허",
+		item: [
+			"당신은 빛나는 덩굴에 매달려 미지의 세계를 향해 내려간다. 마침내 바닥에 내려와 주변을 파악하려던 순간, 횃불들에 불이 붙으며 주변이 밝아진다. 그 불빛의 색은 이제는 익숙한 보랏빛이다.<br/><br/> 당신이 있는 장소는 일종의 대기실로, 놀라울 정도로 잘 보존되어 있었다. 커다란 석재 문에 걸려있는 테피스트리는 세월의 흐름으로 닳아있지만, 그 위에 그려진 불길한 이미지는 여전히 뚜렷이 알아볼 수 있다. 그것은 인신공양을 포함한 온갖 기이한 의식들을 표현하고 있다. 한때 이 장소를 배회하던 자들이 누구인지는 몰라도, 분명 사악하기 그지없는 자들이었을 것이다. 문은 잠겨있고, 열 방법은 보이지 않는다. 방의 반대편 끝에는 두 개의 기괴한 형체가 있다. 그것은 굶주린 눈으로 당신을 응시하는 성난 가고일의 조각상이었다.<br/><br/><br/> <b>STORY SKILL CHECK<br/>AWARENESS 8</b> - All Characters<br/><br/> <b>The highest roll is used for the skill check. 문은 잠겨있다. 어떻게 해야 할 것인가? 주변을 수색하여 단서를 찾는 것이 좋을 듯하다.</b><br/><br/> ",
+			{
+				name: "<b>성공:</b> 당신은 가고일 조각상을 살펴보다가 팔로 위장된 교묘한 손잡이를 눈치챈다. 어느 쪽 손잡이를 당길 것인가?",
+				item: [
+					{
+						name: "• 문 왼쪽에 있는 가고일의 손잡이를 당기겠다면,",
+						item: [
+							"<b>Story Moment 21</b><br/><br/> 딸깍 소리와 함께 잠금이 풀리고, 천천히 문이 열리며 그 너머로 거대한 홀이 나타난다. 그 안은 이 방과 마찬가지로 보랏빛의 횃불들이 타오르고 있다. 훌륭한 선택이다. 당신은 자신감이 차오르는 것을 느낀다.<br/><br/> <b>All characters gain 8 Lore. The character who had the highest skill check roll becomes BRAVE.</b>"
+						]
+					},
+					"<br/>",
+					{
+						name: "• 문 오른쪽에 있는 가고일의 손잡이를 당기겠다면,",
+						item: [
+							"<b>Story Moment 62</b><br/><br/> 당신이 손잡이를 당기자 문이 열리진 않았지만, 놀랍게도 가고일 조각이 아래로 내려가며, 어둠 속으로 이어지는 먼지투성이 통로가 나타난다. 곧 땅이 흔들리기 시작하며 천장에서 돌조각들이 떨어져 내린다.<br/><br/> <b>All characters 는 떨어지는 잔해에 얻어맞아 lose 1d6 Vita. 깔려 죽지 않으려면 통로로 내려가는 수밖에 없다!<br/>Skip to \"The Grimoire\" on page 16.</b>"
+						]
+					},
+					"<br/>",
+					{
+						name: "• 두 개의 손잡이를 동시에 당기겠다면,",
+						item: [
+							"<b>Story Moment 56</b><br/><br/> 딸깍 소리와 함께 잠금이 풀리고, 천천히 문이 열리며 그 너머로 거대한 홀이 나타난다. 그 안은 이 방과 마찬가지로 보라색 빛의 횃불들이 타오르고 있다. 횃불들이 깜빡일 때마다 당신의 기운이 천천히 빠져나가는 것이 느껴진다. Characters may not rest while on this map.<br/><br/> <b>All characters will lose 1 Power Point at the start of their turn until they map transition.</b>"
+						]
+					},
+				]
+			},
+			"<br/>",
+			{
+				name: "<b>실패:</b> Skip to “Stony Defense” on page 16.",
+			},
+			"<br/><br/> 문이 열리고 드러난 방은 고대의 알현실이었다. 높이 솟은 기둥들은 어둠에 가려져 그 끝이 보이지 않을 정도이며, 방 반대편에는 흑요석과 사람의 뼈로 만들어진 왕좌가 있다. 왼쪽의 통로는 돌무더기로 막혀 있으며, 오른쪽에 있는 커다란 철제문은 잠겨 있는 것으로 보인다.<br/><br/> <b>PRIMARY GOALS</b><br/><br/> <b>• Unlock the steel door by completing this map skill check:</b><br/><br/> <b>MAP SKILL CHECK<br/>TRICKERY 6</b> - ONE CHARACTER EACH ROUND<br/><br/> <b>또 다시 잠긴 문이라고? 하지만 그 문에 달린 자물쇠는 간단해 보인다. 열어보도록 하자!<b><br/><br/> ",
+			{
+				name: "<b>성공:</b> 당신이 자물쇠를 열자 땅속에 묻힌 성, 그 깊숙한 곳으로 이어지는 통로가 나타난다. Gain a Boon.",
+			},
+			"<br/>",
+			{
+				name: "<b>실패:</b> 당신이 자물쇠를 여는 데 실패하자, 보라색 섬광이 당신을 덮친다. Lose 1d4 Vita. You or another character may try next round.",
+			},
+			"<br/> <b>Once the door is open, and IF THERE ARE NO MAP EFFECTS due to your last Story Moment, you can immediately skip to \"The Grimoire\" on page 16, otherwise you must use get all characters to the Exit Zone.</b><br/><br/> ..."
+		]
+	},
+	{
+		name: "STONY DEFENSE (16): 바위같이 단단한 방어",
+		item: [
+			"바위가 갈라지는 소리가 들리며 가고일 조각상들이 움직이기 시작한다. 놈들의 몸 위로 오랜 세월 켭켭이 쌓여 층을 이룬 먼지와 흙이 부서져 떨어져 나간다.<br/><br/> ..."
+		]
+	},
+	{
+		name: "THE GRIMOIRE (16~17): 마도서",
+		item: [
+			"당신은 곰팡이 핀 테피스트리로 장식된 통로를 따라가다 조금 열린 채 놓여있는 문 앞에 도달한다. 그 너머에는 예배당이 있고, 그 신성한 장소에 어울리지 않는 부정하기 짝이 없는 광경이 펼쳐져 있다. 석탄이 타고 있는 화로가 중앙 통로를 따라 제단까지 이어져 있고, 제단 위에는 까맣게 그을린 가죽으로 장정된 책 한 권이 펼쳐져 있다. 그 책 주변으로 어두운 자줏빛 에너지가 맥동한다. 그것은 마치 당신의 심장 박동과 그 궤를 같이하려는 것만 같다.<br/><br/> 천장의 틈새로부터 거대한 참나무의 뿌리가 수없이 뻗어 나와 마도서가 발하는 어둠의 에너지를 빨아들이고 있다. 당신은 거대한 나무 괴물을 움직이게 하고, 숲과 마을에 역병을 일으킨 힘의 근원을 찾아낸 것이다. 방의 벽과 바닥에는 아주 오랜 과거에 피로 그려진 기묘한 상징들이 가득하며, 방을 둘러싼 모든 벽마다 기이하고 충격적인 그림들이 그려져 있다.<br/><br/> 당신이 책을 향해 다가갈수록, 그것이 당신의 육신으로부터 힘을 빨아들여 자신의 양분으로 삼고 있는 것이 느껴진다. 책이 제단 위 공중으로 떠오른다. 그 표지에는 날카로운 가시가 가득하며, 조금도 깜빡이지 않는 커다란 눈이 달려있다. 당신은 모든 것을 잃기 전에 놈을 멈춰야만 한다!<br/><br/> ..."
+		]
+	},
+	{
+		name: "STORY CLOSING (17)",
+		item: [
+			"<b>IF YOU WON THE BATTLE</b><br/><br/> 책이 어둠의 에너지를 쏟아내며 바닥에 떨어진다. 사악한 마도서는 마지막 발악으로 보랏빛 섬광을 내뿜어 당신의 눈을 멀게 한다. 하지만 당신이 온 힘을 다해 그 책을 내려치자 섬광은 순식간에 사라져 버린다. 책의 힘을 연료 삼아 타오르던 화로들이 깜빡이다 꺼져버리고, 실내는 완전한 어둠에 휩싸인다. 당신은 어둠 속을 더듬거리며 가방에서 가죽 조각을 꺼내 책을 감싼다.<br/><br/> 당신은 파묻힌 성을 빠져나와 지하 터널을 되돌아 나오고, 마침내 지상에 올라와 신선한 공기를 들이마신다. 처음에는 침묵이 당신을 맞이하지만, 곧 새들이 지저귀는 소리와 함께 온 사방에서 자연의 소리가 당신을 반갑게 맞이한다. 숲은 이미 역병에 맞서 싸우고 있었다. 썩은 나무껍질을 밀어내며 건강한 나뭇결이 자라나고, 메마른 대지 위로 밝은 초록빛이 드문드문 눈에 띈다. 웨일린 포인트의 상황도 나아져 있었다. 병자들이 자리를 털고 일어나 집으로 돌아가고 있다... 임시 진료소는 이제 텅 비어있다.<br/><br/> 당신은 회복되기 시작한 마을을 떠나 교회로 돌아온다. 당신은 사제에게 당신이 목격한 모든 것을 이야기하고, 그 이야기를 들은 사제는 깊은 근심에 빠진다. 사제는 몇 번의 기도를 올린 뒤 당신에게서 조심스럽게 마도서를 건네받는다. 성스러운 향을 피워 책을 정화한 그는 그것을 도서관으로 가져간다. 그 책은 시간을 들여 연구될 것이다. 그는 역사서를 뒤적여 고대의 성에 관한 언급을 찾아낸다. 그 성에는 엄청난 악이 들끓고 있었기에 이를 벌하기 위해 대지가 그 입을 벌려 성을 통째로 삼켰고, 그 후로 누구도 그 성을 다시 볼 수 없었다고 한다. 그 모든 악의 근원이 바로 이 마도서로, 그 책은 모든 페이지에 걸쳐 끔찍한 의식과 감히 입에 담기조차 어려운 부정한 내용을 담고 있었으며, 그것을 본 사람을 타락시켰다.<br/><br/> 사제는 말한다. \"그 거대한 참나무의 뿌리가 마도서가 봉인되어 있던 방 천장을 뚫고 들어가 그 사악한 기운을 빨아들였던 것 같군요. 그 나무 때문에 마도서가 가진 타락의 기운이 다시 한 번 세상을 어둠에 빠뜨릴 뻔하였습니다. 정말 잘하셨습니다! 보상으로 책 한 권을 드리겠습니다. 이 책이 그 사악한 마도서보다 당신께 도움이 될 것입니다.\"<br/><br/> <b>• The Priest gives a random character the Magnum Opus artifact.</b><br/><br/> <b>• If any character has the RED Story Marker, all characters receive an additional 8 Coins and 30 Lore.</b><br/><br/><br/> <b>IF YOU LOST THE BATTLE</b><br/><br/> 당신은 웨일린 포인트 변두리에 있는 집시들의 야영지에서 깨어난다. 당신의 온몸이 떨려온다(see Rulebook \"On Death and Dying\" on page 32 and follow the instruction of Total Group Death). 생명의 테피스트리에서 중요한 역할을 맡고 있는 누군가의 운명의 실이 다른 세계의 힘에 의해 끊어질 때, 집시들은 그것을 감지할 수 있으며, 그들은 이에 반응해 종종 행동에 나서기도 한다. 그들의 이런 능력과, 동기는 당신을 두렵게 한다. 그들은 신의 힘을 빌리지 않고 당신을 이승으로 다시 데려온다.<br/><br/> 당신은 파묻힌 성이 당신의 머리 위로 무너져내린 것을 알게 된다. 마도서는 이제 감옥을 탈출해 자유를 얻었다. 그것이 어디로 갈지, 그리고 어떤 공포를 불러일으킬지는 누가 알겠는가.<br/><br/> 당신은 웨일린 포인트를 구하는 데 실패했고, 마을과 그 주변 지역은 마도서의 힘에 의해 황폐해지고 말았다. 웨일린 포인트에는 곧 새로운 주민들이 찾아올 테지만, 그 엄청난 피해로부터 회복되기까지는 시간이 좀 걸릴 것이다.<br/><br/> <b>• All characters receive a permanent -1 to their Max Vita. All town services at Waylin Point, except the Physician and the Gypsy Encampment, will be unavailable for the next story you play, although story elements may still occur.</b><br/><br/><br/> <b>THE END</b>"
+		]
+	},
 ];
 
 /*
 	<br/>
 	<br/><br/> 
-	<br/><br/><br/>
+	<br/><br/><br/> 
+	"<br/>"
 	<br/><br/>  -------------------------<br/><br/> 
         {
                 name: "",
                 ko: ""
+        },
+	{
+                name: "",
+                item: [
+			
+		]
+        },
+	{
+                name: "",
+                item: [
+			""
+		]
         },
 	•
 */
