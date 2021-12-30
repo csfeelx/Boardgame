@@ -1250,6 +1250,63 @@
 			"<b>IF YOU WON THE BATTLE</b><br/><br/> 책이 어둠의 에너지를 쏟아내며 바닥에 떨어진다. 사악한 마도서는 마지막 발악으로 보랏빛 섬광을 내뿜어 당신의 눈을 멀게 한다. 하지만 당신이 온 힘을 다해 그 책을 내려치자 섬광은 순식간에 사라져 버린다. 책의 힘을 연료 삼아 타오르던 화로들이 깜빡이다 꺼져버리고, 실내는 완전한 어둠에 휩싸인다. 당신은 어둠 속을 더듬거리며 가방에서 가죽 조각을 꺼내 책을 감싼다.<br/><br/> 당신은 파묻힌 성을 빠져나와 지하 터널을 되돌아 나오고, 마침내 지상에 올라와 신선한 공기를 들이마신다. 처음에는 침묵이 당신을 맞이하지만, 곧 새들이 지저귀는 소리와 함께 온 사방에서 자연의 소리가 당신을 반갑게 맞이한다. 숲은 이미 역병에 맞서 싸우고 있었다. 썩은 나무껍질을 밀어내며 건강한 나뭇결이 자라나고, 메마른 대지 위로 밝은 초록빛이 드문드문 눈에 띈다. 웨일린 포인트의 상황도 나아져 있었다. 병자들이 자리를 털고 일어나 집으로 돌아가고 있다... 임시 진료소는 이제 텅 비어있다.<br/><br/> 당신은 회복되기 시작한 마을을 떠나 교회로 돌아온다. 당신은 사제에게 당신이 목격한 모든 것을 이야기하고, 그 이야기를 들은 사제는 깊은 근심에 빠진다. 사제는 몇 번의 기도를 올린 뒤 당신에게서 조심스럽게 마도서를 건네받는다. 성스러운 향을 피워 책을 정화한 그는 그것을 도서관으로 가져간다. 그 책은 시간을 들여 연구될 것이다. 그는 역사서를 뒤적여 고대의 성에 관한 언급을 찾아낸다. 그 성에는 엄청난 악이 들끓고 있었기에 이를 벌하기 위해 대지가 그 입을 벌려 성을 통째로 삼켰고, 그 후로 누구도 그 성을 다시 볼 수 없었다고 한다. 그 모든 악의 근원이 바로 이 마도서로, 그 책은 모든 페이지에 걸쳐 끔찍한 의식과 감히 입에 담기조차 어려운 부정한 내용을 담고 있었으며, 그것을 본 사람을 타락시켰다.<br/><br/> 사제는 말한다. \"그 거대한 참나무의 뿌리가 마도서가 봉인되어 있던 방 천장을 뚫고 들어가 그 사악한 기운을 빨아들였던 것 같군요. 그 나무 때문에 마도서가 가진 타락의 기운이 다시 한 번 세상을 어둠에 빠뜨릴 뻔하였습니다. 정말 잘하셨습니다! 보상으로 책 한 권을 드리겠습니다. 이 책이 그 사악한 마도서보다 당신께 도움이 될 것입니다.\"<br/><br/> <b>• The Priest gives a random character the Magnum Opus artifact.</b><br/><br/> <b>• If any character has the RED Story Marker, all characters receive an additional 8 Coins and 30 Lore.</b><br/><br/><br/> <b>IF YOU LOST THE BATTLE</b><br/><br/> 당신은 웨일린 포인트 변두리에 있는 집시들의 야영지에서 깨어난다. 당신의 온몸이 떨려온다(see Rulebook \"On Death and Dying\" on page 32 and follow the instruction of Total Group Death). 생명의 테피스트리에서 중요한 역할을 맡고 있는 누군가의 운명의 실이 다른 세계의 힘에 의해 끊어질 때, 집시들은 그것을 감지할 수 있으며, 그들은 이에 반응해 종종 행동에 나서기도 한다. 그들의 이런 능력과, 동기는 당신을 두렵게 한다. 그들은 신의 힘을 빌리지 않고 당신을 이승으로 다시 데려온다.<br/><br/> 당신은 파묻힌 성이 당신의 머리 위로 무너져내린 것을 알게 된다. 마도서는 이제 감옥을 탈출해 자유를 얻었다. 그것이 어디로 갈지, 그리고 어떤 공포를 불러일으킬지는 누가 알겠는가.<br/><br/> 당신은 웨일린 포인트를 구하는 데 실패했고, 마을과 그 주변 지역은 마도서의 힘에 의해 황폐해지고 말았다. 웨일린 포인트에는 곧 새로운 주민들이 찾아올 테지만, 그 엄청난 피해로부터 회복되기까지는 시간이 좀 걸릴 것이다.<br/><br/> <b>• All characters receive a permanent -1 to their Max Vita. All town services at Waylin Point, except the Physician and the Gypsy Encampment, will be unavailable for the next story you play, although story elements may still occur.</b><br/><br/><br/> <b>THE END</b>"
 		]
 	},
+	{},
+	{},
+	{
+		note: "<b>STORY III - EASTERN SORCERY: 동방의 주술</b><br/>"
+	},
+	{
+		note: "<b>CHAPTER 1</b><br/>"
+	},
+	{
+		name: "THE TOWER BESIEGED (18~19): 포위된 탑",
+		item: [
+			"...<br/><br/><br/> 당신은 요로트러스크(Yorotrusk)의 여관에 머물며 최근 역병으로 고통받은 웨일린 포인트에 보내기 위한 구호물자를 모으는 중이었다. 그때 여관 문이 부서질 듯 열리며, 패닉에 빠진 마을 주민 하나가 들어와 외친다. \"탑에 불이 났다!\" 당신이 재빨리 밖으로 나오자, 겁에 질린 군중이 동쪽 하늘에 피어오르는 새카만 연기를 바라보며 웅성대고 있다. 그들 중 누군가가 헉하는 소리와 함께 연금술사의 탑이 불타고 있는 것이 틀림없다고 말한다. 당신은 낭비할 시간이 없다는 것을 깨닫는다. 누군가를 고용해 하던 일을 마무리할 것인지, 아니면 그 일을 포기하고 당장 탑으로 갈지 결정해야만 한다.<br/><br/><br/> <b>CHOOSE YOUR PATH</b><br/><br/>",
+			{
+				name: "<b>• 선택 1:</b> 은화 20개로 누군가를 고용해 모아둔 구호물자를 전달하겠다면,",
+				item: [
+					"<b>Story Moment 6</b><br/><br/> You pay the 20 Coins (total for the group), 당신은 웨일린 포인트의 사람들에게 도움을 줄 수 있다는 것에 기쁨을 느낀다.<br/><br/> <b>A random character receives the RED Story Marker.</b>"
+				]
+			},
+			"<br/>",
+			{
+				name: "<b>• 선택 2:</b> 당신이 임무를 포기하거나, 누군가를 고용할 여유가 없다면,",
+				item: [
+					"<b>Story Moment 11</b><br/><br/> 당장은 웨일린 포인트까지 물자를 운반할 여유가 없다. 당장 연금술사를 도우러 가야만 한다. 당신은 이 사건이 해결될 때까지 구호물자를 운반하는 일을 미루어두기로 한다."
+				]
+			},
+			"<br/><br/> <b>STORY SKILL CHECK<br/>SPEECH 9</b> - All Characters<br/><br/> <b>당신은 연금술사를 도우러 가자고 사람들을 설득한다.</b><br/><br/> ",
+			{
+				name: "<b>성공:</b> Any character succeeding gains a random Militia Companion. 마을 사람들이 탑으로 가는 지름길을 알고 있었기에, they also gain +1 Stride on the World Map for the current chapter.",
+			},
+			"<br/>",
+			{
+				name: "<b>실패:</b> If no character succeeds, 마을 사람들은 위험한 일에 말려드는 것을 거부한다. Everyone loses one Companion and Companions may not be hired in Yorotrusk for the remainder of the story.",
+			},
+			"<br/><br/> ...<br/><br/><br/> 언덕 꼭대기에 다다르자 저 멀리 연기가 피어오르는 탑이 보인다. 그것은 마치 횃불을 들고 있는 거인처럼 보인다. 하늘에는 짙은 연기가 가득하다. 당신은 탑을 향해 달려가다 탑에서 도망쳐 나오던 한 남자와 부딪힌다. 그의 휘둥그레진 눈에는 두려움이 가득하다. 그는 숨을 헐떡이며 말한다. \"살고 싶으면 도망치시오! 탑은 살아있는 시체들에게 포위되었소, 내가 할 수 있는 일은 아무것도 없었소.\"<br/><br/><br/> <b>STORY SKILL CHECK<br/>SPEECH 6</b> - Leader<br/><br/> <b>당신은 더 많은 정보를 얻어내기 위해 남자를 진정시킨다.</b><br/><br/> ",
+			{
+				name: "<b>성공:</b> 그는 고개를 끄덕이고는 탑이 언데드에게 공격받았다는 이야기를 해준 뒤, 마을을 향해 달아난다. Gain a Boon.",
+			},
+			"<br/>",
+			{
+				name: "<b>실패:</b> 그는 정신없이 달아나다 제 발에 걸려 넘어져 정신을 잃는다. 그에게서 정보를 얻어내긴 틀린 듯하다.",
+			},
+			"<br/><br/> ...<br/><br/><br/> 당신은 마침내 탑에 도착한다. 폭발이 있었던 듯 주변에 파편이 널려 있다. 위쪽 창문에서는 초록빛 연기가 피어오르고, 벽은 검게 그을려있다.<br/><br/> 수많은 언데드들이 흐느적대며 판석을 부수고 벽을 기어오르고 있다. 여기저기 고깃덩이가 되어 흩어져 있는 놈들도 많이 보인다. 분명 연금술사의 함정에 당한 것이리라. 놈들 중 일부가 당신을 눈치채고는 다른 놈들과 떨어져 당신에게로 다가온다.<br/><br/><br/> ...<br/><br/><br/> <b>ENCOUNTER</b><br/><br/> <b>For 2-3 character games, encounter 2 Flesh Eating Ghouls and 3 Decaying Dead. For 4-5 character games, encounter 3 Flesh Eating Ghouls and 4 Decaying Dead. These enemies are broken into two groups, each with different behaviors.</b><br/><br/> <b>GROUP A:</b> These Ghouls will attack the characters normally.<br/><br/> <b>GROUP B:</b> The Decayed Dead will target the tower, ignoring the characters. Their attacks will cause 1d4 Damage.<br/><br/> <b>FLAMES (1-5):</b> The number of flames should equal the number of characters. They should be placed in the order shown on the map. Each flame causes 1 Damage to the tower at the start of each round. See the Map Features for more details.<br/><br/> <b>RUBBLE:</b> 연금술사의 집은 심각한 피해를 입었다. 전장 여기저기에 부서진 탑에서 떨어진 돌무더기들이 널려 있다. These block movement and Sight.<br/><br/> If the tower sustains 50 Damage, 벽을 보호하는 방어 주문이 부서지며 건물 일부가 무너져내린다. When this happens, each character 는 초록색 폭발에 의해 loses 10 Vita, but all the creatures will be destroyed (no rewards are gained from creatures destroyed in this way). The Leader then gains the BLUE Story Marker."
+		]
+	},
+	{
+		name: "THE RESCUE (20): 구출",
+		item: [
+			"<b>ATTENTION!</b><br/><br/> If the group does NOT have the BLUE Story Marker, 탑에 들어서자 원기가 회복되는 것이 느껴진다. 탑에 걸려 있는 회복 주문은 아직 힘을 잃지 않은 모양이다. All characters recover 2d4 Vita or Ghost Points.<br/><br/><br/> 당신은 탑 안으로 들어가 위층으로 올라간다. 도서관에는 잔불이 남아있고, 그을리고 타버린 책들과 두루마리들이 가득하다. 당신은 수많은 지식이 불에 타 사라진 모습을 보고는 망연자실하여 넋을 잃고 만다. 하지만 그때 위층에서 끔찍한 비명이 들려와 당신은 정신을 차린다. 연금술사의 비명인 듯하다.<br/><br/> 당신이 연구실로 달려가자, 그곳은 부서진 가구와 실험 도구, 깨진 병들로 엉망이 되어있다. 짙은 녹색 연기가 당신의 목을 메이게 한다. 방 반대편에 연금술사가 쓰러져 있고, 식인 구울들이 그를 덮치려 하고 있다.<br/><br/><br/> <b>SKIRMISH</b><br/><br/> Skirmish with Flesh Eating Ghouls with their counter at max.<br/><br/> ",
+			{
+				name: "If the group dies,",
+				item: [
+					"<b>Story Moment 18</b><br/><br/> 깨어나 보니 연금술사가 당신을 내려다보고 있다. 그는 비록 아슬아슬했지만, 구울들을 물리치고 당신을 되살려 낼 수 있었다고 말해준다.<br/><br/> <b>All characters receive 10 Vita and have 0 Power Points.</b>"
+				]
+			},
+			"<br/><br/> 연금술사는 당신에게 감사를 표하며 말한다. \"놈들이 탑을 올라와 창문을 깨고 들어왔다오. 놈들이 어떻게 그렇게 높이 올라올 수 있었는지 모르겠구려. \" 그는 기침한다. \"놈들 중 하나가 날 찔렀다오.\"<br/><br/> 당신은 그의 상처를 살피다, 그의 옆구리에 나뭇가지가 박혀 있는 것을 눈치챈다. 상처 주변에는 남색 진액이 퍼져있다. 당신은 그것을 제거해보려 하지만, 나뭇가지는 그저 박혀있는 것이 아니라, 마치 그의 몸 안에서 자라나고 있는 것처럼 보인다.<br/><br/> \"이건 조직적인 공격이라오. 누군가 혹은 무언가가 언데드들을 조종하고 있던 것이 분명했소. 배후에 누가 있는지 밝혀내지 못한다면 이것은 단지 시작일 뿐이라는 생각에 두렵구려.\"<br/><br/> 그는 기이한 상처를 바라보며 말한다. \"이건 무언가 이치에 맞지 않소... 오직 드루이드들만이 이런 자연의 힘을 사용할 수 있을 터인데. 떠돌아다니며 숲을 돌보는 드루이드 하나를 알고 있소. 그라면 무언가를 알고 있을지도 모르겠군. 크레멜(Kremel)의 숲 근처에서 그를 찾아 도움을 청하시오. 하지만 조심하시오. 그는 정신이 불안정한 사람이라오. 쉽게 화를 내고 주먹을 휘두르지. 조심스럽게 다가가야 할 것이오! 나는 여기 두고 가시오, 시간이 없소!\" 말을 마친 연금술사는 정신을 잃는다. 그의 상처 주변의 진액은 이제 검게 변해있다. 그것은 마치 기름진 토양과도 같아 보인다."
+		]
+	},
 ];
 
 /*
