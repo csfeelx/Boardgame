@@ -1219,7 +1219,7 @@
 			},
 			"<br/>",
 			{
-				name: "<b>실패:</b> Skip to “Stony Defense” on page 16.",
+				name: "<b>실패:</b> Skip to <b>\"Stony Defense\" on page 16.</b>",
 			},
 			"<br/><br/> 문이 열리고 드러난 방은 고대의 알현실이었다. 높이 솟은 기둥들은 어둠에 가려져 그 끝이 보이지 않을 정도이며, 방 반대편에는 흑요석과 사람의 뼈로 만들어진 왕좌가 있다. 왼쪽의 통로는 돌무더기로 막혀 있으며, 오른쪽에 있는 커다란 철제문은 잠겨 있는 것으로 보인다.<br/><br/><br/> <b>PRIMARY GOALS</b><br/><br/> <b>• Unlock the steel door by completing this map skill check:</b><br/><br/> <b>MAP SKILL CHECK<br/>TRICKERY 6</b> - ONE CHARACTER EACH ROUND<br/><br/> <b>또 다시 잠긴 문이라고? 하지만 그 문에 달린 자물쇠는 간단해 보인다. 열어보도록 하자!<b><br/><br/> ",
 			{
@@ -1297,9 +1297,9 @@
 	{
 		name: "THE RESCUE (20): 구출",
 		item: [
-			"<b>ATTENTION!</b><br/><br/> If the group does NOT have the BLUE Story Marker, 탑에 들어서자 원기가 회복되는 것이 느껴진다. 탑에 걸려 있는 회복 주문은 아직 힘을 잃지 않은 모양이다. All characters recover 2d4 Vita or Ghost Points.<br/><br/><br/> 당신은 탑 안으로 들어가 위층으로 올라간다. 도서관에는 잔불이 남아있고, 그을리고 타버린 책들과 두루마리들이 가득하다. 당신은 수많은 지식이 불에 타 사라진 모습을 보고는 망연자실하여 넋을 잃고 만다. 하지만 그때 위층에서 끔찍한 비명이 들려와 당신은 정신을 차린다. 연금술사의 비명인 듯하다.<br/><br/> 당신이 연구실로 달려가자, 그곳은 부서진 가구와 실험 도구, 깨진 병들로 엉망이 되어있다. 짙은 녹색 연기가 당신의 목을 메이게 한다. 방 반대편에 연금술사가 쓰러져 있고, 식인 구울들이 그를 덮치려 하고 있다.<br/><br/><br/> <b>SKIRMISH</b><br/><br/> Skirmish with Flesh Eating Ghouls with their counter at max.<br/><br/> ",
+			"<b>ATTENTION!</b><br/><br/> If the group does NOT have the BLUE Story Marker, 탑에 들어서자 원기가 회복되는 것이 느껴진다. 탑에 걸려 있는 회복 주문은 아직 힘을 잃지 않은 모양이다. All characters recover 2d4 Vita or Ghost Points.<br/><br/><br/> 당신은 탑 안으로 들어가 위층으로 올라간다. 도서관에는 잔불이 남아있고, 그을리고 타버린 책들과 두루마리들이 가득하다. 당신은 수많은 지식이 불에 타 사라진 모습을 보고는 망연자실하여 넋을 잃고 만다. 하지만 그때 위층에서 끔찍한 비명이 들려와 당신은 정신을 차린다. 연금술사의 비명인 듯하다.<br/><br/> 당신이 연구실로 달려가자, 그곳은 부서진 가구와 실험 도구, 깨진 병들로 엉망이 되어있다. 짙은 녹색 연기가 당신의 목을 메이게 한다. 방 반대편에 연금술사가 쓰러져 있고, 식인 구울들이 그를 덮치려 하고 있다.<br/><br/><br/> <b>SKIRMISH</b><br/><br/><b>Skirmish with Flesh Eating Ghouls with their counter at max.</b><br/><br/> ",
 			{
-				name: "If the group dies,",
+				name: "<b>If the group dies,</b>",
 				item: [
 					"<b>Story Moment 18</b><br/><br/> 깨어나 보니 연금술사가 당신을 내려다보고 있다. 그는 비록 아슬아슬했지만, 구울들을 물리치고 당신을 되살려 낼 수 있었다고 말해준다.<br/><br/> <b>All characters receive 10 Vita and have 0 Power Points.</b>"
 				]
@@ -1307,13 +1307,141 @@
 			"<br/><br/> 연금술사는 당신에게 감사를 표하며 말한다. \"놈들이 탑을 올라와 창문을 깨고 들어왔다오. 놈들이 어떻게 그렇게 높이 올라올 수 있었는지 모르겠구려. \" 그는 기침한다. \"놈들 중 하나가 날 찔렀다오.\"<br/><br/> 당신은 그의 상처를 살피다, 그의 옆구리에 나뭇가지가 박혀 있는 것을 눈치챈다. 상처 주변에는 남색 진액이 퍼져있다. 당신은 그것을 제거해보려 하지만, 나뭇가지는 그저 박혀있는 것이 아니라, 마치 그의 몸 안에서 자라나고 있는 것처럼 보인다.<br/><br/> \"이건 조직적인 공격이라오. 누군가 혹은 무언가가 언데드들을 조종하고 있던 것이 분명했소. 배후에 누가 있는지 밝혀내지 못한다면 이것은 단지 시작일 뿐이라는 생각에 두렵구려.\"<br/><br/> 그는 기이한 상처를 바라보며 말한다. \"이건 무언가 이치에 맞지 않소... 오직 드루이드들만이 이런 자연의 힘을 사용할 수 있을 터인데. 떠돌아다니며 숲을 돌보는 드루이드 하나를 알고 있소. 그라면 무언가를 알고 있을지도 모르겠군. 크레멜(Kremel)의 숲 근처에서 그를 찾아 도움을 청하시오. 하지만 조심하시오. 그는 정신이 불안정한 사람이라오. 쉽게 화를 내고 주먹을 휘두르지. 조심스럽게 다가가야 할 것이오! 나는 여기 두고 가시오, 시간이 없소!\" 말을 마친 연금술사는 정신을 잃는다. 그의 상처 주변의 진액은 이제 검게 변해있다. 그것은 마치 기름진 토양과도 같아 보인다."
 		]
 	},
+	{},
+	{
+		note: "<b>CHAPTER 2</b><br/>"
+	},
+	{
+		name: "SEARCHING FOR ANSWERS (20): 해답을 찾아서",
+		item: [
+			"당신은 연금술사가 말한 드루이드를 찾기 시작한다. 하지만 어디서부터 시작할 것인가? 크레멜에서 가까운 숲이라고 하면 엘크라 파인즈(Elkra Pines)와 라미노프즈 우드(Raminov's Wood)가 있다. 그는 어디에 있을 것인가!<br/><br/><br/><b>WORLD MAP</b><br/><br/><br/>...<br/><br/><br/><b>When you land on an area with a marker, flip it over and read the instructions below.<b/><br/><br/>",
+			{
+				name: "• A - Skip to <b>\"The Mad One\" on page 20.</b>",
+			},
+			"<br/>",
+			{
+				name: "• B",
+				item: [
+					"<b>Story Moment 47</b><br/><br/>당신은 미지의 숲으로 들어가 나아갈 길을 찾는다. 하지만 이곳에 드리운 짙은 어둠이 당신을 방해한다. 당신은 마침내 돌 위에 새겨진 드루이드의 상징을 발견한다. 좋은 징조이다. 하지만 그 위에는 희미하게 빛나는 룬 문자가 덧쓰여져 있다. 상징 위에 다른 상징을 덮어쓰다니? 어쩌면 이것이 드루이드의 행방을 찾는 단서가 될지도 모른다.<br/><br/>많은 사람이 문자가 갖는 힘을 과소평가하지만, 당신은 경험을 통해 특정한 문자의 조합은 엄청난 힘을 가지고 있으며, 종종 끔찍한 사건을 일으키는데 사용된 것을 알고 있다. 이 룬 문자들은 위험할 수 있다.<br/><br/><b>CHOOSE YOUR PATH</b><br/><br/>",
+					{
+						name: "<b>선택 1:</b> 당신이 그것을 조사하고 싶다면,",
+						item: [
+							"<b>Story Moment 29</b><br/><br/>이 룬 문자에 비술의 힘이 담겨있다는 것은 의심할 여지가 없다.<br/><br/><b>Choose any one character (except the Avenging Madman) to attempt to interpret them by passing OCCULT 7.</b><br/><br/>",
+							{
+								name: "<b>성공:</b> 당신은 그것이 저주받은 룬이라는 것을 눈치챈다. 아마도 당신이 드루이드와 만나는 것을 원치 않는 누군가가 새긴 것일 것이다. 다행히 당신은 함정을 피할 수 있었다. Find 1 Ritual and become LUCKY.",
+							},
+							"<br/>",
+							{
+								name: "<b>실패:</b> 룬 문자들이 당신의 정신을 헤집어 놓는다. you become DERANGED! 드루이드는 이 숲에 없는 것 같다.",
+							},
+						]
+					},
+					"<br/>",
+					{
+						name: "<b>선택 2:</b> 당신이 그것을 무시하고 수색을 이어나가고 싶다면,",
+						item: [
+							"<b>Story Moment 60</b><br/><br/>이 룬 문자를 건드리는 것은 분명 위험한 일이다. 당신은 몇 시간 동안 수색을 계속하였지만 실패했다. 게다가 당신은 드루이드를 찾는 일에 너무 열중한 나머지 끼니를 거르고 말았다.<br/><br/><b>허기 때문에 lose 2 Vita. Return to the World Map.</b>"
+						]
+					},
+				]
+			},
+		]
+	},
+	{
+		name: "THE MAD ONE (20~21): 광인",
+		item: [
+			"이 숲은 이상하다. 어느 때는 평화롭고 조용하며 새가 지저귀는 소리와 벌레 소리가 들려온다. 하지만 갑자기 한 무리의 새떼가 끔찍한 비명을 지르며 쏜살같이 날아올랐다가, 잠시 후 다시 나무 위로 내려앉으며 평온이 찾아온다. 주변 기온도 급격히 변하여, 당신은 한순간은 추위에 떨고, 바로 다음 순간에는 열사병에 시달린다.<br/><br/>숲 속 깊은 곳으로 나아갈수록 자연의 소리가 커진다. 마치 숲 속의 생명체들이 서로 대화를 나누는 것 같이 느껴질 정도이다. 소음이 최고조에 이른 순간, 갑자기 모든 것이 침묵한다. 그때야 당신은 앞쪽에 있는 공터에 한 남자가 나무 그루터기 위에 앉아 있는 것을 눈치챈다.<br/><br/>당신이 다가가자, 그는 고개를 들어 당신을 쳐다본다... 아니, 당신이 아니라 당신 너머를. 마치 당신이 그곳에 없는 것처럼. 그는 두건을 쓰고 있지만, 얼굴이 드러나 있다. 그의 턱수염은 부러진 잔가지, 마른 잎, 음식 찌꺼기 등으로 엉망이 되어 있다. 당신이 그를 부르자, 그는 당신에게로 시선을 향하지만, 그는 아무 말도 하지 않는다. 당신은 연금술사가 공격받은 일과, 그것의 배후에 대한 정보를 찾고 있다고 이야기한다. 그는 여전히 변덕스럽게 혼자 생각에 잠기더니만, 이야기한다.<br/><br/>\"공격? 누가 공격했다는 말인가? 내가 나를 공격했다는 건가? 아니면 네가 널 공격했다는 건가? 이상한 일이군, 그래. 이상한 일이고말고. 바람과 땅에서 변화가 느껴진다. 그들은 침묵을 통해 이야기하지. 하지만 어떻게 그것을 알아듣고, 도움을 받을 것인가?\" 그는 대답을 바라는 듯 당신을 응시한다.<br/><br/><br/><b>CHOOSE YOUR PATH</b><br/><br/><b>당신은 어떻게 드루이드를 설득한 것인가?<b><br/><br/>",
+			{
+				name: "<b>• 선택 1:</b> 만약 당신이 선물로 give him a non-consumable Item,",
+				item: [
+					"<b>Story Moment 73</b><br/><br/>어쩌면 이 이상한 남자는 정보의 대가를 바라고 있을지도 모른다. 하지만 하찮은 물건으로는 필요한 정보를 얻을 수 없을 것이다.<br/><br/><b>Any character must discard one non-consumable item, 당신이 선물을 건네자 드루이드는 재빨리 그것을 낚아채 품 안에 집어넣는다. </b><br/><br/>",
+					{
+						name: "<b>If you cannot do so, skip the rest of this Story Moment and receive -4 on the skill check that occurs within,</b>",
+						item: [
+							"<b>Story Moment 76</b><br/><br/>당신은 당신을 돕는 것이 그에게도 도움이 될 것이라 말하며 그를 설득해 본다.<br/><br/><b>One character 는 그가 아는 것을 말해주는 것이 얼마나 중요한 일인지 설득하기 위해 must pass SPEECH 9.</b><br/><br/>",
+							{
+								name: "<b>성공:</b> 한순간 당신의 설득이 먹혀들어, 당신이 그의 적이 아님을 확신시킨 것처럼 보였지만, 그는 분명 제정신이 아닌 듯하다. 그는 갑자기 불같이 화를 내며 자리를 떠난다. <b>Gain the FAVORED status.</b>",
+							},
+							"<br/>",
+							{
+								name: "<b>실패:</b> 그는 눈을 크게 뜨며 당장에라도 토할 것 같은 표정으로 말한다. \"대체 그게 무슨 쓰레기 같은 소리냐? 그런 신성 모독은 용서받지 못할 거다! 좋다! 네가 원하는 것을 알려주마... 너는 죽어 먼지가 될 것이다!\" <b>Gain the GREEN Story Marker.</b>",
+							},
+						]
+					},
+					"<br/>그는 당신이 준 선물을 보며 미소 짓는다. \"좋다. 말해주마, 하지만, 이것 때문인 건 아니야.\"<br/><br/><b>Continue the story.</b>"
+				]
+			},
+			"<br/>",
+			{
+				name: "<b>• 선택 2:</b> 만약 당신이 그에게 호의를 베풀어 줄 것을 기대한다면,",
+				item: [
+					"<b>Story Moment 76</b><br/><br/>당신은 당신을 돕는 것이 그에게도 도움이 될 것이라 말하며 그를 설득해 본다.<br/><br/><b>One character 는 그가 아는 것을 말해주는 것이 얼마나 중요한 일인지 설득하기 위해 must pass SPEECH 9.</b><br/><br/>",
+					{
+						name: "<b>성공:</b> 한순간 당신의 설득이 먹혀들어, 당신이 그의 적이 아님을 확신시킨 것처럼 보였지만, 그는 분명 제정신이 아닌 듯하다. 그는 갑자기 불같이 화를 내며 자리를 떠난다. <b>Gain the FAVORED status.</b>",
+					},
+					"<br/>",
+					{
+						name: "<b>실패:</b> 그는 눈을 크게 뜨며 당장에라도 토할 것 같은 표정으로 말한다. \"대체 그게 무슨 쓰레기 같은 소리냐? 그런 신성 모독은 용서받지 못할 거다! 좋다! 네가 원하는 것을 알려주마... 너는 죽어 먼지가 될 것이다!\" <b>Gain the GREEN Story Marker.</b>",
+					},
+				]
+			},
+			"<br/><br/>잠시 후 드루이드는 진정이 된 듯 다시 이야기한다. \"어둠의 존재가 나타났다. 그것은 악취가 진동하는 벌판에 서 있지. 악마들이 그것을 지키고 있다. 습지대로 가라. 갈대밭 사이로 불어오는 달콤한 죽음의 악취를 쫓아라.\"<br/><br/>당신의 다음 목적지가 정해졌다. 크레멜의 습지대이다. 연금술사를 공격한 것이 무엇이든, 그곳에서 찾을 수 있을 것이다. 당신은 드루이드에게 감사를 표한다. 그는 콧노래를 부르고, 허공을 향해 속삭인다. 당신은 자리를 떠나려다, 거대한 통나무가 쓰러지며 출구를 가로막는 것을 보며 깜짝 놀란다... 당신의 뒤에서 드루이드가 분노로 일그러진 얼굴로 이야기한다.<br/><br/>\"안돼! 넌 나무들을 존중하지 않는다. 그들은 슬픔으로 몸을 굽히고, 절망에 빠져 잎을 떨어뜨리지. 나의 분노가 절망에 빠진 그들을 대변하여 너를 벌할 것이다!\" 그가 나무들을 향해 지팡이를 거칠게 휘두르자 나무들이 흔들리며 움직이기 시작한다. 걷잡을 수 없는 분노에 빠진 미친 드루이드가 움직이는 나무들과 함께 당신을 공격한다. 머리 위로 구름이 휘몰아치며 어둠이 드리우고, 천둥과 번개가 내려친다.<br/><br/><br/>…<br/><br/><br/><b>ENCOUNTER</b><br/><br/>",
+			{
+				name: "After the map has been set up and combat is ready to begin,",
+				item: [
+					"<b>Story Moment 31</b><br/><br/>통나무가 쓰러져 출구를 가로막는다. 탈출은 불가능하다.<br/><br/><b>Place a Log token in the back row of the Start Zone. Any character occupying the same space as the log loses 104 Vita from being hit.</b>"
+				]
+			},
+			"<br/><b>• Encounter the Mad Druid and two Dark Oaks.<br/><br/>• If the group has the GREEN Story Marker, the Mad Druid is joined by two Rabid Wolves.</b><br/><br/><br/><b>AFTER THE FIGHT</b><br/><br/>마지막 적이 쓰러지자 천둥소리가 들려온다. 곧, 미친 드루이드의 시체에 벼락이 떨어지고, 시체는 흔적도 없이 사라져버린다. 숲은 이제 고요하다."
+		]
+	},
+	{
+		name: "THE HIDDEN GATEWAY (21~22): 숨겨진 차원문",
+		item: [
+			"…<br/><br/><br/>습지대 근처에 도착하자 주변 공기는 뜨겁고 축축하며 악취가 진동한다. 앞으로 나아갈수록 발밑의 땅은 서서히 질척거리는 습지로 변하며, 숨이 막힐 듯한 두꺼운 안개가 피어올라 시야를 가린다.<br/><br/>어떤 위협이 기다리고 있을지 모르기에 당신은 바짝 긴장한다. 전방의 안갯속에서 기이한 아치문이 모습을 드러낸다. 문에는 부자연스럽기 짝이 없는 검은색 구멍이 열려있다. 당신은 그것을 더 자세히 살펴보려 하지만, 방해꾼들이 당신을 향해 다가오는 것을 눈치챈다.<br/><br/><br/>…<br/><br/><br/><b>AFTER THE FIGHT</b><br/><br/>습지 위에는 돌로 만들어진 고대의 차원문만이 으스스한 모습으로 서 있다. 그 표면에는 생소한 기호가 새겨져 있다. 차원문의 구멍에는 칠흑 같은 어둠이 소용돌이치고 있다. 당신의 직감은 이 차원문을 통과하면 미친 드루이드가 이야기했던 악의 근원을 찾을 수 있을 거라 말한다. 하지만 이 문을 넘어가려면 룬 문자들을 활성화해야 할 것 같다.<br/><br/><br/><b>STORY SKILL CHECK<br/>OCCULT 10 -</b> Any One Character on Their Turn<br/><br/><b>룬문자를 활성화 시켜본다. You may gain a Tracking token to reduce the Occult check by 1 for every 15 Lore sacrificed. Any character may contribute. Receive +1 Occult for each Tracking token the group has in their possession.</b><br/><br/>",
+			{
+				name: "<b>성공:</b> 잉크처럼 검은 구멍이 갑자기 칙칙한 은빛으로 변한다. Recover 1d4 Vita. 이제 안전하게 통과할 수 있을 듯하다. Skip to <b>\"Visitor From The East\" on page 22</b> as soon as you are ready.",
+			},
+			"<br/>",
+			{
+				name: "<b>실패:</b> 아치문으로부터 검은 촉수들이 튀어나와 당신을 공격한다. 1d4 Damage. You may try again on your next turn. Receive a Tracking token.",
+			},
+		]
+	},
+	{
+		name: "VISITOR FROM THE EAST (22~23): 동방에서 온 손님",
+		item: [
+			"차원문은 커다란 동굴로 이어진다. 동굴 반대편에는 먼 동방에서 온 외지인 하나가 서 있다. 화려한 로브와 보석으로 장식된 반지, 그리고 기이한 도구를 여럿 걸치고 있는 그는, 커다란 언월도를 들고 전투를 준비하고 있다. 그의 주변에는 마을 사람들의 시체가 몇 구 놓여 있는데, 최근에 살해된 것으로 보인다.<br/><br/>그는 깊게 울리는 목소리로 이야기한다. \"너희를 쫓는 수고를 덜어주었군. 너희는 배신자의 운명을 바꿀 수 없다. 그는 자신의 탑이 안전하다고 생각했겠지. 하지만 이제 우리가 그를 찾았으니, 그는 죽은 목숨이다.\" 그는 즐거운 듯 말한다. \"난 너희의 땅에서 나를 도와줄 만한 이를 찾았지.\"<br/><br/><br/><b>FOR 4-5 CHARACTERS ONLY!</b><br/><br/>",
+			{
+				name: "<b>• If you failed to kill Otherian in \"The Changer\" on page 9,</b>",
+				item: [
+					"<b>Story Moment 71</b><br/><br/>그림자 속에서 모습을 드러낸 것은 이글거리는 노란 눈을 가진 덩치 큰 남자다. 동방의 연금술사가 사람을 홀리는 듯한 목소리로 말한다, \"반갑네. 나의 친구여. 우리는 같은 목적을 가지고 있지... 그렇지 않나?\" 당신은 즉시 그 남자 누군지 깨달았다... 바로 어더리언이다. 그는 으르렁대며 말한다. \"난 널 먹어치울 것이다. 천천히 고통스럽게 말이다. 네 시체조차 남지 않을 것이다!\"<br/><br/><b>Add Otherian the Changer to the upcoming Affliction combat, placing him atop the Spawn token on the map.</b><br/><br/>• 그가 입었던 부상이 완전히 회복되지 않았기에, his Vita is half his starting value and he receives - 10 Defense.<br/><br/>• Any LYCANTHROPIC character must immediately pass OCCULT 6 or they will become a Werewolf and join the battle on the side of evil. They may attempt to pass OCCULT 6 at the start of their turn following the first to negate this effect. Once successful, they no longer need to make this check."
+				],	
+			},
+			"<br/>",
+			{
+				name: "<b>• If you succeeded or have not played Story One,</b>",
+				item: [
+					"<b>Story Moment 85</b><br/><br/>그림자 속에서 모습을 드러낸 것은 이글거리는 노란 눈을 가진 덩치 큰 남자다. 동방의 연금술사가 사람을 홀리는 듯한 목소리로 말한다, \"반갑네. 나의 친구여. 우리는 같은 목적을 가지고 있지... 저들을 모두 파괴하는 것 말일세.\" 늑대인간이 으르렁대며 말한다. \"살점 하나 남지 않을 때까지 네 뼈를 씹어주마.\" 그는 자신의 가슴을 두드리며 포효한다. \"어더리언의 복수를 할 것이다!\" Add a Werewolf to the upcoming Affliction combat, placing him atop the Spawn token on the map.<br/><br/><b>Any LYCANTHROPIC character must immediately pass OCCULT 6 or they will become a Werewolf and join the battle on the side of evil. They may attempt to pass OCCULT 6 at the start of their turn following the first to negate this effect. Once successful, they no longer need to make this check.</b>"
+				]
+			},
+			"<br/><br/>외지인이 말한다. \"이제, 너희를 끝장내주마.\" 그는 자신의 팔을 교차시키며 깊고 기이한 음정의 콧노래를 부른다. 곧 땅이 덜덜 떨리기 시작하며 마을 주민들의 시체가 몸을 일으킨다. 그들은 연금술사의 탑에서 보았던 구울들과 같이 뒤틀리고 변형된 모습이다.<br/><br/><br/>…<br/><br/><br/><b>AFFLICTION ENCOUNTER</b><br/><br/><b>Encounter the Far East Alchemist and 2 Flesh Eating Ghouls.<br/><br/>• For 4-5 characters, encounter one of the foreigner's allies where the Spawn token is, as explained in the Story Moment referenced in the FOR 4-5 CHARACTERS ONLY! dialog box.</b><br/><br/>• <b>RUBBLE:</b> 동굴 밖으로 이어지는 통로는 막혀있다. There is nothing to interact with.<br/><br/>• <b>ARCHWAY:</b> 당신을 이곳으로 데려온 차원문은 곧 유일한 출구이기도 하다. 구멍은 여전히 칙칙한 은빛을 띠고 있다. There is nothing to interact with."
+		]
+	},
+	{
+		name: "STORY CLOSING (23)",
+		item: [
+			"<b>IF YOU WON THE BATTLE</b><br/><br/>당신은 동방의 연금술사를 물리쳤다. 그는 무릎을 꿇은 채 중얼거린다. \"이것이 끝이 아니다. 다른 이들이 올 것이다. 우리는 복수하고 말 것이다. 너희 모두 우리의 적으로 기억될 것이다.\" 말을 마친 뒤 숨이 끊어진 그는 바닥에 쓰러진다. 늑대인간 역시 치명상을 입은 것으로 보이며, 마을 주민들의 시체는 다시 인간의 모습을 되찾았다.<br/><br/>당신은 연금술사의 품 안에서 힘이 요동치는 이상한 모양의 램프를 찾아낸다.<br/><br/>당신은 연금술사의 생사를 확인하기 위해 서둘러 탑으로 돌아간다. 그는 붕대를 감은 채, 엉망이 된 방의 잔해를 치우고 있다. 그의 옆구리에 박혔던 오염된 나뭇가지는 이제 커다란 병 안에 담겨 탁자 위에 놓여있다. 당신이 동방의 연금술사에 대해 이야기하자 그는 알겠다는 듯 고개를 끄덕인다. 그는 그가 예전에 몸담았던 형제단의 사악한 자객들이 마침내 그를 찾아낸 것이라 설명한다. 그는 이야기한다. \"그들은 이제 타락했고, 절대 멈추지 않을 것이라오. 내가 그들의 어두운 길을 따라가기를 거부하는 한 말이오. 하지만 오늘 당신은 나를 제거하려는 그들의 계획에 큰 차질을 빚어냈다오. 고맙소. 오늘 우리는 승리했소.\"<br/><br/>\"찾아냈다는 그 램프를 보여주시오.\" 그는 눈빛을 반짝이더니 조심스럽게 그것을 당신에게 돌려준다. \"이것은 아주 귀한 유물이라오. 위시메이커(Wishmaker)라 불리는 물건이지. 내 고향인 동방의 페르시아에 온 것이라오. 이 유물을 잘 간수 하시오. 아마도 이 땅을 정화하는 우리의 목표에 도움이 될 것이라오.\"<br/><br/>• <b>The group receives 2 Items as a reward, and a random character receives the Wishmaker Artifact.</b><br/><br/>• <b>If the group is in possession of the RED Story Marker, each character 는 어려움에 처한 주민들에게 도움을 준 공을 인정받아 will receive a random Item when they next enter the town of Waylin Point.</b><br/><br/><br/><b>IF YOU LOST THE BATTLE</b><br/><br/>당신은 요로트러스크 변두리에 있는 집시들의 야영지에서 깨어난다. 당신은 잠시 혼란에 빠져 정신을 차리지 못한다(see <b>Rulebook \"On Death and Dying\" on page 32</b> and follow the instruction of Total Group Death).<br/><br/>당신이 한 일에 대한 소문은 많은 사람에게 퍼져 나갔다. 당신은 언제나 누가 당신의 편이 될 것인지 선택할 수 있는 것은 아니다. 집시들은 기이한 그들의 능력을 통해 당신을 찾아냈고, 당신의 목숨을 되살려냈다. 당신은 극동의 연금술사를 막지 못했고, 그의 복수심에 불타는 공격은 계속되고 있다. 그런 이유로, the Alchemist's Tower will offer no services (in Stories IV to VI), although story events can still occur there.<br/><br/><br/><b>THE END</b>"
+		]
+	},
 ];
 
 /*
 	<br/>
-	<br/><br/> 
-	<br/><br/><br/> 
-	"<br/>"
+	<br/><br/>
+	<br/><br/><br/>
+	"<br/>",
+	•
 	<br/><br/>  -------------------------<br/><br/> 
         {
                 name: "",
@@ -1331,5 +1459,4 @@
 			""
 		]
         },
-	•
 */
