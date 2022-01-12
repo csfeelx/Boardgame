@@ -1314,7 +1314,7 @@
 	{
 		name: "SEARCHING FOR ANSWERS (20): 해답을 찾아서",
 		item: [
-			"당신은 연금술사가 말한 드루이드를 찾기 시작한다. 하지만 어디서부터 시작할 것인가? 크레멜에서 가까운 숲이라고 하면 엘크라 파인즈(Elkra Pines)와 라미노프즈 우드(Raminov's Wood)가 있다. 그는 어디에 있을 것인가!<br/><br/><br/><b>WORLD MAP</b><br/><br/><br/>...<br/><br/><br/><b>When you land on an area with a marker, flip it over and read the instructions below.<b/><br/><br/>",
+			"당신은 연금술사가 말한 드루이드를 찾기 시작한다. 하지만 어디서부터 시작할 것인가? 크레멜에서 가까운 숲이라고 하면 엘크라 파인즈(Elkra Pines)와 라미노프즈 우드(Raminov's Wood)가 있다. 그는 어디에 있을 것인가!<br/><br/><br/><b>WORLD MAP</b><br/><br/>Place 2 compass tokens (A and B) randomly face-down at: <br><b>• Elkra pines<br/>• Raminov's wood</b><br/><br/><b>When you land on an area with a marker, flip it over and read the instructions below.<b/><br/><br/>",
 			{
 				name: "• A - Skip to <b>\"The Mad One\" on page 20.</b>",
 			},
