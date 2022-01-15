@@ -1434,6 +1434,173 @@
 			"<b>IF YOU WON THE BATTLE</b><br/><br/>당신은 동방의 연금술사를 물리쳤다. 그는 무릎을 꿇은 채 중얼거린다. \"이것이 끝이 아니다. 다른 이들이 올 것이다. 우리는 복수하고 말 것이다. 너희 모두 우리의 적으로 기억될 것이다.\" 말을 마친 뒤 숨이 끊어진 그는 바닥에 쓰러진다. 늑대인간 역시 치명상을 입은 것으로 보이며, 마을 주민들의 시체는 다시 인간의 모습을 되찾았다.<br/><br/>당신은 연금술사의 품 안에서 힘이 요동치는 이상한 모양의 램프를 찾아낸다.<br/><br/>당신은 연금술사의 생사를 확인하기 위해 서둘러 탑으로 돌아간다. 그는 붕대를 감은 채, 엉망이 된 방의 잔해를 치우고 있다. 그의 옆구리에 박혔던 오염된 나뭇가지는 이제 커다란 병 안에 담겨 탁자 위에 놓여있다. 당신이 동방의 연금술사에 대해 이야기하자 그는 알겠다는 듯 고개를 끄덕인다. 그는 그가 예전에 몸담았던 형제단의 사악한 자객들이 마침내 그를 찾아낸 것이라 설명한다. 그는 이야기한다. \"그들은 이제 타락했고, 절대 멈추지 않을 것이라오. 내가 그들의 어두운 길을 따라가기를 거부하는 한 말이오. 하지만 오늘 당신은 나를 제거하려는 그들의 계획에 큰 차질을 빚어냈다오. 고맙소. 오늘 우리는 승리했소.\"<br/><br/>\"찾아냈다는 그 램프를 보여주시오.\" 그는 눈빛을 반짝이더니 조심스럽게 그것을 당신에게 돌려준다. \"이것은 아주 귀한 유물이라오. 위시메이커(Wishmaker)라 불리는 물건이지. 내 고향인 동방의 페르시아에 온 것이라오. 이 유물을 잘 간수 하시오. 아마도 이 땅을 정화하는 우리의 목표에 도움이 될 것이라오.\"<br/><br/>• <b>The group receives 2 Items as a reward, and a random character receives the Wishmaker Artifact.</b><br/><br/>• <b>If the group is in possession of the RED Story Marker, each character 는 어려움에 처한 주민들에게 도움을 준 공을 인정받아 will receive a random Item when they next enter the town of Waylin Point.</b><br/><br/><br/><b>IF YOU LOST THE BATTLE</b><br/><br/>당신은 요로트러스크 변두리에 있는 집시들의 야영지에서 깨어난다. 당신은 잠시 혼란에 빠져 정신을 차리지 못한다(see <b>Rulebook \"On Death and Dying\" on page 32</b> and follow the instruction of Total Group Death).<br/><br/>당신이 한 일에 대한 소문은 많은 사람에게 퍼져 나갔다. 당신은 언제나 누가 당신의 편이 될 것인지 선택할 수 있는 것은 아니다. 집시들은 기이한 그들의 능력을 통해 당신을 찾아냈고, 당신의 목숨을 되살려냈다. 당신은 극동의 연금술사를 막지 못했고, 그의 복수심에 불타는 공격은 계속되고 있다. 그런 이유로, the Alchemist's Tower will offer no services (in Stories IV to VI), although story events can still occur there.<br/><br/><br/><b>THE END</b>"
 		]
 	},
+	{},
+	{},
+	{
+		note: "<b>STORY IV - PLIGHT OF THE FORTUNETELLER: 곤경에 처한 점술가</b><br/>"
+	},
+	{
+		note: "<b>CHAPTER 1</b><br/>"
+	},
+	{
+		name: "A VISION REVEALED (24): 예지",
+		item: [
+			"...<br/><br/><br/>당신은 지난 몇 달간 연금술사를 도와 그의 탑을 수리했다. 그 탑은 언데드의 공격을 받아 손상되었었다. 그리고 오늘 당신은 요로트러스크의 벤딩 리드(Bending Reed:굽은갈대) 여관에서 맥주를 들이켜며 휴식을 취하는 중이었다. 그때 다채로운 색의 튜닉을 입은 검은 눈동자의 어린 남자아이가 여관 문을 열고 들어와 당신에게 다가온다. 소년은 옷 안에 있는 주머니에서 두루마리를 꺼내 당당하게 당신을 향해 들이민다. 그 후, 아이는 아무런 말도 남기지 않고 재빨리 여관을 나간다.<br/><br/>당신은 재빨리 두루마리의 봉인을 풀고 그 내용을 살핀다. 그 안에는 도시 외곽의 집시 야영지를 의미하는 화려한 문양이 그려져 있다. 편지의 내용은 플로리카(Florica)라는 여자가 개인적인 문제로 긴급히 당신을 만나고 싶으니, 즉시 야영지로 와달라는 내용이었다.<br/><br/>호기심이 동한 당신은 술잔을 마저 비우고 집시 야영지로 향한다. 그곳은 마차와 화려한 색의 텐트들로 가득 차 있다. 당신은 지나가는 집시 한 명에게 다가가 어디서 플로리카를 찾을 수 있는지 묻는다. 그는 마른 체구였지만 믿을 수 없을 정도로 근육질이었으며 많은 귀걸이와 끝 부분이 올라간 두터운 콧수염이 인상적이었다. 그는 당신을 위아래로 훑어보더니만, 밝은 파란색으로 장식된 커다란 마차를 가리킨다. 당신은 그에게 감사를 표한 뒤 마차로 다가간다. 마차에는 달과 별이 조각되어 있다.<br/><br/>계단 위에 있는 문은 당신의 방문을 예상이라도 한 듯이 열려있다. 당신이 그 안으로 들어서자, 흔들의자에 앉아 있는 노파가 보인다. 그녀의 태도는 당당하다. 당신은 그녀가 한때 대단한 미모를 지녔었으리라는 것을 알 수 있다.<br/><br/>그녀는 기다란 의자를 가리키며 앉으라고 권한다. \"오늘 아침, 타로점을 치는 동안 예지를 보았다오. 내 딸 메리펜(Merripen)의 모습이 보였지. 강력한 마녀 하나가 그녀를 가두었고, 그녀는 고통받고 있었다오. 그녀는 돌로 된 방에 갇혀 있었지. 아마도 어딘가의 성 안이었던 것 같구려.\" 그녀는 잠시 멈추었다 다시 말한다. \"난 그녀의 목숨이 걱정된다오.\"<br/><br/>\"그녀는 몇 주 전 다른 야영지로 가기 위해 길을 떠났다오. 내가 그녀를 본 건 그때가 마지막이었지.\"<br/><br/>\"내 딸은 재능을 타고났지. 그녀는 특별한 \'시야\'를 가지고 있으며, 우리의 방식에 정통하다오. 아마도 마녀는 외부인이 그녀를 찾으러 갈 것이라고는 예상치 못할 거라오. 그녀를 다시 데려와 준다면 당신께 큰 빚을 지겠구려... 설령 그녀가 목숨을 잃었다고 해도 말이오. 우리의 주검은 전통에 따라 동족 사이에 묻혀야만 한다오.\"<br/><br/>납치된 여인에 대한 걱정과 마녀의 사악한 본성을 생각한 당신은 그녀를 돕기로 한다.<br/><br/>\"내가 예지에서 본 장소를 알려 드리리다... 아니면, 위험하지만 더 빠른 방법도 있지. 우리는 혼령계에서 그녀의 정수를 찾아볼 수도 있을 거라오.\"<br/><br/><br/><b>CHOOSE YOUR PATH<br/><br/>메리펜을 찾기 위해 어떤 방법을 택할 것인가?</b><br/><br/>",
+			{
+				name: "<b>• CHOICE 1:</b> 직접 수색한다<br/><br/>당신이 크레멜 성과 장원 세 곳 \'벨바르 영지(Belvar Estate), 애쉬랜드 첨탑(Ashland Spire), 올로-펠리오스(Olo-Pelios) 을 수색하기로 한다면, skip to <b>\"The Hunt For Merripen (Choice One)\" on page 24.</b> 이 방식을 택한다면 상당히 긴 여행을 해야 할지도 모른다.",
+			},
+			"<br/>",
+			{
+				name: "<b>• CHOICE 2:</b> SÉANCE(교령회)<br/><br/>당신은 플로리카와 함께 교령회를 수행하여 혼령계로 들어가 메리펜의 정수를 찾을 수 있다. 이 방식은 더 빠르지만, 더 위험하다. 교령회는 당신을 몹시 지치게 할 것이다(reduce each character\'s max Power Points by 2 for this story). If you do this, skip to <b>\"The Spirit Realm (Choice Two)\" on page 25.</b>",
+			},
+		]
+	},
+	{
+		name: "THE HUNT FOR MERRIPEN (CHOICE ONE) (24~25): 메리펜을 찾아",
+		item: [
+			"<b>메리펜을 찾기 위해 직접 수색한다를 골랐을 때만 읽을 것</b><br/><br/><br/><b>WORLD MAP</b><br/><br/><b>Place 3 Compass tokens (A, B and C) randomly face-down at:<br/>• BELVAR ESTATE<br/>• ASHLAND SPIRES<br/>• OLO-PELIOS<br/><br/><br/>When you land on an area with a marker, flip it over and follow the instructions below.<br/><br/>",
+			{
+				name: "• A - Skip to <b>\"Without A Soul\" on page 26.</b>",
+			},
+			"<br/>",
+			{
+				name: "• B",
+				item: [
+					"<b>Story Moment 7</b><br/><br/>당신은 장원에 도착한다. 이곳은 언뜻 위풍당당해 보이지만, 당신같이 훈련된 이의 눈은 이곳이 악이 도래한 탓에 방치되고, 마모되어 있다는 사실을 놓치지 않는다. 당신은 이곳에서 메리펜과 그녀를 잡아두고 마녀의 흔적을 찾을 수 있기를 바란다. 당신은 작은 개인 도서관에 들어가지만, 그곳에 보관된 책과 두루마리들은 이미 망가져 버린 지 오래다. 당신은 책장 사이에 끼어 있는 무언가를 눈치챈다.<br/><br/><b>The Leader must pass AWARENESS 6.</b><br/><br/><b>성공:</b> 그것은 오래된 필사본의 한 페이지이다! Gain your choice of a Prayer or Ritual.<br/><br/>",
+					{
+						name: "<b>Continue to...</b>",
+						item: [
+							"<b>Story Moment 36</b><br/><br/>당신은 바닥 위에 서 있는 커다란 거울을 발견한다. 흠집 하나 없는 그 거울은 당신을 모습을 완벽히 반사한다. 잠깐! 거울 속의 당신이 웃고 있다고? 거울 속에 비친 당신의 모습이 멋대로 움직이며 거울을 빠져나와 당신을 향해 다가온다. 당신은 스스로와 맞서 싸워야만 한다!<br/><br/><b>Each character must roll one attack against themselves using whatever weapon is currently equipped and receive damage if the attack was successful. 그 후, 당신의 반사된 모습은 사라져 버린다.</b><br/><br/>",
+							{
+								name: "<b>Continue to...</b>",
+								item: [
+									"<b>Story Moment 10</b><br/><br/>메리펜을 찾을 수 있다는 희망이 사라져간다. 당신은 마지막으로 지하감옥을... 찾아보기로 한다. 하지만 불행히도 천장에 매달린 박쥐 몇 마리 말고는 아무것도 없다. 박쥐 똥이 바닥을 온통 뒤덮고 있다.<br/><br/><b>A random character must pass TRICKERY 7.</b><br/><br/><b>성공:</b> Receive the LUCKY status and 무사히 감옥을 빠져나간다.<br/><br/><b>실패:</b> You must skirmish with a Bat Swarm.<br/><br/><b>이곳에서는 아무런 단서도 찾을 수 없었다. Return to the World Map.</b>"
+								]
+							},
+						]
+					},
+				]
+			},
+			"<br/>",
+			{
+				name: "• C",
+				item: [
+					"<b>Story Moment 9</b><br/><br/>당신은 단서를 찾아 안개가 짙게 깔린 영지에 도착한다. 당신은 오한을 느끼며 아무도 없는 거대한 홀에 들어선다. 그곳에는 몇 년이나 사람의 손이 닿지 않은 듯한 가구와 장식들이 있을 뿐이다. 먼지가 층을 이루어 모든 것을 덮고 있다. 당신은 다른 방으로 이어지는 발자국을 눈치챈다. 그곳으로 다가가자 달그락거리는 소리와 누군가 중얼거리는 소리가 들려온다. 당신이 비품 보관실로 들어가자, 그곳에는 한 무리의 강도들이 남은 귀중품들을 챙기고 있다. 당신을 눈치챈 그들의 눈빛이 험악해진다.<br/><br/><b>Skirmish with Highwaymen and add +2 to their skirmish counter.</b><br/><br/>",
+					{
+						name: "<b>Read Story Moment... </b>",
+						item: [
+							"<b>Story Moment 75</b><br/><br/>당신은 강도들을 쫓아내고 주변을 조사한다. 바닥에 오래된 양피지가 놓여있다. The Leader receives a Ritual. 구석에 쌓여있는 나무통 뒤에서 누군가 끙끙대며 도움을 청하는 소리가 들려온다. 마을 사람 하나가 재갈이 물린 채 묶여있다. 당신이 그를 풀어주자, 그는 숨을 헐떡이며 약탈자들이 들어오는 것을 보고 그들을 막으려고 했지만, 그들에게 얻어맞은 뒤 묶여 있었다고 한다. 그는 당신과 동행하고자 한다.<br/><br/><b>Gain a random Militia Companion.</b><br/><br/>",
+							{
+								name: "<b>Read Story Moment... </b>",
+								item: [
+									"<b>Story Moment 28</b><br/><br/>당신의 수색은 낯선 신에게 바쳐진 작은 예배당에서 끝이 난다. 메리펜이나 그녀를 납치한 마녀에 대한 단서를 찾지 못한 것에 실망하며 밖으로 나가기 위해 몸을 돌렸을 때, 당신은 기다란 의자 위에 검은 가죽으로 장정된 책 한 권이 놓여있는 것을 눈치챈다.<br/><br/><b>CHOOSE YOUR PATH</b><br/><br/>",
+									{
+										name: "<b>선택 1:</b> 당신이 그것을 읽고자 한다면, choose one character and,",
+										item: [
+											"<b>Story Moment 68</b><br/><br/>당신이 책의 표지에 손을 데자, 작은 충격이 당신을 덮친다. 책을 열자 그 안에는 있는 것은 비어있는 책장들뿐이다. 당신은 실망하여 책을 덮으려 하지만, 곧 단어들이 떠오르기 시작하며, 당신은 무의식적으로 그것을 읽기 시작한다.<br/><br/><b>The Leader must pass OCCULT 5.</b><br/><br/><b>성공:</b> Gain 1d4 Power Points and 1 Prayer.<br/><br/><b>실패:</b> You become TRANSFORMED.<br/><br/><b>Return to the World Map to continue your search.</b>"
+										]
+									},
+									"<br/>",
+									{
+										name: "<b>선택 2:</b> If not, return to the World Map to continue your search.",
+									},
+								]
+							},
+						]
+					},
+				]
+			},
+		]
+	},
+	{
+		name: "THE SPIRIT REALM (CHOICE TWO) (25~26): 혼령계",
+		item: [
+			"<b>메리펜을 찾기 위해 교령회를 골랐을 때만 읽을 것</b><br/><br/>플로리카는 교령회를 진행하는 동안 당신의 의식이 혼령계로 들어가게 될 것이라고 경고한다. 그녀는 설명한다, \"난 이쪽 세계에서 장막 너머에 있는 당신을 인도할 거라오. 내 목소리는 들을 수 있지만 날 볼 순 없겠지. 당신은 내 말에 집중해야만 한다오. 내가 안갯속을 비추는 등대처럼 당신을 인도하리다. 사악한 의도를 가진 존재와 마주치게 된다면 당신을 이쪽 세계로 다시 데려오겠소. 당신의 안전을 위해서 말이오.\" 그녀의 목소리가 깊어진다. \"시작합시다.\"<br/><br/>당신은 동료들과 테이블에 둘러앉아 서로 손을 잡고 플로리카와 연결된다. 그녀는 깊고 부드러운 목소리로 당신이 알지 못하는 언어를 말하기 시작한다. 곧 당신은 안개가 휘몰아치는 텅 빈 공간에 서 있다. 당신은 일행 모두의 머리 위에 가는 은빛 줄이 달려 있는 것을 눈치챈다. 그 끝은 안개에 가려 보이지 않는다.<br/><br/>플로리카의 목소리가 메아리치며 메리펜에 대한 이야기를 시작한다. 당신 주변에 영상이 떠오른다. 커다란 텐트 근처의 모래밭에서 놀고 있던 작은 여자아이는 곧 젊은 여인이 된다. 영상에서 소리는 들리지 않지만, 당신은 그녀가 메리펜이라는 것을 알 수 있다. 빠르게 흐르던 영상은 플로리카의 이야기가 진행됨에 따라 마침내 정상적인 속도가 된다. 영상은 이제 성인이 된 메리펜이 길을 따라 하염없이 걷고 있는 모습을 보여준다. 그녀는 곧 허리가 굽은 친절한 인상의 노파를 만나고, 두 사람은 잠시 대화를 나눈다. 노파가 그녀에게 작은 도움을 구하는 것처럼 보인다.<br/><br/>\"바로 저 노파! 그녀가 나의 예지에서 메리펜을 납치한 바로 그 마녀라오.\" 플로리카는 말한다.<br/><br/>영상은 시간을 건너뛰어 성을 향해 걷고 있는 두 사람을 보여준다. 영상이 뚜렷해지고 당신은 그곳이 애쉬랜드 첨탑임을 눈치챈다. 갑자기 플로리카의 고통에 찬 비명이 들리며 영상은 어둠 속으로 사라지고 당신의 시야가 걷잡을 수 없이 빙글빙글 돈다. 당신의 정수는 모든 것이 회색의 그림자처럼 보이는 머나먼 어딘가에 도착한다. 플로리카의 목소리는 들리지 않는다. 사악한 웃음소리가 사방에 메아리친다. 안개가 자욱하고, 부서진 돌들이 늘어선 벌판이 당신 주변에 나타난다. 에테르에서 혼령들이 형태를 이루어 당신에게로 날아온다. 사악한 목소리는 이야기한다. \"너희는 그녀를 구할 수 없어! 그녀는 나의 것이다! 너희는 영원히 이곳 헤매게 될 것이다.\"<br/><br/><br/>...<br/><br/><br/><b>ENCOUNTER</b><br/><br/><b>Encounter 1 Restless Spirits in a two character game, and 2 Restless Spirits in a 3-5 character game.</b><br/><br/>• The entire group is in GHOST FORM for this encounter. You may not use weapons or other cards, unless they specify otherwise.<br/><br/>• Keep track of your Vita and Power Points prior to combat as you will need this information to know further into the story.<br/><br/>• Ghosts do not make skill checks, so the Restless Spirit\'s special power will not but used for this combat, except for their <b>ETHEREAL</b> status.<br/><br/>• Any positive or negative statuses you have are not in effect during this combat, although your physical form still retains them.<br/><br/>• Your Ghost Points in this battle begin at 20. If you lose them, you go to Limbo.<br/><br/>",
+			{
+				name: "• If all characters are lost in Limbo,",
+				item: [
+					"<b>Story Moment 16</b><br/><br/>어둠이 당신을 감싼다. 아무것도 보이지 않고, 아무것도 들리지 않으며, 아무것도 느껴지지 않는다. 마치 당신 앞에 아무것도 없는 공허만이 영원히 펼쳐져 있는 것만 같다. 당신은 정신은 공허 속에서 무너지기 시작한다. 갑자기 화끈거리는 고통이 느껴지며 당신은 의식을 잃는다. 천천히, 당신은 고통과 함께 깨어난다. 향신료의 톡 쏘는 냄새와 함께 익숙한 향기가 느껴진다. 방에는 당신과 동료들, 그리고 플로리카가 테이블을 가운데 두고 앉아 있다.<br/><br/>플로리카는 거칠게 숨을 몰아쉬며 수인(印相)을 풀고 의자에 몸을 기댄다. 그녀는 곧 재빨리 모두가 살아있는지 확인한다. \"이런 일이 생기다니 믿을 수 없구려! 그 악의 존재가 누구든, 그녀는 정말로 강력한 존재라오. 혼령계가 당신을 거부하게 만들었지. 당신의 영혼을 살아 있는 세상과 연결하던 실은 끊어졌지만, 난 장막 너머 깊은 곳에서 당신을 찾아내 육체와 연결했다오.\"<br/><br/><b>Return your Character Cards to their living side. They retain the Vita and Power Points they had before beginning the séance.</b><br/><br/><b>플로리카는 당신의 죽음을 자신의 책임이라 여기고 있기에 characters do not need to draw Tarot cards. However, all characters must reduce their Max Power Points by 1 permanently, and they receive -5 to Defense and -5 Might for the remainder of the story due to trauma.</b><br/><br/><b>A random character must take the BLUE Story Marker.</b><br/><br/><b>Skip to “Destination Revealed” on page 26.</b>"
+				]
+			},
+			"<br/><br/><b>AFTER THE FIGHT</b><br/><br/>영혼들은 안갯속으로 사라지고 침묵이 찾아온다. 당신은 이 아무것도 없는 장소에서 빠져나갈 방법을 찾지만, 돌무더기를 벗어날 때마다 당신은 다시 그 중앙으로 돌아온다. 그 노파의 말대로 당신은 영원히 이곳을 헤매게 된 것일까?<br/><br/><br/><b>STORY SKILL CHECK<br/>OCCULT 5</b> - All Characters (as if not in Ghost form)<br/><br/><b>당신은 광기에 저항할 수 있는가?</b><br/><br/><b>성공:</b> 당신은 절망에 맞서 마음을 다잡고 다시 집중한다. If your result was 10 or more, gain a Boon.<br/><br/><b>실패:</b> Become DERANGED when you return to your physical form.<br/><br/><br/>당신은 복부에 마치 내장을 얻어맞은 것만 같은 압박감을 느낀다. 그리고 당신의 머리에 연결되어 있던 은빛 줄이 잡아당겨 지며 당신은 머리가 뽑혀나갈 것 같은 고통을 느낀다. 당신은 몇 시간이나 정신을 잃었던 것 같다. 방에는 당신과 동료들, 그리고 플로리카가 테이블을 가운데 두고 앉아 있다.<br/><br/><br/>...<br/><br/><br/>플로리카는 거칠게 숨을 몰아쉬며 수인(印相)을 풀고 의자에 몸을 기댄다. 그녀는 곧 재빨리 모두가 살아있는지 확인한다.<br/><br/>\"이런 일이 생기다니 믿을 수 없구려! 그 악의 존재가 누구든, 그녀는 정말로 강력한 존재라오. 당신을 장막 너머에 가둘 수 있을 정도로 말이오. 나는 겨우 당신을 해방할 수 있었다오.\""
+		]
+	},
+	{
+		name: "DESTINATION REVEALED (26): 밝혀진 목적지",
+		item: [
+			"\"당신이 본 것은 과거의 일이라오. 마녀는 이미 내 딸을 가두고 있고, 당신의 개입을 눈치챘지. 내 실수라오. 현실 세계에서 그녀를 찾는 것이 더 안전했을지도 모르겠구려. 그나마 좋은 소식은 이제 그녀가 어디에 있는지 알아냈고, 즉시 그녀를 찾으러 갈 수 있다는 것이겠지. 더 늦기 전에 서둘러주시오!\"<br/><br/><br/>..."
+		]
+	},
+	{
+		name: "WITHOUT A SOUL (26~27): 영혼 없는",
+		item: [
+			"당신은 마녀가 메리펜을 가두고 있는 곳으로 추정되는 장소에 도착한다. 대기에서 따끔함이 느껴진다. 강력한 흑마술이 느껴진다. 당신의 머리카락이 쭈뼛 선다. 이곳에 있는 이가 누구인지는 몰라도 정말 강력한 힘을 가진 것이 분명하다.<br/><br/>문은 어떤 비술적인 힘에 의해 잠겨있는 듯 꼼짝도 하지 않는다. 당신은 나무문에 새겨진 인장을 발견한다. 그것이 문을 막고 있는 힘의 원천이 틀림없다.<br/><br/><br/><b>STORY SKILL CHECK<br/>OCCULT 6</b> - Any One Character<br/><br/><b>당신은 인장의 의미를 해독할 수 있는가? 그렇다면 아마도 문을 열 수 있을 것이다.</b><br/><br/>",
+			{
+				name: "<b>성공:</b> 문에는 침입자를 막기 위한 방어 주문이 걸려있다. 당신은 그것을 간단히 해제해낸다. Gain 8 Lore.",
+			},
+			"<br/>",
+			{
+				name: "<b>실패:</b> 당신은 그것을 이해하려 애쓰지만, 섬뜩한 마법의 힘이 당신을 덮쳐 you lose 1d6 Vita and any character may try again.",
+			},
+			"<br/><br/>문을 통해 안으로 들어가자, 더 안쪽으로 향하는 이중 문이 있는 대기실이 나온다. 방의 반대편에서 무시무시한 조각상이 당신을 노려보고 있다. 문은 방금 전과 같이 마법의 힘으로 잠겨있다. 당신이 손잡이에 손을 데자 낄낄거리는 목소리가 들려온다.:<br/><br/>\"이곳을 지나가려면 넌 내가 내는 수수께끼에 대답해야만 한다. 네가 점쟁이와 어울리는 것 좋아하는 것 같으니, 타로 카드에 대한 세 가지 질문을 하겠다. 정확히 맞춘다면, 널 들여보내 주겠다.\"<br/><br/>--------------------------------------------------<br/><br/>\"새로운 시작은 절대 질리지 않는다. 새로운 길을 걷는 방랑자. 좋을 수도 있고 나쁠 수도 있다. 넌 그 앞에 어떤 즐거움이 있을지 결코 알 수 없을 것이다. 나는 다음 중 어떤 카드인가: 운명의 수레바퀴(Wheel of Fortune), 광대(The Fool), 여제(The Empress)?\"<br/><br/>",
+			{
+				name: "<b>• MAKE YOUR CHOICE and, READ</b>",
+				item: [
+					"<b>Story Moment 77</b><br/><br/>정답은 광대이다.<br/><br/>",
+					{
+						name: "<b>정답을 맞췄다면:</b> 목소리가 말한다, \"넌 광대다. 모르겠는가?\"",
+					},
+					"<br/>",
+					{
+						name: "<b>정답을 맞추지 못했다면:</b> 목소리가 말한다, \"틀렸다!\" 고통이 당신의 온몸을 타고 흐른다. All character lose 1d4 Vita.",
+					},
+				]
+			},
+			"<br/>--------------------------------------------------<br/><br/>\"누군가의 존재에 대해 어떠한 질문이 제기될 수 있는지 알고 있는가? 너의 내면을 들여다볼 시간이다. 작은 문제들은 치워두어라. 나는 다음 중 어떤 카드인가: 매달린 남자(The Hanged Man), 은둔자(The Hermit), 전차(The Chariot)?\"<br/><br/>",
+			{
+				name: "<b>• MAKE YOUR CHOICE and, READ</b>",
+				item: [
+					"<b>Story Moment 2</b><br/><br/>정답은 은둔자이다.<br/><br/>",
+					{
+						name: "<b>정답을 맞췄다면:</b> 목소리는 으르렁거릴 뿐 아무 말도 하지 않는다.",
+					},
+					"<br/>",
+					{
+						name: "<b>정답을 맞추지 못했다면:</b> 목소리가 말한다, \"틀렸다!\" 고통이 당신의 온몸을 타고 흐른다. All character lose 1d6 Vita.",
+					},
+				]
+			},
+			"<br/>--------------------------------------------------<br/><br/>\"커다란 변화가 다가오고 있다. 사람들은 경고한다. 넌 그것에 직면할 용기가 있는가, 아니면 그 앞에 무너질 것인가? 선택은 불가능할지도 모른다, 어쩌면 그것은 오늘이라도 닥쳐올지도 모르기 때문이다. 나는 다음 중 어떤 카드인가: 죽음(Death), 매달린 남자(The Hanged Man), 심판(Judgment)?\"<br/><br/>",
+			{
+				name: "<b>• MAKE YOUR CHOICE and, READ</b>",
+				item: [
+					"<b>Story Moment 55</b><br/><br/>정답은 죽음이다.<br/><br/>",
+					{
+						name: "<b>정답을 맞췄다면:</b> 목소리가 말한다, \"이곳에서 널 기다리고 있는 것은 죽음뿐이다!\" 삐걱대는 소리와 함께 문이 열린다.",
+					},
+					"<br/>",
+					{
+						name: "<b>정답을 맞추지 못했다면:</b> 목소리가 말한다, \"틀렸다!\" 고통의 물결이 당신을 덮친다. All character lose 2d4 Vita.<br/><br/>• If you answered all questions correctly, a random character becomes FAVORED.<br/><br/>• If you answered two incorrectly, the group becomes SPOOKED 6.<br/><br/>• If you answered all incorrectly, the group becomes CURSED 4.<br/><br/>목소리가 다시 한번 말한다. \"원한다면 들어오너라, 하지만 넌 이미 늦었다!\" 삐걱대는 소리와 함께 문이 열린다.",
+					},
+				]
+			},
+			"<br/><br/>방의 맞은 편에 있는 커다란 석재 왕좌에는 친절한 인상의 노파가 있다. 그녀는 친절한 태도를 완전히 벗어던지고 사악하게 웃으며 말한다. \"넌 그 소녀를 구할 수 없다. 그녀는 나의 것이다. 빈 껍질만 남을 때까지 네 생명의 정수를 빨아 먹어주마!\"<br/><br/><br/>...<br/><br/><br/><b>PRIMARY GOALS</b><br/><br/><b>• Defeat all foes. See the Affliction Encounter dialog box.</b><br/><br/>",
+			{
+				name: "<b>• Once Valdleany is killed, immediately read Story Moment...</b>",
+				item: [
+					"<b>Story Moment 32</b><br/>If any Gargoyle\'s are currently in combat, 가고일들은 바닥에 쓰러지며 부서져 돌무더기가 되어 버린다. Characters still receive the awards for Gargoyles who die in this fashion."
+				]
+			},
+			"<br/><b>• After all foes are defeated and you are done investigating any map features, continue to “After The Fight\" on page 27.</b><br/><br/><br/>...<br/><br/><br/><b>AFFLICTION ENCOUNTER</b><br/><br/><b>Encounter Valdleany and 2 Stregha.</b><br/><br/>• When there are 2 or more Occultists in combat, they form a Coven and are more powerful.<br/><br/><b>• If the BLUE Story Marker is in play, Valdleany receives +5 Defense and Might. In a 4-5 character game, the two Gargoyle statues animate and join the fight against you.</b><br/><br/>",
+			{
+				name: "<b>• If the group is defeated during this combat, immediately read Story Moment...</b>",
+				item: [
+					"<b>Story Moment 48</b><br/><br/>당신은 요로트러스크의 집시 야영지에서 깨어난다. 당신은 잠시 혼란에 빠져 정신을 차리지 못한다. 방랑하던 집시 하나가 성에서 조금 떨어진 곳에서 일행의 시체를 발견했다. 그는 당신의 목숨을 구하기에는 늦었다는 것을 깨닫고는 야영지로 데려왔다.<br/><br/><b>See Rulebook “On Death and Dying\" on page 32 and follow the instruction of Total Group Death.</b><br/><br/><b>Travel the World Map back to Valdleany\'s location and repeat the encounter, however all foes begin with the Vita they had at the time of the group\'s death. Any previously slain foes remain defeated for this combat, however the group does not receive awards for them and they cannot search their bodies at the end of the combat.</b>"
+				]
+			},
+			"<br/><br/><b>AFTER THE FIGHT</b><br/><br/>늙은 마녀 발들라니(Valdleany)는 거친 목소리로 속삭인다. \"그녀의 영혼은 아주 강했다... 하지만 그것조차 이 늙은 뼈에 힘을 불어넣기에는 부족했군. 넌 이미 늦었다... 난 이미 그녀의 영혼을 가둬두고 그녀의 힘을 흡수했지.\" 그녀는 기침하며, 목에 걸린 금목걸이에 박힌 커다른 에메랄드를 만지작거린다.<br/><br/>\"난 그녀를 땅속 깊은 곳에 숨겨두었다. 그녀는 죽은 자들에게 둘러싸여 있지. 넌 시간을 낭비하는 것이다.\" 말을 마친 뒤 발들라니는 눈을 감는다. 그녀의 몸이 붕괴하기 시작하고, 곧 그녀가 입었던 로브와 에메랄드가 박힌 목걸이만이 남는다.<br/><br/><b>Choose one character to take the Amulet and receive the YELLOW Story Marker. Continue to “Chapter Two” on page 27.</b>"
+		]
+	},
 ];
 
 /*
