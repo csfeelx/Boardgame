@@ -1598,7 +1598,7 @@
 					"<b>Story Moment 48</b><br/><br/>당신은 요로트러스크의 집시 야영지에서 깨어난다. 당신은 잠시 혼란에 빠져 정신을 차리지 못한다. 방랑하던 집시 하나가 성에서 조금 떨어진 곳에서 일행의 시체를 발견했다. 그는 당신의 목숨을 구하기에는 늦었다는 것을 깨닫고는 야영지로 데려왔다.<br/><br/><b>See Rulebook “On Death and Dying\" on page 32 and follow the instruction of Total Group Death.</b><br/><br/><b>Travel the World Map back to Valdleany\'s location and repeat the encounter, however all foes begin with the Vita they had at the time of the group\'s death. Any previously slain foes remain defeated for this combat, however the group does not receive awards for them and they cannot search their bodies at the end of the combat.</b>"
 				]
 			},
-			"<br/><br/><b>AFTER THE FIGHT</b><br/><br/>늙은 마녀 발들라니(Valdleany)는 거친 목소리로 속삭인다. \"그녀의 영혼은 아주 강했다... 하지만 그것조차 이 늙은 뼈에 힘을 불어넣기에는 부족했군. 넌 이미 늦었다... 난 이미 그녀의 영혼을 가둬두고 그녀의 힘을 흡수했지.\" 그녀는 기침하며, 목에 걸린 금목걸이에 박힌 커다른 에메랄드를 만지작거린다.<br/><br/>\"난 그녀를 땅속 깊은 곳에 숨겨두었다. 그녀는 죽은 자들에게 둘러싸여 있지. 넌 시간을 낭비하는 것이다.\" 말을 마친 뒤 발들라니는 눈을 감는다. 그녀의 몸이 붕괴하기 시작하고, 곧 그녀가 입었던 로브와 에메랄드가 박힌 목걸이만이 남는다.<br/><br/><b>Choose one character to take the Amulet and receive the YELLOW Story Marker. Continue to “Chapter Two” on page 27.</b>"
+			"<br/><br/><b>AFTER THE FIGHT</b><br/><br/>늙은 마녀 발들리니(Valdleany)는 거친 목소리로 속삭인다. \"그녀의 영혼은 아주 강했다... 하지만 그것조차 이 늙은 뼈에 힘을 불어넣기에는 부족했군. 넌 이미 늦었다... 난 이미 그녀의 영혼을 가둬두고 그녀의 힘을 흡수했지.\" 그녀는 기침하며, 목에 걸린 금으로 된 부적에 박힌 커다른 에메랄드를 만지작거린다.<br/><br/>\"난 그녀를 땅속 깊은 곳에 숨겨놓았다. 그녀는 죽은 자들 사이에 있지. 넌 시간을 낭비하는 것이다.\" 말을 마친 뒤 발들리니는 눈을 감는다. 그녀의 몸이 붕괴하기 시작하고, 곧 그녀가 입었던 로브와 에메랄드가 박힌 부적만이 남는다.<br/><br/><b>Choose one character to take the Amulet and receive the YELLOW Story Marker. Continue to “Chapter Two” on page 27.</b>"
 		]
 	},
 ];
