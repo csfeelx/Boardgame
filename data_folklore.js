@@ -1601,6 +1601,182 @@
 			"<br/><br/><b>AFTER THE FIGHT</b><br/><br/>늙은 마녀 발들리니(Valdleany)는 거친 목소리로 속삭인다. \"그녀의 영혼은 아주 강했다... 하지만 그것조차 이 늙은 뼈에 힘을 불어넣기에는 부족했군. 넌 이미 늦었다... 난 이미 그녀의 영혼을 가둬두고 그녀의 힘을 흡수했지.\" 그녀는 기침하며, 목에 걸린 금으로 된 부적에 박힌 커다른 에메랄드를 만지작거린다.<br/><br/>\"난 그녀를 땅속 깊은 곳에 숨겨놓았다. 그녀는 죽은 자들 사이에 있지. 넌 시간을 낭비하는 것이다.\" 말을 마친 뒤 발들리니는 눈을 감는다. 그녀의 몸이 붕괴하기 시작하고, 곧 그녀가 입었던 로브와 에메랄드가 박힌 부적만이 남는다.<br/><br/><b>Choose one character to take the Amulet and receive the YELLOW Story Marker. Continue to “Chapter Two” on page 27.</b>"
 		]
 	},
+	{},
+	{
+		note: "<b>CHAPTER 2</b><br/>"
+	},
+	{
+		name: "BURIAL SERVICE (27~28): 장례식",
+		item: [
+			"당신은 발들리니의 부적을 살펴본다. 그것에 박혀있는 에메랄드는 휘황찬란한 녹색이다. 그 안에는 빛이 소용돌이치고 있다. 당신은 발들리니가 가엾은 메리펜의 생명력을 이 부적으로 옮겨 자신의 것으로 삼으려 했다는 것을 깨닫는다. 반짝이는 부적을 바라보자 당신의 마음속에 펠레론 묘지(Feleron Crypts)가 떠오른다. 발들리니는 그곳에 메리펜의 육신을 숨겨 둔 것이 틀림없다. 아직은 그녀의 육신을 되찾을 수 있을지도 모른다. 당신은 플로리카의 부탁을 떠올린다.<br/><br/><br/>...<br/><br/><br/>매장지에 다가가자 발들리니의 부적에 박힌 에메랄드가 마치 심장이 뛰듯 느린 속도로 꾸준하게 맥동하기 시작한다. 메리펜의 영혼이 여전히 그녀의 육신과 연결되어 있음이 틀림없다. 아마도 부적이 인도하는 방향을 따라가면 그녀의 육신을 찾을 수 있을 것이다.<br/><br/>당신은 무덤 사이를 걸어 다니며 부적을 이용해 메리펜의 육신이 있는 정확한 위치를 찾아본다. 땅속 깊이 숨겨두었다는 발들리니의 말을 생각하면 메리펜의 육신은 무덤 속에 묻혀있을 것이다.<br/><br/>당신의 뒤편에서 누군가가 외치는 소리가 들린다. 돌아보자 그곳에는 검으로 무장한 남자 하나가 있다. \"멈춰라! 무덤 도굴은 용납할 수 없는 범죄다. 널 체포하겠다!\"<br/><br/><br/><b>STORY SKILL CHECK<br/>SPEECH 7</b> - Any One Character<br/><br/><b>당신이 나쁜 목적으로 이곳에 온 것이 아님을 설명하라!</b><br/><br/>",
+			{
+				name: "<b>성공:</b> 당신은 사악한 마녀가 저지른 일들과 당신이 이곳에 온 목적을 설명한다. Gain the Soldier companion.",
+			},
+			"<br/>",
+			{
+				name: "<b>실패:</b> 당신은 사악한 마녀가 저지른 일들과 당신이 이곳에 온 목적을 설명한다. Skirmish with a Watchman.",
+			},
+			"<br/><br/>부적은 단단한 돌문이 닫혀있는 묘실 중 하나로 당신을 이끈다. 그 안으로 들어선 당신은 거미줄이 찢어져 있고, 먼지 위로 발자국이 남아있는 것을 눈치챈다. 최근에 누군가가 이곳을 지나갔음이 틀림없다. 당신의 손 위에 있는 부적이 점점 더 강하게 맥동한다.<br/><br/><br/>..."
+		]
+	},
+	{
+		name: "A SPIRITUAL UNION (28~29): 영혼 합일",
+		item: [
+			"부패한 시체들이 줄지어 늘어선 지하 복도를 통해 더 깊이 들어가자 부적의 맥동이 더욱 강해지며, 그 감촉은 얼음같이 차가워진다. 당신은 살짝 열려있는 이중문 앞에 도착한다. 안쪽 방의 중앙에는 거대한 제단이 보이며, 여러 개의 관이 그것을 원형으로 둘러싸고 있다. 부적의 맥동이 더욱 커져가며 관 중 하나로 당신을 인도한다. 그것은 메리펜의 육신이 담긴 관일까? 아니면 마녀가 남긴 또 다른 함정일까? 중앙에 있는 제단 위에는 희미하게 빛나는 물체가 놓여있다.<br/><br/><br/><b>CHOOSE YOUR PATH</b><br/>어느 것을 먼저 조사하겠는가?<br/><br/><b>제단 아니면 관?</b><br/><br/>",
+			{
+				name: "<b>• 선택 1:</b> 당신이 제단을 먼저 조사하고 싶다면,",
+				item: [
+					"<b>Story Moment 35</b><br/><br/>제단에 다가가자, 그 위에는 품질 좋은 보석이 찬란하게 빛나고 있다. 수상쩍기 짝이 없는 상황이기에 당신은 우선 그 보석이 놓여있는 이유를 추측해본다.<br/><br/><b>One character may pass OCCULT 8 learn more.</b><br/><br/>",
+					{
+						name: "<b>성공</b>",
+						item: [
+							"<b>Story Moment 5</b><br/><br/>당신은 그 보석이 영혼들이 이 방을 떠나지 못하도록 막고 있는 봉인 역할을 하고 있다는 것을 깨닫는다. 아마도 발들리니가 이곳에 놓아두었을 것이다. 만약 메리펜의 영혼이 풀려나더라도 자신의 육신을 되찾지 못하도록 말이다. 하지만 그것은 그녀의 육신이 살아있을 때만 가능할 것이다.<br/><br/>",
+							{
+								name: "<b>Read Story Moment</b>",
+								item: [
+									"<b>Story Moment 30</b><br/><br/>당신은 그 보석을 어떻게 하고 싶은가?<br/><br/><b>CHOOSE YOUR PATH</b><br/><br/>",
+									{
+										name: "<b>선택 1:</b> 보석을 가져간다. The Leader gains the GREEN Story Marker, 그것은 보석을 나타낸다. 당신은 이제 관을 연다.",
+										item: [
+											"<b>Story Moment 50</b><br/><br/>그 안에는 젊고 아름다운 여인이 눈을 감은 채 미동도 하지 않고 누워있다. 여러 정황을 고려할 때 그녀는 메리펜이 틀림없다. 그녀는 다양한 재료와 색으로 만들어진 드레스를 입고 있다. 그녀는 죽은 것처럼 보이진 않지만 공허함이 느껴진다. 그녀의 육신에 영혼이 담겨있지 않기 때문일 것이다. 부적이 밝게 빛나기 시작한다. 그 안에 담긴 영혼이 자신의 육신으로 돌아가려고 하는 것이겠지만, 그것이 가능한 일일까? All characters gain 8 Lore.<br/><br/><b>The character with the YELLOW Story Marker, 그러니까 부적을 들고 있는 캐릭터는 메리펜의 영혼이 육신으로 돌아가는 것을 돕기 위해 must make an OCCULT or FAITH 10 check.</b><br/><br/>",
+											{
+												name: "<b>성공:</b> 부적은 맥동을 멈추고 그 빛을 잃는다. 메리펜의 가슴이 오르내리며 그녀는 숨을 쉬기 시작한다. 성공이다!",
+											},
+											"<br/>",
+											{
+												name: "<b>실패:</b> Lose one positive status and take a Tracking token. Continue to try this skill check until you succeed or until the number of Tracking tokens the group has equals the number of characters in the group (max 3), then read the SUCCESS condition.",
+											},
+										]
+									},
+									"<br/>",
+									{
+										name: "<b>선택 2:</b> 보석을 파괴한다.",
+										item: [
+											"<b>Story Moment 42</b><br/><br/>당신은 커다른 돌멩이를 발견하고 그것으로 보석을 내려쳐 가루로 만든다. 결과적으로 아무 일도 벌어지지 않았지만, 그것이 어떤 역할을 하고 있든 간에, 그 힘이 사라졌다는 것은 알 수 있다.<br/><br/><b>All characters gain 8 Lore and a random character gains the RED Story Marker.</b><br/><br/>",
+											{
+												name: "<b>이제 관을 연다.</b>",
+												item: [
+													"<b>Story Moment 50</b><br/><br/>그 안에는 젊고 아름다운 여인이 눈을 감은 채 미동도 하지 않고 누워있다. 여러 정황을 고려할 때 그녀는 메리펜이 틀림없다. 그녀는 다양한 재료와 색으로 만들어진 드레스를 입고 있다. 그녀는 죽은 것처럼 보이진 않지만 공허함이 느껴진다. 그녀의 육신에 영혼이 담겨있지 않기 때문일 것이다. 부적이 밝게 빛나기 시작한다. 그 안에 담긴 영혼이 자신의 육신으로 돌아가려고 하는 것이겠지만, 그것이 가능한 일일까? All characters gain 8 Lore.<br/><br/><b>The character with the YELLOW Story Marker, 그러니까 부적을 들고 있는 캐릭터는 메리펜의 영혼이 육신으로 돌아가는 것을 돕기 위해 must make an OCCULT or FAITH 10 check.</b><br/><br/>",
+													{
+														name: "<b>성공:</b> 부적은 맥동을 멈추고 그 빛을 잃는다. 메리펜의 가슴이 오르내리며 그녀는 숨을 쉬기 시작한다. 성공이다!",
+													},
+													"<br/>",
+													{
+														name: "<b>실패:</b> Lose one positive status and take a Tracking token. Continue to try this skill check until you succeed or until the number of Tracking tokens the group has equals the number of characters in the group (max 3), then read the SUCCESS condition.",
+													},
+												]
+											},
+										]
+									},
+									"<br/>",
+									{
+										name: "<b>선택 3:</b> 보석은 그냥 놔둔 채 관을 연다.",
+										item: [
+											"<b>Story Moment 50</b><br/><br/>그 안에는 젊고 아름다운 여인이 눈을 감은 채 미동도 하지 않고 누워있다. 여러 정황을 고려할 때 그녀는 메리펜이 틀림없다. 그녀는 다양한 재료와 색으로 만들어진 드레스를 입고 있다. 그녀는 죽은 것처럼 보이진 않지만 공허함이 느껴진다. 그녀의 육신에 영혼이 담겨있지 않기 때문일 것이다. 부적이 밝게 빛나기 시작한다. 그 안에 담긴 영혼이 자신의 육신으로 돌아가려고 하는 것이겠지만, 그것이 가능한 일일까? All characters gain 8 Lore.<br/><br/><b>The character with the YELLOW Story Marker, 그러니까 부적을 들고 있는 캐릭터는 메리펜의 영혼이 육신으로 돌아가는 것을 돕기 위해 must make an OCCULT or FAITH 10 check.</b><br/><br/>",
+											{
+												name: "<b>성공:</b> 부적은 맥동을 멈추고 그 빛을 잃는다. 메리펜의 가슴이 오르내리며 그녀는 숨을 쉬기 시작한다. 성공이다!",
+											},
+											"<br/>",
+											{
+												name: "<b>실패:</b> Lose one positive status and take a Tracking token. Continue to try this skill check until you succeed or until the number of Tracking tokens the group has equals the number of characters in the group (max 3), then read the SUCCESS condition.",
+											},
+										]
+									},
+								]
+							},
+						]
+					},
+					"<br/>",
+					{
+						name: "<b>실패</b>",
+						item: [
+							"<b>Story Moment 69</b><br/><br/>당신은 몇 분 정도 그 돌을 살펴보지만, 그것은 시간 낭비였다. 당신은 부적이 불만스러운 감정을 내뿜는 것을 느낀다. 그 안에서 휘몰아치는 빛이 녹색에서 붉은색으로 변한다.<br/><br/><b>The character holding the amulet loses 3 Power Points.</b><br/><br/>",
+							{
+								name: "<b><b>Read Story Moment</b></b>",
+								item: [
+									"<b>Story Moment 5</b><br/><br/>당신은 그 보석이 영혼들이 이 방을 떠나지 못하도록 막고 있는 봉인 역할을 하고 있다는 것을 깨닫는다. 아마도 발들리니가 이곳에 놓아두었을 것이다. 만약 메리펜의 영혼이 풀려나더라도 자신의 육신을 되찾지 못하도록 말이다. 하지만 그것은 그녀의 육신이 살아있을 때만 가능할 것이다.<br/><br/>",
+									{
+										name: "<b>Read Story Moment</b>",
+										item: [
+											"<b>Story Moment 30</b><br/><br/>당신은 그 보석을 어떻게 하고 싶은가?<br/><br/><b>CHOOSE YOUR PATH</b><br/><br/>",
+											{
+												name: "<b>선택 1:</b> 보석을 가져간다. The Leader gains the GREEN Story Marker, 그것은 보석을 나타낸다. 당신은 이제 관을 연다.",
+												item: [
+													"<b>Story Moment 50</b><br/><br/>그 안에는 젊고 아름다운 여인이 눈을 감은 채 미동도 하지 않고 누워있다. 여러 정황을 고려할 때 그녀는 메리펜이 틀림없다. 그녀는 다양한 재료와 색으로 만들어진 드레스를 입고 있다. 그녀는 죽은 것처럼 보이진 않지만 공허함이 느껴진다. 그녀의 육신에 영혼이 담겨있지 않기 때문일 것이다. 부적이 밝게 빛나기 시작한다. 그 안에 담긴 영혼이 자신의 육신으로 돌아가려고 하는 것이겠지만, 그것이 가능한 일일까? All characters gain 8 Lore.<br/><br/><b>The character with the YELLOW Story Marker, 그러니까 부적을 들고 있는 캐릭터는 메리펜의 영혼이 육신으로 돌아가는 것을 돕기 위해 must make an OCCULT or FAITH 10 check.</b><br/><br/>",
+													{
+														name: "<b>성공:</b> 부적은 맥동을 멈추고 그 빛을 잃는다. 메리펜의 가슴이 오르내리며 그녀는 숨을 쉬기 시작한다. 성공이다!",
+													},
+													"<br/>",
+													{
+														name: "<b>실패:</b> Lose one positive status and take a Tracking token. Continue to try this skill check until you succeed or until the number of Tracking tokens the group has equals the number of characters in the group (max 3), then read the SUCCESS condition.",
+													},
+												]
+											},
+											"<br/>",
+											{
+												name: "<b>선택 2:</b> 보석을 파괴한다.",
+												item: [
+													"<b>Story Moment 42</b><br/><br/>당신은 커다른 돌멩이를 발견하고 그것으로 보석을 내려쳐 가루로 만든다. 결과적으로 아무 일도 벌어지지 않았지만, 그것이 어떤 역할을 하고 있든 간에, 그 힘이 사라졌다는 것은 알 수 있다.<br/><br/><b>All characters gain 8 Lore and a random character gains the RED Story Marker.</b><br/><br/>",
+													{
+														name: "<b>이제 관을 연다.</b>",
+														item: [
+															"<b>Story Moment 50</b><br/><br/>그 안에는 젊고 아름다운 여인이 눈을 감은 채 미동도 하지 않고 누워있다. 여러 정황을 고려할 때 그녀는 메리펜이 틀림없다. 그녀는 다양한 재료와 색으로 만들어진 드레스를 입고 있다. 그녀는 죽은 것처럼 보이진 않지만 공허함이 느껴진다. 그녀의 육신에 영혼이 담겨있지 않기 때문일 것이다. 부적이 밝게 빛나기 시작한다. 그 안에 담긴 영혼이 자신의 육신으로 돌아가려고 하는 것이겠지만, 그것이 가능한 일일까? All characters gain 8 Lore.<br/><br/><b>The character with the YELLOW Story Marker, 그러니까 부적을 들고 있는 캐릭터는 메리펜의 영혼이 육신으로 돌아가는 것을 돕기 위해 must make an OCCULT or FAITH 10 check.</b><br/><br/>",
+															{
+																name: "<b>성공:</b> 부적은 맥동을 멈추고 그 빛을 잃는다. 메리펜의 가슴이 오르내리며 그녀는 숨을 쉬기 시작한다. 성공이다!",
+															},
+															"<br/>",
+															{
+																name: "<b>실패:</b> Lose one positive status and take a Tracking token. Continue to try this skill check until you succeed or until the number of Tracking tokens the group has equals the number of characters in the group (max 3), then read the SUCCESS condition.",
+															},
+														]
+													},
+												]
+											},
+											"<br/>",
+											{
+												name: "<b>선택 3:</b> 보석은 그냥 놔둔 채 관을 연다.",
+												item: [
+													"<b>Story Moment 50</b><br/><br/>그 안에는 젊고 아름다운 여인이 눈을 감은 채 미동도 하지 않고 누워있다. 여러 정황을 고려할 때 그녀는 메리펜이 틀림없다. 그녀는 다양한 재료와 색으로 만들어진 드레스를 입고 있다. 그녀는 죽은 것처럼 보이진 않지만 공허함이 느껴진다. 그녀의 육신에 영혼이 담겨있지 않기 때문일 것이다. 부적이 밝게 빛나기 시작한다. 그 안에 담긴 영혼이 자신의 육신으로 돌아가려고 하는 것이겠지만, 그것이 가능한 일일까? All characters gain 8 Lore.<br/><br/><b>The character with the YELLOW Story Marker, 그러니까 부적을 들고 있는 캐릭터는 메리펜의 영혼이 육신으로 돌아가는 것을 돕기 위해 must make an OCCULT or FAITH 10 check.</b><br/><br/>",
+													{
+														name: "<b>성공:</b> 부적은 맥동을 멈추고 그 빛을 잃는다. 메리펜의 가슴이 오르내리며 그녀는 숨을 쉬기 시작한다. 성공이다!",
+													},
+													"<br/>",
+													{
+														name: "<b>실패:</b> Lose one positive status and take a Tracking token. Continue to try this skill check until you succeed or until the number of Tracking tokens the group has equals the number of characters in the group (max 3), then read the SUCCESS condition.",
+													},
+												]
+											},
+										]
+									},
+								]
+							},
+						]
+					},
+				]
+			},
+			"<br/>",
+			{
+				name: "<b>• 선택 2:</b> 당신이 우선 관을 열고 싶다면,",
+				item: [
+					"<b>Story Moment 50</b><br/><br/>그 안에는 젊고 아름다운 여인이 눈을 감은 채 미동도 하지 않고 누워있다. 여러 정황을 고려할 때 그녀는 메리펜이 틀림없다. 그녀는 다양한 재료와 색으로 만들어진 드레스를 입고 있다. 그녀는 죽은 것처럼 보이진 않지만 공허함이 느껴진다. 그녀의 육신에 영혼이 담겨있지 않기 때문일 것이다. 부적이 밝게 빛나기 시작한다. 그 안에 담긴 영혼이 자신의 육신으로 돌아가려고 하는 것이겠지만, 그것이 가능한 일일까? All characters gain 8 Lore.<br/><br/><b>The character with the YELLOW Story Marker, 그러니까 부적을 들고 있는 캐릭터는 메리펜의 영혼이 육신으로 돌아가는 것을 돕기 위해 must make an OCCULT or FAITH 10 check.</b><br/><br/>",
+					{
+						name: "<b>성공:</b> 부적은 맥동을 멈추고 그 빛을 잃는다. 메리펜의 가슴이 오르내리며 그녀는 숨을 쉬기 시작한다. 성공이다!",
+					},
+					"<br/>",
+					{
+						name: "<b>실패:</b> Lose one positive status and take a Tracking token. Continue to try this skill check until you succeed or until the number of Tracking tokens the group has equals the number of characters in the group (max 3), then read the SUCCESS condition.",
+					},
+				]
+			},
+			"<br/><br/>방이 흔들리기 시작하며 관 몇 개가 쓰러진다. 곧 방안은 숨이 막힐 듯한 어둠에 휩싸이고, 텅 빈듯한 목소리가 끔찍한 단어를 내뱉는다. \"아니... 안돼... 그럴 순 없다. 죽음을 속일 수 없다. 넌 너의 오만에 대한 대가를 치를 것이다. 죽음을 맛보아라. 어둠이 너의 생명을 잠식하는 것을 느껴라.\"<br/><br/><br/>...<br/><br/><br/><b>ATTENTION!</b><br/><br/>방금 이방에 도착한 것이 무엇인지는 몰라도, 그 존재는 이 방을 봉인하던 보석의 힘을 제압했다.<br/><br/><b>• If a character has the GREEN Story Marker, 그 캐릭터가 가지고 있던 보석이 조각조각 폭발하여, causing 2d4 (SNARE) Damage.</b><br/><br/><b>• If nobody has the RED Story Marker, 제단 위에 놓여있던 보석이 폭발하여, causing 1d4 (SNARE) Damage to adjacent characters.</b>"
+		]
+	},
+	{
+		name: "STORY CLOSING (29)",
+		item: [
+			"<b>IF YOU WON THE BATTLE</b><br/><br/>당신은 무덤의 수호자를 장막 너머로 돌려보낸 뒤, 메리펜을 요로트러스크로 데려간다. 그녀는 의식을 되찾진 못했지만, 살아 있는 것처럼 보인다. 그녀의 영혼은 아마도 인간의 이해를 벗어난 고통을 받았을 것이다. 그녀가 깨어난다고 해도 회복에는 많은 시간이 걸릴 것이다.<br/><br/>집시 야영지에 도착하자, 플로리카가 많은 동족과 함께 당신을 맞이하러 달려나온다. 그녀의 눈물이 메리펜의 얼굴 위로 떨어지자, 메리펜은 거친 숨소리와 함께 눈을 뜬다. 당신은 이들에게 희망과 명예를 되찾아 주었다. 그날 밤 당신은 집시들과 모닥불 주위에 둘러앉아 당신이 겪은 일들을 이야기한다. 에메랄드가 박힌 부적을 살펴본 집시 장로 중 한 명이 말하길, 그것은 수년 전 도둑맞은 집시들의 가보라고 하며, 초록빛 부적(Greenlight Amulet)이라 불린다고 한다. 당신의 노고에 대한 보답으로 장로는 그 부적을 당신에게 주고자 한다. She also offers to immediately remove 1 Tarot card from each character, if they have one.<br/><br/><b>• You receive the Greenlight Amulet artifact</b><br/><br/><br/><b>IF YOU LOST THE BATTLE</b><br/><br/>당신은 요로트러스크 외곽의 집시 야영지에서 깨어난다. 당신은 잠시 혼란에 빠져 정신을 차리지 못한다(see <b>Rulebook \"On Death and Dying\" on page 32</b> and follow the instruction of Total Group Death).<br/><br/>플로리카는 당신이 돌아오지 않자 당신을 찾기 위해 사람들을 보냈고, 그들은 메리펜의 주검을 발견했다. 부적은 흔적도 찾아볼 수 없었다. 플로리카는 딸의 죽음에 망연자실했지만, 당신의 도움이 없었다면 딸의 시신을 찾지 못했을 뿐만 아니라, 발들리니에게 복수조차 할 수 없었을 것이기에 당신에게 감사의 말을 전한다. Each character receives a random Item from the Gypsies as thanks. Florica offers to remove one Tarot card from any single character at this time. 당신은 메리펜을 구할 순 없었지만, 적어도 그녀의 복수는 할 수 있었다.<br/><br/><br/><b>THE END</b>"
+		]
+	},
 ];
 
 /*
