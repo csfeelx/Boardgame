@@ -1777,6 +1777,109 @@
 			"<b>IF YOU WON THE BATTLE</b><br/><br/>당신은 무덤의 수호자를 장막 너머로 돌려보낸 뒤, 메리펜을 요로트러스크로 데려간다. 그녀는 의식을 되찾진 못했지만, 살아 있는 것처럼 보인다. 그녀의 영혼은 아마도 인간의 이해를 벗어난 고통을 받았을 것이다. 그녀가 깨어난다고 해도 회복에는 많은 시간이 걸릴 것이다.<br/><br/>집시 야영지에 도착하자, 플로리카가 많은 동족과 함께 당신을 맞이하러 달려나온다. 그녀의 눈물이 메리펜의 얼굴 위로 떨어지자, 메리펜은 거친 숨소리와 함께 눈을 뜬다. 당신은 이들에게 희망과 명예를 되찾아 주었다. 그날 밤 당신은 집시들과 모닥불 주위에 둘러앉아 당신이 겪은 일들을 이야기한다. 에메랄드가 박힌 부적을 살펴본 집시 장로 중 한 명이 말하길, 그것은 수년 전 도둑맞은 집시들의 가보라고 하며, 초록빛 부적(Greenlight Amulet)이라 불린다고 한다. 당신의 노고에 대한 보답으로 장로는 그 부적을 당신에게 주고자 한다. She also offers to immediately remove 1 Tarot card from each character, if they have one.<br/><br/><b>• You receive the Greenlight Amulet artifact</b><br/><br/><br/><b>IF YOU LOST THE BATTLE</b><br/><br/>당신은 요로트러스크 외곽의 집시 야영지에서 깨어난다. 당신은 잠시 혼란에 빠져 정신을 차리지 못한다(see <b>Rulebook \"On Death and Dying\" on page 32</b> and follow the instruction of Total Group Death).<br/><br/>플로리카는 당신이 돌아오지 않자 당신을 찾기 위해 사람들을 보냈고, 그들은 메리펜의 주검을 발견했다. 부적은 흔적도 찾아볼 수 없었다. 플로리카는 딸의 죽음에 망연자실했지만, 당신의 도움이 없었다면 딸의 시신을 찾지 못했을 뿐만 아니라, 발들리니에게 복수조차 할 수 없었을 것이기에 당신에게 감사의 말을 전한다. Each character receives a random Item from the Gypsies as thanks. Florica offers to remove one Tarot card from any single character at this time. 당신은 메리펜을 구할 순 없었지만, 적어도 그녀의 복수는 할 수 있었다.<br/><br/><br/><b>THE END</b>"
 		]
 	},
+	{},
+	{},
+	{
+		note: "<b>STORY V - SEASON OF THE STICKMAN: 스틱맨의 시기</b><br/>"
+	},
+	{
+		note: "<b>CHAPTER 1</b><br/>"
+	},
+	{
+		name: "A NIGHTMARE REBORN (30): 되살아난 악몽",
+		item: [
+			"…<br/><br/><br/>당신은 보급품을 보충하기 위해 요로트러스크를 찾아왔다. 상업 지구에 도착한 당신은 아직 해가 저물려면 시간이 많이 남았음에도 거리에 장사꾼들이 없는 것을 보고 놀란다. 당신이 마을에 무슨 문제가 생긴 것이 아닐까 궁금해하던 찰나, 상인 하나가 가게 문을 닫고 있는 것이 보인다. 문을 잠그고 돌아선 상인의 얼굴에는 근심이 가득하다.<br/><br/>당신은 그에게 다가가 무슨 문제가 있는 묻는다. 그는 한숨을 쉬며 말한다. \"지난 한 달 동안 오스테링크 인근 서부 지역과의 교역이 끊기고 말았습니다. 몇 대의 캐러밴이 왔을 뿐인데, 그마저도 이곳에서 약간의 보급품만을 사들인 뒤 말없이 남쪽으로 떠나버리더군요. 그곳에서 무슨 일이 벌어지고 있는지는 모르겠지만, 분명 좋지 않은 일일 겁니다. 보시다시피 저희는 물자 부족에 시달리고 있습니다. 뭔가 조치가 필요한 상황이지요.\"<br/><br/>최근 서쪽 마을들과 연락이 끊겼다는 소식은 당신을 심히 걱정스럽게 한다. 당신이 나서서 사건을 조사해야 할 때이다.<br/><br/><br/><b>CHOOSE YOUR PATH</b><br/>조사를 위해 무엇을 먼저 하겠는가?<br/><br/>• 오스테링크로 향하기 전, 요로트러스크를 돕기 위해 보급품을 기부하겠는가? This requires each character to discard one Item. If you decide to help the town, the Leader receives the GREEN Story Marker.<br/><br/><br/>…<br/><br/><br/>당신은 오스테링크에 도착한다. 그곳은 거의 버려진 상태이다. 섬뜩한 정적이 온 마을에 내려앉아 있다. 거리를 둘러보자 가끔 커튼 사이로 희미한 불빛이 깜박이는 것이 보인다. 하지만 당신이 아무리 문을 두드려 봐도 그 누구도 문을 열어주거나 대답해주지 않는다. 당황한 당신은 마을 주변을 조사해보기로 한다.<br/><br/>당신이 마을을 떠날 때쯤은 해가 저물고 있었다. 농경지에는 아무도 없고 작물들은 시들어 말라가고 있다. 분명히 이 주변에 상황을 설명해줄 만한 누군가가 있을 것이다.<br/><br/><br/><b>WORLD MAP<b/><br/><br/><b>Place 3 Compass tokens (A, B and C) randomly face-down in the locations shown on the World Map below.</b><br/><br/><br/><b>When you land on an area with a marker, flip it over and follow the instructions below.</b><br/><br/>",
+			{
+				name: "• A - Skip to <b>\"The Lone Farmer\" on page 31.</b>",
+			},
+			"<br/>",
+			{
+				name: "• B",
+				item: [
+					"<b>Story Moment 20</b><br/><br/>길옆에 농가가 보인다. 버려진 것처럼 보이지만, 당신은 안에 누군가 있을까 싶어 그곳에 다가가 문을 두드린다. 창문 너머로 안을 들여다보지만, 사람의 움직임은 보이지 않는다. 그 순간 뒤에서 으르렁거리는 소리가 들려오며 평화로운 정적이 깨진다. 돌아서자 광견병에 걸린 늑대 무리가 보인다. 놈들은 버려진 가축으로 잔치를 벌인 듯 입에 피가 잔뜩 묻어있다. 새로운 사냥감을 눈치챈 놈들은 당신을 향해 다가온다.<br/><br/><b>Skirmish with the Rabid Wolves and add +1 to their skirmish counter. 짐승들을 물리친 뒤, you leave to continue your search elsewhere.</b>"
+				]
+			},
+			"<br/>",
+			{
+				name: "• C",
+				item: [
+					"<b>Story Moment 61</b><br/><br/>많은 집이 버려져 있다. 당신은 그 사이를 지나치다 건초를 씹고 있는 소와 많은 닭이 있는 작은 농장에 도착한다. 문을 두드리자 안에서는 흐느끼는 소리가 들려오지만 아무도 대답하지 않는다.<br/><br/><b>CHOOSE YOUR PATH</b><br/><br/>",
+					{
+						name: "<b>선택 1:</b> 집안으로 들어갈 방법을 찾는다,",
+						item: [
+							"<b>Story Moment 65</b><br/><br/>문이 잠겨있지 않은 것을 눈치챈 당신은 조심스럽게 그것을 열고 안으로 들어간다. 집 안은 창문이 모두 가려져 있어 어두컴컴하기 짝이 없다. 행색은 지저분하지만, 볼살이 통통한 작은 여자아이가 죽은 것처럼 보이는 한 남자 옆에 무릎을 꿇고 있는 것이 보인다. 남자의 목과 옷에는 피가 흥건하다. 아이는 흐느끼며 소리친다. \"아빠, 아빠, 제발 일어나!\" 당신은 동정심에 가득 차 그녀에게 다가가 그녀의 아버지에게 무슨 일이 일어났는지 물어본다. 그녀는 당신에게 고개를 돌리지 않은 채 울먹이며 말한다. \"아빠가 물렸는데 깨어나질 않아요! 아빠 제발 일어나.\" 갑자기 남자가 눈을 번쩍 뜬다. \"아빠! 딱 점심시간이야.\"<br/><br/><b>소녀는 킥킥거리며 뒷문으로 도망친다. You must skirmish with a Vampire</b><br/><br/>당신은 그 부정한 존재를 물리친 뒤, 남아있던 닭을 잡아 식량을 보충한다. 유용하게 사용할 수 있는 닭들을 이곳에 남겨둘 필요는 없을 것이다. 당신은 아이에게 무슨 일이 있었던 건지 궁금해하며 농장을 떠난다.<br/><br/><b>All characters gain 1d4 Vita.</b>"
+						]
+					},
+					"<br/>",
+					{
+						name: "<b>선택 2:</b> Leave this place and continue your search. Continue the story. ",
+					},
+				]
+			},
+		]
+	},
+	{
+		name: "THE LONE FARMER (31): 홀로 남은 농부",
+		item: [
+			"밤이 깊어 어둠이 드리운다. 당신은 한참 동안 메마른 들판을 지나치다, 마침내 안에서 불빛이 반짝이는 2층짜리 농가에 도착한다. 이 농장에는 아직 건강한 작물이 자라고 있다.<br/><br/>당신이 키가 큰 옥수수밭을 통과하고 있을 무렵, 누군가가 외친다. \"거기 누굽니까!\" 고개를 돌리자 그곳에는 삽에 기대어 있어 있는 한 남자가 있다. 그리고 그의 옆에는 커다란 허수아비가 우뚝 솟은 기둥에 매달려있다. \"지금이 어느 땐지 모르십니까? 스틱맨(Stickman)의 시기가 찾아왔습니다.\" 그는 커다란 허수아비를 가리킨다. \"이곳에 남은 것은 우리 가족뿐이지요.\" 어리둥절한 당신은 모두에게 무슨 일이 있었는지, 그리고 스틱맨의 시기가 정확히 무엇을 말하는 것인지 묻는다.<br/><br/>그는 삽으로 옆에 있는 흙더미를 두드린다. \"이 사람이 제 농장을 마지막으로 찾아온 사람이지요. 여기서 멀지 않은 곳에서 조각난 채 발견되었답니다. 당신이 여기까지 무사히 온 것이 놀랍군요.\" 잠시 말을 멈춘 그는 탄식했다. \"얼마 남지 않습니다... 놈들은 지금까지 이곳을 피해왔지만, 곧 덤벼들겠지요.\"<br/><br/>\"그러니까... 제 할아버님인 윌프레도(Wilfredo)의 소년 시절, 같은 일이 있었다고 합니다. 그분은 죽은 이들이 들판을 기어 다니며 이웃을 습격하는 것 보았다고 하셨지요. 그 일이 어디서 시작되었는지는 모르지만, 마치 역병처럼 번져나갔다고 합니다.\"<br/><br/>\"최후에는 송곳니와 창백한 피부를 가진 부정한 것들이 이 농장을 포위했다고 합니다. 수십이나 되는 괴물이 농작물 사이를 기어 집으로 다가왔지요. 그러던 중 누구도 예상 못 한 일이 벌어졌습니다. 제 할아버님과 증조할아버님이 위층 창문에서 밖을 내다보는데, 갑자기 허수아비들이 살아 움직였다가 합니다.\" 그는 잠시 말을 멈추고는 불길한 허수아비를 가리킨다. \"바로 이 허수아비가 가장 먼저 땅으로 내려왔고, 그 후 나머지도 그 뒤를 따랐다고 들었습니다. 그들은 언데드들을 갈기갈기 찢어 버렸지요... 아무것도 남지 않을 때까지 말입니다.\"<br/><br/>\"그 일이 끝난 뒤, 스틱맨들은 제자리로 돌아갔고 보시다시피 아직 그대로 남아있습니다. 그 후로 많은 이들이 이곳에 돌아와 농장을 재건하고 땅을 경작하였지요. 그들은 그저 전염병 돌았던 것이라고 믿고 있지만, 전 진실을 알고 있습니다. 바로 그때 그 일이 다시 벌어지고 있는 겁니다. 제 생각에 우리가 아직 무사한 이유는, 오래전 그날 밤 살아남은 놈들이 이곳을 기억하고 있기 때문인 것 같습니다. 하지만 놈들은 곧 이 농장을 파괴하려 하겠지요. 스틱맨이 돌아와 이곳을 지켜주지 않는다면 우리는 끝장날 겁니다.\"<br/><br/>\"당신이 누구 신지는 모르지만, 제 직감으로는 이곳에 오신 게 우연은 아닌 것 같군요. 부디 우리를 도와주십시오. 이 열쇠를 가지고 고란 묘지(Goran Tombs)로 가서 할아버님인 윌프레도의 유해를 찾아주십시오. 그분의 무덤은 묘지 중앙에 있습니다. 우리에게 도움이 될 무언가가 남아 있을지도 모릅니다. 조심하십시오. 그곳에는 입에 담지도 못할 악의 존재들이 들끓고 있을 겁니다. 당신이 돌아오지 않는다면 우리는 모두 죽게 될 겁니다.\"<br/><br/><br/><b>STORY SKILL CHECK<br/>FAITH 6</b> - One Random Character<br/><br/><b>허수아비가 당신의 눈길을 끈다.</b><br/><br/>",
+			{
+				name: "<b>성공:</b> 아마도 당신의 착각일 테지만, 그 허수아비가 당신을 신뢰하는 눈빛으로 바라본 것만 같다. Gain the BLUE Story Marker.",
+			},
+			"<br/>",
+			{
+				name: "<b>실패:</b> 당신가 피부가 따끔거린다. 그 허수아비가 당신을 노려보는 것만 같다. 당신은 그것이 내뿜은 방어적인 분노를 느낀다. 그것은 당신에게 좋지 않은 의도가 있다고 믿는 듯하다. Become CURSED.",
+			},
+			"<br/><br/>..."
+		]
+	},
+	{
+		name: "THE DEAD DON'T SLEEP (31~32): 죽은 자는 잠들지 않는다",
+		item: [
+			"당신은 고란 묘지에 도착해 윌프레도의 무덤을 찾기 시작한다.고요하기 짝이 없는 고대의 매장지는 당신의 신경을 곤두서게 한다.<br/><br/><br/><b>STORY SKILL CHECK<br/>NERVE 5</b> - All Characters <br/><br/><b>오늘따라 묘지의 공기가 무겁고 답답하게 느껴진다. 마치 안식을 찾지 못한 망자들의 소리로 가득 차 있는 것만 같다.</b><br/><br/>",
+			{
+				name: "<b>성공:</b> 당신은 당신의 두려움을 극복한다. become BRAVE for the current chapter.",
+			},
+			"<br/>",
+			{
+				name: "<b>실패:</b> 당신은 아주 작은 소리에도 깜짝 놀랄 만큼 겁을 먹고 만다. You are SPOOKED.",
+			},
+			"<br/><br/>…<br/><br/><br/>마침내, 당신은 윌프레도의 무덤이 있는 영묘를 발견한다. 당신이 그곳에 다가가려 하자, 땅이 울리기 시작하며 주변의 무덤에서 손과 머리가 튀어나온다. 이곳의 망자들은 안식을 취하지 못하고 있다.<br/><br/><br/>...<br/><br/><br/><b>ATTENTION!</b><br/><br/>뼈와 파편이 어지러이 널려있어 움직이기가 쉽지 않다. All characters receive a -1 Stride penalty while on this map.<br/><br/><br/>…<br/><br/><br/><b>AFTER THE FIGHT</b><br/><br/>당신은 살아 움직이는 시체들은 다시 한번 무덤으로 돌려보낸 뒤 영묘 입구로 다가간다. 당신은 윌프레도의 손자가 당신에게 준 열쇠를 이용해 봉인된 무덤을 열고 그 안으로 들어간다. <b>\"Wilfredo's Resting Place\" on page 32</b>"
+		]
+	},
+	{
+		name: "WILFREDO'S RESTING PLACE (32~33): 윌프레도의 무덤",
+		item: [
+			"문을 통과한 당신은 벽에 걸려있던 횃불에 불을 붙이고 대리석 계단을 내려가기 시작한다. 당신은 곧 윌프레도의 손자에게 들은 것과 일치하는 묘실에 당도한다. 횃불이 어둠 속에서 일렁이며 기묘한 그림자를 드리운다. 방에는 관이 늘어서 있는데, 그 중 몇 개는 이미 약탈당한 듯하다.<br/><br/>커다란 방의 중앙에 작은 묘실이 있고, 그 안에 대형 석관이 자리 잡고 있다. 바로 저것이 윌프레도의 무덤인 듯하다. 쇠창살이 묘실 내부로 들어가는 길을 막고 있고, 각각 문 옆에는 레버가 있다.<br/><br/>당신이 중앙 묘실을 제외한 구역을 둘러보는 도중 희미한 속삭임이 들린다. 그 위협적인 목소리가 당신의 등골을 오싹하게 한다. 횃불이 흔들리며 그림자에서 영체가 모습을 드러낸다. 번뜩이는 놈의 눈이 당신의 영혼을 파고들고, 방이 갑자기 어둠에 빠진다. 놈들이 공격해온다!<br/><br/><br/>…<br/><br/><br/><b>PRIMARY GOALS</b><br/><br/><b>• Defeat all foes. See the Encounter dialog box.</b><br/><br/><b>• 쇠창살 문을 열고 묘실로 들어가기 위해 completing the two map skill checks:</b><br/><br/><br/><b>MAP SKILL CHECK<br/>TRICKERY 7</b> - Any Character for Each Lever<br/><br/><b>문을 열기 위해서는 두 개의 레버를 모두 당겨야만 한다. 그것들은 낡고 녹슬었으므로 조심해서 당겨야 할 것이다.</b><br/><br/>",
+			{
+				name: "<b>성공:</b> 당신은 레버 중 하나를 당기는 데 성공한다. gain 8 Lore. 레버 두 개를 모두 당겼다면 쇠창살 문이 밀려 올라간다. 당신은 이제 윌프레도의 무덤에 다가갈 수 있다.",
+			},
+			"<br/>",
+			{
+				name: "<b>실패:</b> 당신이 아무리 애를 써도 레버는 꼼짝도 하지 않는다. 지나치게 안간힘을 쓴 탓에 you lose 1 Vita. Put a Tracking token on this gate. For every tracking token on a gate, gain +1 TRICKERY for this skill check. You or another character may try again on their next turn.",
+			},
+			"<br/><br/><b>After all foes are defeated and the portcullis have been raised, immediately read \"Wilfredo's Coffin\" on page 33</b><br/><br/><br/>..."
+		]
+	},
+	{
+		name: "WILFREDO'S COFFIN (33): 윌프레도의 관",
+		item: [
+			"<b>쇠창살 문을 열었고, 모든 적을 물리쳤다면 읽을 것</b><br/><br/><br/><b>PRIMARY GOALS</b><br/><br/><b>• Search Wilfredo's coffin using the table below. Keep trying until successful.</b><br/><br/><br/><b>SEARCH RULES FOR WILFREDO'S COFFIN</b><br/><br/>1-3: 당신은 돌로 만들어진 무거운 관뚜껑을 열기 위해 애를 쓰다 상처를 입는다. Lose 2 Vita. Try again on your next turn.<br/><br/>4-6: 관뚜껑은 꼼짝도 하지 않는다. Try again on your next turn.<br/><br/>7-0: 당신은 관을 여는 데 성공한다. The character who was successful gains 8 Lore and becomes FORTIFIED. Continue to <b>\"Wilfredo's Remains\" on page 33.</b>"
+		]
+	},
+	{
+		name: "WILFREDO'S REMAINS (33): 윌프레도의 유해",
+		item: [
+			"관에 다가가자 그 안에서 강력하고 정의로운 힘이 느껴진다. 돌이 갈리는 묵직한 소리와 함께 관뚜껑이 열리고, 그 안에서 아직 몇 조각의 살점이 붙어있는 해골이 모습을 드러낸다.<br/><br/>해골은 두꺼운 파피루스로 포장된 작은 꾸러미를 손에 쥐고 있다. 당신이 조심스레 그것의 포장을 벗겨 내자 그 안에는 가시와 잔가지 그리고 풀과 짚 뭉치를 촘촘히 엮어 만든 사람의 심장 모양 물체가 있다. 당신은 그 기이한 심장을 자세히 살펴보기 위해 그것을 조심스럽게 집어 든다.<br/><br/><br/><b>STORY SKILL CHECK<br/>TRICKERY 6</b> - Any One Character<br/><br/><b>당신은 다치지 않게 조심하며 가치 돋친 포장을 벗겨 낸다.</b><br/><br/>",
+			{
+				name: "<b>성공:</b> 당신을 능숙하게 가시를 피해 심장을 집어 든다. 당신은 또한 관 구석에 놓여있던 기도문 하나를 발견한다. Become LUCKY and find one Prayer.",
+			},
+			"<br/>",
+			{
+				name: "<b>실패:</b> 당신은 심장을 집어 들던 중 가시에 찔린다. 끔찍이도 날카로운 가시가 당신의 손가락에 구멍을 낸다. Lose 2 Vita.",
+			},
+			"<br/><br/>The character performing the skill check gains the YELLOW Story Marker, which represents the Heart of Thorns. 심장은 당신의 손 위에서 천천히 맥동한다. 마치 살아있는 것처럼 느껴진다.<br/><br/>심장을 감싸고 있던 파피루스에는 윌프레도가 남긴 메모가 적혀있다:<br/><br/>\"피를 마시는 사악한 존재들이 돌아올 때를 대비하여, 가시 심장을 내 유해와 함께 보관한다. 난 언젠간 놈들이 복수를 위해 돌아올 거라는 것을 알고 있다. 스틱맨은 어머니의 친족인 집시들이 제조한 생명의 영약으로 만들어졌다. 영약은 스틱맨들에게 일종의 지성을 부여했고, 그들은 사악한 존재들로부터 우리를 지켜주었다.\"<br/><br/>\"네가 이곳을 찾아왔다는 것은, 재앙이 다시 시작되었다는 뜻일 것이다. 넌 다시 한번 스틱맨들에게 생명을 주어야 한다. 이 가시 심장(the Heart of Thorns)으로 그들의 안에 있는 영약을 깨워 적과 맞서게 할 수 있다. 하지만 심장의 힘이 약해졌으니 적들의 피로 그것을 적셔야만 한다. 심장을 가지고 피의 여왕이 잠들어 있는 올리-펠리오스(Olo-Pelios)로 가라. 아주 오래전부터 존재해왔던 그녀의 피에 담긴 힘이라면 스틱맨을 깨울 수 있을 것이다.\"<br/><br/>당신은 오스테링크를 위협하는 악을 막을 방법을 찾았다!<br/><br/><br/>..."
+		]
+	},
 ];
 
 /*
