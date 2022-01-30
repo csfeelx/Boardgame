@@ -1880,6 +1880,101 @@
 			"<br/><br/>The character performing the skill check gains the YELLOW Story Marker, which represents the Heart of Thorns. 심장은 당신의 손 위에서 천천히 맥동한다. 마치 살아있는 것처럼 느껴진다.<br/><br/>심장을 감싸고 있던 파피루스에는 윌프레도가 남긴 메모가 적혀있다:<br/><br/>\"피를 마시는 사악한 존재들이 돌아올 때를 대비하여, 가시 심장을 내 유해와 함께 보관한다. 난 언젠간 놈들이 복수를 위해 돌아올 거라는 것을 알고 있다. 스틱맨은 어머니의 친족인 집시들이 제조한 생명의 영약으로 만들어졌다. 영약은 스틱맨들에게 일종의 지성을 부여했고, 그들은 사악한 존재들로부터 우리를 지켜주었다.\"<br/><br/>\"네가 이곳을 찾아왔다는 것은, 재앙이 다시 시작되었다는 뜻일 것이다. 넌 다시 한번 스틱맨들에게 생명을 주어야 한다. 이 가시 심장(the Heart of Thorns)으로 그들의 안에 있는 영약을 깨워 적과 맞서게 할 수 있다. 하지만 심장의 힘이 약해졌으니 적들의 피로 그것을 적셔야만 한다. 심장을 가지고 피의 여왕이 잠들어 있는 올리-펠리오스(Olo-Pelios)로 가라. 아주 오래전부터 존재해왔던 그녀의 피에 담긴 힘이라면 스틱맨을 깨울 수 있을 것이다.\"<br/><br/>당신은 오스테링크를 위협하는 악을 막을 방법을 찾았다!<br/><br/><br/>..."
 		]
 	},
+	{},
+	{
+		note: "<b>CHAPTER 2</b><br/>"
+	},
+	{
+		name: "WELCOMING PARTY (33~34): 환영회",
+		item: [
+			"당신이 올로펠리오스 성에 도착했을 때는 이미 해가 저물고 있었다. 뱀파이어를 상대하기에 좋은 때는 아니지만, 당신에게는 낭비할 시간이 없기에 어쩔 수 없이 입구로 향한다.<br/><br/>그 불길한 성은 반짝이는 검은 돌로 만들어져 있다. 무시무시할 정도로 아름다웠던 과거의 모습은 흔적만이 남아있을 뿐이다. 우뚝 솟은 첨탑 위에서 가고일들이 당신을 주시하고 있다. 대강당으로 통하는 문은 열려 있다. 희미하게 깜빡이는 횃불 빛이 그 안을 비추고 있는데 언뜻 보기에는 아무도 없는 듯하다. 벽에는 피비린내 나는 대학살과 노예가 된 인류를 묘사한 고대 테피스트리들이 걸려있다. 방 중앙에는 정교하게 만들어진 왕좌가 있다. 당신은 피의 여왕(Blood Queen)을 찾아 그 안으로 들어간다.<br/><br/><br/><b>CHOOSE YOUR PATH</b><br/><br/><b>사악한 존재들이 당신을 기다리고 있을 것이 틀림없다. 그림자 속에 무엇이 숨어있는지 누가 알겠는가!</b><br/><br/>",
+			{
+				name: "<b>• 선택 1:</b> 전투를 각오하고 당당히 안으로 들어가겠는가?",
+				item: [
+					"<b>Story Moment 40</b><br/><br/>당신은 자신의 능력을 믿고 매복에 주의하며 안으로 들어간다.<br/><br/><b>The Leader must make an AWARENESS 6 check.</b><br/><br/>",
+					{
+						name: "<b>• 성공:</b> 당신은 찰나의 순간 그림자 속에서 무언가가 움직이는 것을 눈치채고, 일행에게 경고한다. Gain 8 Lore. Skirmish with Vampires with their +1 on the skirmish counter. All characters gain +5 Might for the combat.",
+					},
+					"<br/>",
+					{
+						name: "<b>• 실패:</b> 이상한 점은 눈치채지 못한 당신은 당당히 안으로 들어간다. 그림자 속에서 갑자기 사악한 존재가 모습을 드러낸다. 놈들은 당신의 피를 원하고 있다. Skirmish with Vampires with the skirmish counter at maximum. All characters receive -5 Defense for the combat.",
+					},
+				]
+			},
+			"<br/>",
+			{
+				name: "<b>• 선택 2:</b> 적들의 눈에 띄지 않도록 주의하며 안으로 들어간다.",
+				item: [
+					"<b>Story Moment 3</b><br/><br/>이 장소가 위험하다는 것은 의심할 여지가 없다. 발걸음에 주의하며 조용히 숨어 들어가는 것이 최선의 방법일 것이다.<br/><br/><b>The Leader must pass TRICKERY 9.</b><br/><br/>",
+					{
+						name: "<b>성공:</b> 당신은 위험을 감지하고 재빨리 그림자 속으로 숨는다, gain 8 Lore. 결국, 사악한 존재는 이곳을 떠나버린다.",
+					},
+					"<br/>",
+					{
+						name: "<b>실패:</b> 당신은 바닥에 널려 있는 파편 때문에 발을 헛디디며 적에게 들키고 만다. Skirmish with Vampires with the skirmish counter at maximum. All characters receive - 5 Might and Defense for the combat.",
+					},
+				]
+			},
+			"<br/><br/><b>STORY SKILL CHECK<br/>AWARENESS 6</b> - Any One Character<br/><br/><b>당신은 왕좌에서 무언가를 찾아낼 수 있겠는가?</b><br/><br/>",
+			{
+				name: "<b>성공:</b> 당신은 왕좌 밑단에서 교묘하게 숨겨진 버튼 하나를 찾아낸다. 당신이 그것을 누르자 왕좌가 움직이며 그 안에 숨겨져 있던 통로가 모습을 드러낸다. 통로는 사다리를 통해 어둠 속으로 이어진다. Continue to <b>\"Too Late!\" on page 34.</b>",
+			},
+			"<br/>",
+			{
+				name: "<b>실패:</b> 당신은 왕좌를 살펴보느라 귀중한 시간을 낭비하고 만다. 하지만 결국 당신은 왕좌 밑단에서 교묘하게 숨겨진 버튼 하나를 찾아낸다. 당신이 그것을 누르자 왕좌가 움직이며 그 안에 숨겨져 있던 통로가 모습을 드러낸다. 통로는 사다리를 통해 어둠 속으로 이어진다. Gain the RED Story Marker. Continue to <b>\"Too Late!\" on page 34.</b>",
+			},
+		],
+	},
+	{
+		name: "TOO LATE! (34): 너무 늦고 말았다!",
+		item: [
+			"당신은 사다리를 타고 내려가 희미한 불빛이 비치는 방에 도착한다. 투박한 나무 책상이 하나 있고, 그 위에는 낡고 변색된 종이들이 널려있다. 그 종이에는 지하 감옥에 수감된 범죄자들에 관한 내용이 적혀있다. 방의 반대편에는 굳게 잠긴 문이 있다. 당신은 당신이 찾고 있는 것이 바로 그 문 너머에 있다는 것을 깨닫는다.<br/><br/><br/><b>PRIMARY GOALS</b><br/><br/><b>• Unlock the door by completing the map skill check.</b><br/><br/><br/><b>MAP SKILL CHECK<br/>TRICKERY 6</b> - One Adjacent Character<br/><br/><b>이 단단한 나무문은 죄수들을 가두기 위해 만들어진 것이지만, 지금은 당신의 앞길을 막고 있다. 그것을 열 수 있겠는가?</b><br/><br/>",
+			{
+				name: "<b>성공:</b> 당신은 성공적으로 문을 열어낸다. Become LUCKY.",
+			},
+			"<br/>",
+			{
+				name: "<b>실패:</b> 당신을 문을 열기 위해 애를 쓰다 함정을 건드리고 만다. 벽에서 숨겨져 있던 톱니 모양의 칼날이 튀어나와 당신을 찌른다. You suffer 1d4 (SNARE 1) Damage.",
+			},
+			"<br/><br/><b>• After unlocking the door, immediately read \"The Vampire Queen\" on page 34.</b><br/><br/><br/>..."
+		]
+	},
+	{
+		name: "THE VAMPIRE QUEEN (34~35): 피의 여왕",
+		item: [
+			"<b>지하감옥으로 통하는 문을 연 뒤 읽을 것</b><br/><br/>당신이 문을 열고 안으로 들어가자, 바닥에 웅크린 남자와 그 옆에 무릎을 꿇고 있는 붉은 머리카락의 여자가 보인다. 그녀는 당신에게 등을 보이고 있기에 그녀의 얼굴은 보이지 않는다. 바닥에 웅크린 남자는 고통에 몸부림치며 공포에 질린 눈으로 당신을 바라본다. 여자가 당신을 향해 고개를 돌린다. 그녀의 섬세한 얼굴에는 어둡고 관능적인 아름다움이 흐른다. 그녀는 입술에서 피를 뚝뚝 흘리며 오랜 친구를 다시 만난 것 마냥 미소 짓는다. 그녀는 남자를 무자비하게 내팽개치고, 남자는 곧 목숨을 잃고 만다.<br/><br/>그녀는 마치 이 세상의 것이 아닌 듯한 우아한 태도로 몸을 일으킨다. 그녀가 움직일 때마다 두껍고 부드러운 재질로 만들어진 화려한 색상의 로브가 춤을 춘다. 그녀는 매혹적인 목소리로 이야기한다. \"난 널 기다려 왔다. 네가 내 아이들의 사냥을 방해하려는 것을 알고 있지. 하지만 넌 이미 늦었다. 난 네가 이곳에 도착하기 바로 전 그들을 떠나 보냈지.\"<br/><br/>그녀는 믿을 수 없는 속도로 당신에게 다가오며 말한다. 그녀의 목소리에 담긴 힘이 점점 더 강해진다. \"나와 함께 하자. 내가 친히 네 피를 빨아 너에게 영생을 약속하마. 내게 오너라...\"<br/><br/><br/>…<br/><br/><br/><b>MAP SKILL CHECK #1<br/>SPEECH 6</b> - One Adjacent Character<br/><br/><b>감방 구석에 마을 주민 하나가 겁에 질려 벌벌 떨고 있다. 그를 진정시킬 수 있겠는가?</b><br/><br/>",
+			{
+				name: "<b>성공:</b> 당신은 그에게 해를 끼칠 생각이 없다고 말하며 그를 진정시킨다. Gain a random Militia companion.",
+			},
+			"<br/>",
+			{
+				name: "<b>실패:</b> 그는 겁에 질려 이성을 잃고 달아나고 만다. Lose a random positive status.",
+			},
+			"<br/><br/><b>MAP SKILL CHECK #2<br/>ARCHEOLOGY 6</b> - One Adjacent Character<br/><br/><b>이 감방 벽에는 피로 그려진 기이한 룬이 있다. 당신은 그 의미를 알겠는가?</b><br/><br/>",
+			{
+				name: "<b>성공:</b> 이 룬을 그린 사람은 광기에 사로잡힌 것이 틀림없지만, 굉장한 통찰력을 가지고 있었을 것이다. 당신은 그것의 극히 일부만을 이해했을 뿐이지만, 이를 통해 영감을 얻을 수 있었다. Gain a Ritual and a Boon.",
+			},
+			"<br/>",
+			{
+				name: "<b>실패:</b> 당신은 그 룬의 의미를 이해할 수 없다. 그것을 이해하려는 헛된 시도는 당신을 광기에 사로잡히게 한다. Become DERANGED.",
+			},
+			"<br/><br/><b>AFFLICTION ENCOUNTER</b><br/><br/><b>Encounter Orinthe the Blood Queen and 2 Vampires.</b><br/><br/>• If any character has the RED Story Marker, 피의 여왕은 당신이 도착하기 전 이미 배부르게 피를 마신 뒤였다. She gains +5 Might.<br/><br/>• If there are 4-5 characters, add a Necuratu to the fight.<br/><br/><br/><b>AFTER THE FIGHT</b><br/><br/>",
+			{
+				name: "<b>• 일행 모두가 살해당했다면,</b>",
+				item: [
+					"<b>Story Moment 43</b><br/><br/>당신은 오스테링크의 집시 야영지에서 깨어난다. 당신은 무슨 일이 벌어진 것인지 기억할 수 없다. 오스테링크는 거의 텅 비어 있다. 가끔 짐마차를 끌고 안전한 곳을 찾아 떠나는 사람들이 보일 뿐이다. 집시들은 대량을 피를 흘리며 반쯤 죽어 있는 당신을 발견했고, 당신을 그들의 야영지로 데려와 죽음의 문턱에서 다시 데려올 수 있었다고 한다.<br/><br/><b>See Rulebook “On Death and Dying\" on page 32 and follow the instruction of Total Group Death. In addition to those rules, the entire group has BLOODLUST 5. The group loses the Heart of Thorns (the YELLOW Story Marker).</b>"
+				]
+			},
+			"<br/>",
+			{
+				name: "<b>• 당신이 피의 여왕을 물리쳤다면,</b>",
+				item: [
+					"<b>Story Moment 66</b><br/><br/>당신은 격전 끝에 이 재앙의 근원인 피의 여왕의 목을 잘라낸다. 당신은 조심스럽게 그녀의 피에 가시 심장을 담근다. 심장이 그 안에 담긴 힘을 빨아들이자 피 웅덩이는 순식간에 말라버린다. 이제 그녀의 수하들이 오스테링크과 그 주변을 휩쓸기 전에 놈들을 막아야 한다."
+				]
+			},
+			"<br/><br/>..."
+		]
+	},
 ];
 
 /*
@@ -1892,6 +1987,9 @@
         {
                 name: "",
                 ko: ""
+        },
+	{
+                name: "",
         },
 	{
                 name: "",
