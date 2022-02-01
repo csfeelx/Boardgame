@@ -1975,6 +1975,45 @@
 			"<br/><br/>..."
 		]
 	},
+	{},
+	{
+		note: "<b>CHAPTER 3</b><br/>"
+	},
+	{
+		name: "THE HEART AWAKENS (35~36): 심장이 깨어나다",
+		item: [
+			"...<br/><br/><br/>당신은 너무 늦지 않았기를 바라며 가능한 한 빠르게 농장으로 돌아간다. 당신이 농장에 도착했을 때는 이미 뱀파이어들이 그곳에 도착해, 기둥에서 허수아비들을 끌어내려 그것을 갈기갈기 찢기 시작한 참이었다. 위층 창문에서 윌프레도의 손자와 그의 가족들이 절망에 빠진 눈으로 그 모습을 바라보고 있다. 아직 그들을 구할 시간이 있다!<br/><br/>무리의 리더로 보이는 네쿠라투(Necuratu)가 피를 갈망하는 차가운 눈빛으로 당신을 응시한다. 놈이 말한다. \"여왕께서 너희를 파괴하는 데 실패하셨군. 내가 그분의 뜻을 대신 할 것이다.\"<br/><br/><br/>…<br/><br/><br/><b>OPTIONAL GOALS</b><br/><br/><b>• 스틱맨에게 심장을 돌려주기 위해서 당신의 모든 의지를 끌어모으고, completing the following map skill check. Receive +1 OCCULT for each Tracking token you have.</b><br/><br/><br/><b>MAP SKILL CHECK<br/>OCCULT 8</b> - Adjacent Character Holding The Heart (Must have the YELLOW Story Marker)<br/><br/>",
+			{
+				name: "<b>성공:</b> 당신이 심장을 허수아비에게 가져다 대자 심장이 점점 더 빠르게 뛰기 시작한다. 갑자기 스틱맨이 자신이 매달려 있던 기둥에서 뛰어내린다. The character holding the BLUE Story Marker controls it during their turn. <b>(Draw the Stickman Companion card)</b>",
+			},
+			"<br/>",
+			{
+				name: "<b>실패:</b> Receive a Tracking token. Try again on your next turn.",
+			},
+			"<br/><br/>..."
+		]
+	},
+	{
+		name: "STORY CLOSING (36)",
+		item: [
+			"<b>IF YOU WON THE BATTLE</b><br/><br/>당신이 피의 여왕의 마지막 수하를 쓰러뜨리자, 스틱맨은 자신의 기둥을 찾아가 평범한 허수아비로 되돌아간다. 위기에서 벗어난 농부와 가족들이 환호성을 지르며 집 밖으로 뛰쳐나온다. \"당신이 우리를 구하셨습니다. 이 빚을 어떻게 갚아야 할지 모르겠군요.\"<br/><br/>",
+			{
+				name: "<b>• If the group has the YELLOW Story Marker,</b>",
+				item: [
+					"<b>Story Moment 67</b><br/><br/>스틱맨은 자신의 안식처로 돌아가 다시 평범한 허수아비가 되었다. 농부가 감사를 표하며 말한다. \"이 심장을 받아주십시오. 당신은 이제 이 심장의 수호자입니다. 그리고 이건 놈들에게 파괴된 스틱맨에게서 찾아낸 생명의 영약이 담긴 병입니다. 분명 도움이 될 일이 있을 겁니다.\"<br/><br/><b>The group receives the Heart of Thorns and the Elixir of Life Artifacts.</b>"
+				]
+			},
+			"<br/>",
+			{
+				name: "<b>• If the group has the GREEN Story Marker, on your next visit to Yorotrusk the group is allowed to rest for free at the Inn free of charge.</b>",
+			},
+			"<br/><br/><b>IF YOU LOST THE BATTLE</b><br/><br/>당신은 오스테링크 외곽의 집시 야영지에서 깨어난다. 머리가 깨어질 듯 아프고 가슴이 찢어질 것만 같은 상실감이 느껴지지만, 정확히 무슨 일이 있었는지 기억이 나지 않는다(see <b>Rulebook “On Death and Dying” on page 32</b> and follow the instruction of Total Group Death). 농부가 쓰러진 당신을 집시 야영지로 데려왔다고 한다. 남은 뱀파이어들은 당신을 상대한 뒤, 오스테링크과 그 주변이 더 이상 손쉬운 먹잇감이 아님을 깨닫고 달아났다. 이제 당신은 다친 몸을 추스르고 다가올 위협에 대비해야만 한다.<br/><br/>",
+			{
+				name: "<b>• If the group has the GREEN Story Marker, on your next visit to Yorotrusk the group is allowed to rest for free at the Inn free of charge.</b>",
+			},
+			"<br/><br/><b>THE END</b>"
+		]
+	},
 ];
 
 /*
@@ -1984,10 +2023,6 @@
 	"<br/>",
 	•
 	<br/><br/>  -------------------------<br/><br/> 
-        {
-                name: "",
-                ko: ""
-        },
 	{
                 name: "",
         },
@@ -1995,12 +2030,6 @@
                 name: "",
                 item: [
 			
-		]
-        },
-	{
-                name: "",
-                item: [
-			""
 		]
         },
 */
