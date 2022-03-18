@@ -2014,6 +2014,122 @@
 			"<br/><br/><b>THE END</b>"
 		]
 	},
+	{},
+	{},
+	{
+		note: "<b>STORY VI - ORIGINS OF THE FLAME: 화재의 원인</b><br/>"
+	},
+	{
+		note: "<b>CHAPTER 1</b><br/>"
+	},
+	{
+		name: "HIGH ALERT (37): 경계 태세",
+		item: [
+			"완전히 지쳐버린 당신은 휴식을 위해 웨일린 포인트로 향하고 있다. 시골 길을 터벅터벅 걷고 있던 당신은 대기에 타는 냄새가 가득한 것을 눈치챈다. 웨일린 포인트는 아직 멀리 있지만, 그곳에 무언가 위협이 닥친 것이 분명하다. 당신은 서둘러 마을이 보이는 언덕 꼭대기로 올라간다. 웨일린 포인트가 불타고 있다. 여관이 위치한 마을의 중심부에서 커다란 불길이 타오르며 연기가 피어오르고, 불길이 인근 건물로 번지고 있다. 언덕을 뛰어 내려가 마을로 향하던 당신은 길에서 한 무리의 마을 주민과 마주친다. 그들은 웨일린 포인트에서 도망 나온 것으로 보인다.<br/><br/><br/><b>CHOOSE YOUR PATH</b><br/>당신은 무엇을 먼저 조사하겠는가?<br/><br/><b>주민들에게 화재에 대한 정보를 얻을 수 있을지도 모른다.</b><br/><br/>",
+			{
+				name: "<b>• 선택 1:</b> 그들을 멈춰 세우고 화재에 대해 물어보겠는가?",
+				item: [
+					"<b>Story Moment 81</b><br/><br/>당신은 주민들에게 다가가 무슨 일이 있었는지 묻는다. 그들은 아무 말 없이 당신을 밀치고 지나간다.<br/><br/><b>A random character must pass TRICKERY 7 or 땅바닥에 쓰러져, losing 2 Vita. 화가 난 당신은 그들이 화재를 일으킨 당사자가 아닌지 의심한다. 또는 훔친 물건을 가지고 도망가는 도적들일 수도 있다.</b><br/><br/>",
+					{
+						name: "<b>당신이 그들을 쫓아가겠다면,</b>",
+						item: [
+							"<b>Story Moment 57</b><br/><br/>지금 중요한 것은 마을의 화재이긴 하지만, 그들이 도적이라면 그냥 보내서는 안 된다. 당신은 그들을 쫓아가 멈춰 세운다. 주민들이 당신을 향해 돌아선다. 그들의 표정은 어둡고, 화가 나 있다. 그들은 하나같이 아무 말도 없이 단검을 뽑아들고 덤벼든다.<br/><br/><b>Skirmish with a Angry Mob with a +2 on the skirmish counter. When you defeat them, read on.</b><br/><br/>주민들은 맹렬히 덤벼들었고, 결국 그 중 하나가 당신의 발 앞에 쓰러져 죽는다. 그제야 군중은 공격을 멈춘다. 주민 중 한 명이 손짓하자 갑자기 시체가 강렬한 화염을 내뿜으며 폭발한다. 연기가 눈과 코를 찌르며 당신의 시야를 가린다. 당신이 시야를 회복했을 때, 주민들은 온데간데없이 사라져 버리고, 타고 남은 재만이 남아있을 뿐이다. 당신은 무언가 잘못되었다는 것을 깨닫는다. 이제 마을의 화재를 진압하러 가야 할 때이다.<br/><br/><b>Gain the RED Story Marker.</b>"
+						]
+					},
+					{
+						name: "<br/><b>otherwise continue the story.</b>",
+					},
+				],
+			},
+			"<br/>",
+			{
+				name: "<b>• 선택 2:</b> 화재의 원인을 알아내는 것은 당장 중요한 일이 아니다. 마을로 달려가 그곳의 사람들을 돕는 것이 먼저다.",
+				item: [
+					"<b>Story Moment 84</b><br/><br/>불길이 빠르게 번지고 있다. 마을로 달려가는 도중 당신은 더 많은 마을 주민과 마주친다. 그들은 당신을 보고도 아무런 반응이 없다. 마치 당신의 존재를 눈치채지 못한 것으로 보인다. 일행 중 하나가 그들과 부딪혔을 때, 양피지 몇 장이 바닥에 떨어진다. 그것을 주워든 당신은 그것이 평범한 마을 사람이 가지고 있어서는 안 될 어둠의 주문서임을 깨닫는다. 그 중 하나는 화재의 원인으로 짐작되는 불의 의식을 담고 있다. 당신이 사태의 심각성을 깨달았을 때, 그들은 이미 모두 사라지고 없었다. 대체 무슨 일이 생긴 건지 걱정하며, 당신은 마을로 가는 길을 서두른다."
+				]
+			},
+			"<br/><br/>당신은 혼란에 빠진 마을에 도착한다. 당신이 안으로 들어가려 할 때, 당신을 수상하게 여긴 마을 경비대가 당신을 막아선다.<br/><br/><br/><b>STORY SKILL CHECK<br/>SPEECH 7</b> - Any One Character<br/><br/><b>당신은 이미 몇 번이나 이 마을을 도운 적이 있다. 당신은 당신이 누구이며, 이곳을 도우러 왔음을 설명할 수 있겠는가?</b><br/><br/>",
+			{
+				name: "<b>성공:</b> 당신이 누구인지를 깨달은 경비병들은 당신을 막아선 것에 대해 진심으로 사과한다. Gain a Boon and become RESPECTED.",
+			},
+			"<br/>",
+			{
+				name: "<b>실패:</b> 신경이 곤두선 경비병들은 당신의 설명을 무시한다. 그들은 잠재적 위협은 무엇이든 제거할 생각이다. Skirmish with Watchmen. 그 후 마을의 의사가 당신이 누구인지를 설명하며 중재에 나선다. He gives the group a Bandage token.",
+			},
+			"<br/><br/>당신은 물이 가득 찬 양동이를 나르며 화재 진압을 돕는다. 하지만 불길은 결국 태울만한 모든 것을 태운 뒤에야 잦아든다.<br/><br/><br/><b>ATTENTION!</b><br/><br/>If the group has the RED Story Marker, 여관은 완전히 파괴되고 말았다. those services are not available in Waylin Point for the duration of the story.<br/><br/><br/>불길이 진정된 후, 당신은 무슨 일이 일어났는지에 대한 자세한 정보를 얻기 위해 마을 회관 방문한다. 당신은 이곳에 오는 도중 몇몇 주민들이 서둘러 마을을 떠나는 것을 보았다고 이야기한다. 마을 회관의 담당자가 이야기한다. \"그들은 화재를 일으킨 범인이 맞습니다. 하지만 그들은 모두 여관의 단골손님이었고, 오랜 친구였으며, 모두 자신의 직업에 충실한 이들이었지요. 저희는 아직도 어째서 이런 일이 일어났는지 모르겠습니다. 저희는 그들을 체포하고 감옥에 가둘 수 있는 영장을 가지고 있습니다. 목격자도 많았는데, 그들의 말에 따르면 범인 중 하나가 이상한 말을 읊조리며 기묘한 손동작을 하자 갑자기 여관이 불길에 휩싸였다고 합니다. 이런 이상한 일은 처음이군요.\"<br/><br/>당신은 웨일린 포인트 재건에 힘을 보탠다. 그 후 며칠간 전령들이 이곳에서 벌어진 사건과 유사한, 주술에 의한 파괴 행위에 관한 소식들을 가지고 온다. 보고서에 묘사된 용의자들은 매우 다양하다. 이는 곧 범죄 집단이 하나 이상이라는 것을 암시한다. 당신이 이제까지 마을을 위해 어떠한 일을 해왔는지 알고 있는 마을의 지도자들은, 더 끔찍한 일이 벌어지기 전에 용의자들을 추적하여 법정에 세우는 것을 도와줄 수 있는지 묻는다. 당신은 금지된 비술이 어떻게 일반 주민들의 손에 들어가게 되었는지 걱정하며, 그들의 요청을 받아들인다.<br/><br/><br/>..."
+		]
+	},
+	{
+		name: "MANHUNT (38): 추적",
+		item: [
+			"당신은 이 수상한 '마법사'들을 쫓기로 한다. 그들이 어둠의 힘을 이용하고 있다는 것은 의심할 여지가 없지만, 그들은 평범한 마을 주민으로 위장하고 있다. 그들 중 하나를 붙잡아 정보를 캐내야만 한다!<br/><br/><br/><b>WORLD MAP</b><br/><br/><b>Place 3 Compass tokens (A, B and C) randomly face-down in the locations shown on the World Map below.</b><br/><br/><b>When you land on an area with a marker, flip it over and follow the instructions below.</b><br/><br/>",
+			{
+				name: "• A - Move on to <b>”Without Control” on page 38.</b>",
+			},
+			"<br/>",
+			{
+				name: "• B",
+				item: [
+					"<b>Story Moment 79</b><br/><br/>당신은 현관에 커다란 룬이 새겨진 작은 집을 발견한다. 안에서 여인 하나가 흐느껴 울며 도움을 청하고 있다. 당신은 이 섬뜩한 룬이 무엇을 의미하는지 알고 있다. 앞장서서 문에 손을 대는 사람은 저주를 받게 될 것이다!<br/><br/><b>Pass OCCULT 9 하여 룬을 해제한다.</b><br/><br/>",
+					{
+						name: "<b>만약 성공하면, 당신은 안으로 들어간다.</b>",
+						item: [
+							"<b>Story Moment 4</b><br/><br/>집 안에는 심하게 다친 남자와 그의 곁에 웅크려 울고 있는 그의 아내가 있다. 그는 심한 화상을 입어 의사의 치료가 필요한 상황이다. If you take him as a Mission Companion and then bring him to the nearest town, you will receive 20 Coins in thanks. 그렇지 않으면, 당신은 최선을 다해 그의 상처를 돌보며 그의 아내에게 그가 죽지 않을 것이라고 말해준다. 그의 아내는 눈물이 가득한 눈으로 당신에게 감사를 표하며, 한 무리의 강도들이 집에 침입해 남편을 찌른 다음 그들을 가두어 두었다고 이야기한다.<br/><br/><b>The group gains 8 Lore.</b>"
+						]
+					},
+					"<br/>",
+					"<b>만약 실패하면, 당신은 저주받는 것을 감수하고서라도 사람을 구할 것인지 결정해야만 한다.</b><br/><br/>",
+					{
+						name: "<b>그렇게 하겠다면, pick a character to be CURSED and,</b>",
+						item: [
+							"<b>Story Moment 4</b><br/><br/>집 안에는 심하게 다친 남자와 그의 곁에 웅크려 울고 있는 그의 아내가 있다. 그는 심한 화상을 입어 의사의 치료가 필요한 상황이다. If you take him as a Mission Companion and then bring him to the nearest town, you will receive 20 Coins in thanks. 그렇지 않으면, 당신은 최선을 다해 그의 상처를 돌보며 그의 아내에게 그가 죽지 않을 것이라고 말해준다. 그의 아내는 눈물이 가득한 눈으로 당신에게 감사를 표하며, 한 무리의 강도들이 집에 침입해 남편을 찌른 다음 그들을 가두어 두었다고 이야기한다.<br/><br/><b>The group gains 8 Lore.</b>"
+						]
+					},
+					"<br/>",
+					{
+						name: "<b>그렇게 하지 않겠다면,</b>",
+						item: [
+							"<b>Story Moment 14</b><br/><br/>당신은 그 가엾은 여인을 버려두고 뒤돌아선다. 죄책감이 당신의 가슴을 조여온다.<br/><br/><b>Each character loses 1 positive status.</b>"
+						]
+					},
+				]
+			},
+			"<br/>",
+			{
+				name: "• C",
+				item: [
+					"<b>Story Moment 1</b><br/><br/>길은 숲 속의 작은 공터로 이어진다. 그곳에는 아직 불이 타오르고 있는 모닥불이 있는 야영지가 있다. 당신은 올바른 장소를 찾아왔다. 당신이 쫓고 있는 자들은 분명 근처에 있을 것이다. 하지만 곧 커다란 고함과 함께 도적들이 습격해온다!<br/><br/><b>Skirmish with Highwaymen with the skirmish counter at maximum.</b>"
+				]
+			},
+		]
+	},
+	{
+		name: "WITHOUT CONTROL (38~39): 통제 불능",
+		item: [
+			"당신은 수상한 마법사들을 쫓아 강행군을 해왔다. 그러던 와중, 당신은 갑자기 대열을 지어 길을 막고 있는 한 무리의 마을 주민들과 마주친다. 무슨 일인지 보러 가까이 다가가자, 그들은 당신을 향해 돌아선다. 당신은 그들이 웨일린 포인트를 향하던 길에 마주친 자들이라는 것을 눈치챈다. 그들은 무기를 꺼내 들고 당신을 향해 다가온다.<br/><br/><br/>...<br/><br/><br/><b>ENCOUNTER</b><br/><br/><b>Encounter 2 Angry Mobs. The Angry Mobs automatically win First Strike for this combat.</b><br/><br/>• 이 마을 주민들은 어둠의 마법을 사용하고 있다. At the end of every round, the Angry Mobs will spawn a Flame token in a random square that a character occupies. If there are 6 Flame tokens already on the map, a random Flame not on or adjacent to a character is extinguished to keep the maximum at 6. The Angry Mobs are not affected by the Flames due to their dark magic.<br/><br/><br/><b>AFTER THE FIGHT</b><br/><br/>전투는 승리로 끝났다. 당신은 이들을 살려두고 의문에 대한 해답을 얻어내기로 한다. 이들은 어째서 이 땅을 파괴하려 했는지, 그리고 어떻게 그러한 어둠의 힘을 불러내는 데 필요한 지식을 얻었을까? 길 주변에는 여전히 불길이 타오르고 있고, 생존자들은 바닥에 쓰러진 채 고통으로 신음하고 있다. 조사를 시작하기 전에 먼저 이들을 구속해야만 한다.<br/><br/><br/><b>STORY SKILL CHECK<br/>AWARENESS 6</b> - Any One Character<br/><br/><b>어떻게 이들이 그런 어둠의 힘을 휘두를 수 있었을까? 어쩌면 그들의 소지품에서 단서를 얻을 수 있을지도 모른다.</b><br/><br/>",
+			{
+				name: "<b>성공:</b> 당신은 한 남자의 소지품에서 비술 지식이 담긴 필사본을 발견하고, 그것을 압수한다. Gain 8 Lore and one Ritual.",
+			},
+			"<br/>",
+			{
+				name: "<b>실패:</b> 당신은 비술 지식이 담긴 필사본을 발견하고, 그것을 읽어 보려 하지만, 그 양피지는 당신의 손안에서 불타오른다. Receive 1d4 (SNARE) Damage.",
+			},
+			"<br/><br/>생존자 중 하나가 고통스럽게 일어나 앉아 어리둥절하여 주위를 둘러본다. 그는 마치 당신을 처음 보는 듯한 눈빛으로 당신을 바라보며 말한다. \"뭐야... 여기가 어딥니까? 뭐가 뭔지 하나도 모르겠군요. 여기서 무슨 일이 있었던 겁니까?\"<br/><br/>그러고 보면 이들과 직접 이야기를 나누는 것은 이번이 처음이다. 당신은 그들이 어떻게 어둠의 힘을 손에 넣었고, 그것을 사용할 기술을 배울 수 있었는지 알아내기로 마음을 먹고 심문을 시작한다. 남자는 당황하여 말을 더듬는다. \"저... 전... 무슨 말씀인지 전혀 모르겠습니다. 전 그저 웨일린 포인트의 땜장이일 뿐입니다. 마법 같은 건 모릅니다. 마지막으로 기억나는 건... 전 여관에 있었습니다. 친구들과 함께 술을 한잔하고 있었지요. 그러고 보니... 기억납니다. 외지에서 온 손님이 하나 있었습니다! 이야기꾼이었지요. 그가 들려주는 이야기는 정말 매혹적이었습니다. 무슨 내용이었는지는 잘 기억나지 않는군요... 형편없는 술 때문이 분명합니다! 그 술 때문에 사고를 치고 두들겨 맞은 채 여기에 묶여 있는 것이겠지요. 아야야야. 온몸이 욱신거리는군요.\"<br/><br/>그에게 이야기꾼에 대해 묻자, 그는 대답한다. \"아뇨. 처음 보는 사람이었습니다, 이름이 분명...\" 그는 잠시 생각에 잠긴다. \"갈라스티그(Galastig)였던 것 같습니다. 그는 특이한 눈동자를 가지고 있었습니다. 거의 보라색에 가까웠지요. 그런 색의 눈동자는 처음 보았습니다. 하지만 그가 우리 모두에게 술을 한 잔씩 돌렸는데 어떻게 의심할 수 있었겠습니까?\"<br/><br/>당신이 웨일린 포인트에서 벌어진 사건과, 그가 그 사건의 범인 중 하나라는 이야기를 해주자, 그의 눈은 공포에 질려 휘둥그레진다. \"세상에, 아닙니다! 그건 말도 안 됩니다! 전 범죄자가 아닙니다. 마법사 같은 것은 더더욱 아니고요. 저희를 다른 누군가와 혼동하고 계신 것이 틀림없습니다!\" 그는 당황하여 소리친다. 당신이 그를 마을 자경단에게 넘길 수밖에 없다고 이야기하자, 그는 입을 다물고는 고개를 숙인 채, 묶여 있는 손을 얼굴에 가져다 대며 고통스럽게 흐느낀다. \"전 정말 아무것도 모른단 말입니다.\"<br/><br/>정신을 차린 다른 이들도 비슷한 반응을 보이며, 모두가 사건과는 관련이 없다고 말한다. 당신이 보기에 이들은 정말로 자신이 무슨 짓을 했는지 모르는 듯하다. 하지만 당신은 그들을 마을로 끌고 갈 수밖에 없다. 자경단에게 갈라스티그라는 이야기꾼이 수상하다는 말을 해봐야 할 것 같다.<br/><br/>갑자기 말 울음소리가 들려온다. 파수꾼들이 도착한 것이다. 당신은 한결 마음이 편해진다. 이들에게 범인들을 마을로 호송하는 일을 맡기면, 당신은 수상한 이야기꾼을 추적하는 일에 집중할 수 있을 것이다. 파수꾼들이 말에서 내린다. 그들은 당신을 알아보고는 손을 들어 아는 체를 한다. 파수꾼의 대장이 말한다. \"반갑습니다. 수고 많으셨습니다. 끔찍한 싸움이었던 것 같군요... 수적으로 불리한 상황이었을 텐데 정말 훌륭하십니다. 여기서부턴 저희가 맡겠습니다. 모두! 교수대를 세워라! 서둘러 일을 끝내도록 하자.\"<br/><br/>당신은 그에게 이 특이한 상황에 대해 설명하려 하지만, 그는 확고한 태도로 범인들을 모두 교수형에 처하라는 명령을 받았다고 말한다. 당신은 그저 이들에게 관용을 베풀자 하는 것이 아니다. 당신의 본능이 말하고 있다. 이들은 단지 수상한 이야기꾼에게 조종당했을 뿐이라고. 물론... 그 모든 것이 거짓일 수도 있다.<br/><br/><br/><b>CHOOSE YOUR PATH</b><br/><br/><b>당신은 이들이 목매달리는 것을 지켜만 볼 것인가, 아니면 법을 집행하기 위해 이곳에 온 파수꾼들과 싸우는 한이 있더라도 이들의 결백을 주장할 것인가?</b><br/><br/>",
+			{
+				name: "<b>• 선택 1:</b> 이들은 끔찍한 범죄를 저질렀으며 그에 대한 책임을 져야만 한다. 당신에게는 이들의 결백을 주장할 만큼의 충분한 증거가 없다.",
+				item: [
+					"<b>Story Moment 38</b><br/><br/>당신은 이들을 살려두는 것이 안전하지 않다고, 또는 파수꾼들을 방해하는 것은 경솔한 짓이라고 판단한다. 비록 이들이 조종당했다고 하더라도, 이들은 여전히 크레멜에 위협이 될 수 있다. 이들을 처벌하는 일은 파수꾼들의 몫이다. 이제 갈라스티그라는 수상한 이야기꾼에 대해 알아봐야 할 때이다.<br/><br/><b>If you have not yet rested this chapter, you may do so before moving ahead using normal resting rules.</b><br/><br/><b>Continue to “Chapter Two\" on page 39.</b>"
+				]
+			},
+			"<br/>",
+			{
+				name: "<b>• 선택 2:</b> 당신은 무고한 이들이 누군가의 흉계에 휘말려 살해되는 것을 보고만 있을 수는 없다.",
+				item: [
+					"<b>Story Moment 26</b><br/><br/>당신은 이들을 그냥 죽게 놔둘 수 없다. 이들은 단지 조종당한 것뿐이니, 제대로 된 재판을 받아야만 한다. 당신은 파수꾼의 대장에게 이들을 이곳에서 죽게 놔두지 않을 거라고 분명히 이야기한다. 그는 당신의 말에 놀란다. \"당장 처형해야만 합니다! 이 자들은 위험하고 폭력적인 범죄자들입니다. 반드시 제거해야만 합니다! 방해하지 말아 주십시오. 그렇지 않으면 당신 역시 공범으로 취급될 것입니다.\" 파수꾼들에게도 그들의 정의가 있고, 당신에게 맞설 권리가 있다. 싸움을 피할 수 없을 듯하다. 하지만 당신은 파수꾼들을 죽이진 않을 것이다... 오늘은 이미 충분히 많은 피가 흘렀다.<br/><br/><b>Skirmish with the Watchmen with +1 to their skirmish counter.</b><br/><br/>전투가 끝난 뒤, 당신은 파수꾼들의 상태를 살핀다. 다행히 그들은 아직 살아있다! 시간이 얼마 없다는 것을 알지만, 당신은 마을 주민들을 구속해 마을로 데려가 적절한 판결을 받게 하겠다고 맹세한다.<br/><br/><b>Each character must take one fugitive as a Mission Companion. If a character does not have an available companion slot, they must discard a Companion to make space for a fugitive. All characters become WANTED and cannot remove this condition while they have a fugitive companion. Fugitives cannot be removed until the story instructs you to do so.</b><br/><br/><b>If you have not yet rested this chapter, you may do so before moving ahead using normal resting rules.</b><br/><br/><b>The Leader gains the BLUE Story Marker.</b><br/><br/><b>Continue to “Chapter Two” on page 39.</b>"
+				]
+			},
+		]
+	},
 ];
 
 /*
