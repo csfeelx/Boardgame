@@ -4,7 +4,7 @@
 		note:"<b>CALL OF THE PLAGUEBEARER: 역병 전파자의 부름</b><br/>"
 	},
 	{
-		name: "Death Is Only the Beginning (1): 죽음은 오직 시작일 뿐",
+		name: "DEATH IS ONLY THE BEGINNING (1): 죽음은 오직 시작일 뿐",
 		ko: "\"역병이 돌고 있는 도시에 저주받은 존재가 배회하고 있었다. 혹자는 그것이 역병보다 더한 무언가라 말했고, 누군가는 그것이 역병의 악마에게 조종당하고 있는 것이라 속삭였다.<br/><br/><i>- H.P. 러브크래프트, 역병 악마</i><br/><br/>\"때로는, 죽음보다 더한 것도 있는 법이다.\"<br/><br/><i>- 스티븐 킹, 공포의 묘지</i>"
 	},
 	{
@@ -86,6 +86,94 @@
 	{
 		name: "RESOLUTION 3 (3)",
 		ko: "위태위태한 계단을 오르며 그레이슨이 설명한다. \"난 재단사들(Tailors)라고 불리는 기관에서 일하고 있어요. 우리는 어둠 속의 존재들을 상대하죠. 이 시설은 우리의 연구기지인 브룩(Brook) 연구소입니다. 당신이 어떻게 여기까지 오게 되었는지는 모르겠지만, 당신의 했던 일들을 보면 우리는 같은 편인 것 같군요.\" 그레이슨이 해치를 열자 그 위로 창고가 나타난다.<br/><br/>\"아컴에 재앙이 닥쳤어요. 이 정체를 알 수 없는 안개가 퍼지고 있죠. 난 아래에서 시설의 문제를 해결하고 있었지만, 우리의 문지기와 지역 주민들이 더 많은 것을 알려 줄 수 있을 거예요.\"<br/><br/>그녀가 창고의 문을 열자 허름한 술집이 나타난다. \"힙스? 손님이 있어요. 먹을 것 좀 가져다주겠어요?\"<br/><br/>미소를 띤 뚱뚱한 남자가 손을 내민다. 그는 당신과 악수를 한 뒤, 자기 일을 하기 위해 카운터 뒤로 간다.<br/><br/>＠ In your campaign log, record that you earned Greyson's respect(당신은 그레이슨의 호감을 얻었다).<br/><br/>＠ In your campaign log, record that the investigators learned the secret of the roadhouse(조사자들이 가로변 식당의 비밀을 알게 되었다).<br/><br/>＠ If the investigators put out a fire, record in your campaign log that the collection was saved(물건들은 안전하다).<br/><br/>..."
+	},
+	{},
+	{
+		note: "Night On The Town: 도시의 밤<br/>"
+	},
+	{
+		name: "INTRO (4)",
+		ko: "오후 7시 21분:<br/><br/>당신은 접시에 놓인 기름진 음식을 게걸스레 먹어치운다. 힙스는 그 모습을 빤히 지켜보다 잠시 후 말을 꺼낸다.<br/><br/>\"사건은 대략 3일 전에 시작되었다네. 이 기이한 안개가 도시를 휩쓸기 시작했지. 대부분의 사람들은 그저 강 하류에 있는 공장에서 무언가가 잘못된 거로 생각했지. 아컴이 언제나 그랬듯 말일세. 그렇게 그들은 각자의 생업을 시작했지. 하지만 사람들은 곧 병을 앓기 시작했다네. 기묘한 발진이나 역겨운 피부병이 생겼지. 사람들은 그제야 걱정하기 시작했지만, 그들의 일상을 멈추지 않았다네.<br/><br/>그리고 어제, 닥터 픽맨이 그의 목에 사슴 머리를 붙인 채 비틀거리며 프로비던스 광장으로 들어왔지. 두 개의 머리 모두 비명을 지르고 있었다네.<br/><br/>정부의 요원들이 나타나 그것을 처리했지만, 소문이 퍼지는 것을 막을 순 없었네. 그리고 감염자로부터 안개가 퍼지고 있다는 것을 알게 되었지만, 때는 늦고 말았지. 이미 너무나도 많은 군인이 그 사실을 모른 채 감염자에게 가까이 다가갔다네. 이제 수많은 감염자가 도시를 배회하며 사람들을 공격하고 있어. 그 끔찍한 안개 역시 점점 짙어지고 있고 말이야.<br/><br/>밤이 오기 전 안전한 곳을 찾아 숨어야 한다는 소문이 돌더군. 이 가게 주변에는 많은 주민이 살고 있지. 그래서 난 이곳으로 사람들을 불러 모아야겠다고 생각했네. 하지만 솔직히 우리가 이곳을 지킬 수 있을지 걱정이구만.\" 힙스는 잠시 입을 다물고 생각에 잠긴다.<br/><br/>\"자네는 강인해 보이는군. 친구. 자네가 진심으로 이 사태를 걱정하고 있다면, 자네가 할 수 있는 최선의 일은 사람들을 안전하게 지키는 것이겠지. 아컴에는 사람들이 숨어 있을만한 장소가 잔뜩 있다네. 자네가 사람들을 불러 모으고 피난처를 확보할 수 있도록 도와준다면... 글쎄, 아마도 내일쯤은 자네가 기억을 찾을 수 있도록 많은 사람이 도움을 줄 걸세.\""
+	},
+	{
+		name: "agenda 1a - Spreading Uncertainty: 퍼져가는 불확실성",
+		ko: "기이한 안개가 아컴을 뒤덮었고, 이와 함께 끔찍한 공포가 찾아왔다. 겁에 질린 사람들이 거리를 뛰어다니고, 여기저기서 비명이 울려 퍼진다.<br/><br/>..."
+	},
+	{
+		name: "agenda 2a - Spreading Corruption: 퍼져가는 부패",
+		ko: "당신이 도시를 구하기 위해 이리저리 뛰어다니던 찰나, 기이한 안갯속에서 무시무시한 존재가 모습을 드러낸다. 놈은 매 순간 더 많은 부패를 퍼뜨리고 있다.<br/><br/>..."
+	},
+	{
+		name: "agenda 2b - Choke Point: 질식 한계점",
+		ko: "안개가 퍼져 나갈수록 그것은 더욱 짙어진다. 숨이 막혀오기 시작하고, 유독한 가스가 당신의 폐를 불태운다. 당신은 태세를 정비하고, 다음 계획을 세우기 위해 몸을 숨길 곳을 찾는다...<br/><br/>..."
+	},
+	{
+		name: "act 1a - Community Service: 지역 봉사 활동",
+		ko: "도시에 재앙이 닥쳤다. 이 순간이 고비이다. 당신은 힙스의 권유 가능한 한 많은 지역 시설과 시민들을 돕기 위해 나선다.<br/><br/>..."
+	},
+	{
+		name: "act 1b - Hunker Down: 태세 정비",
+		ko: "당신은 할 수 있는 모든 것을 했고, 구할 수 있는 모든 이들을 구했다. 당신은 주민들이 무사히 밤을 넘길 수 있도록 모든 노력을 기울였다. 이제 당신은 몸을 숨길 곳을 찾아 들어가 다음 행동을 계획한다...<br/><br/>..."
+	},
+	{
+		name: "story - Pay Day: 급여일",
+		ko: "<b>If you flipped this card through its \"Defend\" effect:</b><br/><br/>애브너의 재촉을 받은 부두 노동자들은 가장 큰 창고 근처에 상자를 쌓아 임시 요새를 만든다. 노조 간부들은 감사의 뜻으로 당신에게 고개를 끄덕인 뒤, 요새를 지킬 방법을 논의하기 시작한다.<br/><br/>...<br/><br/><br/><b>If you flipped this card through the agenda:</b><br/><br/>애브너는 딸꾹질을 하며 비틀거리는 발걸음으로 가로등 불빛 아래 독기의 구름 속으로 들어간다. 당신이 뭐라 외치기도 전에, 강에서 사람의 피부로 만들어진 촉수가 튀어나와 그의 발을 휘감고, 그를 물속으로 끌고 들어간다.<br/><br/>..."
+	},
+	{
+		name: "story - Making Headlines: 헤드라인 작성",
+		ko: "<b> If you flipped this card through its \"Defend\" effect:</b><br/><br/>무뚝뚝한 관리인이 방 안에 남은 가스를 태우는 동안, 도일은 상패가 진열된 선반을 쓰러뜨려 정문을 막는다. 편집장은 한숨 돌린 뒤 말한다. \"도와주셔서 감사할 따름입니다. 우리는 사람들에게 정보를 제공할 것입니다. 무슨 일이 벌어지든 말이죠!\"<br/><br/>...<br/><br/><br/><b>If you flipped this card through the agenda:</b><br/><br/>제프리의 셔츠는 피로 젖어 있고, 그의 눈은 녹색으로 빛나고 있다. 그는 정문을 열고 밖을 향해 끔찍하고 신성모독적인 말을 외치기 시작한다.<br/><br/>..."
+	},
+	{
+		name: "story - Stranger than Fiction: 허구보다 기이한",
+		ko: "<b>If you flipped this card through its \"Defend\" effect:</b><br/><br/>도서관은 이러한 재앙에 깜짝 놀랄 정도로 잘 대비되어 있었다. 다양하고 치명적인 함정들을 준비해 놓은 사서장 아미티지는 때가 되면 기꺼이 놈들을 상대할 것이라 말한다. 지금으로서는 그에게 진심으로 감사할 따름이다.<br/><br/>...<br/><br/><br/><b>If you flipped this card through the agenda:</b><br/><br/>오른 도서관은 요새와도 같았지만, 헨리 아미티지 혼자만의 힘으로는 그것을 지켜낼 수 없었다. 도서관의 벽에 무너지고, 금지 구역이 돌파당한 뒤, 결국 아미티지의 가슴에 구멍이 뚫리고 만다.<br/><br/>..."
+	},
+	{
+		name: "story - Closing Time: 마감 시간",
+		ko: "<b>If you flipped this card through its \"Defend\" effect:</b><br/><br/>당신과 힙스가 탁자로 창문을 막는 동안, 가로변 식당의 단골손님들은 떨리는 손으로 무장을 끝마친다. \"친구, 자네에게 빚을 졌구만. 이 얼간이들이 정신을 좀 차리고 나면, 자네를 찾아가도록 해보겠네.\"<br/><br/>...<br/><br/><br/><b>If you flipped this card through the agenda:</b><br/><br/>감염된 주민 무리가 힙스를 구석에 몰아넣었다.<br/><br/>힙스는 그들을 향해 엽총을 겨누고 있지만, 당신은 알고 있다. 그 총이 장전되어 있지 않다는 것을.<br/><br/>..."
+	},
+	{
+		name: "story - Checking Out: 체크 아웃",
+		ko: "<b>If you flipped this card through its \"Defend\" effect:</b><br/><br/>\"위층 창문을 막아 주지 않겠나. 미스터 딘.\" 노년의 마 매티슨은 당신을 향해 돌아선 뒤 미소 짓는다. \"늦기 전에 도와주러 와서 정말 고맙구려. 저 악마 숭배자 놈들은 오늘 밤 내 집 안으로 한 발짝도 들어오지 못할 거라오.\"<br/><br/>...<br/><br/><br/><b>If you flipped this card through the agenda:</b><br/><br/>마 매티슨이 현관문의 창을 통해 싸늘한 눈빛으로 당신을 응시한다. 자물쇠 잠기는 소리가 들려온다. 곧, 그녀의 뒤에서 칼을 든 형체가 모습을 드러내고, 당신은 공포에 질려 아무 소리도 내지 못한 채 그 모습을 바라본다.<br/><br/>..."
+	},
+	{
+		name: "story - Powerful Magic: 강력한 마법",
+		ko: "<b>If you flipped this card through its \"Defend\" effect:</b><br/><br/>미리암 비쳐가 주문을 끝마치자, 바닥에 그려진 룬이 빛을 내기 시작한다. 그 즉시 독기의 안개가 가게로부터 빨려 나간다. 이제 가게 안은 쾌적하고, 깨끗하며, 환하다. 미리암은 머리카락을 정돈한 뒤 당신을 향해 고개를 끄덕인다. \"당신이 없었다면, 해낼 수 없었을 거에요.\"<br/><br/>...<br/><br/><br/><b>If you flipped this card through the agenda:</b><br/><br/>미리암 비쳐는 한 손에 주문이 적힌 책을 든 채, 다른 손으로는 황급히 의식진을 그린다. 하지만 그녀의 뒤편 그늘에서 붕대 감긴 썩어가는 팔이 튀어나와 그녀의 입을 틀어막는다. 곧 가게는 어둠 속에 빠져든다.<br/><br/>..."
+	},
+	{
+		name: "story - Closing Up Shop: 폐점",
+		ko: "<b>If you flipped this card through its \"Defend\" effect:</b><br/><br/>잡화점의 문을 막고 있는 물건이 가득한 선반들은 그 어떤 괴물이라도 막을 수 있을 만큼 튼튼해 보인다. 하지만 데이비와 사라는 계속해서 선반에 물건을 쌓아 올린다. \"이게 놈들을 막아 줄 거야!... 그렇겠지?\"<br/><br/>...<br/><br/><br/><b>If you flipped this card through the agenda:</b><br/><br/>여자는 웃음을 터뜨리고, 남자는 비명을 지른다. 잡화점은 불길에 휩싸인다.<br/><br/>..."
+	},
+	{
+		name: "story - Return on Investments: 투자의 대가",
+		ko: "<b>If you flipped this card through its \"Defend\" effect:</b><br/><br/>당신이 방어를 지휘하는 모습을 보고, 은행의 부지점장은 당신을 자신의 사무실로 초대한다. \"퍼스트 내셔널 뱅크는 당신이 아컴을 위해 한 모든 일에 깊은 감사의 말씀을 드립니다. 당신께 빚을 졌군요. 언제가 갚을 기회가 오기만을 기다리겠습니다.\"<br/><br/>...<br/><br/><br/><b>If you flipped this card through the agenda:</b><br/><br/>당신은 배부른 자본가들의 죽음에는 그다지 동정을 느끼지 않는다. 하지만 단순히 콘크리트벽이 안전할 거라 믿고 은행을 찾아간 마을 주민들의 고통에 찬 비명이 들려오자, 당신의 가슴은 죄책감으로 조여든다.<br/><br/>..."
+	},
+	{
+		name: "RESOLUTION 1",
+		ko: "상황이 나빠지고 있다. 당신이 시설에서 경험했던 기이한 사건이 도시 전역에 빠르게 퍼지고 있었다. 당신은 주민들을 구하기 위해 각고의 노력을 했지만, 밀려드는 부패의 안개에 대항하기에는 충분치 않았다.<br/><br/>안개의 원천을 차단하지 않는 이상, 이 재앙은 끝나지 않을 것이다. 당신은 이 악의 근원지를 찾아 그것을 막아야만 한다. 당신의 머릿속에 잡화점에서 모습을 드러내었던, 기이한 질병에 걸린 괴물이 떠오른다. 어쩌면 이 모든 것의 근원이 되는 무언가가 그곳에 있을지도 모른다...<br/><br/>＠ In your campaign log, under the heading for each location, record \"Defended\" under the name of each location that has \"Survivors\", and record \"Infected\" under the name of each location that has a Ruin.<br/><br/>＠ Each investigator earns experience equal to the victory X value of each card in the victory display.<br/><br/>＠ If there are three or more locations recorded as \"Defended\", and Hibb's Roadhouse is recorded as \"Defended\", record in your campaign log that Hibbs has your back(힙스가 당신의 뒤를 봐준다)."
+	},
+	{
+		name: "RESOLUTION 2",
+		ko: "당신은 해냈다. 당신의 노력으로 수많은 아컴의 주민들이 오늘 밤을 견뎌낼 것이다. 이 괴물들은 위험하기 짝이 없지만, 이 도시를 무너뜨리진 못할 것이다. 적어도 오늘 밤은 말이다.<br/><br/>비록 승리하였지만, 당신은 깊은 고민에 빠진다. 아무리 많은 사람이 오늘 밤을 버텨낸다 하더라도, 그것이 근본적인 해결책은 되지 않을 것이다.<br/><br/>안개의 원천을 차단하지 않는 이상, 이 재앙은 끝나지 않을 것이다. 당신은 이 악의 근원지를 찾아 그것을 막아야만 한다. 당신의 머릿속에 잡화점에서 모습을 드러내었던, 기이한 질병에 걸린 괴물이 떠오른다. 어쩌면 이 모든 것의 근원이 되는 무언가가 그곳에 있을지도 모른다...<br/><br/>＠ Record in your campaign log that Arkham stands united(아컴이 재앙에 맞서 단결했다).<br/><br/>＠ In your campaign log, under the heading for each location, record \"Defended\" under the name of each location that has \"Survivors\", and record \"Infected\" under the name of each location that has a Ruin.<br/><br/>＠ Each investigator earns experience equal to the victory X value of each card in the victory display."
+	},
+	{
+		name: "INTERLUDE I - FRIENDS IN LOW PLACES 1: 낮은 자리의 친구들 1",
+		ko: "리버타운은 고요하다. 살아남은 아컴의 주민들은 대부분 은신처에 숨어들었기에, 거리에는 당신과 깜빡이는 가로등만이 남아있다. 이상하게도, 숨 막히는 안개와 괴물들도 사라지고 없었다.<br/><br/>리버타운 근방을 수색하기 시작한 지 한 시간쯤, 누군가 당신의 어깨에 손을 얹는다. 깜짝 놀란 당신은 반격을 위해 돌아서지만, 그곳에 있는 것은 빙그레 웃고 있는 힙스였다.<br/><br/>\"진정하게나, 친구! 자네가 이 근처에 있다는 이야기를 듣고 뭐 도울 게 없나 해서 잠시 나와 봤다네. 자네가 내게 해준 일을 생각하면 아무것도 아니지. 비록 오래 있진 못하겠지만 말이야. 그 후에는, 글쎄...\"<br/><br/>＠ Record in your campaign log that \"Hibbs is here to help(힙스가 당신을 돕기 위해 왔다)\".<br/><br/>Check your campaign log. If \"The investigators know the secret of the roadhouse(조사자들이 가로변 식당의 비밀을 알게 되었다)\": Proceed to Friends in Low Places 2.<br/><br/>Otherwise, proceed to Friends in Low Places 3."
+	},
+	{
+		name: "INTERLUDE I - FRIENDS IN LOW PLACES 2: 낮은 자리의 친구들 2",
+		ko: "힙스는 잠시 말을 멈추고 고개를 숙인 채 생각에 잠긴다. 그는 곧 어깨를 펴고 당신의 눈을 똑바로 바라보며 말한다. \"아니. 아니지. 자네는 요원들을 따돌릴 만큼 요령이 좋은데다, 이 도시에 헌신적이지. 자네는 아주 똑똑해. 게다가 도시의 상황을 보아하니 더는 그들의 비밀을 지키기 위해 자리를 지키고 있을 필요가 없겠군. 내가 이곳에서 자네를 도와 이 재앙을 막는 것이 도시를 위한 일이겠지. 자네가 이 동네에 대해 빠삭한 것 같지도 않으니 말이야. 이제부터 내가 자네와 함께하겠네.\"<br/><br/>..."
+	},
+	{
+		name: "INTERLUDE I - FRIENDS IN LOW PLACES 3: 낮은 자리의 친구들 3",
+		ko: "힙스는 잠시 말을 멈추고 고개를 숙인 채 생각에 잠긴다. 그는 곧 어깨를 으쓱하며 말한다. \"자네가 단서를 찾게 되면 난 돌아가겠네. 내 식당에 숨어 있는 주민들은 당장에야 안전하지만, 뭐가 어떻게 잘못될지는 아무도 모르는 것 아니겠나. 누군가는 그들을 위해 그곳에 있어야 하네. 그러니 자네를 도운 뒤 난 돌아갈 거야. 그러면 우리 사이에 남은 빚은 없는 걸세.\"<br/><br/>..."
+	},
+	{
+		name: "INTERLUDE I - FRIENDS IN LOW PLACES 4: 낮은 자리의 친구들 4",
+		ko: "리버타운은 고요하다. 살아남은 아컴의 주민들은 대부분 은신처에 숨어들었기에, 거리에는 당신과 깜빡이는 가로등만이 남아있다. 이상하게도, 숨 막히는 안개와 괴물들도 사라지고 없었다.<br/><br/>리버타운 근방을 수색하기 시작한 지 한 시간쯤, 당신은 모퉁이를 돌다 빛나는 안개의 구름 속에 발을 들인다. 잠시 당신의 시야가 흐려지고, 당신은 여러 사람의 시야를 동시에 경험한다. 누군가가 사악한 주문을 외우며 사람의 피부로 예복을 짓고 있다. 다른 누군가는 바닥에 엎드린 채 울부짖으며 양팔로 느릿느릿 자신의 몸을 끌고 있다. 그가 깊은 터널을 빠져나오자 그 앞에는 어두운 숲이 펼쳐져 있다. 또 다른 누군가가 시체를 내려다보며 운명을 저주하고 있다. <del>역병 전파자</del>가 어둠 속에서 작고 푸른 구체를 응시하고 있다. 구체는 거대한 붉은 손바닥 아래에 매달려 있고, 손바닥에 난 성흔에서는 녹색 진액에 떨어져 내리고 있다.<br/><br/><del>나의 귀환이 머지않았다</del><br/><br/>독기의 안개가 물러가고, 당신은 정신을 차린다.<br/><br/>＠ Record in your campaign log that \"The investigators have received a twisted gift(조사자들이 뒤틀린 선물을 받았다)\".<br/><br/><del>네가 날 막을 수 없기에, 이 선물을 주는 것이다</del><br/><br/>..."
+	},
+	{
+		name: "INTERLUDE I - FRIENDS IN LOW PLACES 5: 낮은 자리의 친구들 5",
+		ko: "<del>너 자신의 호기심조차 억누르지 못하면서, 어찌 날 막을 수 있겠는가?</del><br/><br/>..."
 	},
 ];
 
