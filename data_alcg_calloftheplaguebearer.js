@@ -157,7 +157,7 @@
 	},
 	{
 		name: "INTERLUDE I - FRIENDS IN LOW PLACES 1: 낮은 자리의 친구들 1",
-		ko: "리버타운은 고요하다. 살아남은 아컴의 주민들은 대부분 은신처에 숨어들었기에, 거리에는 당신과 깜빡이는 가로등만이 남아있다. 이상하게도, 숨 막히는 안개와 괴물들도 사라지고 없었다.<br/><br/>리버타운 근방을 수색하기 시작한 지 한 시간쯤, 누군가 당신의 어깨에 손을 얹는다. 깜짝 놀란 당신은 반격을 위해 돌아서지만, 그곳에 있는 것은 빙그레 웃고 있는 힙스였다.<br/><br/>\"진정하게나, 친구! 자네가 이 근처에 있다는 이야기를 듣고 뭐 도울 게 없나 해서 잠시 나와 봤다네. 자네가 내게 해준 일을 생각하면 아무것도 아니지. 비록 오래 있진 못하겠지만 말이야. 그 후에는, 글쎄...\"<br/><br/>＠ Record in your campaign log that \"Hibbs is here to help(힙스가 당신을 돕기 위해 왔다)\".<br/><br/>Check your campaign log. If \"The investigators know the secret of the roadhouse(조사자들이 가로변 식당의 비밀을 알게 되었다)\": Proceed to Friends in Low Places 2.<br/><br/>Otherwise, proceed to Friends in Low Places 3."
+		ko: "리버타운은 고요하다. 살아남은 아컴의 주민들은 대부분 은신처에 숨어들었기에, 거리에는 당신과 깜빡이는 가로등만이 남아있다. 이상하게도, 숨 막히는 안개와 괴물들도 사라지고 없었다.<br/><br/>리버타운 근방을 수색하기 시작한 지 한 시간쯤, 누군가 당신의 어깨에 손을 얹는다. 깜짝 놀란 당신은 반격을 위해 돌아서지만, 그곳에 있는 것은 빙그레 웃고 있는 힙스였다.<br/><br/>\"진정하게나, 친구! 자네가 이 근처에 있다는 이야기를 듣고 뭐 도울 게 없나 해서 잠시 나와 봤다네. 자네가 내게 해준 일을 생각하면 아무것도 아니지. 비록 오래 있진 못하겠지만 말이야. 그 후에는, 글쎄...\"<br/><br/>＠ Record in your campaign log that \"Hibbs is here to help(힙스가 당신을 돕기 위해 왔다)\".<br/><br/>Check your campaign log. If \"The investigators know the secret of the roadhouse(조사자들이 가로변 식당의 비밀을 알게 되었다)\": Proceed to <b>Friends in Low Places 2.</b><br/><br/>Otherwise, proceed to <b>Friends in Low Places 3.</b>"
 	},
 	{
 		name: "INTERLUDE I - FRIENDS IN LOW PLACES 2: 낮은 자리의 친구들 2",
