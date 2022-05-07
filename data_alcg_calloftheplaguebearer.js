@@ -149,11 +149,11 @@
 	},
 	{
 		name: "RESOLUTION 1",
-		ko: "상황이 나빠지고 있다. 당신이 시설에서 경험했던 기이한 사건이 도시 전역에 빠르게 퍼지고 있었다. 당신은 주민들을 구하기 위해 각고의 노력을 했지만, 밀려드는 부패의 안개에 대항하기에는 충분치 않았다.<br/><br/>안개의 원천을 차단하지 않는 이상, 이 재앙은 끝나지 않을 것이다. 당신은 이 악의 근원지를 찾아 그것을 막아야만 한다. 당신의 머릿속에 잡화점에서 모습을 드러내었던, 기이한 질병에 걸린 괴물이 떠오른다. 어쩌면 이 모든 것의 근원이 되는 무언가가 그곳에 있을지도 모른다...<br/><br/>＠ In your campaign log, under the heading for each location, record \"Defended\" under the name of each location that has \"Survivors\", and record \"Infected\" under the name of each location that has a Ruin.<br/><br/>＠ Each investigator earns experience equal to the victory X value of each card in the victory display.<br/><br/>＠ If there are three or more locations recorded as \"Defended\", and Hibb's Roadhouse is recorded as \"Defended\", record in your campaign log that Hibbs has your back(힙스가 당신의 뒤를 봐준다)."
+		ko: "상황이 나빠지고 있다. 당신이 시설에서 경험했던 기이한 사건이 도시 전역에 빠르게 퍼지고 있었다. 당신은 주민들을 구하기 위해 각고의 노력을 했지만, 밀려드는 부패의 안개에 대항하기에는 충분치 않았다.<br/><br/>안개의 원천을 차단하지 않는 이상, 이 재앙은 끝나지 않을 것이다. 당신은 이 악의 근원지를 찾아 그것을 막아야만 한다. 당신의 머릿속에 잡화점에서 모습을 드러내었던, 기이한 질병에 걸린 괴물이 떠오른다. 어쩌면 그 주변에 이 모든 것의 근원이 되는 무언가가 있을지도 모른다...<br/><br/>＠ In your campaign log, under the heading for each location, record \"Defended\" under the name of each location that has \"Survivors\", and record \"Infected\" under the name of each location that has a Ruin.<br/><br/>＠ Each investigator earns experience equal to the victory X value of each card in the victory display.<br/><br/>＠ If there are three or more locations recorded as \"Defended\", and Hibb's Roadhouse is recorded as \"Defended\", record in your campaign log that Hibbs has your back(힙스가 당신의 뒤를 봐준다)."
 	},
 	{
 		name: "RESOLUTION 2",
-		ko: "당신은 해냈다. 당신의 노력으로 수많은 아컴의 주민들이 오늘 밤을 견뎌낼 것이다. 이 괴물들은 위험하기 짝이 없지만, 이 도시를 무너뜨리진 못할 것이다. 적어도 오늘 밤은 말이다.<br/><br/>비록 승리하였지만, 당신은 깊은 고민에 빠진다. 아무리 많은 사람이 오늘 밤을 버텨낸다 하더라도, 그것이 근본적인 해결책은 되지 않을 것이다.<br/><br/>안개의 원천을 차단하지 않는 이상, 이 재앙은 끝나지 않을 것이다. 당신은 이 악의 근원지를 찾아 그것을 막아야만 한다. 당신의 머릿속에 잡화점에서 모습을 드러내었던, 기이한 질병에 걸린 괴물이 떠오른다. 어쩌면 이 모든 것의 근원이 되는 무언가가 그곳에 있을지도 모른다...<br/><br/>＠ Record in your campaign log that Arkham stands united(아컴이 재앙에 맞서 단결했다).<br/><br/>＠ In your campaign log, under the heading for each location, record \"Defended\" under the name of each location that has \"Survivors\", and record \"Infected\" under the name of each location that has a Ruin.<br/><br/>＠ Each investigator earns experience equal to the victory X value of each card in the victory display."
+		ko: "당신은 해냈다. 당신의 노력으로 수많은 아컴의 주민들이 오늘 밤을 견뎌낼 것이다. 이 괴물들은 위험하기 짝이 없지만, 이 도시를 무너뜨리진 못할 것이다. 적어도 오늘 밤은 말이다.<br/><br/>비록 승리하였지만, 당신은 깊은 고민에 빠진다. 아무리 많은 사람이 오늘 밤을 버텨낸다 하더라도, 그것이 근본적인 해결책은 되지 않을 것이다.<br/><br/>안개의 원천을 차단하지 않는 이상, 이 재앙은 끝나지 않을 것이다. 당신은 이 악의 근원지를 찾아 그것을 막아야만 한다. 당신의 머릿속에 잡화점에서 모습을 드러내었던, 기이한 질병에 걸린 괴물이 떠오른다. 어쩌면 그 주변에 이 모든 것의 근원이 되는 무언가가 있을지도 모른다...<br/><br/>＠ Record in your campaign log that Arkham stands united(아컴이 재앙에 맞서 단결했다).<br/><br/>＠ In your campaign log, under the heading for each location, record \"Defended\" under the name of each location that has \"Survivors\", and record \"Infected\" under the name of each location that has a Ruin.<br/><br/>＠ Each investigator earns experience equal to the victory X value of each card in the victory display."
 	},
 	{
 		name: "INTERLUDE I - FRIENDS IN LOW PLACES 1: 낮은 자리의 친구들 1",
@@ -174,6 +174,26 @@
 	{
 		name: "INTERLUDE I - FRIENDS IN LOW PLACES 5: 낮은 자리의 친구들 5",
 		ko: "<del>너 자신의 호기심조차 억누르지 못하면서, 어찌 날 막을 수 있겠는가?</del><br/><br/>..."
+	},
+	{},
+	{
+		note: "Dead by Dawn: 새벽의 죽음<br/>"
+	},
+	{
+		name: "INTRO 1 (7)",
+		ko: "오전 12시 54분:<br/><br/>자정이 넘도록 조사에는 아무런 진전이 없다. 고요한 리버타운의 거리에는 괴물의 근원에 대한 단서가 조금도 남아있지 않은 듯하다. 당신이 조사를 중단하고 휴식을 고려하던 찰나, 포장되지 않은 돌길 위로 바퀴 구르는 소리가 당신의 귀를 사로잡는다. 당신이 근처 골목을 들여다보자, 의사 차림의 한 남자가 바퀴 달린 들것을 뒷문으로 밀어 넣고 있는 모습이 보인다. 그를 어디선가 본 적이 있는 것 같다.<br/><br/>잠시 시간이 걸리지만, 당신은 그 소심해 보이는 남자가 닥터 웨스트라는 것을 기억해낸다. 그는 당신이 성 메리 병원에 입원했을 때 당신의 주치의 중 하나였다. 그는 이곳에서 무엇을 하고 있는 것일까? 이 한밤중에 시체를 운반하고 있다니 말이다.<br/><br/>당신이 그 답을 떠올리기도 전에, 몇 대의 차가 거리를 질주해온다. 그리고 그것이 당신을 지나쳐 갔을 때, 웨스트는 이미 종적을 감춘 후였다.<br/><br/>Check the campaign log.<br/><br/>＠ If the investigators \"have earned Greyson's respect(당신은 그레이슨의 호감을 얻었다)\", proceed to <b>Intro 2.</b><br/><br/>＠ If \"The First claimed the facility(첫 번째 존재가 시설을 점령했다)\", proceed to <b>Intro 3.</b><br/><br/>＠ Otherwise, proceed to <b>Intro 4.</b>"
+	},
+	{
+		name: "INTRO 2 (7)",
+		ko: "길을 내다보자 차에서 무장한 요원들이 쏟아져 나오는 모습이 보인다. 놀랍게도 그 선두에는 그레이슨 요원이 있다. 그녀가 요원들에게 명령을 내리기 전, 당신은 밖으로 뛰쳐나가 그녀를 불러 세운다.<br/><br/>\"여기서 당신을 만나게 될 줄은 몰랐지만, 이게 우연일 리는 없겠지요. 우리는 델타-2 자산을 찾고 있습니다. 그는 이 분야의 전문가입니다. 이 모든 재앙을 막을 방법을 알고 있을지도 모르지요. 그의 이름은 허버트 웨스트입니다. 그는-\"<br/><br/>당신은 그녀의 말을 끊고, 조금 전 당신이 그를 목격한 사실과, 당신과 그의 연관성을 설명한다. 그레이슨은 놀란 눈으로 당신을 바라본다.<br/><br/>\"예상외의 일들이 너무 많군요. 좋아요, 당신만 괜찮다면, 함께 그의 뒤를 쫓도록 하지요. 어때요? 우리와 합류할 준비가 되었나요?\"<br/><br/>Skip to <b>Setup.</b>"
+	},
+	{
+		name: "INTRO 3 (7)",
+		ko: "길을 내다보자 차에서 무장한 요원들이 쏟아져 나오는 모습이 보인다. 선두 차량에서 조끼를 걸친 잔인한 인상의 남자가 내린다. 그는 물고 있던 담배를 바닥에 던진 뒤 발로 비벼끄고, 요원들을 향해 외친다.<br/><br/>\"모두. 잘 들어라. 우리는 델타-2 자산을 쫓아 이곳에 왔다. 괴물들의 손에 죽은 선량한 이들과 그레이슨의 복수를 하고 싶나? 델타-2가 그 방법을 알고 있을 거다. 그는 순순히 우리를 따라오지 않을 테니, 그를 죽이지 않는 선에서 무력 사용을 허가한다. 다른 이들은 감염되었을 우려가 있으니, 보이는 대로 죽여라.\" 그는 무자비한 미소를 짓는다.<br/><br/>델타-2가 웨스트를 말하는 것인지도, 그가 위험에 처해있는지도 중요한 문제가 아니다. 당신은 반드시 요원들보다 먼저 그를 찾아야만 한다. 그는 어떻게 당신이 이 모든 일에 말려들었는지 알고 있을지도 모른다!<br/><br/>Skip to <b>Setup.</b>"
+	},
+	{
+		name: "INTRO 4 (7)",
+		ko: "길을 내다보자 차에서 무장한 요원들이 쏟아져 나오는 모습이 보인다. 놀랍게도 그 선두에는 그레이슨 요원이 있다. 당신은 슬그머니 다가가 그녀가 요원들에게 명령을 내리는 모습을 훔쳐본다.<br/><br/>\"좋아, 모두들. 우리는 델타-2 자산을 쫓아 이 저주받은 거리에 돌아왔다. 정보에 따르면 델타-2는 이 모든 재앙을 끝낼 방법을 알고 있을 것이다. 하지만 그는 몹시 위험한 존재이며, 순순히 우리를 따라오지 않을 것이다. 그러니 필요하다면 무력을 사용해도 좋다. 마지막으로, 우리를 제외한 그 누구도 델타-2의 실험으로부터 안전한지 확인되지 않았다. 건물 내부에서 민간인을 발견한다면 모두 죽여라.\"<br/><br/>델타-2가 웨스트를 말하는 것인지도, 그가 위험에 처해있는지도 중요한 문제가 아니다. 당신은 반드시 요원들보다 먼저 그를 찾아야만 한다. 그는 어떻게 당신이 이 모든 일에 말려들었는지 알고 있을지도 모른다!"
 	},
 ];
 
