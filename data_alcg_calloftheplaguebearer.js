@@ -73,7 +73,7 @@
 	},
 	{
 		name: "story - Fire in the Veins: 핏줄을 타고 흐르는 불",
-		ko: "당신은 쓸만한 물건을 찾아 가방을 뒤지던 중 그 안에 있던 바늘에 찔리고 만다. 당신은 재빨리 손을 뒤로 빼지만, 이미 빛나는 녹색 액체가 당신의 정맥에 투입되고 말았다. 머리가 빙글빙글 돌고, 잠시 눈앞이 어두워진다. 시야가 돌아왔을 때 당신은 눈앞의 모든 것이 붉은 아지랑이로 물들어 있는 것을 눈치챈다. 당신은 무언가 또는 누군가를 공격하고 싶은 강렬한 충동을 느낀다. 당신은 시간이 흐르는 것으로 이 분노가 사그라지기를 바라며 이를 참고 견딘다.<br/><br/>◈ Record in your campaign log that \"*your investigator* has injected a cardinal reagent(*당신의 조사자*는 기본 시약을 주입 당했다)\".<br/><br/>◈ <b>Exile</b> Suspicious Briefcase. Any investigator who has not \"injected a cardinal reagent(기본 시약을 주입 당했다)\" may add it to their deck (Does not count towards deck size). That investigator immediately puts Suspicious Briefcase into play."
+		ko: "당신은 쓸만한 물건을 찾아 가방을 뒤지던 중 그 안에 있던 바늘에 찔리고 만다. 당신은 재빨리 손을 뒤로 빼지만, 이미 빛나는 녹색 액체가 당신의 정맥에 투입되고 말았다. 머리가 빙글빙글 돌고, 잠시 눈앞이 어두워진다. 시야가 돌아왔을 때 당신은 눈앞의 모든 것이 붉은 아지랑이로 물들어 있는 것을 눈치챈다. 당신은 무언가 또는 누군가를 공격하고 싶은 강렬한 충동을 느낀다. 당신은 시간이 흐르는 것으로 이 분노가 사그라지기를 바라며 이를 참고 견딘다.<br/><br/>◈ Record in your campaign log that \"*your investigator* has injected a cardinal reagent(*당신의 조사자*는 기초 시약을 주입 당했다)\".<br/><br/>◈ <b>Exile</b> Suspicious Briefcase. Any investigator who has not \"injected a cardinal reagent(기초 시약을 주입 당했다)\" may add it to their deck (Does not count towards deck size). That investigator immediately puts Suspicious Briefcase into play."
 	},
 	{
 		name: "RESOLUTION 1 (3)",
@@ -246,6 +246,26 @@
 	{
 		name: "act 3a - Paging Dr. West: 연락 바랍니다. 닥터 웨스트",
 		ko: "당신은 시체 안치소에서 깨어나기 전 마지막으로 보았던 사람을 마주하고 있는 것이다. 당신의 잃어버린 기억에 대한 해답을 쥐고 있는 이가 있다면, 바로 그이다.<br/>..."
+	},
+	{
+		name: "RESOLUTION 1",
+		ko: "요원 둘이 화가 난 웨스트를 문밖으로 끌어내는 동안, 한 여성이 당신을 내려다보며 당신의 미간에 총구를 가져다 댄다. \"개인적인 감정은 없어요. 하지만 당신을 살려둘 순 없습니다.\"<br/><br/>당신의 인생 마지막 순간은 총구의 섬광과 함께 끝이 난다.<br/><br/>＠ Each investigator is <b>killed.</b><br/><br/>＠ The players must decide:<br/><br/>  ◈ 이렇게 끝낼 순 없다. 그 어떤 대가가 따르더라도. : Proceed to <b>Resolution 5.</b><br/><br/>  ◈ 우리는 모두 언젠간 죽는다. : The investigators lose the campaign."
+	},
+	{
+		name: "RESOLUTION 2",
+		ko: "당신은 웨스트를 끌고 저택을 나선다. \"그 새로운 괴물은 뭐였지? 이 일을 꾸민 건 너인가? 아니면 그레이슨? 정말 무능하기 짝이 없군.\"<br/><br/>당신은 항변한다. 당신은 요원이 아니다. 당신은 그의 환자 중 하나였으니, 그는 당신에게 많은 것을 설명해야 할 것이다. 웨스트는 잠시 멈춰 서서 당신을 위아래로 훑어본다. 떠오르는 태양 빛에 그의 눈이 가늘어진다. \"흥미롭군. 내 환자 중 하나였나? 네게 정확히 무슨 일이 벌어지고 있는지 설명할 필요가 있겠군.\"<br/><br/>＠ Record in your campaign log that \"Herbert West is leading the way(허버트 웨스트가 당신을 안내한다)\"<br/><br/>..."
+	},
+	{
+		name: "RESOLUTION 3",
+		ko: "당신은 그 안의 공포로부터 도망쳐, 필사적으로 저택의 정문을 뛰쳐나간다. 태양이 지평선 위로 떠오르는 동안, 비명과 총성이 울려 퍼진다. 당신은 옆길에 몸을 숨긴 채 요원 몇 명이 웨스트를 저택 밖으로 끌고 나오는 모습을 지켜본다. 꽁꽁 묶인 채 피투성이가 된 그는 의식이 없는 상태이다. \"그를 어디로 데려갈까요?\" \"다시 브룩 시설로 데려간다. 진상을 규명하는 데 도움이 될 것이다.\"<br/><br/>당신에게는 해답이 필요하다. 요원들은 웨스트를 손에 넣었고, 이 모든 상황을 장악하고 있다. 가야 할 곳은 하나뿐이다. 시설로 돌아가야 한다.<br/><br/>＠ Record in your campaign log that \"Herbert West was taken against his will(허버트 웨스트가 납치되었다).\"<br/><br/>..."
+	},
+	{
+		name: "RESOLUTION 4",
+		ko: "무시무시한 괴물은 단말마와 함께 바닥에 쓰러진다. 주위를 둘러보자 요원이 떨어뜨린 것으로 보이는 권총 한 자루가 있다. 당신은 만약을 위해 괴물의 융합된 머리 양쪽에 직접 총알을 박아 넣는다. 웨스트는 재빨리 시체를 조사하기 시작한다. 당신은 시설에서 이 괴물이 죽는 것을 본 적이 있다고 이야기한다.<br/><br/>\"흠. 픽맨인가. 그의 작업은 분명 기이한 결실을 맺었지. 하지만 넌 이미 그 모든 것을 알고 있지 않나?\" 당신은 항변한다. 당신은 요원이 아니다. 당신은 그의 환자 중 하나였으니, 그는 당신에게 많은 것을 설명해야 할 것이다.<br/><br/>웨스트는 멈춰 서서 당신을 위아래로 훑어본다. 떠오르는 태양 빛에 그의 눈이 가늘어진다. \"흥미롭군. 내 환자 중 하나였나? 그렇다면, 네게 정확히 무슨 일이 벌어지고 있는지 설명할 필요가 있겠군.\"<br/><br/>＠ Record in your campaign log that you \"made sure the First was dead(첫 번째 실험체의 죽음을 확인했다).\"<br/><br/>..."
+	},
+	{
+		name: "RESOLUTION 5",
+		ko: "<del>죽음.<br/>넌 허락받지 못할 것이다.<br/>나의 구속을 해방하기 위해서는 나를 상대할 자가 필요하다.<br/>마법사의 어리석음이 너희 종족을 파멸로 이끌 것이다.<br/>네가 원하는 것을 이루어주마.<br/>일어나라.</del><br/><br/>떠오르는 태양 빛이 당신의 시체 위로 쏟아진다. 피부에 온기가 돌아오며, 당신은 충격과 함께 깨어난다. 당신은 이미 차갑게 식어버린 시체들에게 둘러싸인 채 저택 안에 누워있다. 어떻게 살아 있는 것일까?<br/><br/>당신에게는 해답이 필요하다. 요원들은 웨스트를 손에 넣었고, 이 모든 상황을 장악하고 있다. 가야 할 곳은 하나뿐이다. 시설로 돌아가야 한다.<br/><br/>＠ 누군가가 조사자들에게 두 번째 기회를 주었다. Remove all physical trauma from your investigators. They are no longer <b>killed.</b><br/><br/><del>넌 이제 나의 것이다.</del><br/><br/>＠ Record in your campaign log that \"The blood runs in your veins(그 피가 당신의 혈관에 흐르고 있다).\"<br/><br/><del>죽었는가? 살았는가? 그것은 중요하지 않다.</del><br/><br/>＠ Each investigator adds a copy of the \"Folly of Man\" and \"Death's Hold\" weaknesses to their deck.<br/><br/><del>너의 영혼과 인간성을 남겨둔 것은 나의 변덕일 뿐이다.</del><br/><br/>..."
 	},
 ];
 
