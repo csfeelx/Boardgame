@@ -267,6 +267,50 @@
 		name: "RESOLUTION 5",
 		ko: "<del>죽음.<br/>넌 허락받지 못할 것이다.<br/>나의 구속을 해방하기 위해서는 나를 상대할 자가 필요하다.<br/>마법사의 어리석음이 너희 종족을 파멸로 이끌 것이다.<br/>네가 원하는 것을 이루어주마.<br/>일어나라.</del><br/><br/>떠오르는 태양 빛이 당신의 시체 위로 쏟아진다. 피부에 온기가 돌아오며, 당신은 충격과 함께 깨어난다. 당신은 이미 차갑게 식어버린 시체들에게 둘러싸인 채 저택 안에 누워있다. 어떻게 살아 있는 것일까?<br/><br/>당신에게는 해답이 필요하다. 요원들은 웨스트를 손에 넣었고, 이 모든 상황을 장악하고 있다. 가야 할 곳은 하나뿐이다. 시설로 돌아가야 한다.<br/><br/>＠ 누군가가 조사자들에게 두 번째 기회를 주었다. Remove all physical trauma from your investigators. They are no longer <b>killed.</b><br/><br/><del>넌 이제 나의 것이다.</del><br/><br/>＠ Record in your campaign log that \"The blood runs in your veins(그 피가 당신의 혈관에 흐르고 있다).\"<br/><br/><del>죽었는가? 살았는가? 그것은 중요하지 않다.</del><br/><br/>＠ Each investigator adds a copy of the \"Folly of Man\" and \"Death's Hold\" weaknesses to their deck.<br/><br/><del>너의 영혼과 인간성을 남겨둔 것은 나의 변덕일 뿐이다.</del><br/><br/>..."
 	},
+	{
+		name: "INTERLUDE II - INTRO",
+		ko: "＠ Check your campaign log. If you\"earned Greyson's respect(당신은 그레이슨의 호감을 얻었다)\": Proceed to <b>Dead or Alive 1</b><br/><br/>＠ Otherwise: Proceed to <b>Dead or Alive 2</b>"
+	},
+	{
+		name: "INTERLUDE II - DEAD OR ALIVE 1",
+		ko: "당신이 저택 밖으로 나서는 순간, 그레이슨이 당신을 불러 세운다. \"우리는 도시를 가로질러 시설로 돌아갈 예정입니다. 타세요. 태워 드리지요.\"<br/><br/>＠ If \"Herbert West was taken against his will(허버트 웨스트가 납치되었다)\": <b>Proceed to Dead or Alive 3</b><br/><br/>＠ Otherwise: Proceed to <b>Dead or Alive 4</b>"
+	},
+	{
+		name: "INTERLUDE II - DEAD OR ALIVE 2",
+		ko: "당신은 요원들이 차에 올라탄 뒤 뿔뿔이 흩어져 도시로 들어가는 모습을 지켜본다. 그들은 시설로 돌아가 피해를 복구하고 다음 계획을 세울 것이다.<br/><br/>＠ If \"Herbert West was taken against his will(허버트 웨스트가 납치되었다)\": Proceed to <b>Dead or Alive 8</b><br/><br/>＠ Otherwise: Proceed to <b>Dead or Alive 5</b>"
+	},
+	{
+		name: "INTERLUDE II - DEAD OR ALIVE 3",
+		ko: "그레이슨이 운전석에 앉는 동안, 당신은 뒷좌석, 웨스트가 묶여 있는 옆자리에 올라탄다. 당신은 웨스트에게 자신을 소개하지만, 그는 당신이 무슨 말을 해도 조금도 관심을 보이지 않는다. 당신이 그를 어떻게 알고 있는지 언급하기 전까지는...<br/><br/>＠ Proceed to <b>Dead or Alive 6</b>"
+	},
+	{
+		name: "INTERLUDE II - DEAD OR ALIVE 4",
+		ko: "당신은 뒷좌석에 올라탄다. 웨스트는 이미 그곳에 앉아 운전대를 잡은 그레이슨을 노려보고 있었다. 그는 당신을 향해 고개를 돌린 뒤 만족스러운 미소를 지으며 이야기를 시작한다...<br/><br/>＠ Proceed to <b>Dead or Alive 6</b>"
+	},
+	{
+		name: "INTERLUDE II - DEAD OR ALIVE 5",
+		ko: "\"불행히도, 우리 역시 그들과 같은 곳으로 가야 한다. 브룩 연구소, 그 시설은 도시 지하에 숨겨져 있지. 말도 안 된다고 생각하나? 이해한다.\" 당신이 이미 그곳에 가봤다고 이야기하자, 웨스트는 어리둥절한 표정으로 당신을 바라본다. \"그렇다면 요원들의 포화를 피해 그곳에서 빠져나왔다는 말인가? 훌륭하군. 도시를 가로지르는 동안 한참을 걸어야 할 테니, 네게 모든 것을 설명하도록 하지.\"<br/><br/>＠ Proceed to <b>Dead or Alive 6</b>"
+	},
+	{
+		name: "INTERLUDE II - DEAD OR ALIVE 6",
+		ko: "\"처음부터 설명하도록 하지. 넌 나를 닥터 웨스트로 알고 있겠지만, 세상은 나를 죽음을 치유한 사람으로 알게 될 것이다. 난 내 인생 전부를 피할 수 없는 죽음이라는 질병과 맞서 싸우는데 바쳐왔지. 얼마 전, 나는 한 연구 단체로부터 내 실험실을 지하 시설로 옮기라는 제안을 받았다. 어쨌든 내 실험은 세간의 손가락질을 받을 만한 것이었으니, 난 그 제안을 받아들였지.<br/><br/>불행히도, 일주일 정도 전에, 다른 의사 중 몇 명이 나의 놀라운 연구 진전에 질투심을 갖게 되었지. 양심도 없는 놈들 같으니. 특히 닥터 픽맨은 이사회의 멍청이들을 설득해 내가 만들어낸 혈청을 그의... 오컬트 의식에 사용했다. 내 시약에 의해 되살아난 자들이 얼마나 강한지는 너도 직접 보았겠지. 그와 닥터 로비슨은 결국 선을 넘었다. 그들의 결과물과 나의 것을 섞어 괴물을 만들어낸 것이다. 여러 번의 시도 끝에 괴물들은 시설을 탈출했고, 도시 대부분이 놈들에게서 뿜어져 나온 이상 물질에 의해 감염되었지. 이렇게, 그 끔찍한 돌연변이들이 아컴 전역으로 퍼지게 된 것이다. 난 내가 만들어낸 혈청 사용에 관한 의견 차이로 시설을 그만두기로 했고, 남아 있던 기초 시약과 연구 결과를 가지고 그곳을 빠져나오려 했다. 솔직히 이야기하지. 난 그 시약들을 가지고 나오지 못했다. 난 그것이 여전히 시설 어딘가에 남아 있기를 바랄 뿐이다. 쓸모가 있을지도 모르니까 말이야.\"<br/><br/>＠ If an investigator's deck contains the Suspicious Briefcase asset, the investigators must decide:<br/><br/>◈ Hand over the briefcase. Remove the Suspicious Briefcase asset from the controlling investigator's deck. Record that \"West recovered the reagent supply(웨스트가 시약을 회수했다).\" Any one investigator may add Herbert West to their deck for the remainder of the campaign. This card does not count against deck size.<br/><br/>◈ You don't know Dr. West, and you don't trust him. Record that \"you hid the briefcase(당신은 서류가방을 숨겼다).\"<br/><br/>＠ Proceed to <b>Dead or Alive 7</b>"
+	},
+	{
+		name: "INTERLUDE II - DEAD OR ALIVE 7",
+		ko: "\"내 연구를 위해서는 죽음이 임박한 사람들이 꾸준히 공급될 필요가 있었다. 그래서 난 성 메리 병원의 중환자실에서 일했지. 그것이 네가 그곳에 있던 이유이다. 그리고 사실, 넌 가장 이상적인 결과물이라 할 수 있지.\"<br/><br/>당신은 공포에 질려 그것이 무슨 뜻인지 묻는다.<br/><br/>\"네 병세가 악화하여 복잡한 수술을 해야만 했지. 그리고 일이 잘못되었을 때, 난 지체 없이 시약을 사용했다. 특이하게도 네 시체는 이에 반응하지 않았지. 난 만약을 위해 네 시체를 시체안치소에 보관했다. 이렇게 빨리 성공을 확신하는 것은 망설여지는 일이지만, 넌 지금까지 내가 만들어낸 실험체중 가장 안정적인 결과물일 것이다.\"<br/><br/>터무니없는 이야기다. 당신은 웨스트에게 당신이 의식 불명과 유사한 상태일 수 있다고 지적한다!<br/><br/>\"그래. 넌 많은 다른 되살아난 자들과는 확연히 다른 특성을 보이고 있지. 강박적인 호기심과, 믿을 수 없는 강인함, 요컨대 요원들의 포화에서 살아남지 않았나. 그리고 폭력성을 보이지 않는 것도 주목할 만한 일이지...\"<br/><br/>＠ The investigators must each decide individually:<br/><br/>◈ 당신의 상태에 관한 끔찍한 진실을 받아들인다. 이는 당신을 더욱 강하게 할 뿐이다. Read <b>The Perks of Being Re-Animated.</b> If you have \"injected a cardinal reagent(기초 시약을 주입 당했다)\", you must choose this option.<br/><br/>◈ 웨스트는 틀렸다. 당신의 몸에 무슨 일이 벌어졌든, 당신은 자신이 여전히 인간임을 알고 있다. 당신의 정신은 온전하다, 중요한 것은 그것뿐이다. Read <b>The Good of Humanity</b><br/><br/>..."
+	},
+	{
+		name: "INTERLUDE II - DEAD OR ALIVE 8",
+		ko: "\"당신은 지난날의 사건들과 시체안치소에서 일어나기 직전의 기억에 집중한다. 웨스트는 성 메리 병원에서 당신을 수술했던 의사 중 하나였다. 당신은 수술 중 탁자 위에서 이상한 녹색 병을 본 기억이 있다. 웨스트의 실험체들에게서 떨어지던 것과 같은 바로 그 액체 말이다. 그 후 당신은 시체안치소에서 깨어났다. 말할 것도 없이, 당신은 시체 부대에 담겨 있었다. 당신은... 죽은 것일까?\"<br/><br/>＠ The investigators must each decide individually:<br/><br/>◈ 당신의 상태에 관한 끔찍한 진실을 받아들인다. 이는 당신을 더욱 강하게 할 뿐이다. Read <b>The Perks of Being Re-Animated.</b> If you have \"injected a cardinal reagent(기초 시약을 주입 당했다)\", you must choose this option.<br/><br/>◈ 그것은 단순한 우연의 일치일 뿐이다. 당신의 몸에 무슨 일이 벌어졌든, 당신은 자신이 여전히 인간임을 알고 있다. 당신의 정신은 온전하다, 중요한 것은 그것뿐이다. Read <b>The Good of Humanity</b><br/><br/>..."
+	},
+	{
+		name: "INTERLUDE II - The Perks of Being Re-Animated: 되살아난 자의 특전",
+		ko: "사실. 당신은 오래전부터 알고 있었다. 저택에서 목격한 것들은 당신의 의심을 확인시켜 주었을 뿐이다. 하지만 당신이 죽었다고 해서 이 광기를 멈출 수 없는 것은 아니다. 이 모든 재앙에 맞서, 죽었다는 것은 장점이 될 수도 있다!<br/><br/>＠ Each investigator who chose this option must add the \"Strength of Flesh\" story asset and \"Death's Hold\" weakness to their deck for the remainder of the campaign. These cards do not count against deck size."
+	},
+	{
+		name: "INTERLUDE II - The Good of Humanity: 인류의 선함",
+		ko: "겉모습이 어떻든 상관없다. 당신은 살아있다. 비록 당신의 육체는 정상이 아닐지라도, 당신은 여전히 의지를 가지고 있다. 당신이 저택에서 마주쳤던 괴물들과 다른 점이 있다면, 바로 그것일 것이다. 그리고 당신은 그 의지로 이 도시에 퍼져 나가는 공포를 그 밑바닥까지 파고들 것이다.<br/><br/>＠ Each investigator who chose this option must add the \"Unbreakable Will\" story asset and \"The Folly of Man\" weakness to their deck for the remainder of the campaign. These cards do not count against deck size."
+	},
 ];
 
 /*
