@@ -89,7 +89,7 @@
 	},
 	{},
 	{
-		note: "Night On The Town: 도시의 밤<br/>"
+		note: "NIGHT ON THE TOWN: 도시의 밤<br/>"
 	},
 	{
 		name: "INTRO (4)",
@@ -177,7 +177,7 @@
 	},
 	{},
 	{
-		note: "Dead by Dawn: 새벽의 죽음<br/>"
+		note: "DEAD BY DAWN: 새벽의 죽음<br/>"
 	},
 	{
 		name: "INTRO 1 (7)",
@@ -304,16 +304,16 @@
 		ko: "\"당신은 지난날의 사건들과 시체안치소에서 일어나기 직전의 기억에 집중한다. 웨스트는 성 메리 병원에서 당신을 수술했던 의사 중 하나였다. 당신은 수술 중 탁자 위에서 이상한 녹색 병을 본 기억이 있다. 웨스트의 실험체들에게서 떨어지던 것과 같은 바로 그 액체 말이다. 그 후 당신은 시체안치소에서 깨어났다. 말할 것도 없이, 당신은 시체 부대에 담겨 있었다. 당신은... 죽은 것일까?\"<br/><br/>＠ The investigators must each decide individually:<br/><br/>◈ 당신의 상태에 관한 끔찍한 진실을 받아들인다. 이는 당신을 더욱 강하게 할 뿐이다. Read <b>The Perks of Being Re-Animated.</b> If you have \"injected a cardinal reagent(기초 시약을 주입 당했다)\", you must choose this option.<br/><br/>◈ 그것은 단순한 우연의 일치일 뿐이다. 당신의 몸에 무슨 일이 벌어졌든, 당신은 자신이 여전히 인간임을 알고 있다. 당신의 정신은 온전하다, 중요한 것은 그것뿐이다. Read <b>The Good of Humanity</b><br/><br/>..."
 	},
 	{
-		name: "INTERLUDE II - The Perks of Being Re-Animated: 되살아난 자의 특전",
+		name: "INTERLUDE II -  THE PERKS OF BEING RE-ANIMATED: 되살아난 자의 특전",
 		ko: "사실. 당신은 오래전부터 알고 있었다. 저택에서 목격한 것들은 당신의 의심을 확인시켜 주었을 뿐이다. 하지만 당신이 죽었다고 해서 이 광기를 멈출 수 없는 것은 아니다. 이 모든 재앙에 맞서, 죽었다는 것은 장점이 될 수도 있다!<br/><br/>＠ Each investigator who chose this option must add the \"Strength of Flesh\" story asset and \"Death's Hold\" weakness to their deck for the remainder of the campaign. These cards do not count against deck size."
 	},
 	{
-		name: "INTERLUDE II - The Good of Humanity: 인류의 선함",
+		name: "INTERLUDE II - THE GOOD OF HUMANITY: 인류의 선함",
 		ko: "겉모습이 어떻든 상관없다. 당신은 살아있다. 비록 당신의 육체는 정상이 아닐지라도, 당신은 여전히 의지를 가지고 있다. 당신이 저택에서 마주쳤던 괴물들과 다른 점이 있다면, 바로 그것일 것이다. 그리고 당신은 그 의지로 이 도시에 퍼져 나가는 공포를 그 밑바닥까지 파고들 것이다.<br/><br/>＠ Each investigator who chose this option must add the \"Unbreakable Will\" story asset and \"The Folly of Man\" weakness to their deck for the remainder of the campaign. These cards do not count against deck size."
 	},
 	{},
 	{
-		note: "Mourning Chorus: 애도의 합창<br/>"
+		note: "MOURNING CHORUS: 애도의 합창<br/>"
 	},
 	{
 		name: "INTRO (12)",
