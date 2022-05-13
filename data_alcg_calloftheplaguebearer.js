@@ -61,7 +61,7 @@
 	},
 	{
 		name: "act 2b - The Last Line of Defense: 최후의 방어선",
-		ko: "<b>If The Tunnel was entered from the Ripped Hallway:</b><br/><br/>당신은 옆 길을 통해 강력한 방어선을 우회한다. 터널에는 경계 태세를 갖추고 있는, 완전무장한 요원들이 가득하다. 그들이 당신을 눈치채기도 전에, 시설에 기괴한 함성이 울려 퍼지고, 요원들의 리더는 큰 소리로 명령을 내리기 시작한다.<br/><br/>...<br/><br/><br/><b>If The Tunnel was entered from the Central Lobby:</b><br/><br/>당신은 마지막 바리케이드를 부수고 로비의 문을 돌파한다. 커다란 경보음이 당신의 귀를 울린다. 당신이 주변을 둘러보려던 찰나, 날카로운 목소리가 들린다. \"사격 개시!\" 요원들로 이루어진 작은 군대가 사격을 시작하기도 전에 기괴한 함성이 시설 안에 울려 퍼진다.<br/><br/>Record in your Campaign Guide that you tripped the Facility alarms(당신은 시설의 경보기를 작동시켰다).<br/><br/>..."
+		ko: "<b>If The Tunnel was entered from the Ripped Hallway:</b><br/><br/>당신은 옆 길을 통해 강력한 방어선을 우회한다. 터널에는 경계 태세를 갖추고 있는, 완전무장한 요원들이 가득하다. 그들이 당신을 눈치채기도 전에, 시설에 기괴한 함성이 울려 퍼지고, 요원들의 리더는 큰 소리로 명령을 내리기 시작한다.<br/><br/>...<br/><br/><br/><b>If The Tunnel was entered from the Central Lobby:</b><br/><br/>당신은 마지막 바리케이드를 부수고 로비의 문을 돌파한다. 커다란 경보음이 당신의 귀를 울린다. 당신이 주변을 둘러보려던 찰나, 날카로운 목소리가 들린다. \"사격 개시!\" 요원들로 이루어진 작은 군대가 사격을 시작하기도 전에 기괴한 함성이 시설 안에 울려 퍼진다.<br/><br/>Record in your Campaign Guide that <i>you tripped the Facility alarms</i>(당신은 시설의 경보기를 작동시켰다).<br/><br/>..."
 	},
 	{
 		name: "act 3a - Scylla and Charybdis: 진퇴양난",
@@ -73,19 +73,19 @@
 	},
 	{
 		name: "story - Fire in the Veins: 핏줄을 타고 흐르는 불",
-		ko: "당신은 쓸만한 물건을 찾아 가방을 뒤지던 중 그 안에 있던 바늘에 찔리고 만다. 당신은 재빨리 손을 뒤로 빼지만, 이미 빛나는 녹색 액체가 당신의 정맥에 투입되고 말았다. 머리가 빙글빙글 돌고, 잠시 눈앞이 어두워진다. 시야가 돌아왔을 때 당신은 눈앞의 모든 것이 붉은 아지랑이로 물들어 있는 것을 눈치챈다. 당신은 무언가 또는 누군가를 공격하고 싶은 강렬한 충동을 느낀다. 당신은 시간이 흐르는 것으로 이 분노가 사그라지기를 바라며 이를 참고 견딘다.<br/><br/>◈ Record in your campaign log that \"*your investigator* has injected a cardinal reagent(*당신의 조사자*는 기초 시약을 주입 당했다)\".<br/><br/>◈ <b>Exile</b> Suspicious Briefcase. Any investigator who has not \"injected a cardinal reagent(기초 시약을 주입 당했다)\" may add it to their deck (Does not count towards deck size). That investigator immediately puts Suspicious Briefcase into play."
+		ko: "당신은 쓸만한 물건을 찾아 가방을 뒤지던 중 그 안에 있던 바늘에 찔리고 만다. 당신은 재빨리 손을 뒤로 빼지만, 이미 빛나는 녹색 액체가 당신의 정맥에 투입되고 말았다. 머리가 빙글빙글 돌고, 잠시 눈앞이 어두워진다. 시야가 돌아왔을 때 당신은 눈앞의 모든 것이 붉은 아지랑이로 물들어 있는 것을 눈치챈다. 당신은 무언가 또는 누군가를 공격하고 싶은 강렬한 충동을 느낀다. 당신은 시간이 흐르는 것으로 이 분노가 사그라지기를 바라며 이를 참고 견딘다.<br/><br/>◈ Record in your campaign log that \"<i>*your investigator* has injected a cardinal reagent</i>(*당신의 조사자*는 기초 시약을 주입 당했다)\".<br/><br/>◈ <b>Exile</b> Suspicious Briefcase. Any investigator who has not \"<i>injected a cardinal reagent</i>(기초 시약을 주입 당했다)\" may add it to their deck (Does not count towards deck size). That investigator immediately puts Suspicious Briefcase into play."
 	},
 	{
 		name: "RESOLUTION 1 (3)",
-		ko: "당신은 커다란 팔이 당신을 흔드는 것을 느끼며 정신을 차린다. \"어이. 친구, 괜찮나?\" 뚱뚱한 남자 하나가 걱정스러운 표정으로 당신을 내려다보고 있다. 그는 당신이 깨어난 것을 보고 활짝 웃는다. \"정말 다행이구만. 죽은 손님은 장사에 방해되거든.\" 그는 행주를 어깨에 걸치고 손을 내민다. \"힙스(Hibbs)일세. 취기가 덜 가셨나 보구먼, 친구.\"<br/><br/>당신은 정신없이 외친다. 시설, 괴물과 요원들, 그리고 가스! 당신이 겪은 모든 일에 대해서.<br/><br/>\"무슨 말인지 모르겠구먼. 이곳은 내 가게일세. 힙스의 가로변 식당 말이야. 술을 찾고 있다면 최고의 선택이지. 자네는 술이 과했던 것 같군. 부스 한 곳에 기절해있던 것을 발견했지. 그게 다일세.\"<br/><br/>당신은 그에게 따져 묻는다. 이곳이 술집이라면, 손님들은 다 어디에 있단 말인가? \"재밌는 일이구만. 가스에 대해서 말했었지? 자네 이야기 중에 딱 하나, 말이 되는 게 있다네. 하지만 그 전에 뭐라도 좀 먹는 것이 좋겠군.\"<br/><br/>＠ In your campaign log, record that the Tailors contained the problem(재단사들이 사건을 덮었다).<br/><br/>＠ If the investigators put out a fire(불을 껐다), record in your campaign log that the collection was saved(물건들은 안전하다).<br/><br/>..."
+		ko: "당신은 커다란 팔이 당신을 흔드는 것을 느끼며 정신을 차린다. \"어이. 친구, 괜찮나?\" 뚱뚱한 남자 하나가 걱정스러운 표정으로 당신을 내려다보고 있다. 그는 당신이 깨어난 것을 보고 활짝 웃는다. \"정말 다행이구만. 죽은 손님은 장사에 방해되거든.\" 그는 행주를 어깨에 걸치고 손을 내민다. \"힙스일세. 취기가 덜 가셨나 보구먼, 친구.\"<br/><br/>당신은 정신없이 외친다. 시설, 괴물과 요원들, 그리고 가스! 당신이 겪은 모든 일에 대해서.<br/><br/>\"무슨 말인지 모르겠구먼. 이곳은 내 가게일세. 힙스의 가로변 식당 말이야. 술을 찾고 있다면 최고의 선택이지. 자네는 술이 과했던 것 같군. 부스 한 곳에 기절해있던 것을 발견했지. 그게 다일세.\"<br/><br/>당신은 그에게 따져 묻는다. 이곳이 술집이라면, 손님들은 다 어디에 있단 말인가? \"재밌는 일이구만. 가스에 대해서 말했었지? 자네 이야기 중에 딱 하나, 말이 되는 게 있다네. 하지만 그 전에 뭐라도 좀 먹는 것이 좋겠군.\"<br/><br/>＠ In your campaign log, record that <i>the Tailors contained the problem</i>(재단사들이 사건을 덮었다).<br/><br/>＠ If the investigators <i>put out a fire</i>(불을 껐다), record in your campaign log that <i>the collection was saved</i>(물건들은 안전하다).<br/><br/>..."
 	},
 	{
 		name: "RESOLUTION 2 (3)",
-		ko: "해치 밖으로 나오자 창고로 보이는 장소가 나타난다. 당신은 황급히 문을 향해 달려가 그것을 연다. 문밖에 있던 것은... 허름한 술집이다. 어안이 벙벙해진 당신은 주위를 둘러본다. 이런 장소 아래에 수상한 시설이 있다니, 이것이 현실일까?<br/><br/>당신은 누군가 목청을 가다듬는 소리에 몸을 돌린다. 에이프런을 한 남자가 당신을 향해 엽총을 들고 있는 모습이 보인다. \"자네가 누군지 모르겠구만, 친구. 그들은 내게 정체를 알 수 없는 자는 처리하라고 했지.\"<br/><br/>긴장이 고조되던 찰나, 그는 총을 내려놓는다. \"제기랄, 난 살인자가 아닐세. 그럴 배짱은 없지. 그냥... 재단사 요원(Tailor Agency)들이 묻거든 내가 자네를 막으려 했다고만 말해주게나, 알겠나?\"<br/><br/>그는 당신에게 투박한 손을 내밀고, 당신은 머뭇거리며 그 손을 잡는다. \"내 이름은 히버트(Hibbert)일세. 힙스라고 부르게나. 여기 내 가게지. 가로변 식당 말일세.\"<br/><br/>당신은 아래에 있는 시설에 대해 묻는다. \"브룩 연구소(Brook Facility)일세. 재단사들이 지역의 특이 현상을 연구하는 곳이지. 그들은 시설을 숨겨주는 대가로 내게 돈을 준다네. 그러니 난 더는 아무 말도 하지 않을 걸세.\"<br/><br/>당신은 포기하지 않고 괴물과 가스에 대해 캐묻는다. \"자네에게 나쁜 소식이 있다네, 친구. 그게 다가 아니지. 우선 앉게나. 배가 고파 보이는구만.\"<br/><br/>＠ If Agent Greyson is in the victory display, record in your campaign log that the First claimed The Facility(첫 번째 실험체가 시설을 점령했다).<br/><br/>＠ In your campaign log, record that the investigators learned the secret of the roadhouse(조사자들이 가로변 식당의 비밀을 알게 되었다).<br/><br/>＠ If the investigators put out a fire(불을 껐다), record in your campaign log that the collection was saved(물건들은 안전하다).<br/><br/>..."
+		ko: "해치 밖으로 나오자 창고로 보이는 장소가 나타난다. 당신은 황급히 문을 향해 달려가 그것을 연다. 문밖에 있던 것은... 허름한 술집이다. 어안이 벙벙해진 당신은 주위를 둘러본다. 이런 장소 아래에 수상한 시설이 있다니, 이것이 현실일까?<br/><br/>당신은 누군가 목청을 가다듬는 소리에 몸을 돌린다. 에이프런을 한 남자가 당신을 향해 엽총을 들고 있는 모습이 보인다. \"자네가 누군지 모르겠구만, 친구. 그들은 내게 정체를 알 수 없는 자는 처리하라고 했지.\"<br/><br/>긴장이 고조되던 찰나, 그는 총을 내려놓는다. \"제기랄, 난 살인자가 아닐세. 그럴 배짱은 없지. 그냥... 재단사 요원들이 묻거든 내가 자네를 막으려 했다고만 말해주게나, 알겠나?\"<br/><br/>그는 당신에게 투박한 손을 내밀고, 당신은 머뭇거리며 그 손을 잡는다. \"내 이름은 히버트일세. 힙스라고 부르게나. 여기 내 가게지. 가로변 식당 말일세.\"<br/><br/>당신은 아래에 있는 시설에 대해 묻는다. \"브룩 연구소일세. 재단사들이 지역의 특이 현상을 연구하는 곳이지. 그들은 시설을 숨겨주는 대가로 내게 돈을 준다네. 그러니 난 더는 아무 말도 하지 않을 걸세.\"<br/><br/>당신은 포기하지 않고 괴물과 가스에 대해 캐묻는다. \"자네에게 나쁜 소식이 있다네, 친구. 그게 다가 아니지. 우선 앉게나. 배가 고파 보이는구만.\"<br/><br/>＠ If Agent Greyson is in the victory display, record in your campaign log that <i>the First claimed The Facility</i>(첫 번째 실험체가 시설을 점령했다).<br/><br/>＠ In your campaign log, record that <i>the investigators learned the secret of the roadhouse</i>(조사자들이 가로변 식당의 비밀을 알게 되었다).<br/><br/>＠ If the investigators <i>put out a fire</i>(불을 껐다), record in your campaign log that <i>the collection was saved</i>(물건들은 안전하다).<br/><br/>..."
 	},
 	{
 		name: "RESOLUTION 3 (3)",
-		ko: "위태위태한 계단을 오르며 그레이슨이 설명한다. \"난 재단사들(Tailors)라고 불리는 기관에서 일하고 있어요. 우리는 어둠 속의 존재들을 상대하죠. 이 시설은 우리의 연구기지인 브룩(Brook) 연구소입니다. 당신이 어떻게 여기까지 오게 되었는지는 모르겠지만, 당신의 했던 일들을 보면 우리는 같은 편인 것 같군요.\" 그레이슨이 해치를 열자 그 위로 창고가 나타난다.<br/><br/>\"아컴에 재앙이 닥쳤어요. 이 정체를 알 수 없는 안개가 퍼지고 있죠. 난 아래에서 시설의 문제를 해결하고 있었지만, 우리의 문지기와 지역 주민들이 더 많은 것을 알려 줄 수 있을 거예요.\"<br/><br/>그녀가 창고의 문을 열자 허름한 술집이 나타난다. \"힙스? 손님이 있어요. 먹을 것 좀 가져다주겠어요?\"<br/><br/>미소를 띤 뚱뚱한 남자가 손을 내민다. 그는 당신과 악수를 한 뒤, 자기 일을 하기 위해 카운터 뒤로 간다.<br/><br/>＠ In your campaign log, record that you earned Greyson's respect(당신은 그레이슨의 호감을 얻었다).<br/><br/>＠ In your campaign log, record that the investigators learned the secret of the roadhouse(조사자들이 가로변 식당의 비밀을 알게 되었다).<br/><br/>＠ If the investigators put out a fire, record in your campaign log that the collection was saved(물건들은 안전하다).<br/><br/>..."
+		ko: "위태위태한 계단을 오르며 그레이슨이 설명한다. \"난 재단사들라고 불리는 기관에서 일하고 있어요. 우리는 어둠 속의 존재들을 상대하죠. 이 시설은 우리의 연구기지인 브룩 연구소입니다. 당신이 어떻게 여기까지 오게 되었는지는 모르겠지만, 당신의 했던 일들을 보면 우리는 같은 편인 것 같군요.\" 그레이슨이 해치를 열자 그 위로 창고가 나타난다.<br/><br/>\"아컴에 재앙이 닥쳤어요. 이 정체를 알 수 없는 안개가 퍼지고 있죠. 난 아래에서 시설의 문제를 해결하고 있었지만, 우리의 문지기와 지역 주민들이 더 많은 것을 알려 줄 수 있을 거예요.\"<br/><br/>그녀가 창고의 문을 열자 허름한 술집이 나타난다. \"힙스? 손님이 있어요. 먹을 것 좀 가져다주겠어요?\"<br/><br/>미소를 띤 뚱뚱한 남자가 손을 내민다. 그는 당신과 악수를 한 뒤, 자기 일을 하기 위해 카운터 뒤로 간다.<br/><br/>＠ In your campaign log, record that <i>you earned Greyson's respect</i>(당신은 그레이슨의 호감을 얻었다).<br/><br/>＠ In your campaign log, record that <i>the investigators learned the secret of the roadhouse</i>(조사자들이 가로변 식당의 비밀을 알게 되었다).<br/><br/>＠ If the investigators <i>put out a fire</i>(불을 껐다), record in your campaign log that <i>the collection was saved</i>(물건들은 안전하다).<br/><br/>..."
 	},
 	{},
 	{
@@ -149,15 +149,15 @@
 	},
 	{
 		name: "RESOLUTION 1",
-		ko: "상황이 나빠지고 있다. 당신이 시설에서 경험했던 기이한 사건이 도시 전역에 빠르게 퍼지고 있었다. 당신은 주민들을 구하기 위해 각고의 노력을 했지만, 밀려드는 부패의 안개에 대항하기에는 충분치 않았다.<br/><br/>안개의 원천을 차단하지 않는 이상, 이 재앙은 끝나지 않을 것이다. 당신은 이 악의 근원지를 찾아 그것을 막아야만 한다. 당신의 머릿속에 잡화점에서 모습을 드러내었던, 기이한 질병에 걸린 괴물이 떠오른다. 어쩌면 그 주변에 이 모든 것의 근원이 되는 무언가가 있을지도 모른다...<br/><br/>＠ In your campaign log, under the heading for each location, record \"Defended\" under the name of each location that has \"Survivors\", and record \"Infected\" under the name of each location that has a Ruin.<br/><br/>＠ Each investigator earns experience equal to the victory X value of each card in the victory display.<br/><br/>＠ If there are three or more locations recorded as \"Defended\", and Hibb's Roadhouse is recorded as \"Defended\", record in your campaign log that Hibbs has your back(힙스가 당신의 뒤를 봐준다)."
+		ko: "상황이 나빠지고 있다. 당신이 시설에서 경험했던 기이한 사건이 도시 전역에 빠르게 퍼지고 있었다. 당신은 주민들을 구하기 위해 각고의 노력을 했지만, 밀려드는 부패의 안개에 대항하기에는 충분치 않았다.<br/><br/>안개의 원천을 차단하지 않는 이상, 이 재앙은 끝나지 않을 것이다. 당신은 이 악의 근원지를 찾아 그것을 막아야만 한다. 당신의 머릿속에 잡화점에서 모습을 드러내었던, 기이한 질병에 걸린 괴물이 떠오른다. 어쩌면 그 주변에 이 모든 것의 근원이 되는 무언가가 있을지도 모른다...<br/><br/>＠ In your campaign log, under the heading for each location, record \"Defended\" under the name of each location that has \"Survivors\", and record \"Infected\" under the name of each location that has a Ruin.<br/><br/>＠ Each investigator earns experience equal to the victory X value of each card in the victory display.<br/><br/>＠ If there are three or more locations recorded as \"Defended\", and Hibb's Roadhouse is recorded as \"Defended\", record in your campaign log that <i>Hibbs has your back</i>(힙스가 당신의 뒤를 봐준다)."
 	},
 	{
 		name: "RESOLUTION 2",
-		ko: "당신은 해냈다. 당신의 노력으로 수많은 아컴의 주민들이 오늘 밤을 견뎌낼 것이다. 이 괴물들은 위험하기 짝이 없지만, 이 도시를 무너뜨리진 못할 것이다. 적어도 오늘 밤은 말이다.<br/><br/>비록 승리하였지만, 당신은 깊은 고민에 빠진다. 아무리 많은 사람이 오늘 밤을 버텨낸다 하더라도, 그것이 근본적인 해결책은 되지 않을 것이다.<br/><br/>안개의 원천을 차단하지 않는 이상, 이 재앙은 끝나지 않을 것이다. 당신은 이 악의 근원지를 찾아 그것을 막아야만 한다. 당신의 머릿속에 잡화점에서 모습을 드러내었던, 기이한 질병에 걸린 괴물이 떠오른다. 어쩌면 그 주변에 이 모든 것의 근원이 되는 무언가가 있을지도 모른다...<br/><br/>＠ Record in your campaign log that Arkham stands united(아컴이 재앙에 맞서 단결했다).<br/><br/>＠ In your campaign log, under the heading for each location, record \"Defended\" under the name of each location that has \"Survivors\", and record \"Infected\" under the name of each location that has a Ruin.<br/><br/>＠ Each investigator earns experience equal to the victory X value of each card in the victory display."
+		ko: "당신은 해냈다. 당신의 노력으로 수많은 아컴의 주민들이 오늘 밤을 견뎌낼 것이다. 이 괴물들은 위험하기 짝이 없지만, 이 도시를 무너뜨리진 못할 것이다. 적어도 오늘 밤은 말이다.<br/><br/>비록 승리하였지만, 당신은 깊은 고민에 빠진다. 아무리 많은 사람이 오늘 밤을 버텨낸다 하더라도, 그것이 근본적인 해결책은 되지 않을 것이다.<br/><br/>안개의 원천을 차단하지 않는 이상, 이 재앙은 끝나지 않을 것이다. 당신은 이 악의 근원지를 찾아 그것을 막아야만 한다. 당신의 머릿속에 잡화점에서 모습을 드러내었던, 기이한 질병에 걸린 괴물이 떠오른다. 어쩌면 그 주변에 이 모든 것의 근원이 되는 무언가가 있을지도 모른다...<br/><br/>＠ Record in your campaign log that <i>Arkham stands united</i>(아컴이 재앙에 맞서 단결했다).<br/><br/>＠ In your campaign log, under the heading for each location, record \"Defended\" under the name of each location that has \"Survivors\", and record \"Infected\" under the name of each location that has a Ruin.<br/><br/>＠ Each investigator earns experience equal to the victory X value of each card in the victory display."
 	},
 	{
 		name: "INTERLUDE I - FRIENDS IN LOW PLACES 1: 낮은 자리의 친구들 1",
-		ko: "리버타운은 고요하다. 살아남은 아컴의 주민들은 대부분 은신처에 숨어들었기에, 거리에는 당신과 깜빡이는 가로등만이 남아있다. 이상하게도, 숨 막히는 안개와 괴물들도 사라지고 없었다.<br/><br/>리버타운 근방을 수색하기 시작한 지 한 시간쯤, 누군가 당신의 어깨에 손을 얹는다. 깜짝 놀란 당신은 반격을 위해 돌아서지만, 그곳에 있는 것은 빙그레 웃고 있는 힙스였다.<br/><br/>\"진정하게나, 친구! 자네가 이 근처에 있다는 이야기를 듣고 뭐 도울 게 없나 해서 잠시 나와 봤다네. 자네가 내게 해준 일을 생각하면 아무것도 아니지. 비록 오래 있진 못하겠지만 말이야. 그 후에는, 글쎄...\"<br/><br/>＠ Record in your campaign log that \"Hibbs is here to help(힙스가 당신을 돕기 위해 왔다)\".<br/><br/>Check your campaign log. If \"The investigators know the secret of the roadhouse(조사자들이 가로변 식당의 비밀을 알게 되었다)\": Proceed to <b>Friends in Low Places 2.</b><br/><br/>Otherwise, proceed to <b>Friends in Low Places 3.</b>"
+		ko: "리버타운은 고요하다. 살아남은 아컴의 주민들은 대부분 은신처에 숨어들었기에, 거리에는 당신과 깜빡이는 가로등만이 남아있다. 이상하게도, 숨 막히는 안개와 괴물들도 사라지고 없었다.<br/><br/>리버타운 근방을 수색하기 시작한 지 한 시간쯤, 누군가 당신의 어깨에 손을 얹는다. 깜짝 놀란 당신은 반격을 위해 돌아서지만, 그곳에 있는 것은 빙그레 웃고 있는 힙스였다.<br/><br/>\"진정하게나, 친구! 자네가 이 근처에 있다는 이야기를 듣고 뭐 도울 게 없나 해서 잠시 나와 봤다네. 자네가 내게 해준 일을 생각하면 아무것도 아니지. 비록 오래 있진 못하겠지만 말이야. 그 후에는, 글쎄...\"<br/><br/>＠ Record in your campaign log that \"<i>Hibbs is here to help</i>(힙스가 당신을 돕기 위해 왔다)\".<br/><br/>Check your campaign log. If \"<i>The investigators know the secret of the roadhouse</i>(조사자들이 가로변 식당의 비밀을 알게 되었다)\": Proceed to <b>Friends in Low Places 2.</b><br/><br/>Otherwise, proceed to <b>Friends in Low Places 3.</b>"
 	},
 	{
 		name: "INTERLUDE I - FRIENDS IN LOW PLACES 2: 낮은 자리의 친구들 2",
@@ -169,7 +169,7 @@
 	},
 	{
 		name: "INTERLUDE I - FRIENDS IN LOW PLACES 4: 낮은 자리의 친구들 4",
-		ko: "리버타운은 고요하다. 살아남은 아컴의 주민들은 대부분 은신처에 숨어들었기에, 거리에는 당신과 깜빡이는 가로등만이 남아있다. 이상하게도, 숨 막히는 안개와 괴물들도 사라지고 없었다.<br/><br/>리버타운 근방을 수색하기 시작한 지 한 시간쯤, 당신은 모퉁이를 돌다 빛나는 안개의 구름 속에 발을 들인다. 잠시 당신의 시야가 흐려지고, 당신은 여러 사람의 시야를 동시에 경험한다. 누군가가 사악한 주문을 외우며 사람의 피부로 예복을 짓고 있다. 다른 누군가는 바닥에 엎드린 채 울부짖으며 양팔로 느릿느릿 자신의 몸을 끌고 있다. 그가 깊은 터널을 빠져나오자 그 앞에는 어두운 숲이 펼쳐져 있다. 또 다른 누군가가 시체를 내려다보며 운명을 저주하고 있다. <del>역병 전파자</del>가 어둠 속에서 작고 푸른 구체를 응시하고 있다. 구체는 거대한 붉은 손바닥 아래에 매달려 있고, 손바닥에 난 성흔에서는 녹색 진액에 떨어져 내리고 있다.<br/><br/><del>나의 귀환이 머지않았다</del><br/><br/>독기의 안개가 물러가고, 당신은 정신을 차린다.<br/><br/>＠ Record in your campaign log that \"The investigators have received a twisted gift(조사자들이 뒤틀린 선물을 받았다)\".<br/><br/><del>네가 날 막을 수 없기에, 이 선물을 주는 것이다</del><br/><br/>..."
+		ko: "리버타운은 고요하다. 살아남은 아컴의 주민들은 대부분 은신처에 숨어들었기에, 거리에는 당신과 깜빡이는 가로등만이 남아있다. 이상하게도, 숨 막히는 안개와 괴물들도 사라지고 없었다.<br/><br/>리버타운 근방을 수색하기 시작한 지 한 시간쯤, 당신은 모퉁이를 돌다 빛나는 안개의 구름 속에 발을 들인다. 잠시 당신의 시야가 흐려지고, 당신은 여러 사람의 시야를 동시에 경험한다. 누군가가 사악한 주문을 외우며 사람의 피부로 예복을 짓고 있다. 다른 누군가는 바닥에 엎드린 채 울부짖으며 양팔로 느릿느릿 자신의 몸을 끌고 있다. 그가 깊은 터널을 빠져나오자 그 앞에는 어두운 숲이 펼쳐져 있다. 또 다른 누군가가 시체를 내려다보며 운명을 저주하고 있다. <del>역병 전파자</del>가 어둠 속에서 작고 푸른 구체를 응시하고 있다. 구체는 거대한 붉은 손바닥 아래에 매달려 있고, 손바닥에 난 성흔에서는 녹색 진액에 떨어져 내리고 있다.<br/><br/><del>나의 귀환이 머지않았다</del><br/><br/>독기의 안개가 물러가고, 당신은 정신을 차린다.<br/><br/>＠ Record in your campaign log that \"<i>The investigators have received a twisted gift</i>(조사자들이 뒤틀린 선물을 받았다)\".<br/><br/><del>네가 날 막을 수 없기에, 이 선물을 주는 것이다</del><br/><br/>..."
 	},
 	{
 		name: "INTERLUDE I - FRIENDS IN LOW PLACES 5: 낮은 자리의 친구들 5",
@@ -181,7 +181,7 @@
 	},
 	{
 		name: "INTRO 1 (7)",
-		ko: "오전 12시 54분:<br/><br/>자정이 넘도록 조사에는 아무런 진전이 없다. 고요한 리버타운의 거리에는 괴물의 근원에 대한 단서가 조금도 남아있지 않은 듯하다. 당신이 조사를 중단하고 휴식을 고려하던 찰나, 포장되지 않은 돌길 위로 바퀴 구르는 소리가 당신의 귀를 사로잡는다. 당신이 근처 골목을 들여다보자, 의사 차림의 한 남자가 바퀴 달린 들것을 뒷문으로 밀어 넣고 있는 모습이 보인다. 그를 어디선가 본 적이 있는 것 같다.<br/><br/>잠시 시간이 걸리지만, 당신은 그 소심해 보이는 남자가 닥터 웨스트라는 것을 기억해낸다. 그는 당신이 성 메리 병원에 입원했을 때 당신의 주치의 중 하나였다. 그는 이곳에서 무엇을 하고 있는 것일까? 이 한밤중에 시체를 운반하고 있다니 말이다.<br/><br/>당신이 그 답을 떠올리기도 전에, 몇 대의 차가 거리를 질주해온다. 그리고 그것이 당신을 지나쳐 갔을 때, 웨스트는 이미 종적을 감춘 후였다.<br/><br/>Check the campaign log.<br/><br/>＠ If the investigators \"have earned Greyson's respect(당신은 그레이슨의 호감을 얻었다)\", proceed to <b>Intro 2.</b><br/><br/>＠ If \"The First claimed the facility(첫 번째 실험체가 시설을 점령했다)\", proceed to <b>Intro 3.</b><br/><br/>＠ Otherwise, proceed to <b>Intro 4.</b>"
+		ko: "오전 12시 54분:<br/><br/>자정이 넘도록 조사에는 아무런 진전이 없다. 고요한 리버타운의 거리에는 괴물의 근원에 대한 단서가 조금도 남아있지 않은 듯하다. 당신이 조사를 중단하고 휴식을 고려하던 찰나, 포장되지 않은 돌길 위로 바퀴 구르는 소리가 당신의 귀를 사로잡는다. 당신이 근처 골목을 들여다보자, 의사 차림의 한 남자가 바퀴 달린 들것을 뒷문으로 밀어 넣고 있는 모습이 보인다. 그를 어디선가 본 적이 있는 것 같다.<br/><br/>잠시 시간이 걸리지만, 당신은 그 소심해 보이는 남자가 닥터 웨스트라는 것을 기억해낸다. 그는 당신이 성 메리 병원에 입원했을 때 당신의 주치의 중 하나였다. 그는 이곳에서 무엇을 하고 있는 것일까? 이 한밤중에 시체를 운반하고 있다니 말이다.<br/><br/>당신이 그 답을 떠올리기도 전에, 몇 대의 차가 거리를 질주해온다. 그리고 그것이 당신을 지나쳐 갔을 때, 웨스트는 이미 종적을 감춘 후였다.<br/><br/>Check the campaign log.<br/><br/>＠ If the investigators \"<i>have earned Greyson's respect</i>(당신은 그레이슨의 호감을 얻었다)\", proceed to <b>Intro 2.</b><br/><br/>＠ If \"<i>The First claimed the facility</i>(첫 번째 실험체가 시설을 점령했다)\", proceed to <b>Intro 3.</b><br/><br/>＠ Otherwise, proceed to <b>Intro 4.</b>"
 	},
 	{
 		name: "INTRO 2 (7)",
@@ -253,55 +253,55 @@
 	},
 	{
 		name: "RESOLUTION 2",
-		ko: "당신은 웨스트를 끌고 저택을 나선다. \"그 새로운 괴물은 뭐였지? 이 일을 꾸민 건 너인가? 아니면 그레이슨? 정말 무능하기 짝이 없군.\"<br/><br/>당신은 항변한다. 당신은 요원이 아니다. 당신은 그의 환자 중 하나였으니, 그는 당신에게 많은 것을 설명해야 할 것이다. 웨스트는 잠시 멈춰 서서 당신을 위아래로 훑어본다. 떠오르는 태양 빛에 그의 눈이 가늘어진다. \"흥미롭군. 내 환자 중 하나였나? 네게 정확히 무슨 일이 벌어지고 있는지 설명할 필요가 있겠군.\"<br/><br/>＠ Record in your campaign log that \"Herbert West is leading the way(허버트 웨스트가 당신을 안내한다)\"<br/><br/>..."
+		ko: "당신은 웨스트를 끌고 저택을 나선다. \"그 새로운 괴물은 뭐였지? 이 일을 꾸민 건 너인가? 아니면 그레이슨? 정말 무능하기 짝이 없군.\"<br/><br/>당신은 항변한다. 당신은 요원이 아니다. 당신은 그의 환자 중 하나였으니, 그는 당신에게 많은 것을 설명해야 할 것이다. 웨스트는 잠시 멈춰 서서 당신을 위아래로 훑어본다. 떠오르는 태양 빛에 그의 눈이 가늘어진다. \"흥미롭군. 내 환자 중 하나였나? 네게 정확히 무슨 일이 벌어지고 있는지 설명할 필요가 있겠군.\"<br/><br/>＠ Record in your campaign log that \"<i>Herbert West is leading the way</i>(허버트 웨스트가 당신을 안내한다)\"<br/><br/>..."
 	},
 	{
 		name: "RESOLUTION 3",
-		ko: "당신은 그 안의 공포로부터 도망쳐, 필사적으로 저택의 정문을 뛰쳐나간다. 태양이 지평선 위로 떠오르는 동안, 비명과 총성이 울려 퍼진다. 당신은 옆길에 몸을 숨긴 채 요원 몇 명이 웨스트를 저택 밖으로 끌고 나오는 모습을 지켜본다. 꽁꽁 묶인 채 피투성이가 된 그는 의식이 없는 상태이다. \"그를 어디로 데려갈까요?\" \"다시 브룩 시설로 데려간다. 진상을 규명하는 데 도움이 될 것이다.\"<br/><br/>당신에게는 해답이 필요하다. 요원들은 웨스트를 손에 넣었고, 이 모든 상황을 장악하고 있다. 가야 할 곳은 하나뿐이다. 시설로 돌아가야 한다.<br/><br/>＠ Record in your campaign log that \"Herbert West was taken against his will(허버트 웨스트가 납치되었다).\"<br/><br/>..."
+		ko: "당신은 그 안의 공포로부터 도망쳐, 필사적으로 저택의 정문을 뛰쳐나간다. 태양이 지평선 위로 떠오르는 동안, 비명과 총성이 울려 퍼진다. 당신은 옆길에 몸을 숨긴 채 요원 몇 명이 웨스트를 저택 밖으로 끌고 나오는 모습을 지켜본다. 꽁꽁 묶인 채 피투성이가 된 그는 의식이 없는 상태이다. \"그를 어디로 데려갈까요?\" \"다시 브룩 시설로 데려간다. 진상을 규명하는 데 도움이 될 것이다.\"<br/><br/>당신에게는 해답이 필요하다. 요원들은 웨스트를 손에 넣었고, 이 모든 상황을 장악하고 있다. 가야 할 곳은 하나뿐이다. 시설로 돌아가야 한다.<br/><br/>＠ Record in your campaign log that \"<i>Herbert West was taken against his will</i>(허버트 웨스트가 납치되었다).\"<br/><br/>..."
 	},
 	{
 		name: "RESOLUTION 4",
-		ko: "무시무시한 괴물은 단말마와 함께 바닥에 쓰러진다. 주위를 둘러보자 요원이 떨어뜨린 것으로 보이는 권총 한 자루가 있다. 당신은 만약을 위해 괴물의 융합된 머리 양쪽에 직접 총알을 박아 넣는다. 웨스트는 재빨리 시체를 조사하기 시작한다. 당신은 시설에서 이 괴물이 죽는 것을 본 적이 있다고 이야기한다.<br/><br/>\"흠. 픽맨인가. 그의 작업은 분명 기이한 결실을 맺었지. 하지만 넌 이미 그 모든 것을 알고 있지 않나?\" 당신은 항변한다. 당신은 요원이 아니다. 당신은 그의 환자 중 하나였으니, 그는 당신에게 많은 것을 설명해야 할 것이다.<br/><br/>웨스트는 멈춰 서서 당신을 위아래로 훑어본다. 떠오르는 태양 빛에 그의 눈이 가늘어진다. \"흥미롭군. 내 환자 중 하나였나? 그렇다면, 네게 정확히 무슨 일이 벌어지고 있는지 설명할 필요가 있겠군.\"<br/><br/>＠ Record in your campaign log that you \"made sure the First was dead(첫 번째 실험체의 죽음을 확인했다).\"<br/><br/>..."
+		ko: "무시무시한 괴물은 단말마와 함께 바닥에 쓰러진다. 주위를 둘러보자 요원이 떨어뜨린 것으로 보이는 권총 한 자루가 있다. 당신은 만약을 위해 괴물의 융합된 머리 양쪽에 직접 총알을 박아 넣는다. 웨스트는 재빨리 시체를 조사하기 시작한다. 당신은 시설에서 이 괴물이 죽는 것을 본 적이 있다고 이야기한다.<br/><br/>\"흠. 픽맨인가. 그의 작업은 분명 기이한 결실을 맺었지. 하지만 넌 이미 그 모든 것을 알고 있지 않나?\" 당신은 항변한다. 당신은 요원이 아니다. 당신은 그의 환자 중 하나였으니, 그는 당신에게 많은 것을 설명해야 할 것이다.<br/><br/>웨스트는 멈춰 서서 당신을 위아래로 훑어본다. 떠오르는 태양 빛에 그의 눈이 가늘어진다. \"흥미롭군. 내 환자 중 하나였나? 그렇다면, 네게 정확히 무슨 일이 벌어지고 있는지 설명할 필요가 있겠군.\"<br/><br/>＠ Record in your campaign log that you \"<i>made sure the First was dead</i>(첫 번째 실험체의 죽음을 확인했다).\"<br/><br/>..."
 	},
 	{
 		name: "RESOLUTION 5",
-		ko: "<del>죽음.<br/>넌 허락받지 못할 것이다.<br/>나의 구속을 해방하기 위해서는 나를 상대할 자가 필요하다.<br/>마법사의 어리석음이 너희 종족을 파멸로 이끌 것이다.<br/>네가 원하는 것을 이루어주마.<br/>일어나라.</del><br/><br/>떠오르는 태양 빛이 당신의 시체 위로 쏟아진다. 피부에 온기가 돌아오며, 당신은 충격과 함께 깨어난다. 당신은 이미 차갑게 식어버린 시체들에게 둘러싸인 채 저택 안에 누워있다. 어떻게 살아 있는 것일까?<br/><br/>당신에게는 해답이 필요하다. 요원들은 웨스트를 손에 넣었고, 이 모든 상황을 장악하고 있다. 가야 할 곳은 하나뿐이다. 시설로 돌아가야 한다.<br/><br/>＠ 누군가가 조사자들에게 두 번째 기회를 주었다. Remove all physical trauma from your investigators. They are no longer <b>killed.</b><br/><br/><del>넌 이제 나의 것이다.</del><br/><br/>＠ Record in your campaign log that \"The blood runs in your veins(그 피가 당신의 혈관에 흐르고 있다).\"<br/><br/><del>죽었는가? 살았는가? 그것은 중요하지 않다.</del><br/><br/>＠ Each investigator adds a copy of the \"Folly of Man\" and \"Death's Hold\" weaknesses to their deck.<br/><br/><del>너의 영혼과 인간성을 남겨둔 것은 나의 변덕일 뿐이다.</del><br/><br/>..."
+		ko: "<del>죽음.<br/>넌 허락받지 못할 것이다.<br/>나의 구속을 해방하기 위해서는 나를 상대할 자가 필요하다.<br/>마법사의 어리석음이 너희 종족을 파멸로 이끌 것이다.<br/>네가 원하는 것을 이루어주마.<br/>일어나라.</del><br/><br/>떠오르는 태양 빛이 당신의 시체 위로 쏟아진다. 피부에 온기가 돌아오며, 당신은 충격과 함께 깨어난다. 당신은 이미 차갑게 식어버린 시체들에게 둘러싸인 채 저택 안에 누워있다. 어떻게 살아 있는 것일까?<br/><br/>당신에게는 해답이 필요하다. 요원들은 웨스트를 손에 넣었고, 이 모든 상황을 장악하고 있다. 가야 할 곳은 하나뿐이다. 시설로 돌아가야 한다.<br/><br/>＠ 누군가가 조사자들에게 두 번째 기회를 주었다. Remove all physical trauma from your investigators. They are no longer <b>killed.</b><br/><br/><del>넌 이제 나의 것이다.</del><br/><br/>＠ Record in your campaign log that \"<i>The blood runs in your veins</i>(그 피가 당신의 혈관에 흐르고 있다).\"<br/><br/><del>죽었는가? 살았는가? 그것은 중요하지 않다.</del><br/><br/>＠ Each investigator adds a copy of the \"Folly of Man\" and \"Death's Hold\" weaknesses to their deck.<br/><br/><del>너의 영혼과 인간성을 남겨둔 것은 나의 변덕일 뿐이다.</del><br/><br/>..."
 	},
 	{
 		name: "INTERLUDE II - INTRO",
-		ko: "＠ Check your campaign log. If you\"earned Greyson's respect(당신은 그레이슨의 호감을 얻었다)\": Proceed to <b>Dead or Alive 1</b><br/><br/>＠ Otherwise: Proceed to <b>Dead or Alive 2</b>"
+		ko: "＠ Check your campaign log. If you\"<i>earned Greyson's respect</i>(당신은 그레이슨의 호감을 얻었다)\": Proceed to <b>Dead or Alive 1</b><br/><br/>＠ Otherwise: Proceed to <b>Dead or Alive 2</b>"
 	},
 	{
-		name: "INTERLUDE II - DEAD OR ALIVE 1",
-		ko: "당신이 저택 밖으로 나서는 순간, 그레이슨이 당신을 불러 세운다. \"우리는 도시를 가로질러 시설로 돌아갈 예정입니다. 타세요. 태워 드리지요.\"<br/><br/>＠ If \"Herbert West was taken against his will(허버트 웨스트가 납치되었다)\": <b>Proceed to Dead or Alive 3</b><br/><br/>＠ Otherwise: Proceed to <b>Dead or Alive 4</b>"
+		name: "INTERLUDE II - DEAD OR ALIVE 1: 생사 무관 1",
+		ko: "당신이 저택 밖으로 나서는 순간, 그레이슨이 당신을 불러 세운다. \"우리는 도시를 가로질러 시설로 돌아갈 예정입니다. 타세요. 태워 드리지요.\"<br/><br/>＠ If \"<i>Herbert West was taken against his will</i>(허버트 웨스트가 납치되었다)\": <b>Proceed to Dead or Alive 3</b><br/><br/>＠ Otherwise: Proceed to <b>Dead or Alive 4</b>"
 	},
 	{
-		name: "INTERLUDE II - DEAD OR ALIVE 2",
-		ko: "당신은 요원들이 차에 올라탄 뒤 뿔뿔이 흩어져 도시로 들어가는 모습을 지켜본다. 그들은 시설로 돌아가 피해를 복구하고 다음 계획을 세울 것이다.<br/><br/>＠ If \"Herbert West was taken against his will(허버트 웨스트가 납치되었다)\": Proceed to <b>Dead or Alive 8</b><br/><br/>＠ Otherwise: Proceed to <b>Dead or Alive 5</b>"
+		name: "INTERLUDE II - DEAD OR ALIVE 2: 생사 무관 2",
+		ko: "당신은 요원들이 차에 올라탄 뒤 뿔뿔이 흩어져 도시로 들어가는 모습을 지켜본다. 그들은 시설로 돌아가 피해를 복구하고 다음 계획을 세울 것이다.<br/><br/>＠ If \"<i>Herbert West was taken against his will</i>(허버트 웨스트가 납치되었다)\": Proceed to <b>Dead or Alive 8</b><br/><br/>＠ Otherwise: Proceed to <b>Dead or Alive 5</b>"
 	},
 	{
-		name: "INTERLUDE II - DEAD OR ALIVE 3",
+		name: "INTERLUDE II - DEAD OR ALIVE 3: 생사 무관 3",
 		ko: "그레이슨이 운전석에 앉는 동안, 당신은 뒷좌석, 웨스트가 묶여 있는 옆자리에 올라탄다. 당신은 웨스트에게 자신을 소개하지만, 그는 당신이 무슨 말을 해도 조금도 관심을 보이지 않는다. 당신이 그를 어떻게 알고 있는지 언급하기 전까지는...<br/><br/>＠ Proceed to <b>Dead or Alive 6</b>"
 	},
 	{
-		name: "INTERLUDE II - DEAD OR ALIVE 4",
+		name: "INTERLUDE II - DEAD OR ALIVE 4: 생사 무관 4",
 		ko: "당신은 뒷좌석에 올라탄다. 웨스트는 이미 그곳에 앉아 운전대를 잡은 그레이슨을 노려보고 있었다. 그는 당신을 향해 고개를 돌린 뒤 만족스러운 미소를 지으며 이야기를 시작한다...<br/><br/>＠ Proceed to <b>Dead or Alive 6</b>"
 	},
 	{
-		name: "INTERLUDE II - DEAD OR ALIVE 5",
+		name: "INTERLUDE II - DEAD OR ALIVE 5: 생사 무관 5",
 		ko: "\"불행히도, 우리 역시 그들과 같은 곳으로 가야 한다. 브룩 연구소, 그 시설은 도시 지하에 숨겨져 있지. 말도 안 된다고 생각하나? 이해한다.\" 당신이 이미 그곳에 가봤다고 이야기하자, 웨스트는 어리둥절한 표정으로 당신을 바라본다. \"그렇다면 요원들의 포화를 피해 그곳에서 빠져나왔다는 말인가? 훌륭하군. 도시를 가로지르는 동안 한참을 걸어야 할 테니, 네게 모든 것을 설명하도록 하지.\"<br/><br/>＠ Proceed to <b>Dead or Alive 6</b>"
 	},
 	{
-		name: "INTERLUDE II - DEAD OR ALIVE 6",
-		ko: "\"처음부터 설명하도록 하지. 넌 나를 닥터 웨스트로 알고 있겠지만, 세상은 나를 죽음을 치유한 사람으로 알게 될 것이다. 난 내 인생 전부를 피할 수 없는 죽음이라는 질병과 맞서 싸우는데 바쳐왔지. 얼마 전, 나는 한 연구 단체로부터 내 실험실을 지하 시설로 옮기라는 제안을 받았다. 어쨌든 내 실험은 세간의 손가락질을 받을 만한 것이었으니, 난 그 제안을 받아들였지.<br/><br/>불행히도, 일주일 정도 전에, 다른 의사 중 몇 명이 나의 놀라운 연구 진전에 질투심을 갖게 되었지. 양심도 없는 놈들 같으니. 특히 닥터 픽맨은 이사회의 멍청이들을 설득해 내가 만들어낸 혈청을 그의... 오컬트 의식에 사용했다. 내 시약에 의해 되살아난 자들이 얼마나 강한지는 너도 직접 보았겠지. 그와 닥터 로비슨은 결국 선을 넘었다. 그들의 결과물과 나의 것을 섞어 괴물을 만들어낸 것이다. 여러 번의 시도 끝에 괴물들은 시설을 탈출했고, 도시 대부분이 놈들에게서 뿜어져 나온 이상 물질에 의해 감염되었지. 이렇게, 그 끔찍한 돌연변이들이 아컴 전역으로 퍼지게 된 것이다. 난 내가 만들어낸 혈청 사용에 관한 의견 차이로 시설을 그만두기로 했고, 남아 있던 기초 시약과 연구 결과를 가지고 그곳을 빠져나오려 했다. 솔직히 이야기하지. 난 그 시약들을 가지고 나오지 못했다. 난 그것이 여전히 시설 어딘가에 남아 있기를 바랄 뿐이다. 쓸모가 있을지도 모르니까 말이야.\"<br/><br/>＠ If an investigator's deck contains the Suspicious Briefcase asset, the investigators must decide:<br/><br/>◈ Hand over the briefcase. Remove the Suspicious Briefcase asset from the controlling investigator's deck. Record that \"West recovered the reagent supply(웨스트가 시약을 회수했다).\" Any one investigator may add Herbert West to their deck for the remainder of the campaign. This card does not count against deck size.<br/><br/>◈ You don't know Dr. West, and you don't trust him. Record that \"you hid the briefcase(당신은 서류가방을 숨겼다).\"<br/><br/>＠ Proceed to <b>Dead or Alive 7</b>"
+		name: "INTERLUDE II - DEAD OR ALIVE 6: 생사 무관 6",
+		ko: "\"처음부터 설명하도록 하지. 넌 나를 닥터 웨스트로 알고 있겠지만, 세상은 나를 죽음을 치유한 사람으로 알게 될 것이다. 난 내 인생 전부를 피할 수 없는 죽음이라는 질병과 맞서 싸우는데 바쳐왔지. 얼마 전, 나는 한 연구 단체로부터 내 실험실을 지하 시설로 옮기라는 제안을 받았다. 어쨌든 내 실험은 세간의 손가락질을 받을 만한 것이었으니, 난 그 제안을 받아들였지.<br/><br/>불행히도, 일주일 정도 전에, 다른 의사 중 몇 명이 나의 놀라운 연구 진전에 질투심을 갖게 되었지. 양심도 없는 놈들 같으니. 특히 닥터 픽맨은 이사회의 멍청이들을 설득해 내가 만들어낸 혈청을 그의... 오컬트 의식에 사용했다. 내 시약에 의해 되살아난 자들이 얼마나 강한지는 너도 직접 보았겠지. 그와 닥터 로비슨은 결국 선을 넘었다. 그들의 결과물과 나의 것을 섞어 괴물을 만들어낸 것이다. 여러 번의 시도 끝에 괴물들은 시설을 탈출했고, 도시 대부분이 놈들에게서 뿜어져 나온 이상 물질에 의해 감염되었지. 이렇게, 그 끔찍한 돌연변이들이 아컴 전역으로 퍼지게 된 것이다. 난 내가 만들어낸 혈청 사용에 관한 의견 차이로 시설을 그만두기로 했고, 남아 있던 기초 시약과 연구 결과를 가지고 그곳을 빠져나오려 했다. 솔직히 이야기하지. 난 그 시약들을 가지고 나오지 못했다. 난 그것이 여전히 시설 어딘가에 남아 있기를 바랄 뿐이다. 쓸모가 있을지도 모르니까 말이야.\"<br/><br/>＠ If an investigator's deck contains the Suspicious Briefcase asset, the investigators must decide:<br/><br/>◈ Hand over the briefcase. Remove the Suspicious Briefcase asset from the controlling investigator's deck. Record that \"<i>West recovered the reagent supply</i>(웨스트가 시약을 회수했다).\" Any one investigator may add Herbert West to their deck for the remainder of the campaign. This card does not count against deck size.<br/><br/>◈ You don't know Dr. West, and you don't trust him. Record that \"<i>you hid the briefcase</i>(당신은 서류가방을 숨겼다).\"<br/><br/>＠ Proceed to <b>Dead or Alive 7</b>"
 	},
 	{
-		name: "INTERLUDE II - DEAD OR ALIVE 7",
-		ko: "\"내 연구를 위해서는 죽음이 임박한 사람들이 꾸준히 공급될 필요가 있었다. 그래서 난 성 메리 병원의 중환자실에서 일했지. 그것이 네가 그곳에 있던 이유이다. 그리고 사실, 넌 가장 이상적인 결과물이라 할 수 있지.\"<br/><br/>당신은 공포에 질려 그것이 무슨 뜻인지 묻는다.<br/><br/>\"네 병세가 악화하여 복잡한 수술을 해야만 했지. 그리고 일이 잘못되었을 때, 난 지체 없이 시약을 사용했다. 특이하게도 네 시체는 이에 반응하지 않았지. 난 만약을 위해 네 시체를 시체안치소에 보관했다. 이렇게 빨리 성공을 확신하는 것은 망설여지는 일이지만, 넌 지금까지 내가 만들어낸 실험체중 가장 안정적인 결과물일 것이다.\"<br/><br/>터무니없는 이야기다. 당신은 웨스트에게 당신이 의식 불명과 유사한 상태일 수 있다고 지적한다!<br/><br/>\"그래. 넌 많은 다른 되살아난 자들과는 확연히 다른 특성을 보이고 있지. 강박적인 호기심과, 믿을 수 없는 강인함, 요컨대 요원들의 포화에서 살아남지 않았나. 그리고 폭력성을 보이지 않는 것도 주목할 만한 일이지...\"<br/><br/>＠ The investigators must each decide individually:<br/><br/>◈ 당신의 상태에 관한 끔찍한 진실을 받아들인다. 이는 당신을 더욱 강하게 할 뿐이다. Read <b>The Perks of Being Re-Animated.</b> If you have \"injected a cardinal reagent(기초 시약을 주입 당했다)\", you must choose this option.<br/><br/>◈ 웨스트는 틀렸다. 당신의 몸에 무슨 일이 벌어졌든, 당신은 자신이 여전히 인간임을 알고 있다. 당신의 정신은 온전하다, 중요한 것은 그것뿐이다. Read <b>The Good of Humanity</b><br/><br/>..."
+		name: "INTERLUDE II - DEAD OR ALIVE 7: 생사 무관 7",
+		ko: "\"내 연구를 위해서는 죽음이 임박한 사람들이 꾸준히 공급될 필요가 있었다. 그래서 난 성 메리 병원의 중환자실에서 일했지. 그것이 네가 그곳에 있던 이유이다. 그리고 사실, 넌 가장 이상적인 결과물이라 할 수 있지.\"<br/><br/>당신은 공포에 질려 그것이 무슨 뜻인지 묻는다.<br/><br/>\"네 병세가 악화하여 복잡한 수술을 해야만 했지. 그리고 일이 잘못되었을 때, 난 지체 없이 시약을 사용했다. 특이하게도 네 시체는 이에 반응하지 않았지. 난 만약을 위해 네 시체를 시체안치소에 보관했다. 이렇게 빨리 성공을 확신하는 것은 망설여지는 일이지만, 넌 지금까지 내가 만들어낸 실험체중 가장 안정적인 결과물일 것이다.\"<br/><br/>터무니없는 이야기다. 당신은 웨스트에게 당신이 의식 불명과 유사한 상태일 수 있다고 지적한다!<br/><br/>\"그래. 넌 많은 다른 되살아난 자들과는 확연히 다른 특성을 보이고 있지. 강박적인 호기심과, 믿을 수 없는 강인함, 요컨대 요원들의 포화에서 살아남지 않았나. 그리고 폭력성을 보이지 않는 것도 주목할 만한 일이지...\"<br/><br/>＠ The investigators must each decide individually:<br/><br/>◈ 당신의 상태에 관한 끔찍한 진실을 받아들인다. 이는 당신을 더욱 강하게 할 뿐이다. Read <b>The Perks of Being Re-Animated.</b> If you have \"<i>injected a cardinal reagent</i>(기초 시약을 주입 당했다)\", you must choose this option.<br/><br/>◈ 웨스트는 틀렸다. 당신의 몸에 무슨 일이 벌어졌든, 당신은 자신이 여전히 인간임을 알고 있다. 당신의 정신은 온전하다, 중요한 것은 그것뿐이다. Read <b>The Good of Humanity</b><br/><br/>..."
 	},
 	{
-		name: "INTERLUDE II - DEAD OR ALIVE 8",
-		ko: "\"당신은 지난날의 사건들과 시체안치소에서 일어나기 직전의 기억에 집중한다. 웨스트는 성 메리 병원에서 당신을 수술했던 의사 중 하나였다. 당신은 수술 중 탁자 위에서 이상한 녹색 병을 본 기억이 있다. 웨스트의 실험체들에게서 떨어지던 것과 같은 바로 그 액체 말이다. 그 후 당신은 시체안치소에서 깨어났다. 말할 것도 없이, 당신은 시체 부대에 담겨 있었다. 당신은... 죽은 것일까?\"<br/><br/>＠ The investigators must each decide individually:<br/><br/>◈ 당신의 상태에 관한 끔찍한 진실을 받아들인다. 이는 당신을 더욱 강하게 할 뿐이다. Read <b>The Perks of Being Re-Animated.</b> If you have \"injected a cardinal reagent(기초 시약을 주입 당했다)\", you must choose this option.<br/><br/>◈ 그것은 단순한 우연의 일치일 뿐이다. 당신의 몸에 무슨 일이 벌어졌든, 당신은 자신이 여전히 인간임을 알고 있다. 당신의 정신은 온전하다, 중요한 것은 그것뿐이다. Read <b>The Good of Humanity</b><br/><br/>..."
+		name: "INTERLUDE II - DEAD OR ALIVE 8: 생사 무관 8",
+		ko: "\"당신은 지난날의 사건들과 시체안치소에서 일어나기 직전의 기억에 집중한다. 웨스트는 성 메리 병원에서 당신을 수술했던 의사 중 하나였다. 당신은 수술 중 탁자 위에서 이상한 녹색 병을 본 기억이 있다. 웨스트의 실험체들에게서 떨어지던 것과 같은 바로 그 액체 말이다. 그 후 당신은 시체안치소에서 깨어났다. 말할 것도 없이, 당신은 시체 부대에 담겨 있었다. 당신은... 죽은 것일까?\"<br/><br/>＠ The investigators must each decide individually:<br/><br/>◈ 당신의 상태에 관한 끔찍한 진실을 받아들인다. 이는 당신을 더욱 강하게 할 뿐이다. Read <b>The Perks of Being Re-Animated.</b> If you have \"<i>injected a cardinal reagent</i>(기초 시약을 주입 당했다)\", you must choose this option.<br/><br/>◈ 그것은 단순한 우연의 일치일 뿐이다. 당신의 몸에 무슨 일이 벌어졌든, 당신은 자신이 여전히 인간임을 알고 있다. 당신의 정신은 온전하다, 중요한 것은 그것뿐이다. Read <b>The Good of Humanity</b><br/><br/>..."
 	},
 	{
 		name: "INTERLUDE II -  THE PERKS OF BEING RE-ANIMATED: 되살아난 자의 특전",
@@ -350,6 +350,62 @@
 	{
 		name: "act 2b - Final Hymn: 최후의 노래",
 		ko: "무시무시한 울부짖음과 함께 사제의 머리가 놈의 몸부림치는 몸뚱이에서 잘려나간다. 놈의 시체는 연기를 내기 시작하더니, 곧 폭발하여 피와 살점, 그리고 내장을 흩날린다...<br/><br/>놈을 따르던 감염자들은 마지막 노래를 부른 뒤, 경련을 일으키며 바닥에 쓰러진다.<br/><br/>..."
+	},
+	{
+		name: "INVESTIGATOR DEFEAT (13)",
+		ko: "당신은 자신이 언제, 어떻게 그 행렬에 합류했는지 기억나지 않는다. 하지만 당신은 당신이 태어나기도 전에 배운 찬송가를 부르며 멍하니 거리를 돌아다녔다. 그것은 아주 아름다웠다.<br/><br/>＠ In your campaign log, record the name of each defeated investigator as \"<i>*Investigator* has heeded the call</i>(부름에 귀를 기울였다)\".<br/><br/><del>두려워하며 기뻐하라. 다시 하나가 되어라. 그것은 단지 시간문제일 뿐이다.</del><br/><br/>..."
+	},
+	{
+		name: "RESOLUTION 1 (13)",
+		ko: "포격이 멈추자, 행렬의 잔해, 그러니까 피와 살점 그리고 내장들이 하늘로 떠올라 기이한 표식을 이룬다. 녹색과 붉은색의 뒤틀린 형체가 마치 산자의 핏줄처럼 맥동한다. 당신은 근처의 감염자를 잡아 흔들며 설명을 요구한다.<br/><br/>\"그가 풀려났다! 그가 되살아났다! 그들은 부름을 듣고 우리를 죽였다! 우리의 죽음으로 그는 해방될 것이다! 피비린내 나는 해방이 다가온다!\"<br/><br/>그들은 끔찍한 실수를 저질렀다.<br/><br/>＠ In your campaign log, under the entry for the location that is the Site of Unbinding, record \"<i>Crater of Unbinding</i>(해방의 구덩이)\".<br/><br/>..."
+	},
+	{
+		name: "RESOLUTION 2 (13)",
+		ko: "무시무시한 합창이 멈추자, 행렬의 잔해, 그러니까 피와 살점 그리고 내장들이 하늘로 떠올라 기이한 표식을 이룬다. 녹색과 붉은색의 뒤틀린 형체가 마치 산자의 핏줄처럼 맥동한다. 당신은 근처의 감염자를 잡아 흔들며 설명을 요구한다.<br/><br/>\"그가 풀려났다! 그가 되살아났다! 너희는 부름을 듣고 우리를 죽였다! 우리의 죽음으로 그는 해방될 것이다! 피비린내 나는 해방이 다가온다!\"<br/><br/>당신은 끔찍한 실수를 저질렀다.<br/><br/>＠ In your campaign log, under the entry for the location that is the Site of Unbinding, record \"<i>Crater of Unbinding</i>(해방의 구덩이)\".<br/><br/>..."
+	},
+	{
+		name: "INTERLUDE III - ARKHAM ALLIED. INTRO (14)",
+		ko: "당신이 하늘에 새겨진 기이한 표식의 의미를 생각하던 찰나, 누군가 당신의 이름을 외치는 소리가 들린다...<br/><br/>＠ Check your campaign log. For each location you have \"Rallied\", read the corresponding section."
+	},
+	{
+		name: "INTERLUDE III - ARKHAM ALLIED. HIBB'S ROADHOUSE: 아컴이 힘을 모으다. 힙스의 가로변 식당",
+		ko: "반쯤 취한 것이 분명한 술집의 단골들이 당신의 이름을 억지로 끼워 넣은 주가를 부르고 있다. 이 주정뱅이들에게는 동지애를 느끼지 않을 수가 없다.<br/><br/>＠ Any player may add Excessive Spirits to their deck. This card does not count against their deck size."
+	},
+	{
+		name: "INTERLUDE III - ARKHAM ALLIED. GENERAL STORE: 아컴이 힘을 모으다. 잡화점",
+		ko: "잡화점의 데이비가 공손히 당신을 불러 낡은 펀치 카드를 건네준다. \"제가 드릴 수 있는 물건이라면 가능한 한 좋은 가격에 드리겠습니다. 제가 할 수 있는 건 이런 일이 전부로군요.\" 그는 겁에 질린 눈으로 하늘의 표식을 바라본다. \"분명 도움이 될 겁니다.\"<br/><br/>＠ Any player may add Loyalty Card to their deck. This card does not count against their deck size."
+	},
+	{
+		name: "INTERLUDE III - ARKHAM ALLIED. BANK OF ARKHAM: 아컴이 힘을 모으다. 아컴 은행",
+		ko: "은행의 부지점장은 당신에게 생각할 틈조차 주지 않고, 당신의 손에 상자 하나를 쥐여준다. 그가 불안한 표정으로 하늘의 표식을 바라보는 동안, 당신은 상자를 연다. 그 안에는 다량의 현금이 들어있다. \"아컴의 미래를 위한 투자라고 생각해 주십시오.\"<br/><br/>＠ Any player may add Extended Loan to their deck. This card does not count against their deck size."
+	},
+	{
+		name: "INTERLUDE III - ARKHAM ALLIED. ORNE LIBRARY: 아컴이 힘을 모으다. 오른 도서관",
+		ko: "아미티지 교수는 자신의 토트백에서 책장에 금박을 입힌 책 한 권을 꺼낸다. \"이 책은 대중에게는 공개되지 않은 물품이라오. 그중에서도 가장 귀한 것 중 하나이지. 이 표식이 어떤 끔찍한 운명을 예고하는 것일지는 몰라도, 당신이 그 운명을 뒤집는 데 이 책이 도움되었으면 좋겠구려.\"<br/><br/>＠ Any player may add Reliquary Tome to their deck. This card does not count against their deck size."
+	},
+	{
+		name: "INTERLUDE III - ARKHAM ALLIED. MA'S BOARDING HOUSE: 아컴이 힘을 모으다. 마의 하숙집",
+		ko: "나이가 지긋한 마 매터슨은 말없이 당신의 손을 잡아 흔들고는, 직접 만든 페이스트리가 가득 담긴 양철통을 건네준다. 이를 지켜보던 몇몇 이들의 눈이 휘둥그레진다.<br/><br/>＠ Any player may add Ma's Approval to their deck. This card does not count against their deck size."
+	},
+	{
+		name: "INTERLUDE III - ARKHAM ALLIED. PLAGUEBEARER: 아컴이 힘을 모으다. 역병 전파자",
+		ko: "<del>시간이 다 되어 간다. 나의 감옥은 지금 당장에라도</del> 부서질 것이다. 자정이 되면, 네 종말이 다가올 것이다.<br/><br/>＠ Each investigator reading this gains 2 experience and I mental trauma"
+	},
+	{
+		name: "INTERLUDE III - ARKHAM ALLIED. YE OLDE MAGICK SHOPPE: 아컴이 힘을 모으다. 예 올디 매지크 샵",
+		ko: "미리암 비처는 기침을 한 뒤, 하늘의 표식을 가리키며 말한다. \"이 재앙이 끝나려면 아직 멀었군요. 무엇이 필요하게 되실지는 모르지만, 도움이 될 만한 것을 알고 있습니다...\"<br/><br/>＠ Any player may add Ritual of Yaztaroth to their deck. This card does not count against their deck size."
+	},
+	{
+		name: "INTERLUDE III - ARKHAM ALLIED. ARKHAM ADVERTISER: 아컴이 힘을 모으다. 아컴 애드버타이저",
+		ko: "몇몇 기자들이 당신을 둘러싸고, 카메라의 플래시가 번쩍인다. \"아컴에 평화가 돌아오고 나면, 도시의 모든 이가 당신을 만나고 싶어할 겁니다.\"<br/><br/>＠ Any player may add Full Coverage to their deck. This card does not count against their deck size."
+	},
+	{
+		name: "INTERLUDE III - ARKHAM ALLIED. RIVER DOCKS: 아컴이 힘을 모으다. 강변 부두",
+		ko: "사건 해결을 기뻐하는 부두의 노동자 한 무리가 당신을 헹가래 친다. 그들은 당신이 몇 번을 애원한 끝에야 당신을 내려준 뒤, 당신에게 명예 조합원의 자격을 준다.<br/><br/>＠ Any player may add Hard Day's Work to their deck. This card does not count against their deck size."
+	},
+	{
+		name: "INTERLUDE III - ARKHAM ALLIED. OUTRO",
+		ko: "당신은 요원들이 가로변 식당으로 몰려드는 것을 눈치챈다. 이제 돌아갈 시간이다."
 	},
 ];
 
