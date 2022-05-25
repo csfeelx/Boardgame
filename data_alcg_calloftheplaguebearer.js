@@ -727,6 +727,26 @@
 		name: "INVESTIGATOR DEFEAT (23)",
 		ko: "당신은 첫 번째 감염체의 손에 죽음을 맞이했다. 한 편으로는 다행한 일이었다. 물론 엄청나게 고통스럽긴 했지만, 죽음은 안식이기도 했다. 죽은 자들은 더 이상 바알산도르나 세계의 운명에 대해 걱정할 필요가 없었다.<br/><br/>하지만 당신이 상념에 잠겨있는 동안, 갑자기 중력이 솟구치는 것이 느껴진다.<br/><br/>당신이 눈을 뜨자, 초조하게 당신을 지켜보고 있는 동료들의 모습이 보인다. \"잘 지켜보도록 해!\" 방 건너편에서 웨스트가 소리친다. \"혈청 때문에 당분간 다소 불안정해질 수도 있으니까 말이다.\"<br/><br/>...<br/><br/>＠ For each investigator who has not <i>imbibed a cardinal reagent</i>(기초 시약을 흡수했다), record in your campaign log that they have <i>imbibed a cardinal reagent</i>(기초 시약을 흡수했다)."
 	},
+	{
+		name: "INTERLUDE V: A CONFRONTATION - INTRO (24)",
+		ko: "Check your campaign log. If <i>\"You have been warned(당신은 경고를 받았다)\":</i> Proceed to <b>A Confrontation 4.</b><br/><br/>Otherwise: Proceed to <b>A Confrontation 1.</b>"
+	},
+	{
+		name: "INTERLUDE V: A CONFRONTATION - A CONFRONTATION 1 (24): 대립 1",
+		ko: "당신은 허버트 웨스트에게 물어야 할 것이 있다. 그는 당신에게 거짓말을 해왔다. 대놓고 당신을 속인 것은 아니었지만, 그 자신이 이 재앙을 일으킨 주역 중 하나였음에도 그 사실을 숨겨 온 것이다. 당신은 방안을 돌아다니며 의식에 관해 중얼거리고 있던 웨스트의 팔을 붙들고, 그에게 해명을 요구한다.<br/><br/>웨스트는 곧 입을 다문다. 당신과 웨스트는 잠시 서로를 노려본다. 마침내 그가 이야기한다. \"그래서, 네가 날 비난하는 이유는 무엇이지?\"<br/><br/>살인과 음모. 이런 젠장, 그는 바알산도르의 노예일 수도 있다. 그가 바로 첫 번째 감염체를 만들어낸 자였다. 당신은 그가 일으킨 시체에게 쫓긴 적이 있고, 그에게는 상황이 나빠지기 직전 모습을 감추는 고약한 버릇이 있었다. 심지어 성 메리 병원에서 그는 당신을 죽이려 했던 것일 수도 있다.<br/><br/>웨스트는 얼굴을 찡그린다. \"터무니없는 소리를 하는군. 여기서 시간을 낭비하고 싶나? 난 거절하겠다.\" 그는 당신의 손아귀를 뿌리치려 하지만, 당신은 그를 놓아주지 않는다.<br/><br/>＠ The investigators must decide:<br/><br/>◈ 웨스트는 믿을 수 없다. 다시는 그가 도망치게 놔두지 않을 것이다: Proceed to <b>A Confrontation 2.</b><br/><br/>◈ 웨스트가 잘못을 저질렀을 수도 있지만, 모두 어쩔 수 없는 일이었다. 그를 놓아준다. Let him go.: Proceed to <b>A Confrontation 3.</b>"
+	},
+	{
+		name: "INTERLUDE V: A CONFRONTATION - A CONFRONTATION 2 (24): 대립 2",
+		ko: "이 상황을 운에 맡길 순 없다. 허버트 웨스트는 당신을 적대하고 있진 않지만, 그는 괴물이다. 당신이 그를 놓아주지 않자, 그는 충격을 받은 표정으로 당신을 바라본다.<br/><br/>\"육체적 폭력에 의지하겠다는 건가? 야만인들처럼? 너에게 실망했다. 정말 믿기지 않는군.\"<br/><br/>웨스트는 아무런 경고도 없이 당신에게 덤벼든다. 그의 눈과 그의 손에 들린 주사기가 에메랄드 빛으로 번뜩인다. 당신이 뒤로 쓰러지자, 웨스트는 헛손질을 한 뒤, 발을 헛디뎌 비틀거리다 시계의 기계 장치와 부딪히고 만다. 시계가 자정을 가리키는 것과 동시에, 소름 끼치는 굉음이 방을 가득 채운다.<br/><br/>당신을 몸을 일으키려는 순간, 믿을 수 없을 정도로 깊은 곳에서 울리는 웃음소리가 들려온다.<br/><br/><b>이미 서로 반목하고 있구나!</b><br/><br/>고개를 돌리자 거대한 녹색 눈이 당신을 응시하고 있다. 당신이 무언가를 해보기도 전에, 버스만 한 크기의 붉은 팔이 탑을 무너뜨리며 당신을 땅에 떨어뜨린다.<br/><br/>바알산도르가 지구에 강림했다.<br/><br/>＠ If Herbert West is in any player's deck, remove him from that deck.<br/><br/>＠ Record in your campaign log that <i>Death conquered Herbert West(죽음이 허버스 웨스트를 정복했다)</i>."
+	},
+	{
+		name: "INTERLUDE V: A CONFRONTATION - A CONFRONTATION 3 (24): 대립 3",
+		ko: "웨스트가 끔찍한 실수를 저지르긴 했지만, 그는 당신의 적이 아니다. 당신의 그를 놓아주자 그는 구겨진 소매를 편다.<br/><br/>자정이 되어 시계탑의 종이 울리기 시작하고, 웨스트는 무언가를 보고 겁에 질려 숨이 막힌다. 당신이 그의 시선을 쫓자, 그곳에는 당신을 응시하는 거대한 녹색 눈이 있다. 거대한 붉은 팔이 탑을 덮쳐 그것을 무너뜨리기 시작하고, 당신은 웨스트를 구하기 위해 달려든다. 당신과 웨스트는 지상으로 날려지지만, 기적적으로 풀숲 위에 떨어진다.<br/><br/>웨스트는 당신을 팔을 잡고 당신이 몸을 일으키는 것을 돕는다. \"네가 나의 목숨을 구했군. 이 빚을 잊지 않겠다.\"<br/><br/>거대하기 짝이 없는 괴물과 맞서야 하는 지금 이 상황에서, 그의 말은 당신에게 작은 위안이 되어준다.<br/><br/><b>다시 한 번 살아남았군. 이제는 끝이다. 죽을 때가 되었다.</b><br/><br/>바알산도르가 지구에 강림했다.<br/><br/>＠ If Herbert West is not in a player's deck, they may include the Herbert West asset in their deck This card does not count against deck size.<br/><br/>＠ Record in your campaign log that <i>Baalshandor struck the first blow(바알산도르가 첫 번째 일격을 날렸다)</i>."
+	},
+	{
+		name: "INTERLUDE V: A CONFRONTATION - A CONFRONTATION 4 (24): 대립 4",
+		ko: "당신은 허버트 웨스트에게 물을 것이 있다. 하지만 지금은 그럴 때도, 그럴 장소도 아니다. 만약 당신이 본 것이 진실이라면, 곧 거대한 재앙이 닥쳐올 것이다. 당신은 웨스트의 팔을 붙들고 그를 계단으로 끌어내린다.<br/><br/>당신이 시청을 나오는 순간, 자정을 알리는 종이 울리기 시작한다. 뒤를 돌아본 당신은 거대한 괴물의 팔이 시계탑을 부수는 것을 보며 충격에 빠진다. 괴물의 수많은 눈이 빙글거리며 당신을 내려다본다.<br/><br/><b>아. 내 해방을 도운 유용한 도구들이군. 이제 죽을 시간이다.</b><br/><br/>바알산도르가 지구에 강림했다."
+	},
 ];
 
 /*
