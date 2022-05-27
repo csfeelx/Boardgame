@@ -783,6 +783,58 @@
 		name: "agenda 3b - <b>Behold The Blood</b>: 나의 피에 주목하라",
 		ko: "<b>If it is not Act 4:</b><br/><br/><b>나는 초월한다.<br/>나는 진화한다.<br/>나는 이 비참한 세계 위의 모든 생명에게 나의 선물을 전할 것이니.<br/><br/>나의 부름에 귀 기울일지어다.<br/><br/>(→R1)</b><br/><br/><br/><b>If it is Act 4:</b><br/><br/><b>날 구속하겠다고?<br/>다시 한 번?<br/>그렇다면 넌 나와 함께 갈 것이다.<br/><br/>(→R2)</b>"
 	},
+	{
+		name: "act 1a - Death of the Plaguebearer: 역병 전파자의 죽음",
+		ko: "결국, 올 것이 왔다. 바알산도르를 파괴하고 그의 역병의 고삐를 끊어내야만 한다.<br/><br/>..."
+	},
+	{
+		name: "act 1b - A Sliver of Hope: 한 조각 희망",
+		ko: "<b>Check your campaign log. If an investigator controls Suspicious riefcase and you \"<i>received a cryptic riddle</i>(기묘한 수수께끼를 들었다)\":</b><br/><br/>바알산도르는 죽일 수 없다. 역병 전파자에게 삶과 죽음은 같은 것이다.<br/><br/>하지만 기이한 영겁 속에서라면 죽음조차 죽을 수 있으리.<br/><br/>Proceed to Act 2a: The Reagent.<br/><br/><br/><b>Otherwise, if an investigator controls the Herbert West asset:</b><br/><br/>\"내게 가설이 하나 있다. 죽음은 이 괴물의 생명 주기에 반드시 필요한 요소일지도 모른다. 그렇다면 우리가 놈을 불멸의 상태로 가둔다면 어떻게 되겠나?\"<br/><br/>Proceed to Act 2a: The Doctor<br/><br/><br/><b>Otherwise:</b><br/><br/>당신에게는 아무것도 없다. 역병 전파자는 눈에 보이는 모든 곳에서 그 덩치를 불리고 있다. 하지만 그에게 살덩어리를 늘릴 공간을 주지 않는다면...<br/><br/>Proceed to Act 3a: Stunt the Growth."
+	},
+	{
+		name: "act 2a - The Reagent: 시약",
+		ko: "바알산도르는 죽음마저 지배하고 있을 수도 있다. 하지만 당신이 죽은 자를 되살리는 시약을 사용해 그 연결을 끊어낸다면...<br/><br/>..."
+	},
+	{
+		name: "act 2b - Fruits of Science: 과학의 결실",
+		ko: "<b>If each location has a horror on it:</b><br/><br/>아컴 그 자체가 되어버린 괴물은 미친 듯이 몸부림치더니 성장을 계속한다. 당신은 조심스럽게 다가가, 그 촉수에 손을 대 본다. 괴물의 맥박이 느껴지지만, 놈은 더 이상 움직이지 않는다. 당신의 심장이 목구멍으로 튀어나올 것만 같다. 효과가 있었단 말인가?<br/><br/>당신은 자신이 바알산도르의 눈앞에 서 있다는 것을 깨닫고 전율한다.<br/><br/><b>무슨 짓을 한 거냐?</b><br/><br/>Remember that \"<i>you have conquered death</i>(당신은 죽음을 정복했다)\". Advance to act 3b.<br/><br/><br/><b>Otherwise:</b><br/><br/>거대한 살덩어리 팔이 당신을 덮친다. 당신은 그것을 피하다 넘어져 서류 가방을 놓치고 만다. 유리가 깨지는 소리를 들은 당신은 비명을 지르고 만다.<br/><br/>..."
+	},
+	{
+		name: "act 2a - The Doctor: 닥터 웨스트",
+		ko: "\"우리는 놈을 멈출 수 있다. 다만, 네가 나를 믿어주어야만 한다.\" 허버트가 말한다. 당신에게 무슨 선택지가 있겠는가?<br/><br/>..."
+	},
+	{
+		name: "act 2b - Life’s Purpose: 삶의 목적",
+		ko: "<b>If each location has a horror on it:</b><br/><br/>아컴 그 자체가 되어버린 괴물은 미친 듯이 몸부림치더니 성장을 계속한다. \"놈이 고통에 몸부림친다! 효과가 있었다!\" 웨스트는 환희에 차 낄낄댄다. 당신의 심장이 목구멍으로 튀어나올 것만 같다. 웨스트가 옳았던 것일까?<br/><br/>당신은 눈앞에 바알산도르가 있다는 것을 눈치채고 상념에서 깨어나 전율한다. 놈의 턱이 웨스트의 바로 코앞에 있다.<br/><br/><b>무슨 짓을 한 거냐?</b><br/><br/>\"내가 바로 허버트 웨스트다. 내가 바로 죽음을 정복한 자이다.\"<br/><br/>웨스트는 신의 목구멍으로 끌려들어 가면서도 웃음을 멈추지 않는다.<br/><br/>Remember that \"<i>West has conquered death</i>(웨스트가 죽음을 정복했다)\". Move each investigator to Baalshandor's location. Advance to act 3b.<br/><br/><br/><b>Otherwise:</b><br/><br/>고함이 들려와 당신은 시선을 돌린다. 웨스트가 땅에서 솟아나온 살덩어리에 붙들려 끙끙대는 모습이 보인다. 당신이 그를 구하러 가기도 전에, 그는 살덩어리에 완전히 삼켜지고 만다.<br/><br/>..."
+	},
+	{
+		name: "act 3a - Stunt the Growth: 성장 방해",
+		ko: "역병 전파자와 싸우는 것은 아무런 의미도 없다. 그는 점점 더 그 덩치를 불리고 있을 뿐이다. 하지만 아컴에 있는 그의 근거지를 정화하고, 그를 구속할 방법을 찾는다면, 적어도 그를 그 자리에 묶어 둘 수 있을 것이다.<br/><br/>..."
+	},
+	{
+		name: "act 3b - Fury of the Plaguebearer: 역병 전파자의 분노",
+		ko: "도시가 침묵에 빠진다. 온 세상이 사라져 버린 것만 같다. 당신과 바알산도르만이 존재할 뿐이다. 당신의 눈에 그는 이전과 같은 모습으로 보인다. 하지만 이전에도 말이 안 되었던 그 거대한 크기가 이제는 3배로 늘어나 있다.<br/><br/><b>이만하면 충분하다. 이제 죽어라.</b><br/><br/>찰나의 순간, 당신은 통째로 삼켜진다.<br/><br/>..."
+	},
+	{
+		name: "act 4a - Life of the Plaguebearer: 역병 전파자의 생명",
+		ko: "역병 전파자는 패배했고, 그의 음모는 좌절되었다. 이제 이 악몽을 완전히 끝낼 시간이다.<br/><br/>..."
+	},
+	{
+		name: "act 4b - Life’s Undoing: 생명의 역행",
+		ko: "<b>불가능하다.<br/>넌 이길 수 없다!<br/>넌 아무것도 아니다!<br/>나는... 되돌아...</b><br/><br/>◈ If \"<i>You conquered death</i>(당신은 죽음을 정복했다)\", proceed to <b>(→R7)</b><br/>◈ If \"<i>West conquered death</i>(웨스트가 죽음을 정복했다)\", proceed to <b>(→R8)</b><br/>◈ Otherwise, proceed to <b>(→R3)</b>"
+	},
+	{
+		name: "story - Feed the Flame: 불꽃에 몸을 바치다",
+		ko: "무시무시한 전령이 당신에게 거대한 손바닥을 내민다. 당신은 불안에 떨며 그 위에 자신의 손을 얹는다. 그 즉시, 불이 당신의 팔과 옆구리, 목 주변을 태우고, 당신은 끔찍한 고통에 시달린다. 불꽃이 사라진 뒤, 당신의 팔이 있던 부분에는 검은 숯덩이만이 남고, 그곳에서 피어오르는 연기가 전령에게로 흘러간다. 당신의 머릿속에 지식이 타오른다. 다시 한 번 바알산도르를 구속할 표식과 주문에 관한 지식이다.<br/><br/>거래가 성사되었다. 이제 당신은 사용되기만을 기다리고 있는 불쏘시개이다.<br/><br/>Remember that \"<i>You know of the binding</i>(괴물을 구속할 주문을 알고 있다)\"<br/>Remember that \"<i>Your body belongs to Cthugha</i>(당신의 육신은 크투가의 것이 되었다)\"...<br/><br/>..."
+	},
+	{
+		name: "story - Beseech the King: 왕에게 간청하다",
+		ko: "당신은 수수께끼의 노란 전령 앞에 무릎을 꿇는다. 마스크를 쓴 거대한 전령은 몸을 숙이고 당신을 응시한 뒤, 곧 긴 두루마리를 펼쳐 든다. 그는 날카로운 손톱이 달린 주름진 회색 손가락으로, 두루마리의 아랫부분에 삐뚤빼뚤한 선을 그은 다음 당신에게 서명하라고 손짓한다. 두루마리의 글은 당신의 본 적 없는 언어로 적혀있지만, 당신은 그 대가가 당신의 존재 그 자체라는 것을 잘 알고 있다. 당신은 망설임 없이 두루마리에 서명한다. 당신의 머릿속에 지식이 흘러들어온다. 다시 한 번 바알산도르를 구속하기 위한 표식과 주문에 관한 지식이다.<br/><br/>당신에게는 임무를 완수한 뒤, 왕의 자비를 기다릴 일만이 남았다.<br/><br/>Remember that \"<i>You know of the binding</i>(괴물을 구속할 주문을 알고 있다)\"<br/>Remember that \"<i>You owe Hastur your life</i>(당신은 하스터에게 자신을 바쳤다)\"...<br/><br/>..."
+	},
+	{
+		name: "story - Their Finest Hour: 그들 최고의 시간",
+		ko: "그레이슨은 당신을 비켜서게 하고, 종이로 가득 찬 서류철을 당신의 손에 쥐여준다. \"비상 계획입니다. 난 그 내용을 이해할 수 없었지만, 당신이라면 가능하겠지요. 기회는 한 번뿐입니다. 내 말 이해했나요?\"<br/><br/>당신이 뭐라 대답하기도 전에, 그레이슨은 굳은 표정으로 그녀의 요원들에게로 돌아선다.<br/><br/>\"종말이 다가왔다. 우리는 다른 이들과 마찬가지로 오늘 밤 죽게 될 것이다. 하지만 두 가지 차이점이 있다.<br/><br/>첫째, 그들은 이 일에 자원한 적이 없다. 둘째, 우리에게는 이것을 멈출 기회가 있다. 너희가 사랑하는 모든 이를 구할 기회가 말이다.<br/><br/>너희는 선택해야만 한다. 오늘 밤 나와 함께 죽음에 맞설 자는 누구인가?\"<br/><br/>Reemember that you \"<i>Know of the binding</i>(괴물을 구속할 주문을 알고 있다)\"<br/><br/>..."
+	},
 ];
 
 /*
