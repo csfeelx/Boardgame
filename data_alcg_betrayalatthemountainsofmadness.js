@@ -258,7 +258,7 @@
 	{},
 	{},
 	{
-		note: "COLD HEART: 얼어붙은 심장"
+		note: "COLD HEART: 차가운 심장"
 	},
 	{},
 	{
