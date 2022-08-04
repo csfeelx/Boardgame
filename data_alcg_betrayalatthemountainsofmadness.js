@@ -559,7 +559,7 @@
 	},
 	{
 		name: "RESOLUTION 2",
-		ko: "당신은 깜박이는 불빛에, 정신이 혼미한 상태로 깨어난다. 당신은 터널 안에 있고, 주변에는 다친 동료들이 있다. 근처에 돌로 된 플랫폼들이 산더미처럼 쌓여있는 모습이 보인다. 그 중 하나는 두 동강이 나 있다. 타오르는 불길의 강렬한 불빛이 그 너머의 터널을 비춘다.<br/><br/>당신과 동료들은 몸을 일으키기 시작하고, 당신은 그때야 낯선 사람 하나가 주변을 오가며 다친 동료들을 돕고 있는 것을 눈치챈다. 그는 몸집이 작은 남자로, 깔끔하게 다듬어진 콧수염을 갖고 있으며, 두꺼운 모피 후드를 두르고 있다.<br/><br/>다이어가 놀라움에 숨을 삼킨다.<br/><br/>\"팔켄? 클라우스 팔켄 박사? 당신 살아 있었소?\"<br/><br/>\"정확히 말하자면, 그렇진 않습니다.\" 남자가 대답한다.<br/><br/><br/>• Check the campaign log. If <i>the investigators rescued alien captives in the elder tunnels(조사자들은 고대의 터널에서 외계 존재에게 납치되었던 사람들을 구출했다):</i><br/><br/>Choose up to one player card name per investigator listed under “Missing” in the campaign log. Remove those names from “Missing” and record them under “Survivors” instead.<br/><br/>..."
+		ko: "당신은 깜박이는 불빛에, 정신이 혼미한 상태로 깨어난다. 당신은 터널 안에 있고, 주변에는 다친 동료들이 있다. 근처에 돌로 된 플랫폼들이 산더미처럼 쌓여있는 모습이 보인다. 그 중 하나는 두 동강이 나 있다. 타오르는 불길의 강렬한 불빛이 그 너머의 터널을 비춘다.<br/><br/>당신과 동료들은 몸을 일으키기 시작하고, 당신은 그때야 낯선 사람 하나가 주변을 오가며 다친 동료들을 돕고 있는 것을 눈치챈다. 그는 몸집이 작은 남자로, 깔끔하게 다듬어진 콧수염을 갖고 있으며, 두꺼운 모피 후드를 두르고 있다.<br/><br/>다이어가 놀라움에 숨을 삼킨다.<br/><br/>\"팔켄? 클라우스 팔켄 박사? 당신 살아 있었소?\"<br/><br/>\"아니. 그렇지 않다.\" 남자가 대답한다.<br/><br/><br/>• Check the campaign log. If <i>the investigators rescued alien captives in the elder tunnels(조사자들은 고대의 터널에서 외계 존재에게 납치되었던 사람들을 구출했다):</i><br/><br/>Choose up to one player card name per investigator listed under “Missing” in the campaign log. Remove those names from “Missing” and record them under “Survivors” instead.<br/><br/>..."
 	},
 ];
 
