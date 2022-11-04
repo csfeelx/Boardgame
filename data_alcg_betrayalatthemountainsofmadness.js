@@ -266,6 +266,10 @@
 		ko: "1935년 12월 16일 오후, 배는 마침내 남극에 도착한다. 어렴풋이 보이는 필히너 빙붕의 절벽은 그 높이가 100미터는 족히 될 것이기에, 기존의 상륙 방식은 큰 위험이 따를 것이다. 1.5킬로미터 정도 떨어진 지점까지 다가가자, 배의 동체보다도 거대한 얼음 덩어리가 물 위로 떨어져 내려, 천천히 움직이는 모습이 눈에 들어온다.<br/><br/>상륙은 외계 존재의 습격으로부터 무사했던 제플린 LZ 125의 도움으로 이루어진다. 비행선은 느리지만, 우아한 움직임으로 탐험대의 보급품과 차량을 빙붕 위로 실어나른다. 빙벽에 금이 가거나 무너질 것에 대비해, 베이스캠프는 내륙을 향하여 몇 킬로미터 정도 떨어진 곳에 설치된다. 배에 실려있던 탐험대의 물품들이 서서히 캠프로 옮겨진다. 그것은 수백 개의 상자와 통, 화물 운반대를 내리고 분류하는, 지치고 지루하기 짝이 없는 작업이다.<br/><br/>얼음 위에서 시간을 보내는 동안, 당신이 걱정했던 모든 것이 현실로 다가온다. 원근감과 거리감을 유지하는 것이 이상할 정도로 힘들고, 쉴 새 없이 넘어지며, 땀 때문에 동상에 걸리지 않도록 매우 조심하게 된다. 두려움 없이 탐험대원들의 주위로 모여드는 호기심 많은 펭귄들의 익살스러운 모습만이 한 조각의 위안이 되어 줄 뿐이다. 성탄절을 축하하기 위해 잠시 쉬었을 뿐, 고된 작업이 완료되기까지는 꼬박 9일의 시간이 걸린다. 작업이 끝난 뒤, 허먼 워스는 얼음으로부터 물러나 비교적 안전한 웨델해에 머문다.<br/><br/>슈미트는 탐험대의 첫 번째 목적을 발표한다. 그것은 그들의 전임자인 발스메이어-팔켄 탐험대의 베이스캠프를 찾는 것이다. 버려진 베이스캠프의 실제 좌표는 분실되었기에, 탐험대는 여러 조로 나뉘어, 군인들의 호위를 받으며 인근을 수색하기로 하고, 각 조에는 \'MG34\'라 불리는 신형 기관총의 시제품이 배정된다. 당신 역시 이 임무에 동원되어 개썰매를 배정받지만, 무기는 따로 주어지지 않는다. 직접 무기를 준비해야 할 것이다.<br/><br/>다이어는 당신을 조용히 숙소로 부른다. 그는 자신의 가방을 열고 그 안을 뒤적인다. 순간, 당신은 그 안에서 특이한 책 한 권을 발견한다. 커다란, 검은 장정의, 금단의 지식과 관련된 것이 분명한 그 책은 어쩐지 당신의 눈에 익다. 당신이 그것을 제대로 알아보기 전, 다이어는 가방을 닫고, 서류가 가득 담긴 서류철을 손에 든 채 테이블로 간다. 그리고 커다란 종이 하나를 테이블 위에 올려놓는다. 그것 위에는 원에 가까운 모양에, 모서리 근처의 한 지점으로부터 여러 개의 선이 퍼져있는 그림이 그려져 있다.<br/><br/>\"나는 이 그림을 이해하지 못했소.\" 다이어는 말한다. \"하지만 내 생각에 이것은 남극을 나타낸 것이오. 그 경계가 지금과는 달랐던 과거의 어느 시점이겠지. 그리고 이 선들... 이것이 무엇을 의미하는지는 잘 모르겠지만, 이들이 만나는 지점, 바로 이곳이 그들의 도시임이 틀림없소. 만약 이 지점이 도시라면, 이 선은,\" 그는 대륙을 가로지르는 선 하나를 가리킨다. 그것은 반대편 해안까지 이어져 있다. \"이곳, 빙붕의 어딘가로부터 도시까지 이어지는 경로가 분명하겠지. 스타 체임버의 사교도들은 물론이거니와, 나치들이 발스메이어-팔켄 탐험대가 발견했던 것들을 손에 넣도록 놔둘 수는 없소. 우리는 무슨 수를 써서라도 그들보다 먼저 그곳에 도착해야만 하오.\"<br/><br/>당신은 출발 준비를 한다.<br/><br/>\"빙붕은 제곱 15만 킬로미터에 걸쳐 펼쳐져 있지.\" 다이어는 덧붙인다. \"개썰매로 이곳을 탐험하는 것은 무리일 것이오. 우리에게는 비행기가 필요할 것 같소.\""
 	},
 	{
+		name: "ADDITIONAL SETUP",
+		ko: "• Check the campaign log. If <i>essential tools and supplies were stolen(중요 도구와 보급품들을 도난당했다)</i>:<br/><br/>도난당한 물품의 대체품들을 찾기 위해서는 시간이 좀 걸릴 것이다.<br/><br/>Each investigator begins this scenario with 1 fewer card in their opening hand.<br/><br/><br/><br/>• Check the campaign log. If Herr Doctor Lange is <b>not</b> Missing:<br/><br/>탐험대의 우호적인 과학자 몇몇이 당신의 탐험 준비를 돕고, 생존에 필요한 지식을 공유해준다.<br/><br/>Place 1 resource token on the scenario reference card (2 resource tokens if there are 3 or more players). Each token may be spent once to ignore the revelation effect of a <b>Hazard</b> treachery.<br/><br/><br/><br/>• Check the campaign log. If <i>spare engine and boiler parts were stolen(예비 엔진과 보일러 부품을 도난당했다)</i>:<br/><br/>배의 부품을 도난당한 탓에 하역작업은 곤란을 겪게 되었다.<br/><br/>Each investigator begins this scenario with 2 fewer resources.<br/><br/><br/><br/>• Check the campaign log. If Gunter Gunther is Deceased:<br/><br/>온건하고 상식적인 지도자인 권터 대령을 잃은 병사들은 외국인에 대한 본능적인 불신감으로, 지난 사건을 당신의 탓으로 돌리는 듯하다.<br/><br/>Place 1<per> clues on Ahnenerbe Act 1.<br/><br/><br/><br/>• Check the campaign log. If Captain Roth is Missing:<br/><br/>경험 많은 선장을 잃은 탓에 하역작업 중 몇 차례의 사고가 발생해, 시간이 지연되고 말았다.<br/><br/>Place 1 doom on Investigator Agenda 1.<br/><br/><br/><br/>• Check the campaign log. If Frau Voigt is <b>not</b> Missing:<br/><br/>출발 전, 탐험대의 신비학자인 보이트 여사가 당신의 객실을 찾아온다. \"어젯밤 꿈에서 어떤 장소를 보았답니다. 저는 그곳이 우리가 찾고 있는 장소라고 생각해요. 슈미트 씨에게도 이야기를 했지만, 그분은 관심이 없으셨지요. 그래서 이곳을 찾아왔답니다. 눈 속에 묻힌 요새와 같은 장소였고, 그 안에는 피와 마치 칠흑같이 어두운 가죽을 가진 개들이 있었지요. 그곳에는 우리가 찾는 해답이 있을 테지만, 큰 위험도 있을 거예요. 제 생각에 그곳은 북쪽에 있는 것 같아요.<br/><br/>Each investigator gains 1 clue (from the token pool).<br/><br/><br/><br/>• Check the campaign log.<br/><br/>If <i>the expedition aircraft were sabotaged(탐험대의 비행기가 파괴공작을 당했다)</i>:<br/><br/>당신이 탐험대에 남은 단 한 대의 비행기를 기웃거리고 있을 때, 정비 책임자인 프리츠 뮬러가 당신을 발견한다.<br/><br/>\"거기서 물러나시오.\" 그가 경고한다.<br/><br/>당신은 그를 설득하려 하지만, 그는 군인들을 부르려 한다. 그는 렌치를 집어들었고, 당신은 그것을 빼앗으려 한다. 몸 다툼이 벌어지고 일이 걷잡을 수 없게 진행된 뒤, 당신은 최선을 다해 시체를 눈 속에 숨긴다.<br/><br/>Record the name ‘Fritz Muller’ in the campaign log under ‘Deceased’. Flip the Junkers JU-52 asset to its (The Last Plane) side. (This will remove 1 supply from it.)<br/><br/><br/>Otherwise:<br/><br/>당신은 비행기 사용 권한을 얻기 위해 정비 책임자인 프리츠 뮬러를 찾아간다. 끈질긴 설득과 약간의 뇌물이 필요하긴 했지만, 당신은 결국 공식적인 비행기 사용 권한을 얻어낸다."
+	},
+	{
 		name: "agenda 1a - Investigator Agenda 1. Blizzard Warning: 눈폭풍 경보",
 		ko: "모든 것이 고요하다. 이 얼어붙은 대륙에는 살아 있는 것이 거의 없다. 새하얀 설원이 희뿌연 하늘과 만나 하나가 되어 끝없이 펼쳐져 있다.<br/><br/>지금은 그렇지만, 남극에서 갑작스럽고 파괴적인 눈폭풍이 몰아치는 것이 흔한 일이다. 그것이 다가왔을 때, 몸을 숨길 곳을 찾지 못한다면 살아남을 가능성은 거의 없을 것이다."
 	},
@@ -900,6 +904,42 @@
 	{
 		name: "story - The Carven Rim: 동굴의 끝자락",
 		ko: "도시의 건설자들에게, 비전 기술과 비술 주문은 하나와 다름없는 것이었다. 당신은 에이본의 서에 기술된 지식을 활용하여 고대의 봉인을 보강한다.<br><br>..."
+	},
+	{
+		name: "RESOLUTION 1",
+		ko: "당신의 몸은 부서지고, 당신의 정신은 산산이 조각난다. 이름 없는 어둠이 점점 더 그 몸집을 불리고 이성을 파괴하는 어둠이 하늘을 가득 채우는 모습을, 당신은 무력하게 바라보고 있을 수밖에 없다. 다행한 점이 하나 있다면, 우리의 지구와 우주가 종말을 맞이하는 모습을, 당신의 두 눈으로 볼 필요는 없다는 것이다.<br/><br/><br/>• In your campaign log, record that <i>the Nameless Darkness dismantled reality(이름 없는 어둠이 현실 세계를 해체했다).</i><br/><br/>..."
+	},
+	{
+		name: "RESOLUTION 2",
+		ko: "당신의 몸은 부서지고, 당신의 정신은 산산이 조각난다. 이름 없는 어둠이 점점 더 그 몸집을 불리고 이성을 파괴하는 어둠이 하늘을 가득 채우는 모습을, 당신은 무력하게 바라보고 있을 수밖에 없다. 그때, 그 앞에 구체의 덩어리가 솟아오르고, 또 다른 신의 목소리가 당신의 뇌에 직접 울려 퍼진다.<br/><br/><b>형제여,</b> 요그소토스가 말한다, <b>우리와 함께 검은 옥좌로 돌아갈 지어다. 피리 소리가 울려 퍼질 것이고, 넌 다시 한 번 춤을 출 수 있게 될 것이다</b><br/><br/>찰나의 순간, 영겁의 시간이 흐른다. 그리고 두 신은 하늘을 향해 떠오르기 시작한다. 당신의 시야가 어두워진다. 당신이 마지막으로 목격한 것은, 우리의 현실 세계에서 사라져가는 두 신의 모습이다. 그리고 당신의 뇌에 마지막으로 떠오른 것은 조화를 이룬 구체들의 목소리이다.<br/><br/><b>그래. 우리 역시 네가 그리웠다, 형제여.</b><br/><br/><br/>• In your campaign log, record that <i>Yog-Sothoth returned the Nameless Darkness to the Black Throne(요그소토스가 이름 없는 어둠을 검은 옥좌로 돌려보냈다).</i><br/><br/>..."
+	},
+	{
+		name: "RESOLUTION 3",
+		ko: "한동안, 당신은 멍하니 푸른 하늘을 올려다본다.<br/><br/><br/>• In your campaign log, record that <i>the Nameless Darkness was sealed in its prison(이름 없는 어둠이 그 감옥에 봉인되었다).</i><br/><br/>• If Yog-Sothoth is in play, proceed to <b>Resolution 4.</b><br/><br/>• Otherwise, check the campaign log. If <i>you made a deal with the Mi-go(당신은 미고와 거래를 했다)</i>, (this is not the same as parleyed with the Mi-go) skip to <b>Resolution 5.</b><br/><br/>• Otherwise, skip to <b>Resolution 6.</b>"
+	},
+	{
+		name: "RESOLUTION 4",
+		ko: "요그소토스가 하늘로 떠오르고, 그 이글거리는 빛이 계곡을 가득 채운다. 그 중앙에 있는 거대한 눈이 점점 더 크게 부풀어 오르고, 당신은 그의 언어가 당신의 머릿속에서 폭발하는 것을 느낀다.<br/><br/><b>나를 부른 것은 현명한 일이었다.</b> 그가 말한다. <b>이 세계에는 구원이 절실하다. 내가 그것을 주겠노라.</b><br/><br/><br/>• In your campaign log, record <i>...but Yog-Sothoth reigned over the Earth for all eternity(요그소토스가 영원히 지구를 지배했다).</i><br/><br/>..."
+	},
+	{
+		name: "RESOLUTION 5",
+		ko: "윙윙거리는 소리와 함께, 갑각을 가진 외계의 존재들이 당신의 곁으로 내려온다. 이제 그들에게 받은 도움에 대한 대가를 치러야 할 때이다. 당신의 머릿속에 소박한 의문이 떠오른다. 통 속에서 보이는 우주의 모습은 과연 어떤 것일까?<br/><br/><br/>• In your campaign log, record <i>...but the investigators were taken by the Mi-go.(...하지만 조사자들은 미고에게 납치당했다)</i><br/><br/>..."
+	},
+	{
+		name: "RESOLUTION 6",
+		ko: "얼음이 계곡을 가득 채우기 시작하고, 당신은 억지로 몸을 일으켜 탑으로 향한다. 살아남은 스타 체임버 요원들은 잔뜩 겁을 먹은 채, 당신이 자신들을 이끌어 주길 원한다. 이제 신을 가둔 감옥을 유지하는 일은 당신의 책임이 되었다.<br/><br/>감옥을 지속적으로 유지하기 위해서는 헤아릴 수 없는 노력이 필요하다. 신경계의 밀림을 확장하고 성장시키는 것만 해도 엄청난 자원이 소모될 것이다. 이를 계속하기 위한 자원을 확보하려면, 복잡한 산업 망과 인원 체계를 구축해야만 할 것이다.<br/><br/><br/>• Check the campaign log for how many seals were placed on the prison.<br/><br/>4 seals: Record <i>...and only occasional sacrifices were necessary to maintain that prison(감옥을 유지하기 위해 가끔 희생이 필요했다).</i><br/><br/>3 seals: Record <i>...and a handful of sacrifices every year were necessary to maintain that prison(감옥을 유지하기 위해 매년 몇몇 희생이 필요했다).</i><br/><br/>2 seals: Record <i>...and a dozen sacrifices every year were necessary to maintain that prison(감옥을 유지하기 위해 매년 십여의 희생이 필요했다).</i><br/><br/>1 seals: Record <i>...and dozens of sacrifices every year were necessary to maintain that prison(감옥을 유지하기 위해 매년 수십의 희생이 필요했다).</i><br/><br/>0 seals: Record <i>...and hundreds of sacrifices every year were necessary to maintain that prison(감옥을 유지하기 위해 매년 수백의 희생이 필요했다).</i><br/><br/>..."
+	},
+	{
+		name: "EPILOGUE 1",
+		ko: "<i>광명주(光明主) 5430년</i><br/><br/>나즈그로스(Nazgroth)님께,<br/><br/>그들이 오늘도 제6구역의 근교를 공격했습니다. 과타노차 집정관께서 그들을 손쉽게 물리치셨지만, 이 문제는 여전히 저를 괴롭힙니다. 그들은 눈이 먼 것일까요? 어째서 그들은 우리의 조화 속에서 살지 않는 것일까요? 하나이자 전부이신 분의 빛이 하늘을 가득 채우고 있지만, 어째서인지 그들은 그것을 보지 못하나이다. 저는 그 이유를 알 수 없습니다.<br/><br/>유리액의 공급량이 바닥을 드러내고 있습니다. 서부 재활용원에 더 많은 노예를 보내주시길 청원합니다. 교구장께서는 10곳 중 4곳이 정상화되길 바라고 계시지만, 저는 그것이 현실적으로 가능할지 모르겠습니다.<br/><br/>칠흑의 성부의 이름으로 기도드리며,<br/><br/>부제(副祭) 시우넷(Cyunet) 올림"
+	},
+	{
+		name: "EPILOGUE 2",
+		ko: "\"정말 놀랍기 그지없는 이야기였습니다. 다이어 교수.\"<br/><br/>미스케토닉 대학의 총장인 어윈은 다시 한 번 보고서를 검토한 뒤 말했다. \"다른 생존자는 없는 거로군요. 진정 고통스러운 경험이었으리라는 것을 이해합니다. 저 역시 당신의 말대로 인류가 남극의 오지를 파고드는 것이 지극히 위험한 일이라는 생각이 들기 시작했습니다.\"<br/><br/>다이어의 모습을 한 아투는 미소를 지으며 대답했다. \"전에도 말씀드렸듯이, 남극은 미지의 상태 그대로 놓아두는 것이 최선이라 생각합니다.\""
+	},
+	{
+		name: "EPILOGUE 3",
+		ko: "1998년, 남극 맥머도 기지<br/><br/>특수요원 베이커 스틸은 자신의 뒤로 금속 문을 쾅하고 닫았다. 그와 함께 울부짖는 남극의 바람 소리가 멈추었다. 그는 손전등을 켜기 전, 잠시 손이 따듯해지길 기다리며 호흡을 가다듬었고, 그의 날숨이 차가운 공기 속에서 하얀 안개가 되어 흩어졌다. 손전등의 빛은 침묵에 잠긴 동굴과도 같은, 격납고 내부를 희미하게 비출 뿐이었다. 거대한 화물기의 날개가 그의 머리 위로 어렴풋이 모습을 드러냈다.<br/><br/>기나긴 여정이었다. 실종된 여동생. 같은 부서의 배반자. 납치된 파트너. 이 어둠 속 음모의 기원은 1935년까지 거슬러 올라갈 정도였다. 마침내, 그는 이 조직의 심장부에 도착했다. 마침내, 그는 진실을 알게 될 것이다.<br/><br/>그의 전방에서 익숙한 찰칵 소리와 함께, 작은 불빛이 타오르며 침묵이 깨어졌다. 라이터의 불빛이 그의 아버지를 죽인 자의 얼굴을 비추었다.<br/><br/>\"자네가 여기까지 해낼 줄은 몰랐군, 스틸 요원.\"<br/><br/>\"꼼짝마!\" 스틸은 자신의 총을 들어 올리며 외쳤다. \"난 알고 있어! 당신은 실종된 실험 대상자들을 바로 이곳으로 데려왔지. 당신은 처음부터 이곳에 있었어! 그들과 함께 무슨 짓을 꾸미고 있는 거지? 1935년에 대체 무슨 일이 있었던 거고? 어서 대답해!\"<br/><br/>어둠 속의 남자는 담배를 깊게 빨아들인 뒤 말했다. \"그들은 벽으로 갔다네. 그들의 희생으로 인류는 다시 얼마간의 시간을 존속할 수 있게 되었지. 그럴 가치가 있는지는 모르겠지만 말일세.\"<br/><br/>\"그들을 모두 죽였다는 말인가? 대체 무슨 소리를 하는 거야?\"<br/><br/>\"날 따라오게, 스틸 요원. 이름 없는 실린더를 보여주지. 자네는 그럴만한 자격이 있으니 말일세. 자네의 모든 의문은 순식간에 해결될 것이네. 그리고 자네가 살아남는다면, 난 자네가 우리의 동료가 되어주었으면 좋겠군. 그렇지 않다면... 뭐. 상관없겠지. 그것은 언제나 더 많은 재료를 필요로 하니 말이야.\""
 	},
 ];
 
